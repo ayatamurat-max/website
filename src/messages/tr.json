@@ -1,0 +1,94 @@
+{
+  "Header": {
+    "title": "Opr. Dr. Murat Ayata",
+    "subtitle": "KBB & Yüz Estetiği",
+    "home": "Anasayfa",
+    "about": "Hakkımda",
+    "medical": "Medikal İşlemler",
+    "surgical": "Cerrahi İşlemler",
+    "contact": "İletişim",
+    "book": "Randevu Al"
+  },
+  "Footer": {
+    "description": "Kulak Burun Boğaz ve Baş Boyun Cerrahisi Uzmanı. Estetik ve sağlık için modern, kanıta dayalı çözümler.",
+    "menuTitle": "Hızlı Menü",
+    "contactTitle": "İletişim",
+    "address": "Kırklareli Merkez, Turgutbey Cad.",
+    "rights": "Tüm hakları saklıdır.",
+    "lastUpdated": "Son Güncelleme"
+  },
+  "Home": {
+    "heroTag": "KBB & Baş Boyun Cerrahisi",
+    "heroTitle1": "Kanıta Dayalı",
+    "heroTitle2": "Tıbbi Yaklaşım",
+    "heroDesc": "Opr. Dr. Murat Ayata yönetimindeki kliniğimizde; güncel tıbbi literatür ışığında, fonksiyonel ve estetik beklentilerinizi karşılayan kişiye özel cerrahi ve medikal tedavi planlamaları sunmaktayız.",
+    "medicalProcedures": "Tıbbi İşlemler",
+    "servicesTag": "Uzmanlık Alanlarım",
+    "servicesTitle": "Size Özel Yaklaşımlar",
+    "servicesDesc": "Sağlığınıza ve estetik görünümünüze kavuşmanız için sunduğumuz profesyonel çözümler.",
+    "rhinoplastyTitle": "Rinoplasti (Burun Estetiği)",
+    "rhinoplastyDesc": "Solunum fizyolojisini koruyarak ve fonksiyonel anatomiyi gözeterek gerçekleştirilen, yüz simetrisine uygun cerrahi müdahaleler.",
+    "medicalTitle": "Medikal Uygulamalar",
+    "medicalDesc": "Minimal invaziv tekniklerle uygulanan botulinum toksin (botoks), dermal dolgu ve mezoterapi gibi klinik odaklı tedaviler.",
+    "eyelidTitle": "Blefaroplasti & Yüz Cerrahisi",
+    "eyelidDesc": "Göz çevresi ve yüz bölgesindeki yapısal deformasyonların mikrocerrahi prensipleriyle giderilmesine yönelik operasyonlar.",
+    "readMore": "Tıbbi Bilgi →",
+    "aboutTag": "Hakkımda",
+    "aboutTitle": "Opr. Dr. Murat Ayata",
+    "aboutP1": "Yılların getirdiği tecrübe ile Kulak Burun Boğaz hastalıklarının tedavisinde ve yüz estetiği cerrahisinde hasta memnuniyetini ön planda tutuyorum.",
+    "aboutP2": "Her hastanın yüz anatomisi ve beklentisi benzersizdir. Bu nedenle tedavideki temel felsefem, \"size en uygun ve nefes alan, doğal görünümlü\" sonuçlar elde etmektir.",
+    "moreInfo": "Daha Fazla Bilgi",
+    "certificateTag": "YETKİ BELGESİ",
+    "certificateTitle": "Uluslararası Sağlık Turizmi Yetki Belgesi"
+  },
+  "AboutMe": {
+    "tag": "Özgeçmiş",
+    "title": "Hakkımda",
+    "bio1": "1984’te Trabzon’da doğdu. İlköğrenimini Akçaabat Merkez İlkokulu ve Ardeşen Cumhuriyet İlkokulu’nda, orta ve lise öğrenimini Rize Pazar Ahmet Tahtakılıç Anadolu Lisesi’nde tamamladı.",
+    "bio2": "Üniversite Eğitimini Ege Üniversitesi Tıp Fakültesi’nde tamaladıktan sonra Ankara Eğitim ve Araştırma Hastanesi’nde Kulak Burun Boğaz Hastalıkları alanında uzmanlık eğitimini tamamlamıştır.",
+    "bio3": "2014-2018 yılları arasında Kırklareli Devlet Hastanesi’nde, 2018-2023 yılları arasında ise Kırklareli Özel Doğuş Tıp Merkezi ve Lüleburgaz Özel Medikent Hastanesi’nde çalışmıştır. 2023’te itibaren Kırklareli’de kendi muayenehanesinde çalışmaktadır.",
+    "bio4": "Evli, Ada ve Nil adında iki kız babasıdır."
+  },
+  "Medical": {
+    "tag": "Ameliyatsız Çözümler",
+    "title": "Medikal İşlemler",
+    "desc": "Cerrahi müdahaleye gerek kalmadan daha genç ve dinamik bir yüz ifadesine kavuşabileceğiniz modern medikal estetik yöntemleri.",
+    "treatments": {
+      "t1_title": "Botoks Uygulamaları",
+      "t1_desc": "Mimik çizgilerinin giderilmesi, masseter botoksu ve terleme tedavisi.",
+      "t2_title": "Dermal Dolgu",
+      "t2_desc": "Dudak, yanak, göz altı ışık dolgusu ve çene hattı (jawline) şekillendirme.",
+      "t3_title": "Mezoterapi & PRP",
+      "t3_desc": "Cilt kalitesini artıran, gençleştiren ve saç dökülmesini önleyen vitamin enjeksiyonları.",
+      "t4_title": "Ameliyatsız Yüz Gençleştirme",
+      "t4_desc": "İp askı, gençlik aşısı ve iğneli radyofrekans uygulamaları ile lifting etkisi."
+    }
+  },
+  "Surgical": {
+    "tag": "Estetik Cerrahisi",
+    "title": "Cerrahi İşlemler",
+    "desc": "Deneyim, kanıta dayalı tıp ve modern cerrahi tekniklerle gerçekleştirilen estetik operasyonlar.",
+    "surgeries": {
+      "s1_title": "Rinoplasti (Burun Estetiği)",
+      "s1_desc": "Burnun dış görünümünü düzeltirken nefes alma fonksiyonunu da ideal hale getiren estetik operasyon.",
+      "s2_title": "Septoplasti (Eğrilik Ameliyatı)",
+      "s2_desc": "Burun içindeki kıkırdak ve kemik eğriliklerinin düzeltilerek sağlıklı nefes almanın sağlanması.",
+      "s3_title": "Kepçe Kulak Cerrahisi (Otoplasti)",
+      "s3_desc": "Kulak kepçesindeki şekil bozukluklarının ve açı farklılıklarının düzeltilmesi işlemi.",
+      "s4_title": "Göz Kapağı Estetiği (Blefaroplasti)",
+      "s4_desc": "Alt ve üst göz kapaklarındaki sarkma veya torbalanmaların giderilmesi ile genç bakışlar.",
+      "s5_title": "Boyun ve Gıdı Estetiği",
+      "s5_desc": "Çene altı yağ fazlalıkları ve cilt sarkmalarının cerrahi yöntemlerle toparlanması."
+    }
+  },
+  "Contact": {
+    "tag": "Bize Ulaşın",
+    "title": "İletişim & Randevu",
+    "desc": "Muayene ve işlemler hakkında bilgi almak veya randevu oluşturmak için iletişim bilgilerimizden bize ulaşabilirsiniz.",
+    "addressTitle": "Klinik Adresi",
+    "addressDesc": "Kırklareli Merkez, Turgutbey Cad. Op. Dr. Murat Ayata Muayenehanesi",
+    "getDirections": "Yol Tarifi Al",
+    "onlineBookTitle": "Online Randevu",
+    "onlineBookDesc": "Online olarak randevu takvimi oluşturmak ve hasta yorumlarını okumak için Doktor Takvimi profilimizi ziyaret edebilirsiniz."
+  }
+}

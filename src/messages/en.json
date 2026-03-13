@@ -1,0 +1,94 @@
+{
+  "Header": {
+    "title": "Opr. Dr. Murat Ayata",
+    "subtitle": "ENT & Facial Plastic Surgery",
+    "home": "Home",
+    "about": "About Me",
+    "medical": "Medical Procedures",
+    "surgical": "Surgical Procedures",
+    "contact": "Contact",
+    "book": "Book Appointment"
+  },
+  "Footer": {
+    "description": "Otolaryngology & Head and Neck Surgeon. Modern, evidence-based solutions for aesthetics and health.",
+    "menuTitle": "Quick Menu",
+    "contactTitle": "Contact",
+    "address": "Kirklareli Center, Turgutbey St.",
+    "rights": "All rights reserved.",
+    "lastUpdated": "Last Updated"
+  },
+  "Home": {
+    "heroTag": "ENT & Head/Neck Surgery",
+    "heroTitle1": "Evidence-Based",
+    "heroTitle2": "Medical Approach",
+    "heroDesc": "At the clinic led by Opr. Dr. Murat Ayata, we offer personalized surgical and medical treatment plans meeting your functional and aesthetic expectations in light of current medical literature.",
+    "medicalProcedures": "Medical Procedures",
+    "servicesTag": "Areas of Expertise",
+    "servicesTitle": "Personalized Approaches",
+    "servicesDesc": "Professional solutions offered for you to regain your health and aesthetic appearance.",
+    "rhinoplastyTitle": "Rhinoplasty",
+    "rhinoplastyDesc": "Surgical interventions suitable for facial symmetry, preserving respiratory physiology and observing functional anatomy.",
+    "medicalTitle": "Medical Applications",
+    "medicalDesc": "Clinical focused treatments such as botulinum toxin (botox), dermal filler, and mesotherapy applied with minimally invasive techniques.",
+    "eyelidTitle": "Blepharoplasty & Facial Surgery",
+    "eyelidDesc": "Operations aimed at eliminating structural deformations in the eye contour and facial region using microsurgery principles.",
+    "readMore": "Medical Info →",
+    "aboutTag": "About Me",
+    "aboutTitle": "Opr. Dr. Murat Ayata",
+    "aboutP1": "With years of experience, I prioritize patient satisfaction in the treatment of Ear, Nose, and Throat diseases and facial aesthetic surgery.",
+    "aboutP2": "Every patient's facial anatomy and expectations are unique. That's why my basic philosophy in treatment is to achieve \"natural-looking, breathing results tailored to you.\"",
+    "moreInfo": "More Information",
+    "certificateTag": "AUTHORIZATION CERTIFICATE",
+    "certificateTitle": "International Health Tourism Authorization Certificate"
+  },
+  "AboutMe": {
+    "tag": "Biography",
+    "title": "About Me",
+    "bio1": "Born in 1984 in Trabzon. He completed his primary education at Akçaabat Central Primary School and Ardeşen Cumhuriyet Primary School, and his middle and high school education at Rize Pazar Ahmet Tahtakılıç Anatolian High School.",
+    "bio2": "After completing his University Education at Ege University Faculty of Medicine, he completed his specialization training in Otorhinolaryngology at Ankara Training and Research Hospital.",
+    "bio3": "He worked at Kırklareli State Hospital between 2014-2018, and at Kırklareli Private Doğuş Medical Center and Lüleburgaz Private Medikent Hospital between 2018-2023. Since 2023, he has been working in his private practice in Kırklareli.",
+    "bio4": "He is married and the father of two daughters, Ada and Nil."
+  },
+  "Medical": {
+    "tag": "Non-Surgical Solutions",
+    "title": "Medical Procedures",
+    "desc": "Modern medical aesthetic methods that allow you to achieve a younger and more dynamic facial expression without the need for surgical intervention.",
+    "treatments": {
+      "t1_title": "Botulinum Toxin Applications",
+      "t1_desc": "Elimination of mimic lines, masseter botox and sweating treatment.",
+      "t2_title": "Dermal Filler",
+      "t2_desc": "Lip, cheek, under-eye light filler and jawline shaping.",
+      "t3_title": "Mesotherapy & PRP",
+      "t3_desc": "Vitamin injections that increase skin quality, rejuvenate and prevent hair loss.",
+      "t4_title": "Non-Surgical Facial Rejuvenation",
+      "t4_desc": "Lifting effect with thread lift, youth vaccine and microneedling radiofrequency applications."
+    }
+  },
+  "Surgical": {
+    "tag": "Aesthetic Surgery",
+    "title": "Surgical Procedures",
+    "desc": "Aesthetic operations performed with experience, evidence-based medicine, and modern surgical techniques.",
+    "surgeries": {
+      "s1_title": "Rhinoplasty (Nose Aesthetics)",
+      "s1_desc": "Aesthetic operation that corrects the external appearance of the nose while making breathing function ideal.",
+      "s2_title": "Septoplasty (Deviation Surgery)",
+      "s2_desc": "Providing healthy breathing by correcting cartilage and bone curvatures inside the nose.",
+      "s3_title": "Prominent Ear Surgery (Otoplasty)",
+      "s3_desc": "The procedure of correcting deformities and angle differences in the auricle.",
+      "s4_title": "Eyelid Aesthetics (Blepharoplasty)",
+      "s4_desc": "Youthful looks by eliminating sagging or bagging in the lower and upper eyelids.",
+      "s5_title": "Neck and Double Chin Aesthetics",
+      "s5_desc": "Recovery of submental fat excess and skin sagging with surgical methods."
+    }
+  },
+  "Contact": {
+    "tag": "Contact Us",
+    "title": "Contact & Appointment",
+    "desc": "You can reach us through our contact details to get information about examinations and procedures, or to make an appointment.",
+    "addressTitle": "Clinic Address",
+    "addressDesc": "Kirklareli Center, Turgutbey St. Op. Dr. Murat Ayata Clinic",
+    "getDirections": "Get Directions",
+    "onlineBookTitle": "Online Appointment",
+    "onlineBookDesc": "You can visit our Doktor Takvimi profile to create an online appointment schedule and read patient reviews."
+  }
+}

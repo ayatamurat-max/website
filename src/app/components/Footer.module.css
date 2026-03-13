@@ -1,0 +1,130 @@
+.footer {
+  background-color: var(--color-primary);
+  color: white;
+  padding-top: var(--spacing-xl);
+}
+
+.footerContainer {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--spacing-lg);
+  padding-bottom: var(--spacing-xl);
+}
+
+@media (min-width: 768px) {
+  .footerContainer {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.logoName {
+  font-family: var(--font-heading);
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: white;
+  margin-bottom: var(--spacing-sm);
+}
+
+.description {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.95rem;
+  max-width: 350px;
+  margin-bottom: var(--spacing-md);
+}
+
+.social {
+  display: flex;
+  gap: var(--spacing-sm);
+}
+
+.socialIcon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: white;
+  transition: all var(--transition-normal);
+}
+
+.socialIcon:hover {
+  background-color: var(--color-secondary);
+  transform: translateY(-3px);
+}
+
+.socialIcon img {
+  filter: brightness(0) invert(1);
+}
+
+.title {
+  font-size: 1.25rem;
+  color: white;
+  margin-bottom: var(--spacing-md);
+  position: relative;
+  display: inline-block;
+}
+
+.title::after {
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  left: 0;
+  width: 40px;
+  height: 2px;
+  background-color: var(--color-secondary);
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-sm);
+}
+
+.list li {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 0.95rem;
+}
+
+.list a {
+  transition: color var(--transition-normal);
+}
+
+.list img {
+  opacity: 0.8;
+  transition: opacity var(--transition-normal);
+}
+
+.list a:hover {
+  color: var(--color-secondary);
+}
+
+.list a:hover img {
+  opacity: 1;
+}
+
+.accentLink {
+  color: var(--color-accent) !important;
+  font-weight: 600;
+  text-decoration: underline !important;
+}
+
+.bottom {
+  background-color: var(--color-primary-light);
+  padding: var(--spacing-md) 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.bottomContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.5);
+}

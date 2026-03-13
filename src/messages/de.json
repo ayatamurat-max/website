@@ -1,0 +1,94 @@
+{
+  "Header": {
+    "title": "Opr. Dr. Murat Ayata",
+    "subtitle": "HNO & Gesichtschirurgie",
+    "home": "Startseite",
+    "about": "Über mich",
+    "medical": "Medizinische Verfahren",
+    "surgical": "Chirurgische Verfahren",
+    "contact": "Kontakt",
+    "book": "Termin Buchen"
+  },
+  "Footer": {
+    "description": "Facharzt für Hals-Nasen-Ohrenheilkunde und Kopf-Hals-Chirurgie. Moderne, evidenzbasierte Lösungen für Ästhetik und Gesundheit.",
+    "menuTitle": "Schnellmenü",
+    "contactTitle": "Kontakt",
+    "address": "Kırklareli Zentrum, Turgutbey Str.",
+    "rights": "Alle Rechte vorbehalten.",
+    "lastUpdated": "Letzte Aktualisierung"
+  },
+  "Home": {
+    "heroTag": "HNO & Kopf-Hals-Chirurgie",
+    "heroTitle1": "Evidenzbasierter",
+    "heroTitle2": "Medizinischer Ansatz",
+    "heroDesc": "In der von Opr. Dr. Murat Ayata geleiteten Klinik bieten wir im Lichte der aktuellen medizinischen Literatur personalisierte chirurgische und medizinische Behandlungspläne, die Ihre funktionalen und ästhetischen Erwartungen erfüllen.",
+    "medicalProcedures": "Medizinische Verfahren",
+    "servicesTag": "Fachgebiete",
+    "servicesTitle": "Personalisierte Ansätze",
+    "servicesDesc": "Professionelle Lösungen, die angeboten werden, damit Sie Ihre Gesundheit und Ihr ästhetisches Erscheinungsbild wiedererlangen.",
+    "rhinoplastyTitle": "Rhinoplastik",
+    "rhinoplastyDesc": "Chirurgische Eingriffe, die der Gesichtssymmetrie entsprechen, die Atemphysiologie erhalten und die funktionelle Anatomie berücksichtigen.",
+    "medicalTitle": "Medizinische Anwendungen",
+    "medicalDesc": "Klinisch ausgerichtete Behandlungen wie Botulinumtoxin (Botox), Hautfüller und Mesotherapie mit minimalinvasiven Techniken.",
+    "eyelidTitle": "Blepharoplastik & Gesichtschirurgie",
+    "eyelidDesc": "Operationen zur Beseitigung struktureller Verformungen in der Augenkontur und im Gesichtsbereich unter Verwendung mikrokirurgischer Prinzipien.",
+    "readMore": "Medizinische Infos →",
+    "aboutTag": "Über mich",
+    "aboutTitle": "Opr. Dr. Murat Ayata",
+    "aboutP1": "Mit jahrelanger Erfahrung lege ich bei der Behandlung von Hals-Nasen-Ohren-Erkrankungen und der ästhetischen Gesichtschirurgie Wert auf die Patientenzufriedenheit.",
+    "aboutP2": "Die Gesichtsanatomie und Erwartungen jedes Patienten sind einzigartig. Daher ist meine grundlegende Behandlungsphilosophie, 'natürlich aussehende, atmende Ergebnisse zu erzielen, die auf Sie zugeschnitten sind'.",
+    "moreInfo": "Mehr Informationen",
+    "certificateTag": "AUTORISIERUNGSZERTIFIKAT",
+    "certificateTitle": "Internationales Gesundheitstourismus-Autorisierungszertifikat"
+  },
+  "AboutMe": {
+    "tag": "Lebenslauf",
+    "title": "Über mich",
+    "bio1": "Geboren 1984 in Trabzon. Er absolvierte seine Grundschulausbildung an der zentralen Grundschule Akçaabat und der Republikgrundschule Ardeşen, sowie seine Mittel- und Oberschulausbildung am anatolischen Gymnasium Rize Pazar Ahmet Tahtakılıç.",
+    "bio2": "Nach Abschluss seines Universitätsstudiums an der medizinischen Fakultät der Ege-Universität absolvierte er seine Facharztausbildung in der Hals-Nasen-Ohren-Heilkunde am Ausbildungs- und Forschungskrankenhaus in Ankara.",
+    "bio3": "Von 2014 bis 2018 arbeitete er im staatlichen Krankenhaus von Kırklareli und von 2018 bis 2023 im privaten medizinischen Zentrum Doğuş in Kırklareli sowie im privaten Medikent-Krankenhaus in Lüleburgaz. Seit 2023 ist er in seiner eigenen Praxis in Kırklareli tätig.",
+    "bio4": "Er ist verheiratet und Vater von zwei Töchtern, Ada und Nil."
+  },
+  "Medical": {
+    "tag": "Nicht-chirurgische Lösungen",
+    "title": "Medizinische Verfahren",
+    "desc": "Moderne medizinisch-ästhetische Methoden, mit denen Sie ohne chirurgischen Eingriff einen jünger und dynamischer wirkenden Gesichtsausdruck erzielen können.",
+    "treatments": {
+      "t1_title": "Botulinumtoxin-Anwendungen",
+      "t1_desc": "Beseitigung von Mimikfalten, Masseter-Botox und Schweißbehandlung.",
+      "t2_title": "Hautfüller",
+      "t2_desc": "Lippen-, Wangen-, Augenringfüller (Light Filler) und Formung der Kinnlinie (Jawline).",
+      "t3_title": "Mesotherapie & PRP",
+      "t3_desc": "Vitamininjektionen, die die Hautqualität erhöhen, verjüngen und Haarausfall verhindern.",
+      "t4_title": "Nicht-chirurgische Gesichtsverjüngung",
+      "t4_desc": "Lifting-Effekt mit Fadenlifting, 'Jugendimpfung' und Mikronadel-Radiofrequenz-Anwendungen."
+    }
+  },
+  "Surgical": {
+    "tag": "Ästhetische Chirurgie",
+    "title": "Chirurgische Verfahren",
+    "desc": "Ästhetische Operationen, die mit Erfahrung, evidenzbasierter Medizin und modernen chirurgischen Techniken durchgeführt werden.",
+    "surgeries": {
+      "s1_title": "Rhinoplastik (Nasenästhetik)",
+      "s1_desc": "Ästhetische Operation, die das äußere Erscheinungsbild der Nase korrigiert und gleichzeitig die Atemfunktion idealisiert.",
+      "s2_title": "Septumplastik (Nasenscheidewand-Operation)",
+      "s2_desc": "Gewährleistung einer gesunden Atmung durch Korrektur von Knorpel- und Knochenverkrümmungen im Inneren der Nase.",
+      "s3_title": "Ohranlegeplastik (Otoplastik)",
+      "s3_desc": "Das Verfahren zur Korrektur von Deformitäten und Winkelunterschieden der Ohrmuschel.",
+      "s4_title": "Lidästhetik (Blepharoplastik)",
+      "s4_desc": "Jugendliches Aussehen durch Beseitigung von Erschlaffungen oder Tränensäcken an den Unter- und Oberlidern.",
+      "s5_title": "Hals- und Doppelkinnästhetik",
+      "s5_desc": "Rückbildung von submentalem Fettüberschuss und Hauterschlaffungen mit chirurgischen Methoden."
+    }
+  },
+  "Contact": {
+    "tag": "Kontaktiere uns",
+    "title": "Kontakt & Termin",
+    "desc": "Sie können uns über unsere Kontaktdaten erreichen, um Informationen zu Untersuchungen und Verfahren zu erhalten oder einen Termin zu vereinbaren.",
+    "addressTitle": "Klinikadresse",
+    "addressDesc": "Zentrum von Kirklareli, Turgutbey Str. Klinik von Op. Dr. Murat Ayata",
+    "getDirections": "Route berechnen",
+    "onlineBookTitle": "Online-Termin",
+    "onlineBookDesc": "Sie können unser Profil auf Doktor Takvimi besuchen, um einen Online-Terminkalender zu erstellen und Patientenbewertungen zu lesen."
+  }
+}

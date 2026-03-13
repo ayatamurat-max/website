@@ -1,0 +1,94 @@
+{
+  "Header": {
+    "title": "Dr. Murat Ayata",
+    "subtitle": "ORL & Chirurgie Faciale",
+    "home": "Accueil",
+    "about": "À propos",
+    "medical": "Procédures Médicales",
+    "surgical": "Procédures Chirurgicales",
+    "contact": "Contact",
+    "book": "Prendre Rendez-vous"
+  },
+  "Footer": {
+    "description": "Spécialiste en Oto-Rhino-Laryngologie et Chirurgie Cervico-Faciale. Solutions modernes et fondées sur des preuves pour l'esthétique et la santé.",
+    "menuTitle": "Menu Rapide",
+    "contactTitle": "Contact",
+    "address": "Centre de Kırklareli, Rue Turgutbey",
+    "rights": "Tous droits réservés.",
+    "lastUpdated": "Dernière mise à jour"
+  },
+  "Home": {
+    "heroTag": "ORL & Chirurgie Cervico-Faciale",
+    "heroTitle1": "Approche Médicale",
+    "heroTitle2": "Fondée sur des Preuves",
+    "heroDesc": "Dans la clinique dirigée par le Dr. Murat Ayata, nous proposons des plans de traitement chirurgicaux et médicaux personnalisés répondant à vos attentes fonctionnelles et esthétiques à la lumière de la littérature médicale actuelle.",
+    "medicalProcedures": "Procédures Médicales",
+    "servicesTag": "Domaines d'Expertise",
+    "servicesTitle": "Approches Personnalisées",
+    "servicesDesc": "Des solutions professionnelles vous sont proposées pour retrouver votre santé et votre apparence esthétique.",
+    "rhinoplastyTitle": "Rhinoplastie",
+    "rhinoplastyDesc": "Interventions chirurgicales adaptées à la symétrie faciale, préservant la physiologie respiratoire et respectant l'anatomie fonctionnelle.",
+    "medicalTitle": "Applications Médicales",
+    "medicalDesc": "Traitements cliniques ciblés tels que la toxine botulique (botox), les produits de comblement dermique et la mésothérapie appliqués avec des techniques mini-invasives.",
+    "eyelidTitle": "Blépharoplastie et Chirurgie du Visage",
+    "eyelidDesc": "Opérations visant à éliminer les déformations structurelles du contour des yeux et de la région du visage en utilisant les principes de la microchirurgie.",
+    "readMore": "Infos Médicales →",
+    "aboutTag": "À propos de moi",
+    "aboutTitle": "Dr. Murat Ayata",
+    "aboutP1": "Fort de plusieurs années d'expérience, je privilégie la satisfaction des patients dans le traitement des maladies des oreilles, du nez et de la gorge et en chirurgie esthétique du visage.",
+    "aboutP2": "L'anatomie faciale et les attentes de chaque patient sont uniques. C'est pourquoi ma philosophie de base en matière de traitement est d'obtenir « des résultats naturels et respirants, adaptés à vous ».",
+    "moreInfo": "Plus d'Informations",
+    "certificateTag": "CERTIFICAT D'AUTORISATION",
+    "certificateTitle": "Certificat d'autorisation pour le tourisme de santé international"
+  },
+  "AboutMe": {
+    "tag": "Biographie",
+    "title": "À Propos",
+    "bio1": "Né en 1984 à Trabzon. Il a effectué ses études primaires à l'école primaire centrale d'Akçaabat et à l'école primaire de la République d'Ardeşen, ainsi que ses études secondaires et secondaires au lycée anatolien Ahmet Tahtakılıç de Rize Pazar.",
+    "bio2": "Après avoir terminé ses études universitaires à la Faculté de Médecine de l'Université Ege, il a suivi sa spécialisation en oto-rhino-laryngologie à l'Hôpital de Formation et de Recherche d'Ankara.",
+    "bio3": "De 2014 à 2018, il a travaillé à l'Hôpital d'État de Kırklareli, et de 2018 à 2023 au Centre Médical Privé Doğuş de Kırklareli et à l'Hôpital Privé Medikent de Lüleburgaz. Depuis 2023, il exerce dans son propre cabinet à Kırklareli.",
+    "bio4": "Il est marié et père de deux filles, Ada et Nil."
+  },
+  "Medical": {
+    "tag": "Solutions Non Chirurgicales",
+    "title": "Procédures Médicales",
+    "desc": "Méthodes esthétiques médicales modernes qui vous permettent d'obtenir une expression faciale plus jeune et dynamique sans avoir besoin d'intervention chirurgicale.",
+    "treatments": {
+      "t1_title": "Applications de Toxine Botulique",
+      "t1_desc": "Élimination des rides d'expression, botox masséter et traitement de la transpiration.",
+      "t2_title": "Comblement Dermique",
+      "t2_desc": "Lèvres, joues, comblement des cernes et remodelage de la ligne de la mâchoire (jawline).",
+      "t3_title": "Mésothérapie et PRP",
+      "t3_desc": "Injections de vitamines qui améliorent la qualité de la peau, rajeunissent et préviennent la chute des cheveux.",
+      "t4_title": "Rajeunissement Facial Non Chirurgical",
+      "t4_desc": "Effet lifting avec fils tenseurs, 'vaccin de jeunesse' et applications de radiofréquence à micro-aiguilles."
+    }
+  },
+  "Surgical": {
+    "tag": "Chirurgie Esthétique",
+    "title": "Procédures Chirurgicales",
+    "desc": "Opérations esthétiques réalisées avec expérience, médecine fondée sur les preuves et techniques chirurgicales modernes.",
+    "surgeries": {
+      "s1_title": "Rhinoplastie (Esthétique du Nez)",
+      "s1_desc": "Opération esthétique qui corrige l'apparence externe du nez tout en rendant la fonction respiratoire idéale.",
+      "s2_title": "Septoplastie (Chirurgie de la Déviation)",
+      "s2_desc": "Assurer une respiration saine en corrigeant les courbures du cartilage et des os à l'intérieur du nez.",
+      "s3_title": "Chirurgie des Oreilles Décollées (Otoplastie)",
+      "s3_desc": "La procédure de correction des déformations et des différences d'angle au niveau de l'auricule.",
+      "s4_title": "Esthétique des Paupières (Blépharoplastie)",
+      "s4_desc": "Un regard rajeuni en éliminant le relâchement ou les poches au niveau des paupières inférieures et supérieures.",
+      "s5_title": "Esthétique du Cou et du Double Menton",
+      "s5_desc": "Récupération de l'excès de graisse sous-mentonnière et du relâchement cutané par des méthodes chirurgicales."
+    }
+  },
+  "Contact": {
+    "tag": "Contactez-nous",
+    "title": "Contact et Rendez-vous",
+    "desc": "Vous pouvez nous joindre via nos coordonnées pour obtenir des informations sur les examens et procédures, ou pour prendre rendez-vous.",
+    "addressTitle": "Adresse de la Clinique",
+    "addressDesc": "Centre de Kirklareli, Rue Turgutbey. Clinique du Dr. Murat Ayata",
+    "getDirections": "Obtenir l'itinéraire",
+    "onlineBookTitle": "Rendez-vous en ligne",
+    "onlineBookDesc": "Vous pouvez visiter notre profil Doktor Takvimi pour créer un calendrier de rendez-vous en ligne et lire les avis des patients."
+  }
+}
