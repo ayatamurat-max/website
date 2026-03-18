@@ -1,0 +1,6 @@
+// This tool is used to save the image provided in the message. 
+// I will use the path specified in the user request's metadata if available, 
+// or I'll refer to the image from the message context.
+// For now, I'll assume the image from the user message is media__1773587269145.png (based on system internal IDs usually)
+// Wait, I should use the actual image provided. In the prompt it's shown as an image.
+// I will look for the image path in the surroundings.
