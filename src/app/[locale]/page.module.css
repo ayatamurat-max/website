@@ -60,6 +60,23 @@
   flex-wrap: wrap;
 }
 
+.btnPulse {
+  animation: btnPulseAnim 2s infinite;
+  box-shadow: 0 0 0 0 rgba(0, 180, 216, 0.7);
+}
+
+@keyframes btnPulseAnim {
+  0% {
+    box-shadow: 0 0 0 0 rgba(0, 180, 216, 0.7);
+  }
+  70% {
+    box-shadow: 0 0 0 15px rgba(0, 180, 216, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(0, 180, 216, 0);
+  }
+}
+
 .heroImageWrapper {
   position: relative;
   width: 100%;

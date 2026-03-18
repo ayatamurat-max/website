@@ -19,8 +19,8 @@ export default function Home() {
               {t('heroDesc')}
             </p>
             <div className={styles.heroActions}>
-              <Link href="/iletisim" className="btn btn-primary">
-                {t('medicalProcedures')}
+              <Link href="/iletisim" className={`btn btn-primary ${styles.btnPulse}`}>
+                {t('bookNow')}
               </Link>
               <Link href="/cerrahi-islemler" className="btn btn-outline" style={{ color: 'white', borderColor: 'rgba(255,255,255,0.5)' }}>
                 {t('medicalProcedures')}
