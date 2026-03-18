@@ -318,3 +318,27 @@
     padding: 3rem 0;
   }
 }
+
+.logoRow {
+  margin-top: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.9;
+  transition: opacity var(--transition-normal);
+}
+
+.logoRow:hover {
+  opacity: 1;
+}
+
+.healthLogo {
+  height: auto;
+  max-width: 200px;
+  filter: grayscale(0.2);
+  transition: filter var(--transition-normal);
+}
+
+.logoRow:hover .healthLogo {
+  filter: grayscale(0);
+}

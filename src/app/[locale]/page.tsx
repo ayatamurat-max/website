@@ -133,6 +133,15 @@ export default function Home() {
                  className={styles.certificateImage}
                />
              </div>
+              <div className={styles.logoRow}>
+                <Image 
+                  src="/images/health-turkiye-logo.png"
+                  alt="Health Türkiye Logo"
+                  width={180}
+                  height={100}
+                  className={styles.healthLogo}
+                />
+              </div>
           </div>
         </div>
       </section>
