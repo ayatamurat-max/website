@@ -10,10 +10,12 @@
 
 @media (max-width: 768px) {
   .hero {
-    min-height: auto; /* Remove vh height to stop pushing content down */
+    height: 100svh;
+    min-height: 100svh;
     align-items: flex-start;
-    padding-top: 70px; /* Minimal space for header */
-    padding-bottom: 2rem;
+    padding-top: 60px; /* Adjusted for tighter fit */
+    padding-bottom: 80px; /* Space for mobile bar */
+    background-color: #0a192f; /* Match dark theme even if image fails */
   }
 }
 
