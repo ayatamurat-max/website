@@ -10,6 +10,16 @@ export default function Home() {
     <>
       {/* Hero Section */}
       <section className={styles.hero}>
+        <div className={styles.heroBackground}>
+          <Image 
+            src="/images/hero-bg.jpg"
+            alt="Klinik Arkaplan"
+            fill
+            className={styles.bgImage}
+            priority
+            sizes="100vw"
+          />
+        </div>
         <div className={styles.heroOverlay}></div>
         <div className={`container ${styles.heroContainer}`}>
           <div className={`${styles.heroContent} animate-fade-in`}>
@@ -30,17 +40,6 @@ export default function Home() {
                 {t('medicalProcedures')}
               </Link>
             </div>
-          </div>
-          <div className={styles.heroImageWrapper}>
-            <div className={styles.heroImageGlow}></div>
-            <Image 
-              src="/images/hero-bg.jpg"
-              alt="Klinik Görünüm"
-              fill
-              className={styles.heroImage}
-              priority
-              sizes="(max-width: 768px) 100vw, 50vw"
-            />
           </div>
         </div>
       </section>
