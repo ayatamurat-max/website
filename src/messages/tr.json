@@ -15,7 +15,8 @@
     "contactTitle": "İletişim",
     "address": "Kırklareli Merkez, Turgutbey Cad.",
     "rights": "Tüm hakları saklıdır.",
-    "lastUpdated": "Son Güncelleme"
+    "lastUpdated": "Son Güncelleme",
+    "email": "E-posta"
   },
   "Home": {
     "heroTag": "KBB & Baş Boyun Cerrahisi",
@@ -90,6 +91,10 @@
     "addressDesc": "Kırklareli Merkez, Turgutbey Cad. Op. Dr. Murat Ayata Muayenehanesi",
     "getDirections": "Yol Tarifi Al",
     "onlineBookTitle": "Online Randevu",
-    "onlineBookDesc": "Online olarak randevu takvimi oluşturmak ve hasta yorumlarını okumak için Doktor Takvimi profilimizi ziyaret edebilirsiniz."
+    "onlineBookDesc": "Online olarak randevu takvimi oluşturmak ve hasta yorumlarını okumak için Doktor Takvimi profilimizi ziyaret edebilirsiniz.",
+    "mobileCall": "Ara",
+    "mobileWhatsapp": "WhatsApp",
+    "mobileEmail": "E-posta",
+    "mobileLocation": "Konum"
   }
 }

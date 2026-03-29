@@ -9,6 +9,7 @@ export const metadata: Metadata = {
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import WhatsAppButton from '../components/WhatsAppButton';
+import MobileQuickActions from '../components/MobileQuickActions';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
 import { notFound } from 'next/navigation';
@@ -41,6 +42,7 @@ export default async function RootLayout({
           <main>{children}</main>
           <Footer />
           <WhatsAppButton />
+          <MobileQuickActions />
         </NextIntlClientProvider>
       </body>
     </html>

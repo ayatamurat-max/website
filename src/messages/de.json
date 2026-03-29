@@ -15,7 +15,8 @@
     "contactTitle": "Kontakt",
     "address": "Kırklareli Zentrum, Turgutbey Str.",
     "rights": "Alle Rechte vorbehalten.",
-    "lastUpdated": "Letzte Aktualisierung"
+    "lastUpdated": "Zuletzt aktualisiert",
+    "email": "E-Mail"
   },
   "Home": {
     "heroTag": "HNO & Kopf-Hals-Chirurgie",
@@ -90,6 +91,10 @@
     "addressDesc": "Zentrum von Kirklareli, Turgutbey Str. Klinik von Op. Dr. Murat Ayata",
     "getDirections": "Route berechnen",
     "onlineBookTitle": "Online-Termin",
-    "onlineBookDesc": "Sie können unser Profil auf Doktor Takvimi besuchen, um einen Online-Terminkalender zu erstellen und Patientenbewertungen zu lesen."
+    "onlineBookDesc": "Sie können unser Profil im Doctolib besuchen, um einen Online-Termin zu vereinbaren und Patientenbewertungen zu lesen.",
+    "mobileCall": "Anrufen",
+    "mobileWhatsapp": "WhatsApp",
+    "mobileEmail": "E-Mail",
+    "mobileLocation": "Standort"
   }
 }

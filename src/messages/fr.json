@@ -15,7 +15,8 @@
     "contactTitle": "Contact",
     "address": "Centre de Kırklareli, Rue Turgutbey",
     "rights": "Tous droits réservés.",
-    "lastUpdated": "Dernière mise à jour"
+    "lastUpdated": "Dernière mise à jour",
+    "email": "E-mail"
   },
   "Home": {
     "heroTag": "ORL & Chirurgie Cervico-Faciale",
@@ -90,6 +91,10 @@
     "addressDesc": "Centre de Kirklareli, Rue Turgutbey. Clinique du Dr. Murat Ayata",
     "getDirections": "Obtenir l'itinéraire",
     "onlineBookTitle": "Rendez-vous en ligne",
-    "onlineBookDesc": "Vous pouvez visiter notre profil Doktor Takvimi pour créer un calendrier de rendez-vous en ligne et lire les avis des patients."
+    "onlineBookDesc": "Vous pouvez visiter notre profil sur le calendrier du docteur pour prendre un rendez-vous en ligne et lire les avis des patients.",
+    "mobileCall": "Appeler",
+    "mobileWhatsapp": "WhatsApp",
+    "mobileEmail": "E-mail",
+    "mobileLocation": "Localisation"
   }
 }

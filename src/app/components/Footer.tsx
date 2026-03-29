@@ -57,6 +57,7 @@ export default function Footer() {
           <h3 className={styles.title}>{t('contactTitle')}</h3>
           <ul className={styles.list}>
             <li><strong>Adres:</strong> {t('address')}</li>
+            <li><strong>Email:</strong> <a href="mailto:info@muratayata.com" className={styles.accentLink}>info@muratayata.com</a></li>
             <li>
               <a href="https://www.doktortakvimi.com/murat-ayata/kulak-burun-bogaz/kirklareli" target="_blank" rel="noopener noreferrer" className={styles.accentLink}>
                 {tNav('book')}

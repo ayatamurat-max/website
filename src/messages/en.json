@@ -15,7 +15,8 @@
     "contactTitle": "Contact",
     "address": "Kirklareli Center, Turgutbey St.",
     "rights": "All rights reserved.",
-    "lastUpdated": "Last Updated"
+    "lastUpdated": "Last Updated",
+    "email": "Email"
   },
   "Home": {
     "heroTag": "ENT & Head/Neck Surgery",
@@ -90,6 +91,10 @@
     "addressDesc": "Kirklareli Center, Turgutbey St. Op. Dr. Murat Ayata Clinic",
     "getDirections": "Get Directions",
     "onlineBookTitle": "Online Appointment",
-    "onlineBookDesc": "You can visit our Doktor Takvimi profile to create an online appointment schedule and read patient reviews."
+    "onlineBookDesc": "You can visit our Doctor Calendar profile to create an online appointment and read patient reviews.",
+    "mobileCall": "Call",
+    "mobileWhatsapp": "WhatsApp",
+    "mobileEmail": "Email",
+    "mobileLocation": "Location"
   }
 }
