@@ -18,6 +18,10 @@ export default function Home() {
             <p className={styles.heroSubtitle}>
               {t('heroDesc')}
             </p>
+            <div className={styles.heroSignature}>
+              <p className={styles.sigName}>{t('heroSigName')}</p>
+              <p className={styles.sigTitle}>{t('heroSigTitle')}</p>
+            </div>
             <div className={styles.heroActions}>
               <Link href="/iletisim" className={`btn btn-primary ${styles.btnPulse}`}>
                 {t('bookNow')}

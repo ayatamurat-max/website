@@ -48,10 +48,32 @@
 }
 
 .heroSubtitle {
-  font-size: 1.1rem;
-  color: rgba(255, 255, 255, 0.8);
-  margin-bottom: var(--spacing-md);
+  font-size: 1.25rem;
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 2rem;
   font-weight: 300;
+  line-height: 1.6;
+}
+
+.heroSignature {
+  margin-bottom: 2.5rem;
+  border-left: 3px solid var(--color-secondary);
+  padding-left: 1.5rem;
+}
+
+.sigName {
+  font-family: inherit;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 0.2rem;
+}
+
+.sigTitle {
+  font-size: 0.95rem;
+  color: var(--color-secondary);
+  font-weight: 500;
+  opacity: 0.9;
 }
 
 .heroActions {
