@@ -21,16 +21,22 @@ export default function Header() {
           <Image src="/logo-dark.png" alt={`${t('title')} Logo`} width={200} height={44} priority style={{ objectFit: 'contain' }} />
         </Link>
 
-        {/* Hamburger Menu Button */}
-        <button 
-          className={`${styles.menuButton} ${isMenuOpen ? styles.menuActive : ''}`}
-          onClick={toggleMenu}
-          aria-label="Menu"
-        >
-          <span></span>
-          <span></span>
-          <span></span>
-        </button>
+        <div className={styles.headerRight}>
+          <div className={styles.headerSwitcher}>
+            <LanguageSwitcher />
+          </div>
+          
+          {/* Hamburger Menu Button */}
+          <button 
+            className={`${styles.menuButton} ${isMenuOpen ? styles.menuActive : ''}`}
+            onClick={toggleMenu}
+            aria-label="Menu"
+          >
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
+        </div>
 
         <nav className={`${styles.nav} ${isMenuOpen ? styles.navOpen : ''}`}>
           <Link href="/" className={styles.navLink} onClick={closeMenu}>{t('home')}</Link>
@@ -46,7 +52,6 @@ export default function Header() {
           <Link href="/iletisim" className={styles.navLink} onClick={closeMenu}>{t('contact')}</Link>
           
           <div className={styles.mobileCta}>
-            <LanguageSwitcher />
             <Link href="/iletisim" className="btn btn-primary" onClick={closeMenu}>
               {t('book')}
             </Link>
@@ -54,7 +59,6 @@ export default function Header() {
         </nav>
 
         <div className={styles.cta}>
-          <LanguageSwitcher />
           <Link
             href="/iletisim"
             className="btn btn-primary"

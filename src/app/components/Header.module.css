@@ -131,6 +131,24 @@
   }
 }
 
+.headerRight {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.headerSwitcher {
+  display: flex;
+  align-items: center;
+}
+
+@media (min-width: 992px) {
+  /* On desktop, switcher stays in the header bar too, or next to navigation */
+  .headerSwitcher {
+    margin-right: 0.5rem;
+  }
+}
+
 /* Hamburger Menu Button */
 .menuButton {
   display: flex;
