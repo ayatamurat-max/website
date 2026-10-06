@@ -4,7 +4,7 @@ import { routing } from './routing';
 
 export const SITE_URL = 'https://www.muratayata.com';
 
-export type MetaPage = 'home' | 'about' | 'surgical' | 'medical' | 'contact' | 'rhino';
+export type MetaPage = 'home' | 'about' | 'surgical' | 'medical' | 'contact' | 'rhino' | 'inter';
 
 function localizedPath(locale: string, path: string) {
   const prefix = locale === routing.defaultLocale ? '' : `/${locale}`;

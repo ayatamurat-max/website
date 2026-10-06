@@ -13,6 +13,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 
 export default function Home() {
   const t = useTranslations('Home');
+  const tNav = useTranslations('Header');
 
   return (
     <>
@@ -153,6 +154,9 @@ export default function Home() {
                   className={styles.healthLogo}
                 />
               </div>
+              <Link href="/international-patients" className="btn btn-outline" style={{ marginTop: '2rem' }}>
+                {tNav('international')} →
+              </Link>
           </div>
         </div>
       </section>

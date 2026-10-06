@@ -1,0 +1,156 @@
+/* Steps on dark background */
+.steps {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+  counter-reset: step;
+}
+
+.stepCard {
+  padding: 2rem 1.75rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.stepNum {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid var(--color-accent);
+  color: var(--color-accent);
+  font-family: var(--font-heading);
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1.25rem;
+}
+
+.stepCard h3 {
+  color: white;
+  font-size: 1.2rem;
+  margin-bottom: 0.6rem;
+}
+
+.stepCard p {
+  color: rgba(255, 255, 255, 0.75);
+  line-height: 1.7;
+}
+
+/* Treatments */
+.treatments {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.75rem;
+  max-width: 920px;
+  margin: 0 auto;
+}
+
+.treatCard {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  padding: 2rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  box-shadow: var(--shadow-sm);
+  transition: transform var(--transition-normal), box-shadow var(--transition-normal), border-color var(--transition-normal);
+}
+
+.treatCard:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-md);
+  border-color: rgba(229, 169, 60, 0.5);
+}
+
+.treatIcon {
+  flex-shrink: 0;
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  border: 1px solid rgba(229, 169, 60, 0.5);
+  color: var(--color-accent);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.treatCard h3 {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.treatCard p {
+  color: var(--color-text-light);
+  line-height: 1.65;
+  margin-bottom: 0.9rem;
+}
+
+.more {
+  color: var(--color-secondary);
+  font-weight: 600;
+  font-family: var(--font-heading);
+}
+
+/* Certificate */
+.cert {
+  margin-top: 3.5rem;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 2.5rem;
+  align-items: center;
+  padding: 2rem;
+  border-radius: var(--radius-lg);
+  background: var(--color-background);
+  border: 1px solid var(--color-border);
+}
+
+.certImage {
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-md);
+  max-width: 100%;
+  height: auto;
+}
+
+.cert h3 {
+  font-size: 1.35rem;
+  margin-bottom: 0.75rem;
+}
+
+.cert p {
+  color: var(--color-text-light);
+  line-height: 1.7;
+  margin-bottom: 1.25rem;
+}
+
+.certLogo {
+  height: auto;
+}
+
+@media (max-width: 992px) {
+  .steps {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 760px) {
+  .treatments,
+  .cert {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 560px) {
+  .steps {
+    grid-template-columns: 1fr;
+  }
+
+  .treatCard {
+    flex-direction: column;
+  }
+}
