@@ -4,7 +4,7 @@ import Script from 'next/script';
 import { usePathname } from 'next/navigation';
 import { useEffect, useRef } from 'react';
 
-export const META_PIXEL_ID = '165756414347824';
+export const META_PIXEL_ID = '1824211318759483';
 export const CONSENT_KEY = 'cookie-consent';
 
 declare global {

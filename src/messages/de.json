@@ -251,5 +251,10 @@
     "f5A": "Ja, auf Wunsch. Diese werden separat organisiert und sind nicht im Paketpreis enthalten.",
     "finalTitle": "Beginnen wir mit einem Gespräch",
     "finalDesc": "Schreiben Sie uns auf WhatsApp, um Ihre Online-Videoberatung zu buchen."
+  },
+  "Consent": {
+    "text": "Wir verwenden Cookies, um die Nutzung unserer Website zu messen und unsere Werbung zu verbessern. Sie können zustimmen oder ablehnen.",
+    "accept": "Akzeptieren",
+    "decline": "Ablehnen"
   }
 }

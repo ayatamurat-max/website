@@ -251,5 +251,10 @@
     "f5A": "Evet, isteğe bağlı olarak. Bu hizmetler ayrıca düzenlenir ve paket ücrete dahil değildir.",
     "finalTitle": "Bir görüşmeyle başlayalım",
     "finalDesc": "Online görüntülü ön görüşme randevusu için bize WhatsApp’tan yazın."
+  },
+  "Consent": {
+    "text": "Sitemizin nasıl kullanıldığını ölçmek ve reklamlarımızı iyileştirmek için çerezler kullanıyoruz. Kabul edebilir veya reddedebilirsiniz.",
+    "accept": "Kabul et",
+    "decline": "Reddet"
   }
 }
