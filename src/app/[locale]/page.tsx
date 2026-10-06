@@ -4,6 +4,7 @@ import { useTranslations } from "next-intl";
 import type { Metadata } from "next";
 import { buildMetadata } from "@/i18n/metadata";
 import styles from "./page.module.css";
+import ProcedureIcon from "../components/ProcedureIcon";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
@@ -64,7 +65,7 @@ export default function Home() {
             <Link href="/cerrahi-islemler" className={styles.serviceCard}>
               <div className={styles.cardImage}>
                 <div className={`${styles.cardPlaceholder} ${styles.blueGradient}`}>
-                   <Image src="/images/surgical-icon.svg" alt="" width={48} height={48} className={styles.cardIcon} />
+                   <ProcedureIcon name="rhinoplasty" size={52} strokeWidth={1.25} className={styles.cardIcon} />
                 </div>
               </div>
               <div className={styles.cardContent}>
@@ -77,7 +78,7 @@ export default function Home() {
             <Link href="/medikal-islemler" className={styles.serviceCard}>
               <div className={styles.cardImage}>
                 <div className={`${styles.cardPlaceholder} ${styles.tealGradient}`}>
-                   <Image src="/images/medical-icon.svg" alt="" width={48} height={48} className={styles.cardIcon} />
+                   <ProcedureIcon name="medical" size={52} strokeWidth={1.25} className={styles.cardIcon} />
                 </div>
               </div>
               <div className={styles.cardContent}>
@@ -90,7 +91,7 @@ export default function Home() {
             <Link href="/cerrahi-islemler" className={styles.serviceCard}>
               <div className={styles.cardImage}>
                 <div className={`${styles.cardPlaceholder} ${styles.goldGradient}`}>
-                   <Image src="/images/surgical-icon.svg" alt="" width={48} height={48} className={styles.cardIcon} />
+                   <ProcedureIcon name="eyelid" size={52} strokeWidth={1.25} className={styles.cardIcon} />
                 </div>
               </div>
               <div className={styles.cardContent}>
