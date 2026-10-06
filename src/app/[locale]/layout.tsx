@@ -12,6 +12,8 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 import WhatsAppButton from '../components/WhatsAppButton';
 import MobileQuickActions from '../components/MobileQuickActions';
+import MetaPixel from '../components/MetaPixel';
+import CookieConsent from '../components/CookieConsent';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
 import { notFound } from 'next/navigation';
@@ -45,6 +47,8 @@ export default async function RootLayout({
           <Footer />
           <WhatsAppButton />
           <MobileQuickActions />
+          <CookieConsent />
+          <MetaPixel />
         </NextIntlClientProvider>
       </body>
     </html>

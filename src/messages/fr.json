@@ -251,5 +251,10 @@
     "f5A": "Oui, sur demande. Ils sont organisés séparément et ne sont pas inclus dans le prix du forfait.",
     "finalTitle": "Commençons par un échange",
     "finalDesc": "Écrivez-nous sur WhatsApp pour réserver votre consultation vidéo en ligne."
+  },
+  "Consent": {
+    "text": "Nous utilisons des cookies pour mesurer l’utilisation de notre site et améliorer nos publicités. Vous pouvez les accepter ou les refuser.",
+    "accept": "Accepter",
+    "decline": "Refuser"
   }
 }

@@ -251,5 +251,10 @@
     "f5A": "Yes, on request. These are arranged separately and are not included in the package price.",
     "finalTitle": "Start with a conversation",
     "finalDesc": "Send us a message on WhatsApp to book your online video consultation."
+  },
+  "Consent": {
+    "text": "We use cookies to measure how our website is used and to improve our ads. You can accept or decline.",
+    "accept": "Accept",
+    "decline": "Decline"
   }
 }

@@ -1,0 +1,74 @@
+.banner {
+  position: fixed;
+  left: 50%;
+  bottom: 24px;
+  transform: translateX(-50%);
+  width: min(720px, calc(100% - 32px));
+  z-index: 10002;
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  padding: 1rem 1.25rem;
+  background: var(--color-primary);
+  color: white;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+}
+
+.text {
+  flex: 1;
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.88);
+}
+
+.actions {
+  display: flex;
+  gap: 0.6rem;
+  flex-shrink: 0;
+}
+
+.accept,
+.decline {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: 0.9rem;
+  padding: 0.55rem 1.1rem;
+  border-radius: var(--radius-full);
+  cursor: pointer;
+  border: 1px solid transparent;
+}
+
+.accept {
+  background: var(--color-secondary);
+  color: white;
+}
+
+.accept:hover {
+  background: var(--color-secondary-hover);
+}
+
+.decline {
+  background: transparent;
+  color: white;
+  border-color: rgba(255, 255, 255, 0.4);
+}
+
+.decline:hover {
+  border-color: white;
+}
+
+@media (max-width: 768px) {
+  .banner {
+    bottom: 82px; /* mobil hızlı işlem çubuğunun üstünde */
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.85rem;
+  }
+
+  .actions .accept,
+  .actions .decline {
+    flex: 1;
+  }
+}
