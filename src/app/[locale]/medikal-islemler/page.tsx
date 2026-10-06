@@ -7,15 +7,16 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 }
 
 import { useTranslations } from 'next-intl';
+import ProcedureIcon from '../../components/ProcedureIcon';
 
 export default function MedikalIslemler() {
   const t = useTranslations('Medical');
 
   const treatments = [
-    { title: t('treatments.t1_title'), desc: t('treatments.t1_desc') },
-    { title: t('treatments.t2_title'), desc: t('treatments.t2_desc') },
-    { title: t('treatments.t3_title'), desc: t('treatments.t3_desc') },
-    { title: t('treatments.t4_title'), desc: t('treatments.t4_desc') }
+    { icon: 'medical' as const, title: t('treatments.t1_title'), desc: t('treatments.t1_desc') },
+    { icon: 'filler' as const, title: t('treatments.t2_title'), desc: t('treatments.t2_desc') },
+    { icon: 'meso' as const, title: t('treatments.t3_title'), desc: t('treatments.t3_desc') },
+    { icon: 'rejuvenation' as const, title: t('treatments.t4_title'), desc: t('treatments.t4_desc') }
   ];
 
   return (
@@ -32,6 +33,9 @@ export default function MedikalIslemler() {
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '2rem' }}>
           {treatments.map((tr, i) => (
             <div key={i} style={{ padding: '2rem', backgroundColor: 'var(--color-surface)', borderRadius: 'var(--radius-lg)', borderLeft: '4px solid var(--color-secondary)', boxShadow: 'var(--shadow-sm)' }}>
+              <div style={{ width: '52px', height: '52px', borderRadius: '50%', backgroundColor: 'rgba(0,180,216,0.08)', display: 'flex', alignItems: 'center', justifyContent: 'center', color: 'var(--color-secondary)', marginBottom: '1.25rem' }}>
+                <ProcedureIcon name={tr.icon} size={28} strokeWidth={1.3} />
+              </div>
               <h3 style={{ marginBottom: '1rem', fontSize: '1.25rem' }}>{tr.title}</h3>
               <p style={{ color: 'var(--color-text-light)' }}>{tr.desc}</p>
             </div>

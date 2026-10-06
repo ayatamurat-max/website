@@ -6,6 +6,7 @@ import Image from 'next/image';
 import { useTranslations } from 'next-intl';
 import styles from './Header.module.css';
 import LanguageSwitcher from './LanguageSwitcher';
+import ProcedureIcon from './ProcedureIcon';
 
 export default function Header() {
   const t = useTranslations('Header');
@@ -42,11 +43,11 @@ export default function Header() {
           <Link href="/" className={styles.navLink} onClick={closeMenu}>{t('home')}</Link>
           <Link href="/hakkimda" className={styles.navLink} onClick={closeMenu}>{t('about')}</Link>
           <Link href="/medikal-islemler" className={styles.navLink} onClick={closeMenu} style={{ display: 'inline-flex', alignItems: 'center', gap: '0.4rem' }}>
-            <Image src="/images/medical-icon-dark.svg" alt="" width={18} height={18} />
+            <ProcedureIcon name="medical" size={18} />
             {t('medical')}
           </Link>
           <Link href="/cerrahi-islemler" className={styles.navLink} onClick={closeMenu} style={{ display: 'inline-flex', alignItems: 'center', gap: '0.4rem' }}>
-            <Image src="/images/surgical-icon-dark.svg" alt="" width={18} height={18} />
+            <ProcedureIcon name="surgical" size={18} />
             {t('surgical')}
           </Link>
           <Link href="/iletisim" className={styles.navLink} onClick={closeMenu}>{t('contact')}</Link>
