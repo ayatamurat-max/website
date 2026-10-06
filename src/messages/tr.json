@@ -15,11 +15,12 @@
     "description": "Kulak Burun Boğaz ve Baş Boyun Cerrahisi Uzmanı. Estetik ve sağlık için modern, kanıta dayalı çözümler.",
     "menuTitle": "Hızlı Menü",
     "contactTitle": "İletişim",
-    "address": "Kırklareli Merkez, Turgutbey Cad.",
+    "address": "Saranta İş Merkezi, Dereüstü Sk. No:11/30, Karacaibrahim Mah., Kırklareli",
     "rights": "Tüm hakları saklıdır.",
     "lastUpdated": "Son Güncelleme",
     "email": "E-posta",
-    "addressLabel": "Adres"
+    "addressLabel": "Adres",
+    "privacy": "KVKK ve Gizlilik"
   },
   "Home": {
     "heroTag": "KBB & Baş Boyun Cerrahisi",
@@ -93,7 +94,7 @@
     "title": "İletişim & Randevu",
     "desc": "Muayene ve işlemler hakkında bilgi almak veya randevu oluşturmak için iletişim bilgilerimizden bize ulaşabilirsiniz.",
     "addressTitle": "Klinik Adresi",
-    "addressDesc": "Kırklareli Merkez, Turgutbey Cad. Op. Dr. Murat Ayata Muayenehanesi",
+    "addressDesc": "Karacaibrahim Mahallesi, Dereüstü Sokak No:11/30, Saranta İş Merkezi, Kırklareli Merkez. Op. Dr. Murat Ayata Muayenehanesi",
     "getDirections": "Yol Tarifi Al",
     "onlineBookTitle": "Online Randevu",
     "onlineBookDesc": "Online olarak randevu takvimi oluşturmak ve hasta yorumlarını okumak için Doktor Takvimi profilimizi ziyaret edebilirsiniz.",
@@ -116,11 +117,13 @@
     "medicalTitle": "Medikal Estetik: Botoks, Dolgu, Mezoterapi | Op. Dr. Murat Ayata",
     "medicalDesc": "Kırklareli'de ameliyatsız yüz gençleştirme: botoks, dermal dolgu, mezoterapi, PRP ve iğneli radyofrekans uygulamaları.",
     "contactTitle": "İletişim ve Randevu | Op. Dr. Murat Ayata",
-    "contactDesc": "Op. Dr. Murat Ayata Muayenehanesi adres, telefon, WhatsApp ve online randevu bilgileri. Turgutbey Cad., Kırklareli.",
+    "contactDesc": "Op. Dr. Murat Ayata Muayenehanesi adres, telefon, WhatsApp ve online randevu bilgileri. Saranta İş Merkezi, Kırklareli.",
     "rhinoTitle": "Rinoplasti (Burun Estetiği) Kırklareli | Op. Dr. Murat Ayata",
     "rhinoDesc": "15 yıllık deneyim ve 5.000’i aşkın ameliyatla, açık teknik ve piezo yöntemiyle kişiye özel rinoplasti. Lüleburgaz Özel Medikent Hastanesi.",
     "interTitle": "Yurt Dışından Gelen Hastalar | Op. Dr. Murat Ayata",
-    "interDesc": "Türkiye’de ameliyatınızı online görüntülü ön görüşmeyle planlayın. Uluslararası sağlık turizmi yetkisi, rinoplasti için 7 gün kalış."
+    "interDesc": "Türkiye’de ameliyatınızı online görüntülü ön görüşmeyle planlayın. Uluslararası sağlık turizmi yetkisi, rinoplasti için 7 gün kalış.",
+    "privacyTitle": "KVKK Aydınlatma Metni ve Çerez Politikası | Op. Dr. Murat Ayata",
+    "privacyDesc": "Op. Dr. Murat Ayata Muayenehanesi kişisel verilerin korunması, aydınlatma metni ve çerez politikası."
   },
   "Rhinoplasty": {
     "tag": "Rinoplasti",
@@ -255,6 +258,7 @@
   "Consent": {
     "text": "Sitemizin nasıl kullanıldığını ölçmek ve reklamlarımızı iyileştirmek için çerezler kullanıyoruz. Kabul edebilir veya reddedebilirsiniz.",
     "accept": "Kabul et",
-    "decline": "Reddet"
+    "decline": "Reddet",
+    "more": "Gizlilik ve çerez politikası"
   }
 }

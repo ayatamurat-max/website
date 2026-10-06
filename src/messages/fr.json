@@ -15,11 +15,12 @@
     "description": "Spécialiste en Oto-Rhino-Laryngologie et Chirurgie Cervico-Faciale. Solutions modernes et fondées sur des preuves pour l'esthétique et la santé.",
     "menuTitle": "Menu Rapide",
     "contactTitle": "Contact",
-    "address": "Centre de Kırklareli, Rue Turgutbey",
+    "address": "Saranta İş Merkezi, Dereüstü Sk. No:11/30, Karacaibrahim Mah., Kırklareli",
     "rights": "Tous droits réservés.",
     "lastUpdated": "Dernière mise à jour",
     "email": "E-mail",
-    "addressLabel": "Adresse"
+    "addressLabel": "Adresse",
+    "privacy": "Confidentialité"
   },
   "Home": {
     "heroTag": "ORL & Chirurgie Cervico-Faciale",
@@ -93,7 +94,7 @@
     "title": "Contact et Rendez-vous",
     "desc": "Vous pouvez nous joindre via nos coordonnées pour obtenir des informations sur les examens et procédures, ou pour prendre rendez-vous.",
     "addressTitle": "Adresse de la Clinique",
-    "addressDesc": "Centre de Kirklareli, Rue Turgutbey. Clinique du Dr. Murat Ayata",
+    "addressDesc": "Karacaibrahim Mahallesi, Dereüstü Sokak No:11/30, Saranta İş Merkezi, Kırklareli Merkez. Cabinet du Dr. Murat Ayata",
     "getDirections": "Obtenir l'itinéraire",
     "onlineBookTitle": "Rendez-vous en ligne",
     "onlineBookDesc": "Vous pouvez visiter notre profil sur le calendrier du docteur pour prendre un rendez-vous en ligne et lire les avis des patients.",
@@ -120,7 +121,9 @@
     "rhinoTitle": "Rhinoplastie en Turquie | Technique ouverte et piézo | Dr. Murat Ayata",
     "rhinoDesc": "Rhinoplastie sur mesure par un chirurgien ORL : plus de 15 ans d’expérience et plus de 5 000 interventions. Techniques ouverte et piézo, séjour de 7 jours, consultation vidéo en ligne.",
     "interTitle": "Patients internationaux | Rhinoplastie en Turquie | Dr. Murat Ayata",
-    "interDesc": "Planifiez votre intervention en Turquie grâce à une consultation vidéo personnelle. Autorisé pour le tourisme médical, séjour de 7 jours pour une rhinoplastie."
+    "interDesc": "Planifiez votre intervention en Turquie grâce à une consultation vidéo personnelle. Autorisé pour le tourisme médical, séjour de 7 jours pour une rhinoplastie.",
+    "privacyTitle": "Politique de confidentialité (anglais) | Dr. Murat Ayata",
+    "privacyDesc": "Politique de confidentialité du cabinet du Dr Murat Ayata (en anglais)."
   },
   "Rhinoplasty": {
     "tag": "Rhinoplastie",
@@ -255,6 +258,7 @@
   "Consent": {
     "text": "Nous utilisons des cookies pour mesurer l’utilisation de notre site et améliorer nos publicités. Vous pouvez les accepter ou les refuser.",
     "accept": "Accepter",
-    "decline": "Refuser"
+    "decline": "Refuser",
+    "more": "Politique de confidentialité"
   }
 }

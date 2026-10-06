@@ -83,7 +83,7 @@ export default function Footer() {
       </div>
       <div className={styles.bottom}>
         <div className={`container ${styles.bottomContainer}`}>
-          <p>&copy; {year} {tNav('title')}. {t('rights')}</p>
+          <p>&copy; {year} {tNav('title')}. {t('rights')} · <Link href="/gizlilik-politikasi" className={styles.accentLink}>{t('privacy')}</Link></p>
           <p style={{ marginTop: '0.5rem', opacity: 0.6, fontSize: '0.8rem' }}>
             {t('lastUpdated')}: {year}/{new Date().getMonth() + 1 < 10 ? `0${new Date().getMonth() + 1}` : new Date().getMonth() + 1}
           </p>
