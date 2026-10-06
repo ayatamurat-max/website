@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { Link } from '@/i18n/navigation';
 import Image from 'next/image';
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 import styles from './Header.module.css';
 import LanguageSwitcher from './LanguageSwitcher';
 import ProcedureIcon from './ProcedureIcon';
@@ -11,6 +11,7 @@ import ProcedureIcon from './ProcedureIcon';
 export default function Header() {
   const t = useTranslations('Header');
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const locale = useLocale();
 
   const toggleMenu = () => setIsMenuOpen(!isMenuOpen);
   const closeMenu = () => setIsMenuOpen(false);
@@ -40,7 +41,12 @@ export default function Header() {
         </div>
 
         <nav className={`${styles.nav} ${isMenuOpen ? styles.navOpen : ''}`}>
-          <Link href="/" className={styles.navLink} onClick={closeMenu}>{t('home')}</Link>
+          {/* Yabancı dillerde "Ana Sayfa" yerine Yurt Dışı Hastalar sayfası (ana sayfaya logodan gidilir) */}
+          {locale === 'tr' ? (
+            <Link href="/" className={styles.navLink} onClick={closeMenu}>{t('home')}</Link>
+          ) : (
+            <Link href="/international-patients" className={styles.navLink} onClick={closeMenu}>{t('international')}</Link>
+          )}
           <Link href="/hakkimda" className={styles.navLink} onClick={closeMenu}>{t('about')}</Link>
           <Link href="/rinoplasti" className={styles.navLink} onClick={closeMenu} style={{ display: 'inline-flex', alignItems: 'center', gap: '0.4rem' }}>
             <ProcedureIcon name="rhinoplasty" size={18} />

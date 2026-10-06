@@ -44,6 +44,7 @@ export default function Footer() {
           <ul className={styles.list}>
             <li><Link href="/">{tNav('home')}</Link></li>
             <li><Link href="/hakkimda">{tNav('about')}</Link></li>
+            <li><Link href="/international-patients">{tNav('international')}</Link></li>
             <li>
               <Link href="/rinoplasti" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.4rem' }}>
                 <ProcedureIcon name="rhinoplasty" size={16} />
