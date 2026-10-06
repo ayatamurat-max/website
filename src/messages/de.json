@@ -15,11 +15,12 @@
     "description": "Facharzt für Hals-Nasen-Ohrenheilkunde und Kopf-Hals-Chirurgie. Moderne, evidenzbasierte Lösungen für Ästhetik und Gesundheit.",
     "menuTitle": "Schnellmenü",
     "contactTitle": "Kontakt",
-    "address": "Kırklareli Zentrum, Turgutbey Str.",
+    "address": "Saranta İş Merkezi, Dereüstü Sk. No:11/30, Karacaibrahim Mah., Kırklareli",
     "rights": "Alle Rechte vorbehalten.",
     "lastUpdated": "Zuletzt aktualisiert",
     "email": "E-Mail",
-    "addressLabel": "Adresse"
+    "addressLabel": "Adresse",
+    "privacy": "Datenschutz"
   },
   "Home": {
     "heroTag": "HNO & Kopf-Hals-Chirurgie",
@@ -93,7 +94,7 @@
     "title": "Kontakt & Termin",
     "desc": "Sie können uns über unsere Kontaktdaten erreichen, um Informationen zu Untersuchungen und Verfahren zu erhalten oder einen Termin zu vereinbaren.",
     "addressTitle": "Klinikadresse",
-    "addressDesc": "Zentrum von Kirklareli, Turgutbey Str. Klinik von Op. Dr. Murat Ayata",
+    "addressDesc": "Karacaibrahim Mahallesi, Dereüstü Sokak No:11/30, Saranta İş Merkezi, Kırklareli Merkez. Praxis Op. Dr. Murat Ayata",
     "getDirections": "Route berechnen",
     "onlineBookTitle": "Online-Termin",
     "onlineBookDesc": "Sie können unser Profil im Doctolib besuchen, um einen Online-Termin zu vereinbaren und Patientenbewertungen zu lesen.",
@@ -120,7 +121,9 @@
     "rhinoTitle": "Rhinoplastik in der Türkei | Offene & Piezo-Technik | Op. Dr. Murat Ayata",
     "rhinoDesc": "Individuelle Rhinoplastik durch einen HNO-Chirurgen mit über 15 Jahren Erfahrung und mehr als 5.000 Eingriffen. Offene und Piezo-Technik, 7 Tage Aufenthalt, Online-Videoberatung.",
     "interTitle": "Internationale Patienten | Rhinoplastik in der Türkei | Op. Dr. Murat Ayata",
-    "interDesc": "Planen Sie Ihre Operation in der Türkei mit einer persönlichen Online-Videoberatung. Zugelassen für Gesundheitstourismus, 7 Tage Aufenthalt bei Rhinoplastik."
+    "interDesc": "Planen Sie Ihre Operation in der Türkei mit einer persönlichen Online-Videoberatung. Zugelassen für Gesundheitstourismus, 7 Tage Aufenthalt bei Rhinoplastik.",
+    "privacyTitle": "Datenschutzerklärung (Englisch) | Op. Dr. Murat Ayata",
+    "privacyDesc": "Datenschutzerklärung der Praxis Op. Dr. Murat Ayata (in englischer Sprache)."
   },
   "Rhinoplasty": {
     "tag": "Rhinoplastik",
@@ -255,6 +258,7 @@
   "Consent": {
     "text": "Wir verwenden Cookies, um die Nutzung unserer Website zu messen und unsere Werbung zu verbessern. Sie können zustimmen oder ablehnen.",
     "accept": "Akzeptieren",
-    "decline": "Ablehnen"
+    "decline": "Ablehnen",
+    "more": "Datenschutzerklärung"
   }
 }

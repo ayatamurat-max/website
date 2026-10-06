@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react';
 import { useTranslations } from 'next-intl';
 import { CONSENT_KEY } from './MetaPixel';
+import { Link } from '@/i18n/navigation';
 import styles from './CookieConsent.module.css';
 
 export default function CookieConsent() {
@@ -33,7 +34,10 @@ export default function CookieConsent() {
 
   return (
     <div className={styles.banner} role="dialog" aria-live="polite" aria-label={t('accept')}>
-      <p className={styles.text}>{t('text')}</p>
+      <p className={styles.text}>
+        {t('text')}{' '}
+        <Link href="/gizlilik-politikasi" className={styles.more}>{t('more')}</Link>
+      </p>
       <div className={styles.actions}>
         <button type="button" className={styles.decline} onClick={() => choose('denied')}>
           {t('decline')}

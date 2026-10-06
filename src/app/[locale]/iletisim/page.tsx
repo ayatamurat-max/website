@@ -1,6 +1,7 @@
 import { Metadata } from 'next';
 import { buildMetadata } from '@/i18n/metadata';
 import DoktorTakvimiWidget from '../../components/DoktorTakvimiWidget';
+import { MAPS_EMBED_URL, MAPS_LINK_URL } from '@/lib/clinic';
 import { useLocale, useTranslations } from 'next-intl';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
@@ -32,7 +33,7 @@ export default function Iletisim() {
               
               <div style={{ width: '100%', height: '300px', borderRadius: 'var(--radius-md)', overflow: 'hidden', marginBottom: '1rem' }}>
                 <iframe 
-                  src="https://maps.google.com/maps?q=41.73361,27.224279&t=&z=16&ie=UTF8&iwloc=&output=embed" 
+                  src={MAPS_EMBED_URL} 
                   width="100%" 
                   height="100%" 
                   style={{ border: 0 }} 
@@ -43,7 +44,7 @@ export default function Iletisim() {
                 ></iframe>
               </div>
               <a 
-                href="https://www.google.com/maps/place/Op.Dr.+Murat+Ayata+Muayenehanesi/@41.73361,27.224279,17z/data=!3m1!4b1!4m6!3m5!1s0x40a75342c3d8a013:0xd7343c6ed8e3e709!8m2!3d41.73361!4d27.224279!16s%2Fg%2F11flz426qc!18m1!1e1?entry=ttu" 
+                href={MAPS_LINK_URL} 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 style={{ display: 'inline-block', color: 'var(--color-primary)', fontWeight: 'bold', textDecoration: 'none', borderBottom: '2px solid var(--color-accent)', paddingBottom: '0.2rem' }}

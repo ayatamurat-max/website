@@ -2,6 +2,7 @@
 
 import { useTranslations } from 'next-intl';
 import styles from './MobileQuickActions.module.css';
+import { MAPS_LINK_URL } from '@/lib/clinic';
 
 export default function MobileQuickActions() {
   const t = useTranslations('Contact');
@@ -9,7 +10,7 @@ export default function MobileQuickActions() {
   const phoneNumber = '+905553332120';
   const whatsappNumber = '905553332120';
   const email = 'info@muratayata.com';
-  const mapsUrl = 'https://www.google.com/maps/place/Op.Dr.+Murat+Ayata+Muayenehanesi/@41.73361,27.224279,17z';
+  const mapsUrl = MAPS_LINK_URL;
 
   return (
     <div className={styles.quickActions}>

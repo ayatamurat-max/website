@@ -15,11 +15,12 @@
     "description": "Otolaryngology & Head and Neck Surgeon. Modern, evidence-based solutions for aesthetics and health.",
     "menuTitle": "Quick Menu",
     "contactTitle": "Contact",
-    "address": "Kirklareli Center, Turgutbey St.",
+    "address": "Saranta İş Merkezi, Dereüstü Sk. No:11/30, Karacaibrahim Mah., Kırklareli",
     "rights": "All rights reserved.",
     "lastUpdated": "Last Updated",
     "email": "Email",
-    "addressLabel": "Address"
+    "addressLabel": "Address",
+    "privacy": "Privacy Policy"
   },
   "Home": {
     "heroTag": "ENT & Head/Neck Surgery",
@@ -93,7 +94,7 @@
     "title": "Contact & Appointment",
     "desc": "You can reach us through our contact details to get information about examinations and procedures, or to make an appointment.",
     "addressTitle": "Clinic Address",
-    "addressDesc": "Kirklareli Center, Turgutbey St. Op. Dr. Murat Ayata Clinic",
+    "addressDesc": "Karacaibrahim Mahallesi, Dereüstü Sokak No:11/30, Saranta İş Merkezi, Kırklareli Merkez. Murat Ayata, MD Clinic",
     "getDirections": "Get Directions",
     "onlineBookTitle": "Online Appointment",
     "onlineBookDesc": "You can visit our Doctor Calendar profile to create an online appointment and read patient reviews.",
@@ -120,7 +121,9 @@
     "rhinoTitle": "Rhinoplasty in Türkiye | Open & Piezo Technique | Murat Ayata, MD",
     "rhinoDesc": "Personalized rhinoplasty by an ENT surgeon with 15+ years of experience and 5,000+ procedures. Open and piezo techniques, 7-day stay, online video consultation.",
     "interTitle": "International Patients | Rhinoplasty in Türkiye | Murat Ayata, MD",
-    "interDesc": "Plan your surgery in Türkiye with a personal online video consultation. Authorized for international health tourism, 7-day stay for rhinoplasty, near the Bulgarian border."
+    "interDesc": "Plan your surgery in Türkiye with a personal online video consultation. Authorized for international health tourism, 7-day stay for rhinoplasty, near the Bulgarian border.",
+    "privacyTitle": "Privacy Policy | Murat Ayata, MD",
+    "privacyDesc": "How the clinic of Murat Ayata, MD collects, uses and protects your personal data, including cookies."
   },
   "Rhinoplasty": {
     "tag": "Rhinoplasty",
@@ -255,6 +258,7 @@
   "Consent": {
     "text": "We use cookies to measure how our website is used and to improve our ads. You can accept or decline.",
     "accept": "Accept",
-    "decline": "Decline"
+    "decline": "Decline",
+    "more": "Privacy policy"
   }
 }
