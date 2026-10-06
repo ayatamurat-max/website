@@ -16,10 +16,10 @@ export default function CerrahiIslemler() {
 
   const surgeries = [
     { icon: 'rhinoplasty' as const, title: t('surgeries.s1_title'), desc: t('surgeries.s1_desc'), href: '/rinoplasti' },
-    { icon: 'septoplasty' as const, title: t('surgeries.s2_title'), desc: t('surgeries.s2_desc') },
-    { icon: 'otoplasty' as const, title: t('surgeries.s3_title'), desc: t('surgeries.s3_desc') },
-    { icon: 'eyelid' as const, title: t('surgeries.s4_title'), desc: t('surgeries.s4_desc') },
-    { icon: 'neck' as const, title: t('surgeries.s5_title'), desc: t('surgeries.s5_desc') }
+    { icon: 'septoplasty' as const, title: t('surgeries.s2_title'), desc: t('surgeries.s2_desc'), href: '/septoplasti' },
+    { icon: 'otoplasty' as const, title: t('surgeries.s3_title'), desc: t('surgeries.s3_desc'), href: '/kepce-kulak' },
+    { icon: 'eyelid' as const, title: t('surgeries.s4_title'), desc: t('surgeries.s4_desc'), href: '/goz-kapagi-estetigi' },
+    { icon: 'neck' as const, title: t('surgeries.s5_title'), desc: t('surgeries.s5_desc'), href: '/boyun-gidi-estetigi' }
   ];
 
   return (

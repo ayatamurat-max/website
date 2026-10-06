@@ -8,15 +8,17 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 
 import { useTranslations } from 'next-intl';
 import ProcedureIcon from '../../components/ProcedureIcon';
+import { Link } from '@/i18n/navigation';
 
 export default function MedikalIslemler() {
   const t = useTranslations('Medical');
+  const tRhino = useTranslations('Rhinoplasty');
 
   const treatments = [
-    { icon: 'medical' as const, title: t('treatments.t1_title'), desc: t('treatments.t1_desc') },
-    { icon: 'filler' as const, title: t('treatments.t2_title'), desc: t('treatments.t2_desc') },
-    { icon: 'meso' as const, title: t('treatments.t3_title'), desc: t('treatments.t3_desc') },
-    { icon: 'rejuvenation' as const, title: t('treatments.t4_title'), desc: t('treatments.t4_desc') }
+    { icon: 'medical' as const, title: t('treatments.t1_title'), desc: t('treatments.t1_desc'), href: '/botoks' },
+    { icon: 'filler' as const, title: t('treatments.t2_title'), desc: t('treatments.t2_desc'), href: '/dermal-dolgu' },
+    { icon: 'meso' as const, title: t('treatments.t3_title'), desc: t('treatments.t3_desc'), href: '/mezoterapi-prp' },
+    { icon: 'rejuvenation' as const, title: t('treatments.t4_title'), desc: t('treatments.t4_desc'), href: '/ameliyatsiz-yuz-genclestirme' }
   ];
 
   return (
@@ -38,6 +40,9 @@ export default function MedikalIslemler() {
               </div>
               <h3 style={{ marginBottom: '1rem', fontSize: '1.25rem' }}>{tr.title}</h3>
               <p style={{ color: 'var(--color-text-light)' }}>{tr.desc}</p>
+              <Link href={tr.href} style={{ display: 'inline-block', marginTop: '1rem', color: 'var(--color-secondary)', fontWeight: 600 }}>
+                {tRhino('learnMore')}
+              </Link>
             </div>
           ))}
         </div>
