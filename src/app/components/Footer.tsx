@@ -45,6 +45,12 @@ export default function Footer() {
             <li><Link href="/">{tNav('home')}</Link></li>
             <li><Link href="/hakkimda">{tNav('about')}</Link></li>
             <li>
+              <Link href="/rinoplasti" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.4rem' }}>
+                <ProcedureIcon name="rhinoplasty" size={16} />
+                {tNav('rhinoplasty')}
+              </Link>
+            </li>
+            <li>
               <Link href="/medikal-islemler" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.4rem' }}>
                 <ProcedureIcon name="medical" size={16} />
                 {tNav('medical')}

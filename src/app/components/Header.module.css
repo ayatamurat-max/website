@@ -191,3 +191,14 @@
 .menuActive span:last-child {
   transform: rotate(-45deg);
 }
+
+/* Menüde 6 öğe var: orta genişlikteki ekranlarda sığması için aralığı daralt */
+@media (min-width: 992px) and (max-width: 1239px) {
+  .nav {
+    gap: 1.1rem;
+  }
+
+  .navLink {
+    font-size: 0.88rem;
+  }
+}

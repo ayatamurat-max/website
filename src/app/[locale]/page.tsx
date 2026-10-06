@@ -62,7 +62,7 @@ export default function Home() {
           </div>
 
           <div className={styles.servicesGrid}>
-            <Link href="/cerrahi-islemler" className={styles.serviceCard}>
+            <Link href="/rinoplasti" className={styles.serviceCard}>
               <div className={styles.cardImage}>
                 <div className={`${styles.cardPlaceholder} ${styles.blueGradient}`}>
                    <ProcedureIcon name="rhinoplasty" size={52} strokeWidth={1.25} className={styles.cardIcon} />

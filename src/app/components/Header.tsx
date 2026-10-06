@@ -42,6 +42,10 @@ export default function Header() {
         <nav className={`${styles.nav} ${isMenuOpen ? styles.navOpen : ''}`}>
           <Link href="/" className={styles.navLink} onClick={closeMenu}>{t('home')}</Link>
           <Link href="/hakkimda" className={styles.navLink} onClick={closeMenu}>{t('about')}</Link>
+          <Link href="/rinoplasti" className={styles.navLink} onClick={closeMenu} style={{ display: 'inline-flex', alignItems: 'center', gap: '0.4rem' }}>
+            <ProcedureIcon name="rhinoplasty" size={18} />
+            {t('rhinoplasty')}
+          </Link>
           <Link href="/medikal-islemler" className={styles.navLink} onClick={closeMenu} style={{ display: 'inline-flex', alignItems: 'center', gap: '0.4rem' }}>
             <ProcedureIcon name="medical" size={18} />
             {t('medical')}
