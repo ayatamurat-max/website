@@ -1,12 +1,18 @@
-import Link from 'next/link';
+import { Link } from '@/i18n/navigation';
 import Image from 'next/image';
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 import styles from './Footer.module.css';
 
 export default function Footer() {
   const year = new Date().getFullYear();
   const t = useTranslations('Footer');
   const tNav = useTranslations('Header');
+  const tContact = useTranslations('Contact');
+  const locale = useLocale();
+  // Türkiye'deki hastalar Doktor Takvimi'nden, yurt dışındaki hastalar WhatsApp'tan randevu alır
+  const bookingUrl = locale === 'tr'
+    ? 'https://www.doktortakvimi.com/murat-ayata/kulak-burun-bogaz/kirklareli'
+    : 'https://wa.me/905553332120';
   
   return (
     <footer className={styles.footer}>
@@ -23,7 +29,7 @@ export default function Footer() {
             <a href="https://www.instagram.com/op.dr.muratayata/" target="_blank" rel="noopener noreferrer" className={styles.socialIcon} aria-label="Instagram">
               <Image src="/images/instagram-icon.svg" alt="" width={20} height={20} />
             </a>
-            <a href="https://twitter.com/muratayataMD" target="_blank" rel="noopener noreferrer" className={styles.socialIcon} aria-label="Twitter">
+            <a href="https://x.com/muratayataMD" target="_blank" rel="noopener noreferrer" className={styles.socialIcon} aria-label="X">
               <Image src="/images/twitter-icon.svg" alt="" width={20} height={20} />
             </a>
             <a href="https://www.linkedin.com/in/murat-ayata-08203212b/" target="_blank" rel="noopener noreferrer" className={styles.socialIcon} aria-label="LinkedIn">
@@ -56,10 +62,11 @@ export default function Footer() {
         <div className={styles.contact}>
           <h3 className={styles.title}>{t('contactTitle')}</h3>
           <ul className={styles.list}>
-            <li><strong>Adres:</strong> {t('address')}</li>
-            <li><strong>Email:</strong> <a href="mailto:info@muratayata.com" className={styles.accentLink}>info@muratayata.com</a></li>
+            <li><strong>{t('addressLabel')}:</strong> {t('address')}</li>
+            <li><strong>{tContact('phoneLabel')}:</strong> <a href="tel:+905553332120" className={styles.accentLink}>+90 555 333 21 20</a></li>
+            <li><strong>{t('email')}:</strong> <a href="mailto:info@muratayata.com" className={styles.accentLink}>info@muratayata.com</a></li>
             <li>
-              <a href="https://www.doktortakvimi.com/murat-ayata/kulak-burun-bogaz/kirklareli" target="_blank" rel="noopener noreferrer" className={styles.accentLink}>
+              <a href={bookingUrl} target="_blank" rel="noopener noreferrer" className={styles.accentLink}>
                 {tNav('book')}
               </a>
             </li>

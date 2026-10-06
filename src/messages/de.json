@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "Opr. Dr. Murat Ayata",
+    "title": "Op. Dr. Murat Ayata",
     "subtitle": "HNO & Gesichtschirurgie",
     "home": "Startseite",
     "about": "Über mich",
@@ -16,7 +16,8 @@
     "address": "Kırklareli Zentrum, Turgutbey Str.",
     "rights": "Alle Rechte vorbehalten.",
     "lastUpdated": "Zuletzt aktualisiert",
-    "email": "E-Mail"
+    "email": "E-Mail",
+    "addressLabel": "Adresse"
   },
   "Home": {
     "heroTag": "HNO & Kopf-Hals-Chirurgie",
@@ -38,7 +39,7 @@
     "eyelidDesc": "Operationen zur Beseitigung struktureller Verformungen in der Augenkontur und im Gesichtsbereich unter Verwendung mikrokirurgischer Prinzipien.",
     "readMore": "Medizinische Infos →",
     "aboutTag": "Über mich",
-    "aboutTitle": "Opr. Dr. Murat Ayata",
+    "aboutTitle": "Op. Dr. Murat Ayata",
     "aboutP1": "Mit jahrelanger Erfahrung lege ich bei der Behandlung von Hals-Nasen-Ohren-Erkrankungen und der ästhetischen Gesichtschirurgie Wert auf die Patientenzufriedenheit.",
     "aboutP2": "Die Gesichtsanatomie und Erwartungen jedes Patienten sind einzigartig. Daher ist meine grundlegende Behandlungsphilosophie, 'natürlich aussehende, atmende Ergebnisse zu erzielen, die auf Sie zugeschnitten sind'.",
     "moreInfo": "Mehr Informationen",
@@ -97,6 +98,22 @@
     "mobileCall": "Anrufen",
     "mobileWhatsapp": "WhatsApp",
     "mobileEmail": "E-Mail",
-    "mobileLocation": "Standort"
+    "mobileLocation": "Standort",
+    "whatsappTitle": "Schreiben Sie uns auf WhatsApp",
+    "whatsappDesc": "Für Fragen oder zur Planung Ihres Besuchs schreiben Sie uns auf WhatsApp oder rufen Sie uns an.",
+    "whatsappCta": "Auf WhatsApp schreiben",
+    "phoneLabel": "Telefon"
+  },
+  "Meta": {
+    "homeTitle": "Op. Dr. Murat Ayata | Rhinoplastik & Gesichtsästhetik in der Türkei",
+    "homeDesc": "Individuell geplante Rhinoplastik, Septumplastik, Ohranlegung und Lidstraffung bei Op. Dr. Murat Ayata, Facharzt für HNO-Heilkunde, Kopf- und Halschirurgie in Kırklareli, Türkei.",
+    "aboutTitle": "Über mich | Op. Dr. Murat Ayata",
+    "aboutDesc": "Ausbildung und Berufserfahrung von Op. Dr. Murat Ayata, Facharzt für HNO-Heilkunde in Kırklareli, Türkei.",
+    "surgicalTitle": "Rhinoplastik, Septumplastik, Otoplastik | Op. Dr. Murat Ayata",
+    "surgicalDesc": "Rhinoplastik, Septumplastik, Ohranlegung, Lidstraffung und Halsstraffung, individuell für jeden Patienten geplant.",
+    "medicalTitle": "Botox, Filler & Mesotherapie | Op. Dr. Murat Ayata",
+    "medicalDesc": "Nicht-operative ästhetische Behandlungen: Botulinumtoxin, Hyaluronfiller, Mesotherapie, PRP und Gesichtsverjüngung.",
+    "contactTitle": "Kontakt & Beratung | Op. Dr. Murat Ayata",
+    "contactDesc": "Kontaktieren Sie Op. Dr. Murat Ayata in Kırklareli, Türkei, per WhatsApp, Telefon oder E-Mail."
   }
 }

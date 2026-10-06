@@ -16,7 +16,8 @@
     "address": "Centre de Kırklareli, Rue Turgutbey",
     "rights": "Tous droits réservés.",
     "lastUpdated": "Dernière mise à jour",
-    "email": "E-mail"
+    "email": "E-mail",
+    "addressLabel": "Adresse"
   },
   "Home": {
     "heroTag": "ORL & Chirurgie Cervico-Faciale",
@@ -97,6 +98,22 @@
     "mobileCall": "Appeler",
     "mobileWhatsapp": "WhatsApp",
     "mobileEmail": "E-mail",
-    "mobileLocation": "Localisation"
+    "mobileLocation": "Localisation",
+    "whatsappTitle": "Écrivez-nous sur WhatsApp",
+    "whatsappDesc": "Pour toute question ou pour planifier votre visite, écrivez-nous sur WhatsApp ou appelez-nous.",
+    "whatsappCta": "Écrire sur WhatsApp",
+    "phoneLabel": "Téléphone"
+  },
+  "Meta": {
+    "homeTitle": "Dr. Murat Ayata | Rhinoplastie et chirurgie esthétique du visage en Turquie",
+    "homeDesc": "Rhinoplastie, septoplastie, otoplastie et blépharoplastie planifiées sur mesure par le Dr Murat Ayata, spécialiste ORL et chirurgie cervico-faciale à Kırklareli, Turquie.",
+    "aboutTitle": "À propos | Dr. Murat Ayata",
+    "aboutDesc": "Formation et parcours du Dr Murat Ayata, spécialiste ORL et chirurgie cervico-faciale à Kırklareli, Turquie.",
+    "surgicalTitle": "Rhinoplastie, septoplastie, otoplastie | Dr. Murat Ayata",
+    "surgicalDesc": "Interventions chirurgicales : rhinoplastie, septoplastie, otoplastie, blépharoplastie et lifting cervical, planifiées individuellement.",
+    "medicalTitle": "Botox, fillers et mésothérapie | Dr. Murat Ayata",
+    "medicalDesc": "Traitements esthétiques non chirurgicaux : toxine botulique, acide hyaluronique, mésothérapie, PRP et rajeunissement du visage.",
+    "contactTitle": "Contact et consultation | Dr. Murat Ayata",
+    "contactDesc": "Contactez le Dr Murat Ayata à Kırklareli, Turquie, par WhatsApp, téléphone ou e-mail."
   }
 }

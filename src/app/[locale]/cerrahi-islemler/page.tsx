@@ -1,9 +1,10 @@
 import { Metadata } from 'next';
+import { buildMetadata } from '@/i18n/metadata';
 
-export const metadata: Metadata = {
-  title: 'Cerrahi İşlemler | Opr. Dr. Murat Ayata',
-  description: 'Rinoplasti, kepçe kulak cerrahisi, septoplasti ve blefaroplasti operasyonları hakkında detaylar.',
-};
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params;
+  return buildMetadata(locale, 'surgical', '/cerrahi-islemler');
+}
 
 import { useTranslations } from 'next-intl';
 
