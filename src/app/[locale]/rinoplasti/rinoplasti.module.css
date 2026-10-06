@@ -392,3 +392,24 @@
     width: 100%;
   }
 }
+
+/* 4 sütunlu kısa bilgi şeridi (işlem sayfaları) */
+.stats4 {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+@media (max-width: 860px) {
+  .stats4 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .stats4 .stat:nth-child(3) {
+    border-left: none;
+  }
+}
+
+@media (max-width: 600px) {
+  .stats4 {
+    grid-template-columns: 1fr;
+  }
+}
