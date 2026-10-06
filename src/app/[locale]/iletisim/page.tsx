@@ -1,14 +1,16 @@
 import { Metadata } from 'next';
+import { buildMetadata } from '@/i18n/metadata';
 import DoktorTakvimiWidget from '../../components/DoktorTakvimiWidget';
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 
-export const metadata: Metadata = {
-  title: 'İletişim & Randevu | Opr. Dr. Murat Ayata',
-  description: 'Opr. Dr. Murat Ayata iletişim bilgileri, adres ve randevu alma sayfası.',
-};
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params;
+  return buildMetadata(locale, 'contact', '/iletisim');
+}
 
 export default function Iletisim() {
   const t = useTranslations('Contact');
+  const locale = useLocale();
 
   return (
     <div className="container" style={{ paddingTop: '100px', paddingBottom: '100px', minHeight: '80vh' }}>
@@ -50,7 +52,25 @@ export default function Iletisim() {
               </a>
             </div>
           </div>
-          
+
+          {/* WhatsApp ve telefon: tüm dillerde görünür */}
+          <div style={{ display: 'flex', alignItems: 'flex-start', gap: '1.5rem', padding: '2rem', backgroundColor: 'white', borderRadius: 'var(--radius-lg)', boxShadow: 'var(--shadow-sm)' }}>
+            <div style={{ width: '50px', height: '50px', backgroundColor: 'var(--color-primary-light)', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', color: 'var(--color-accent)', flexShrink: 0, fontWeight: 'bold' }}>💬</div>
+            <div style={{ width: '100%' }}>
+              <h3 style={{ marginBottom: '0.5rem' }}>{t('whatsappTitle')}</h3>
+              <p style={{ color: 'var(--color-text-light)', lineHeight: '1.6', marginBottom: '1rem' }}>{t('whatsappDesc')}</p>
+              <p style={{ marginBottom: '1.25rem' }}>
+                <strong>{t('phoneLabel')}:</strong>{' '}
+                <a href="tel:+905553332120" style={{ color: 'var(--color-primary)', fontWeight: 'bold', textDecoration: 'none' }}>+90 555 333 21 20</a>
+              </p>
+              <a href="https://wa.me/905553332120" target="_blank" rel="noopener noreferrer" className="btn btn-primary">
+                {t('whatsappCta')}
+              </a>
+            </div>
+          </div>
+
+          {/* Doktor Takvimi yalnızca Türkçe sürümde: Türkiye'deki hastalar için */}
+          {locale === 'tr' && (
           <div style={{ display: 'flex', alignItems: 'flex-start', gap: '1.5rem', padding: '2rem', backgroundColor: 'white', borderRadius: 'var(--radius-lg)', boxShadow: 'var(--shadow-sm)' }}>
             <div style={{ width: '50px', height: '50px', backgroundColor: 'var(--color-primary-light)', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', color: 'var(--color-accent)', flexShrink: 0, fontWeight: 'bold' }}>📅</div>
             <div style={{ width: '100%' }}>
@@ -61,6 +81,7 @@ export default function Iletisim() {
               <DoktorTakvimiWidget />
             </div>
           </div>
+          )}
         </div>
       </div>
     </div>

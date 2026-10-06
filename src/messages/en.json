@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "Opr. Dr. Murat Ayata",
+    "title": "Murat Ayata, MD",
     "subtitle": "ENT & Facial Plastic Surgery",
     "home": "Home",
     "about": "About Me",
@@ -16,7 +16,8 @@
     "address": "Kirklareli Center, Turgutbey St.",
     "rights": "All rights reserved.",
     "lastUpdated": "Last Updated",
-    "email": "Email"
+    "email": "Email",
+    "addressLabel": "Address"
   },
   "Home": {
     "heroTag": "ENT & Head/Neck Surgery",
@@ -38,7 +39,7 @@
     "eyelidDesc": "Operations aimed at eliminating structural deformations in the eye contour and facial region using microsurgery principles.",
     "readMore": "Medical Info →",
     "aboutTag": "About Me",
-    "aboutTitle": "Opr. Dr. Murat Ayata",
+    "aboutTitle": "Murat Ayata, MD",
     "aboutP1": "With years of experience, I prioritize patient satisfaction in the treatment of Ear, Nose, and Throat diseases and facial aesthetic surgery.",
     "aboutP2": "Every patient's facial anatomy and expectations are unique. That's why my basic philosophy in treatment is to achieve \"natural-looking, breathing results tailored to you.\"",
     "moreInfo": "More Information",
@@ -48,8 +49,8 @@
   "AboutMe": {
     "tag": "Biography",
     "title": "About Me",
-    "bio1": "Born in 1984 in Trabzon. He completed his primary education at Akçaabat Central Primary School and Ardeşen Cumhuriyet Primary School, and his middle and high school education at Rize Pazar Ahmet Tahtakılıç Anatolian High School.",
-    "bio2": "After completing his University Education at Ege University Faculty of Medicine, he completed his specialization training in Otorhinolaryngology at Ankara Training and Research Hospital.",
+    "bio1": "Born in 1984 in Trabzon, Türkiye, he completed his primary education at Akçaabat Central Primary School and Ardeşen Cumhuriyet Primary School, and his secondary education at Rize Pazar Ahmet Tahtakılıç Anatolian High School.",
+    "bio2": "After graduating from Ege University Faculty of Medicine, he completed his residency in Otorhinolaryngology at Ankara Training and Research Hospital.",
     "bio3": "He worked at Kırklareli State Hospital between 2014-2018, and at Kırklareli Private Doğuş Medical Center and Lüleburgaz Private Medikent Hospital between 2018-2023. Since 2023, he has been working in his private practice in Kırklareli.",
     "bio4": "He is married and the father of two daughters, Ada and Nil."
   },
@@ -97,6 +98,22 @@
     "mobileCall": "Call",
     "mobileWhatsapp": "WhatsApp",
     "mobileEmail": "Email",
-    "mobileLocation": "Location"
+    "mobileLocation": "Location",
+    "whatsappTitle": "Message Us on WhatsApp",
+    "whatsappDesc": "For questions or to plan your visit, message us on WhatsApp or give us a call.",
+    "whatsappCta": "Chat on WhatsApp",
+    "phoneLabel": "Phone"
+  },
+  "Meta": {
+    "homeTitle": "Murat Ayata, MD | Rhinoplasty & Facial Aesthetic Surgery in Türkiye",
+    "homeDesc": "Personalized rhinoplasty, septoplasty, otoplasty and eyelid surgery by Murat Ayata, MD, Otolaryngology Head and Neck Surgery Specialist in Kırklareli, Türkiye. Authorized for international health tourism.",
+    "aboutTitle": "About | Murat Ayata, MD",
+    "aboutDesc": "Education, training and experience of Murat Ayata, MD, Otolaryngology Head and Neck Surgery Specialist in Kırklareli, Türkiye.",
+    "surgicalTitle": "Rhinoplasty, Septoplasty & Otoplasty | Murat Ayata, MD",
+    "surgicalDesc": "Surgical procedures including rhinoplasty, septoplasty, otoplasty, blepharoplasty and neck contouring, planned individually for each patient.",
+    "medicalTitle": "Botox, Fillers & Mesotherapy | Murat Ayata, MD",
+    "medicalDesc": "Non-surgical aesthetic treatments: botulinum toxin, dermal fillers, mesotherapy, PRP and facial rejuvenation.",
+    "contactTitle": "Contact & Consultation | Murat Ayata, MD",
+    "contactDesc": "Contact Murat Ayata, MD in Kırklareli, Türkiye via WhatsApp, phone or email to plan your consultation."
   }
 }

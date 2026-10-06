@@ -1,7 +1,14 @@
 import Image from "next/image";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { useTranslations } from "next-intl";
+import type { Metadata } from "next";
+import { buildMetadata } from "@/i18n/metadata";
 import styles from "./page.module.css";
+
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params;
+  return buildMetadata(locale, "home", "/");
+}
 
 export default function Home() {
   const t = useTranslations('Home');
@@ -13,7 +20,7 @@ export default function Home() {
         <div className={styles.heroBackground}>
           <Image 
             src="/images/hero-bg.jpg"
-            alt="Klinik Arkaplan"
+            alt=""
             fill
             className={styles.bgImage}
             priority
@@ -57,7 +64,7 @@ export default function Home() {
             <Link href="/cerrahi-islemler" className={styles.serviceCard}>
               <div className={styles.cardImage}>
                 <div className={`${styles.cardPlaceholder} ${styles.blueGradient}`}>
-                   <Image src="/images/surgical-icon.svg" alt="Cerrahi" width={48} height={48} className={styles.cardIcon} />
+                   <Image src="/images/surgical-icon.svg" alt="" width={48} height={48} className={styles.cardIcon} />
                 </div>
               </div>
               <div className={styles.cardContent}>
@@ -70,7 +77,7 @@ export default function Home() {
             <Link href="/medikal-islemler" className={styles.serviceCard}>
               <div className={styles.cardImage}>
                 <div className={`${styles.cardPlaceholder} ${styles.tealGradient}`}>
-                   <Image src="/images/medical-icon.svg" alt="Medikal" width={48} height={48} className={styles.cardIcon} />
+                   <Image src="/images/medical-icon.svg" alt="" width={48} height={48} className={styles.cardIcon} />
                 </div>
               </div>
               <div className={styles.cardContent}>
@@ -83,7 +90,7 @@ export default function Home() {
             <Link href="/cerrahi-islemler" className={styles.serviceCard}>
               <div className={styles.cardImage}>
                 <div className={`${styles.cardPlaceholder} ${styles.goldGradient}`}>
-                   <Image src="/images/surgical-icon.svg" alt="Cerrahi" width={48} height={48} className={styles.cardIcon} />
+                   <Image src="/images/surgical-icon.svg" alt="" width={48} height={48} className={styles.cardIcon} />
                 </div>
               </div>
               <div className={styles.cardContent}>
@@ -102,7 +109,7 @@ export default function Home() {
           <div className={styles.aboutImageWrapper}>
             <Image 
               src="/images/portrait.png"
-              alt="Opr. Dr. Murat Ayata"
+              alt={t('aboutTitle')}
               fill
               className={styles.aboutImageImg}
               sizes="(max-width: 992px) 100vw, 50vw"

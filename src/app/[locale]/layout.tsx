@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
 import "../globals.css";
 
+import { SITE_URL } from "@/i18n/metadata";
+
+// Sayfa başlık ve açıklamaları her sayfada dile göre üretilir (src/i18n/metadata.ts)
 export const metadata: Metadata = {
-  title: "Opr. Dr. Murat Ayata | KBB ve Yüz Estetiği",
-  description: "KBB Uzmanı Opr. Dr. Murat Ayata ile burun estetiği, kepçe kulak cerrahisi, septoplasti, göz kapağı estetiği, gıdı estetiği çözümleri.",
+  metadataBase: new URL(SITE_URL),
 };
 
 import Header from '../components/Header';

@@ -1,15 +1,17 @@
 import { Metadata } from 'next';
+import { buildMetadata } from '@/i18n/metadata';
 import Image from 'next/image';
 
-export const metadata: Metadata = {
-  title: 'Hakkımda | Opr. Dr. Murat Ayata',
-  description: 'Opr. Dr. Murat Ayata kimdir? Kulak Burun Boğaz hastalıkları ve yüz estetiği uzmanlığı hakkında detaylı bilgi.',
-};
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const { locale } = await params;
+  return buildMetadata(locale, 'about', '/hakkimda');
+}
 
 import { useTranslations } from 'next-intl';
 
 export default function Hakkimda() {
   const t = useTranslations('AboutMe');
+  const name = useTranslations('Header')('title');
 
   return (
     <div className="container" style={{ paddingTop: '100px', paddingBottom: '100px', minHeight: '80vh' }}>
@@ -23,15 +25,15 @@ export default function Hakkimda() {
           
           <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
             <div style={{ position: 'relative', width: '100%', aspectRatio: '4/5', borderRadius: 'var(--radius-lg)', overflow: 'hidden', boxShadow: 'var(--shadow-md)' }}>
-               <Image src="/images/portrait.png" alt="Opr. Dr. Murat Ayata Portre" fill style={{ objectFit: 'cover' }} sizes="(max-width: 768px) 100vw, 50vw" />
+               <Image src="/images/portrait.png" alt={name} fill style={{ objectFit: 'cover' }} sizes="(max-width: 768px) 100vw, 50vw" />
             </div>
             <div style={{ position: 'relative', width: '100%', aspectRatio: '1/1', borderRadius: 'var(--radius-lg)', overflow: 'hidden', boxShadow: 'var(--shadow-md)' }}>
-               <Image src="/images/surgery.png" alt="Opr. Dr. Murat Ayata Cerrahi" fill style={{ objectFit: 'cover' }} sizes="(max-width: 768px) 100vw, 50vw" />
+               <Image src="/images/surgery.png" alt={name} fill style={{ objectFit: 'cover' }} sizes="(max-width: 768px) 100vw, 50vw" />
             </div>
           </div>
 
           <div style={{ padding: '2.5rem', backgroundColor: 'var(--color-surface)', borderRadius: 'var(--radius-lg)', boxShadow: 'var(--shadow-sm)' }}>
-            <h3 style={{ color: 'var(--color-primary)', marginBottom: '1.5rem', fontSize: '1.5rem' }}>Opr. Dr. Murat Ayata</h3>
+            <h3 style={{ color: 'var(--color-primary)', marginBottom: '1.5rem', fontSize: '1.5rem' }}>{name}</h3>
             <p style={{ fontSize: '1.1rem', marginBottom: '1.5rem', lineHeight: '1.8' }}>
               {t('bio1')}
             </p>

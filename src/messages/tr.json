@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "Opr. Dr. Murat Ayata",
+    "title": "Op. Dr. Murat Ayata",
     "subtitle": "KBB & Yüz Estetiği",
     "home": "Anasayfa",
     "about": "Hakkımda",
@@ -16,7 +16,8 @@
     "address": "Kırklareli Merkez, Turgutbey Cad.",
     "rights": "Tüm hakları saklıdır.",
     "lastUpdated": "Son Güncelleme",
-    "email": "E-posta"
+    "email": "E-posta",
+    "addressLabel": "Adres"
   },
   "Home": {
     "heroTag": "KBB & Baş Boyun Cerrahisi",
@@ -25,8 +26,8 @@
     "heroDesc": "Amacımız yeni bir yüz oluşturmak değil, mevcut yüzünüzün en iyi halini ortaya çıkarmaktır.",
     "heroSigName": "Op. Dr. Murat Ayata",
     "heroSigTitle": "Kulak Burun Boğaz Baş ve Boyun Cerrahisi Uzmanı",
-    "bookNow": "Randevu Al!",
-    "medicalProcedures": "Tıbbi İşlemler",
+    "bookNow": "Randevu Al",
+    "medicalProcedures": "İşlemleri İnceleyin",
     "servicesTag": "Uzmanlık Alanlarım",
     "servicesTitle": "Size Özel Yaklaşımlar",
     "servicesDesc": "Sağlığınıza ve estetik görünümünüze kavuşmanız için sunduğumuz profesyonel çözümler.",
@@ -38,7 +39,7 @@
     "eyelidDesc": "Göz çevresi ve yüz bölgesindeki yapısal deformasyonların mikrocerrahi prensipleriyle giderilmesine yönelik operasyonlar.",
     "readMore": "Tıbbi Bilgi →",
     "aboutTag": "Hakkımda",
-    "aboutTitle": "Opr. Dr. Murat Ayata",
+    "aboutTitle": "Op. Dr. Murat Ayata",
     "aboutP1": "Yılların getirdiği tecrübe ile Kulak Burun Boğaz hastalıklarının tedavisinde ve yüz estetiği cerrahisinde hasta memnuniyetini ön planda tutuyorum.",
     "aboutP2": "Her hastanın yüz anatomisi ve beklentisi benzersizdir. Bu nedenle tedavideki temel felsefem, \"size en uygun ve nefes alan, doğal görünümlü\" sonuçlar elde etmektir.",
     "moreInfo": "Daha Fazla Bilgi",
@@ -48,10 +49,10 @@
   "AboutMe": {
     "tag": "Özgeçmiş",
     "title": "Hakkımda",
-    "bio1": "1984’te Trabzon’da doğdu. İlköğrenimini Akçaabat Merkez İlkokulu ve Ardeşen Cumhuriyet İlkokulu’nda, orta ve lise öğrenimini Rize Pazar Ahmet Tahtakılıç Anadolu Lisesi’nde tamamladı.",
-    "bio2": "Üniversite Eğitimini Ege Üniversitesi Tıp Fakültesi’nde tamaladıktan sonra Ankara Eğitim ve Araştırma Hastanesi’nde Kulak Burun Boğaz Hastalıkları alanında uzmanlık eğitimini tamamlamıştır.",
-    "bio3": "2014-2018 yılları arasında Kırklareli Devlet Hastanesi’nde, 2018-2023 yılları arasında ise Kırklareli Özel Doğuş Tıp Merkezi ve Lüleburgaz Özel Medikent Hastanesi’nde çalışmıştır. 2023’te itibaren Kırklareli’de kendi muayenehanesinde çalışmaktadır.",
-    "bio4": "Evli, Ada ve Nil adında iki kız babasıdır."
+    "bio1": "1984 yılında Trabzon’da doğdu. İlköğrenimini Akçaabat Merkez İlkokulu ve Ardeşen Cumhuriyet İlkokulu’nda, ortaöğrenimini Rize Pazar Ahmet Tahtakılıç Anadolu Lisesi’nde tamamladı.",
+    "bio2": "Ege Üniversitesi Tıp Fakültesi’nden mezun olduktan sonra Kulak Burun Boğaz Hastalıkları uzmanlık eğitimini Ankara Eğitim ve Araştırma Hastanesi’nde tamamladı.",
+    "bio3": "2014–2018 yılları arasında Kırklareli Devlet Hastanesi’nde, 2018–2023 yılları arasında Kırklareli Özel Doğuş Tıp Merkezi ve Lüleburgaz Özel Medikent Hastanesi’nde görev yaptı. 2023’ten bu yana Kırklareli’deki kendi muayenehanesinde hastalarını kabul etmektedir.",
+    "bio4": "Evli ve Ada ile Nil adında iki kız çocuğu babasıdır."
   },
   "Medical": {
     "tag": "Ameliyatsız Çözümler",
@@ -97,6 +98,22 @@
     "mobileCall": "Ara",
     "mobileWhatsapp": "WhatsApp",
     "mobileEmail": "E-posta",
-    "mobileLocation": "Konum"
+    "mobileLocation": "Konum",
+    "whatsappTitle": "WhatsApp ile Ulaşın",
+    "whatsappDesc": "Sorularınız ve randevu talepleriniz için bize WhatsApp'tan yazabilir veya arayabilirsiniz.",
+    "whatsappCta": "WhatsApp'tan Yazın",
+    "phoneLabel": "Telefon"
+  },
+  "Meta": {
+    "homeTitle": "Op. Dr. Murat Ayata | Kırklareli KBB, Burun Estetiği ve Yüz Estetiği",
+    "homeDesc": "Kırklareli'de KBB ve Baş Boyun Cerrahisi Uzmanı Op. Dr. Murat Ayata: burun estetiği (rinoplasti), septoplasti, kepçe kulak, göz kapağı estetiği ve medikal estetik uygulamaları.",
+    "aboutTitle": "Hakkımda | Op. Dr. Murat Ayata",
+    "aboutDesc": "Op. Dr. Murat Ayata'nın eğitimi, mesleki deneyimi ve Kırklareli'deki muayenehanesi hakkında bilgi.",
+    "surgicalTitle": "Cerrahi İşlemler: Rinoplasti, Septoplasti, Otoplasti | Op. Dr. Murat Ayata",
+    "surgicalDesc": "Rinoplasti, septoplasti, kepçe kulak (otoplasti), göz kapağı estetiği ve boyun-gıdı estetiği operasyonları hakkında bilgi.",
+    "medicalTitle": "Medikal Estetik: Botoks, Dolgu, Mezoterapi | Op. Dr. Murat Ayata",
+    "medicalDesc": "Kırklareli'de ameliyatsız yüz gençleştirme: botoks, dermal dolgu, mezoterapi, PRP ve iğneli radyofrekans uygulamaları.",
+    "contactTitle": "İletişim ve Randevu | Op. Dr. Murat Ayata",
+    "contactDesc": "Op. Dr. Murat Ayata Muayenehanesi adres, telefon, WhatsApp ve online randevu bilgileri. Turgutbey Cad., Kırklareli."
   }
 }

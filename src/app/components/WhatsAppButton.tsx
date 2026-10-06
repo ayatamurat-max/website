@@ -1,9 +1,10 @@
 'use client';
 
-import Image from 'next/image';
+import { useTranslations } from 'next-intl';
 import styles from './WhatsAppButton.module.css';
 
 export default function WhatsAppButton() {
+  const t = useTranslations('Contact');
   const phoneNumber = '905553332120';
   const whatsappUrl = `https://wa.me/${phoneNumber}`;
 
@@ -13,7 +14,7 @@ export default function WhatsAppButton() {
       target="_blank" 
       rel="noopener noreferrer" 
       className={styles.whatsappFloat}
-      aria-label="WhatsApp ile İletişime Geçin"
+      aria-label={t('whatsappCta')}
     >
       <div className={styles.iconWrapper}>
         <svg 
