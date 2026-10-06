@@ -8,12 +8,14 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 
 import { useTranslations } from 'next-intl';
 import ProcedureIcon from '../../components/ProcedureIcon';
+import { Link } from '@/i18n/navigation';
 
 export default function CerrahiIslemler() {
   const t = useTranslations('Surgical');
+  const tRhino = useTranslations('Rhinoplasty');
 
   const surgeries = [
-    { icon: 'rhinoplasty' as const, title: t('surgeries.s1_title'), desc: t('surgeries.s1_desc') },
+    { icon: 'rhinoplasty' as const, title: t('surgeries.s1_title'), desc: t('surgeries.s1_desc'), href: '/rinoplasti' },
     { icon: 'septoplasty' as const, title: t('surgeries.s2_title'), desc: t('surgeries.s2_desc') },
     { icon: 'otoplasty' as const, title: t('surgeries.s3_title'), desc: t('surgeries.s3_desc') },
     { icon: 'eyelid' as const, title: t('surgeries.s4_title'), desc: t('surgeries.s4_desc') },
@@ -39,6 +41,11 @@ export default function CerrahiIslemler() {
               </div>
               <h3 style={{ marginBottom: '1rem', fontSize: '1.4rem', color: 'var(--color-accent)' }}>{s.title}</h3>
               <p style={{ color: 'rgba(255,255,255,0.8)', lineHeight: '1.6' }}>{s.desc}</p>
+              {s.href && (
+                <Link href={s.href} style={{ display: 'inline-block', marginTop: '1.25rem', color: 'var(--color-accent)', fontWeight: 600 }}>
+                  {tRhino('learnMore')}
+                </Link>
+              )}
             </div>
           ))}
         </div>
