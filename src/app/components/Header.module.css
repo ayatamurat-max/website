@@ -43,7 +43,7 @@
   display: none;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1440px) {
   .nav {
     display: flex;
     gap: 2rem;
@@ -51,7 +51,7 @@
 }
 
 /* Mobile Nav */
-@media (max-width: 991px) {
+@media (max-width: 1439px) {
   .nav {
     position: fixed;
     top: 80px;
@@ -113,7 +113,7 @@
   align-items: center;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1440px) {
   .mobileCta {
     display: none;
   }
@@ -123,7 +123,7 @@
   display: none;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1440px) {
   .cta {
     display: flex;
     align-items: center;
@@ -142,7 +142,7 @@
   align-items: center;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1440px) {
   /* On desktop, switcher stays in the header bar too, or next to navigation */
   .headerSwitcher {
     margin-right: 0.5rem;
@@ -163,7 +163,7 @@
   z-index: 101;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1440px) {
   .menuButton {
     display: none;
   }
@@ -192,13 +192,28 @@
   transform: rotate(-45deg);
 }
 
-/* Menüde 6 öğe var: orta genişlikteki ekranlarda sığması için aralığı daralt */
-@media (min-width: 992px) and (max-width: 1239px) {
+
+/* Geniş ekranda tam menü: tek satır, simgesiz, biraz daha geniş kapsayıcı. Daha dar ekranlarda hamburger menü. */
+@media (min-width: 1440px) {
+  .headerContainer {
+    max-width: 1480px;
+  }
+
   .nav {
     gap: 1.1rem;
   }
 
   .navLink {
+    white-space: nowrap;
     font-size: 0.88rem;
+  }
+
+  .navLink svg {
+    display: none;
+  }
+
+  .logo img {
+    width: 180px !important;
+    height: auto !important;
   }
 }
