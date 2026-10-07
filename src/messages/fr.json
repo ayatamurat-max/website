@@ -9,7 +9,8 @@
     "contact": "Contact",
     "book": "Prendre Rendez-vous",
     "rhinoplasty": "Rhinoplastie",
-    "international": "Patients internationaux"
+    "international": "Patients internationaux",
+    "blog": "Blog"
   },
   "Footer": {
     "description": "Spécialiste en Oto-Rhino-Laryngologie et Chirurgie Cervico-Faciale. Solutions modernes et fondées sur des preuves pour l'esthétique et la santé.",
@@ -139,7 +140,9 @@
     "mesoTitle": "Mésothérapie & PRP | Dr. Murat Ayata",
     "mesoDesc": "Mésothérapie et PRP pour la qualité de la peau et les cheveux qui s’affinent, avec un plan de séances sur mesure.",
     "rejuvenationTitle": "Rajeunissement du visage sans chirurgie | Dr. Murat Ayata",
-    "rejuvenationDesc": "Fils tenseurs, skin boosters et radiofréquence avec micro-aiguilles pour une peau raffermie et ravivée."
+    "rejuvenationDesc": "Fils tenseurs, skin boosters et radiofréquence avec micro-aiguilles pour une peau raffermie et ravivée.",
+    "blogTitle": "Blog : rhinoplastie, respiration et esthétique du visage | Dr. Murat Ayata",
+    "blogDesc": "Les réponses du Dr Murat Ayata, chirurgien ORL, aux questions fréquentes sur la rhinoplastie, la septoplastie et l’esthétique du visage."
   },
   "Rhinoplasty": {
     "tag": "Rhinoplastie",
@@ -643,5 +646,25 @@
       "f5Q": "Je viens de l’étranger. Combien de temps dois-je rester ?",
       "f5A": "Aucune nuit sur place n’est nécessaire. Vous pouvez rentrer le jour même du soin."
     }
+  },
+  "Blog": {
+    "tag": "Blog",
+    "title": "Les questions de mes patients",
+    "intro": "Les réponses d’un chirurgien ORL aux questions fréquentes sur la rhinoplastie, la respiration et l’esthétique du visage.",
+    "readMore": "Lire l’article →",
+    "minRead": "min de lecture",
+    "back": "← Tous les articles",
+    "ctaTitle": "Parlons de votre cas",
+    "ctaDesc": "Chaque nez est différent. Réservez une consultation vidéo pour une évaluation personnalisée.",
+    "cta": "Réserver une consultation vidéo",
+    "related": "Intervention associée",
+    "disclaimer": "Cet article est fourni à titre d’information générale et ne remplace pas un examen.",
+    "englishNote": "Cet article est actuellement disponible en anglais uniquement.",
+    "author": "Dr. Murat Ayata",
+    "authorRole": "Spécialiste ORL et chirurgie cervico-faciale",
+    "waMessage": "Bonjour, j’ai lu votre article de blog et je souhaite réserver une consultation vidéo en ligne.",
+    "instagram": "Voir la vidéo sur Instagram →",
+    "latest": "Derniers articles du blog",
+    "all": "Tous les articles →"
   }
 }

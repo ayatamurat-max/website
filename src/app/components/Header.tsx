@@ -60,6 +60,7 @@ export default function Header() {
             <ProcedureIcon name="surgical" size={18} />
             {t('surgical')}
           </Link>
+          <Link href="/blog" className={styles.navLink} onClick={closeMenu}>{t('blog')}</Link>
           <Link href="/iletisim" className={styles.navLink} onClick={closeMenu}>{t('contact')}</Link>
           
           <div className={styles.mobileCta}>
