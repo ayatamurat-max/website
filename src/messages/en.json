@@ -9,7 +9,8 @@
     "contact": "Contact",
     "book": "Book Appointment",
     "rhinoplasty": "Rhinoplasty",
-    "international": "International Patients"
+    "international": "International Patients",
+    "blog": "Blog"
   },
   "Footer": {
     "description": "Otolaryngology & Head and Neck Surgeon. Modern, evidence-based solutions for aesthetics and health.",
@@ -139,7 +140,9 @@
     "mesoTitle": "Mesotherapy & PRP | Murat Ayata, MD",
     "mesoDesc": "Mesotherapy and PRP for skin quality and hair thinning, with a session plan made for you.",
     "rejuvenationTitle": "Non-Surgical Facial Rejuvenation | Murat Ayata, MD",
-    "rejuvenationDesc": "Thread lift, skin boosters and microneedling radiofrequency for tighter, refreshed skin with minimal downtime."
+    "rejuvenationDesc": "Thread lift, skin boosters and microneedling radiofrequency for tighter, refreshed skin with minimal downtime.",
+    "blogTitle": "Blog: Rhinoplasty, Breathing & Facial Aesthetics | Murat Ayata, MD",
+    "blogDesc": "Answers from ENT surgeon Murat Ayata, MD to common questions about rhinoplasty, septoplasty and facial aesthetics."
   },
   "Rhinoplasty": {
     "tag": "Rhinoplasty",
@@ -643,5 +646,25 @@
       "f5Q": "I am travelling from abroad. How long should I stay?",
       "f5A": "No overnight stay is needed. You can travel home on the same day as the application."
     }
+  },
+  "Blog": {
+    "tag": "Blog",
+    "title": "Questions my patients ask",
+    "intro": "Answers from an ENT surgeon to common questions about rhinoplasty, breathing and facial aesthetics.",
+    "readMore": "Read article →",
+    "minRead": "min read",
+    "back": "← All articles",
+    "ctaTitle": "Let’s talk about your case",
+    "ctaDesc": "Every nose is different. Book an online video consultation for a personal assessment.",
+    "cta": "Book an Online Video Consultation",
+    "related": "Related procedure",
+    "disclaimer": "This article is for general information and does not replace an examination. Personal advice requires a consultation.",
+    "englishNote": "This article is currently available in English only.",
+    "author": "Murat Ayata, MD",
+    "authorRole": "Otolaryngology Head and Neck Surgery Specialist",
+    "waMessage": "Hello, I read your blog article and would like to book an online video consultation.",
+    "instagram": "Watch the video on Instagram →",
+    "latest": "Latest from the blog",
+    "all": "All articles →"
   }
 }

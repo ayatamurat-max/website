@@ -1,6 +1,7 @@
 import Image from "next/image";
 import { Link } from "@/i18n/navigation";
-import { useTranslations } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
+import { posts, getTranslation } from "@/content/blog";
 import type { Metadata } from "next";
 import { buildMetadata } from "@/i18n/metadata";
 import styles from "./page.module.css";
@@ -14,6 +15,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 export default function Home() {
   const t = useTranslations('Home');
   const tNav = useTranslations('Header');
+  const tBlog = useTranslations('Blog');
+  const locale = useLocale();
 
   return (
     <>
@@ -126,6 +129,35 @@ export default function Home() {
             <Link href="/hakkimda" className="btn btn-outline">
               {t('moreInfo')}
             </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* Latest blog posts */}
+      <section className={styles.servicesSection}>
+        <div className="container">
+          <div className="text-center">
+            <span className="section-tag">{tBlog('tag')}</span>
+            <h2>{tBlog('latest')}</h2>
+          </div>
+          <div className={styles.servicesGrid}>
+            {posts.slice(0, 3).map((post) => {
+              const { t: tr, lang } = getTranslation(post, locale);
+              return (
+                <Link key={post.slug} href={`/blog/${post.slug}`} className={styles.serviceCard}>
+                  <div className={styles.cardImage} style={{ position: 'relative' }}>
+                    <Image src={post.cover} alt="" fill unoptimized={post.cover.endsWith('.svg')} style={{ objectFit: 'cover' }} sizes="(max-width: 768px) 100vw, 33vw" />
+                  </div>
+                  <div className={styles.cardContent}>
+                    <h3 lang={lang}>{tr.title}</h3>
+                    <span className={styles.readMore}>{tBlog('readMore')}</span>
+                  </div>
+                </Link>
+              );
+            })}
+          </div>
+          <div className="text-center" style={{ marginTop: '2.5rem' }}>
+            <Link href="/blog" className="btn btn-outline">{tBlog('all')}</Link>
           </div>
         </div>
       </section>

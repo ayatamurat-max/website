@@ -9,7 +9,8 @@
     "contact": "Kontakt",
     "book": "Termin Buchen",
     "rhinoplasty": "Rhinoplastik",
-    "international": "Internationale Patienten"
+    "international": "Internationale Patienten",
+    "blog": "Blog"
   },
   "Footer": {
     "description": "Facharzt für Hals-Nasen-Ohrenheilkunde und Kopf-Hals-Chirurgie. Moderne, evidenzbasierte Lösungen für Ästhetik und Gesundheit.",
@@ -139,7 +140,9 @@
     "mesoTitle": "Mesotherapie & PRP | Op. Dr. Murat Ayata",
     "mesoDesc": "Mesotherapie und PRP für Hautqualität und dünner werdendes Haar, mit individuellem Sitzungsplan.",
     "rejuvenationTitle": "Gesichtsverjüngung ohne OP | Op. Dr. Murat Ayata",
-    "rejuvenationDesc": "Fadenlifting, Skinbooster und Microneedling-Radiofrequenz für straffere, frischere Haut mit kurzer Ausfallzeit."
+    "rejuvenationDesc": "Fadenlifting, Skinbooster und Microneedling-Radiofrequenz für straffere, frischere Haut mit kurzer Ausfallzeit.",
+    "blogTitle": "Blog: Rhinoplastik, Atmung & Gesichtsästhetik | Op. Dr. Murat Ayata",
+    "blogDesc": "Antworten des HNO-Chirurgen Op. Dr. Murat Ayata auf häufige Fragen zu Rhinoplastik, Septumplastik und Gesichtsästhetik."
   },
   "Rhinoplasty": {
     "tag": "Rhinoplastik",
@@ -643,5 +646,25 @@
       "f5Q": "Ich reise aus dem Ausland an. Wie lange sollte ich bleiben?",
       "f5A": "Eine Übernachtung ist nicht nötig. Sie können am Tag der Behandlung nach Hause reisen."
     }
+  },
+  "Blog": {
+    "tag": "Blog",
+    "title": "Fragen, die meine Patienten stellen",
+    "intro": "Antworten eines HNO-Chirurgen auf häufige Fragen zu Rhinoplastik, Atmung und Gesichtsästhetik.",
+    "readMore": "Artikel lesen →",
+    "minRead": "Min. Lesezeit",
+    "back": "← Alle Artikel",
+    "ctaTitle": "Sprechen wir über Ihren Fall",
+    "ctaDesc": "Jede Nase ist anders. Buchen Sie eine Online-Videoberatung für eine persönliche Einschätzung.",
+    "cta": "Online-Videoberatung buchen",
+    "related": "Passende Behandlung",
+    "disclaimer": "Dieser Artikel dient der allgemeinen Information und ersetzt keine Untersuchung.",
+    "englishNote": "Dieser Artikel ist derzeit nur auf Englisch verfügbar.",
+    "author": "Op. Dr. Murat Ayata",
+    "authorRole": "Facharzt für HNO-Heilkunde, Kopf- und Halschirurgie",
+    "waMessage": "Hallo, ich habe Ihren Blogartikel gelesen und möchte eine Online-Videoberatung buchen.",
+    "instagram": "Video auf Instagram ansehen →",
+    "latest": "Neu im Blog",
+    "all": "Alle Artikel →"
   }
 }

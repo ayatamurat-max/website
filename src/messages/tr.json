@@ -9,7 +9,8 @@
     "contact": "İletişim",
     "book": "Randevu Al",
     "rhinoplasty": "Rinoplasti",
-    "international": "Yurt Dışı Hastalar"
+    "international": "Yurt Dışı Hastalar",
+    "blog": "Blog"
   },
   "Footer": {
     "description": "Kulak Burun Boğaz ve Baş Boyun Cerrahisi Uzmanı. Estetik ve sağlık için modern, kanıta dayalı çözümler.",
@@ -139,7 +140,9 @@
     "mesoTitle": "Mezoterapi ve PRP Kırklareli | Op. Dr. Murat Ayata",
     "mesoDesc": "Cilt kalitesi ve saç dökülmesi için mezoterapi ve PRP; size özel seans planı.",
     "rejuvenationTitle": "Ameliyatsız Yüz Gençleştirme Kırklareli | Op. Dr. Murat Ayata",
-    "rejuvenationDesc": "İp askı, gençlik aşısı ve iğneli radyofrekans ile kısa toparlanma süreli yüz gençleştirme."
+    "rejuvenationDesc": "İp askı, gençlik aşısı ve iğneli radyofrekans ile kısa toparlanma süreli yüz gençleştirme.",
+    "blogTitle": "Blog: Burun Estetiği, Nefes ve Yüz Estetiği | Op. Dr. Murat Ayata",
+    "blogDesc": "Rinoplasti, septoplasti ve yüz estetiği hakkında sık sorulan sorulara KBB uzmanı Op. Dr. Murat Ayata’dan cevaplar."
   },
   "Rhinoplasty": {
     "tag": "Rinoplasti",
@@ -643,5 +646,25 @@
       "f5Q": "Yurt dışından geliyorum, ne kadar kalmalıyım?",
       "f5A": "Konaklamanız gerekmez. Uygulamanın yapıldığı gün dönebilirsiniz."
     }
+  },
+  "Blog": {
+    "tag": "Blog",
+    "title": "Hastalarımın sorduğu sorular",
+    "intro": "Burun estetiği, nefes ve yüz estetiği hakkında sık sorulan sorulara bir KBB uzmanının cevapları.",
+    "readMore": "Yazıyı oku →",
+    "minRead": "dk okuma",
+    "back": "← Tüm yazılar",
+    "ctaTitle": "Kendi durumunuzu konuşalım",
+    "ctaDesc": "Her burun farklıdır. Size özel değerlendirme için online görüntülü ön görüşme randevusu alın.",
+    "cta": "Online Görüntülü Ön Görüşme",
+    "related": "İlgili işlem",
+    "disclaimer": "Bu yazı genel bilgilendirme amaçlıdır ve muayene yerine geçmez. Size özel öneriler için muayene gereklidir.",
+    "englishNote": "Bu yazı şu an yalnızca İngilizce olarak mevcut.",
+    "author": "Op. Dr. Murat Ayata",
+    "authorRole": "Kulak Burun Boğaz ve Baş Boyun Cerrahisi Uzmanı",
+    "waMessage": "Merhaba, blogdaki yazınızı okudum ve online görüntülü ön görüşme randevusu almak istiyorum.",
+    "instagram": "Bu konunun videosunu Instagram’da izleyin →",
+    "latest": "Blogdan son yazılar",
+    "all": "Tüm yazılar →"
   }
 }

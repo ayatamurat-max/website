@@ -63,6 +63,7 @@ export default function Footer() {
                 {tNav('surgical')}
               </Link>
             </li>
+            <li><Link href="/blog">{tNav('blog')}</Link></li>
             <li><Link href="/iletisim">{tNav('contact')}</Link></li>
           </ul>
         </div>
