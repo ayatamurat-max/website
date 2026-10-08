@@ -113,7 +113,7 @@ export default function Home() {
         <div className={`container ${styles.aboutContainer}`}>
           <div className={styles.aboutImageWrapper}>
             <Image 
-              src="/images/portrait.png"
+              src="/images/portrait.jpg"
               alt={t('aboutTitle')}
               fill
               className={styles.aboutImageImg}

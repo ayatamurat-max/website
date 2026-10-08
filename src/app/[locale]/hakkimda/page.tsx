@@ -25,7 +25,7 @@ export default function Hakkimda() {
           
           <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
             <div style={{ position: 'relative', width: '100%', aspectRatio: '4/5', borderRadius: 'var(--radius-lg)', overflow: 'hidden', boxShadow: 'var(--shadow-md)' }}>
-               <Image src="/images/portrait.png" alt={name} fill style={{ objectFit: 'cover' }} sizes="(max-width: 768px) 100vw, 50vw" />
+               <Image src="/images/portrait.jpg" alt={name} fill style={{ objectFit: 'cover' }} sizes="(max-width: 768px) 100vw, 50vw" />
             </div>
             <div style={{ position: 'relative', width: '100%', aspectRatio: '1/1', borderRadius: 'var(--radius-lg)', overflow: 'hidden', boxShadow: 'var(--shadow-md)' }}>
                <Image src="/images/surgery.png" alt={name} fill style={{ objectFit: 'cover' }} sizes="(max-width: 768px) 100vw, 50vw" />
