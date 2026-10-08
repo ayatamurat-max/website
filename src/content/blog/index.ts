@@ -2,9 +2,25 @@ import type { Post, PostTranslation } from './types';
 import rhinoplastyRecovery from './posts/rhinoplasty-recovery';
 import septoplastyVsRhinoplasty from './posts/septoplasty-vs-rhinoplasty';
 import planningRhinoplastyTurkiye from './posts/planning-rhinoplasty-turkiye';
+import historyOfRhinoplasty from './posts/history-of-rhinoplasty';
+import nasalSprayAddiction from './posts/nasal-spray-addiction';
+import deviatedSeptum from './posts/deviated-septum-surgery';
+import botoxFacts from './posts/botox-facts';
+import earwax from './posts/earwax';
+import coldWeather from './posts/cold-weather-illness';
 
 // Yeni yazıyı buraya ekleyin.
-const ALL: Post[] = [planningRhinoplastyTurkiye, septoplastyVsRhinoplasty, rhinoplastyRecovery];
+const ALL: Post[] = [
+  historyOfRhinoplasty,
+  nasalSprayAddiction,
+  deviatedSeptum,
+  botoxFacts,
+  coldWeather,
+  earwax,
+  planningRhinoplastyTurkiye,
+  septoplastyVsRhinoplasty,
+  rhinoplastyRecovery,
+];
 
 /** Yeniden eskiye sıralı */
 export const posts: Post[] = [...ALL].sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0));

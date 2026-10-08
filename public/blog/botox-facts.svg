@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#112240"/><stop offset="1" stop-color="#0A192F"/></linearGradient>
+    <radialGradient id="glow" cx="700" cy="380" r="620" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#E5A93C" stop-opacity="0.10"/><stop offset="1" stop-color="#E5A93C" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2" cx="220" cy="820" r="520" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#00B4D8" stop-opacity="0.10"/><stop offset="1" stop-color="#00B4D8" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#ffffff" fill-opacity="0.06"/></pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#dots)"/>
+  <rect width="1600" height="900" fill="url(#glow)"/>
+  <rect width="1600" height="900" fill="url(#glow2)"/>
+  <circle cx="700" cy="450" r="290" fill="none" stroke="#E5A93C" stroke-opacity="0.4" stroke-width="1.5"/>
+  <circle cx="700" cy="450" r="340" fill="none" stroke="#E5A93C" stroke-opacity="0.14" stroke-width="1.5"/>
+  <g transform="translate(460 210) scale(20)" fill="none" stroke="#E5A93C" stroke-opacity="1.0" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 6.5 L17.5 9.5 L9.5 17.5 L6.5 14.5 Z" vector-effect="non-scaling-stroke"/><path d="M13.5 5.5 L18.5 10.5" vector-effect="non-scaling-stroke"/><path d="M16 8 L19.5 4.5" vector-effect="non-scaling-stroke"/><path d="M18 3 L21 6" vector-effect="non-scaling-stroke"/><path d="M8 16 L3 21" vector-effect="non-scaling-stroke"/><path d="M12.5 8.5 L14 10" vector-effect="non-scaling-stroke"/><path d="M10.5 10.5 L12 12" vector-effect="non-scaling-stroke"/><path d="M8.5 12.5 L10 14" vector-effect="non-scaling-stroke"/></g>
+  <polygon points="1240.6,455.0 1180.0,490.0 1119.4,455.0 1119.4,385.0 1180.0,350.0 1240.6,385.0" fill="none" stroke="#00B4D8" stroke-width="3" stroke-linejoin="round"/>
+  <line x1="1240.6" y1="455.0" x2="1288.3" y2="482.5" stroke="#00B4D8" stroke-opacity="0.6" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="1288.3" cy="482.5" r="9" fill="#0A192F" stroke="#00B4D8" stroke-opacity="0.8" stroke-width="2.5"/>
+  <line x1="1119.4" y1="455.0" x2="1071.7" y2="482.5" stroke="#00B4D8" stroke-opacity="0.6" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="1071.7" cy="482.5" r="9" fill="#0A192F" stroke="#00B4D8" stroke-opacity="0.8" stroke-width="2.5"/>
+  <line x1="1180.0" y1="350.0" x2="1180.0" y2="295.0" stroke="#00B4D8" stroke-opacity="0.6" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="1180.0" cy="295.0" r="9" fill="#0A192F" stroke="#00B4D8" stroke-opacity="0.8" stroke-width="2.5"/>
+  <circle cx="1180" cy="420" r="16" fill="#00B4D8" fill-opacity="0.85"/>
+
+</svg>
