@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#112240"/><stop offset="1" stop-color="#0A192F"/></linearGradient>
+    <radialGradient id="glow" cx="720" cy="380" r="620" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#E5A93C" stop-opacity="0.10"/><stop offset="1" stop-color="#E5A93C" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2" cx="220" cy="820" r="520" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#00B4D8" stop-opacity="0.10"/><stop offset="1" stop-color="#00B4D8" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#ffffff" fill-opacity="0.06"/></pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#dots)"/>
+  <rect width="1600" height="900" fill="url(#glow)"/>
+  <rect width="1600" height="900" fill="url(#glow2)"/>
+  <circle cx="720" cy="450" r="300" fill="none" stroke="#E5A93C" stroke-opacity="0.4" stroke-width="1.5"/>
+  <circle cx="720" cy="450" r="350" fill="none" stroke="#E5A93C" stroke-opacity="0.14" stroke-width="1.5"/>
+  <g transform="translate(444 174) scale(23)" fill="none" stroke="#E5A93C" stroke-opacity="1.0" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 9 C7 5.1 9.4 2.5 12.5 2.5 C15.9 2.5 18.5 5.2 18.5 8.8 C18.5 12.2 16.5 13.6 15.2 15 C14 16.3 13.8 17.4 13.6 19 C13.4 20.8 12 22 10.3 22 C8.6 22 7.5 20.9 7.2 19.5" vector-effect="non-scaling-stroke"/><path d="M10 9 C10 7 11.2 5.6 12.8 5.6 C14.4 5.6 15.5 6.9 15.5 8.6 C15.5 10 14.6 10.8 13.5 11.2" vector-effect="non-scaling-stroke"/><path d="M10 9 L10 10.5 C10 11.6 10.8 12.2 11.8 12.4" vector-effect="non-scaling-stroke"/></g>
+  <g stroke-linecap="round" fill="none"><line x1="1060" y1="300" x2="1320" y2="560" stroke="#ffffff" stroke-opacity="0.75" stroke-width="5"/><ellipse cx="1045" cy="285" rx="26" ry="16" transform="rotate(45 1045 285)" fill="#ffffff" fill-opacity="0.12" stroke="#ffffff" stroke-opacity="0.85" stroke-width="3"/><ellipse cx="1335" cy="575" rx="26" ry="16" transform="rotate(45 1335 575)" fill="#ffffff" fill-opacity="0.12" stroke="#ffffff" stroke-opacity="0.85" stroke-width="3"/><circle cx="1190" cy="430" r="190" stroke="#00B4D8" stroke-opacity="0.55" stroke-width="3"/><line x1="1056" y1="564" x2="1324" y2="296" stroke="#00B4D8" stroke-opacity="0.55" stroke-width="3"/></g>
+
+</svg>

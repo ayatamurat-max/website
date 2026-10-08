@@ -1,0 +1,65 @@
+{
+  "_aciklama": "Masaüstü/Scriptler klasöründeki senaryoların bloga işlenme durumu. Otomatik kontrol bu listeye bakarak yeni senaryoları bulur. status: published = yazıya dönüştü, skip = blog için uygun değil (tanıtım, kurgu notu vb.).",
+  "scripts": {
+    "ceza rinoplastiyi nasıl doğurdu youtube.pages": {
+      "status": "published",
+      "slug": "history-of-rhinoplasty",
+      "mtimeMs": 1791408625735
+    },
+    "çekimi bitenler/rinitis medikamentoza script.pages": {
+      "status": "published",
+      "slug": "nasal-spray-addiction",
+      "mtimeMs": 1790681879837
+    },
+    "çekimi bitenler/rinitis medikamentoza insta.pages": {
+      "status": "published",
+      "slug": "nasal-spray-addiction",
+      "mtimeMs": 1790682817040
+    },
+    "çekimi bitenler/Septum dev insta.pages": {
+      "status": "published",
+      "slug": "does-a-deviated-septum-need-surgery",
+      "mtimeMs": 1790763779121
+    },
+    "çekimi bitenler/Botoks insta.pages": {
+      "status": "published",
+      "slug": "botox-myths-zinc-magnesium",
+      "mtimeMs": 1790848757118
+    },
+    "2.hafta/botoks çinko reels.pages": {
+      "status": "published",
+      "slug": "botox-myths-zinc-magnesium",
+      "mtimeMs": 1791401744810
+    },
+    "2.hafta/buşon reels.pages": {
+      "status": "published",
+      "slug": "earwax-cotton-swabs",
+      "mtimeMs": 1791403371077
+    },
+    "2.hafta/Soğuk hasta edermi reels.pages": {
+      "status": "published",
+      "slug": "does-cold-weather-make-you-sick",
+      "mtimeMs": 1791403108575
+    },
+    "2.hafta/dm nose reels.pages": {
+      "status": "skip",
+      "reason": "DM süreci tanıtımı; içerik Yurt Dışı Hastalar sayfasında ve 'Türkiye'de rinoplasti planlama' yazısında var",
+      "mtimeMs": 1791404019372
+    },
+    "2.hafta/ingilizce tanıtım.pages": {
+      "status": "skip",
+      "reason": "Tanıtım videosu",
+      "mtimeMs": 1791401897000
+    },
+    "çekimi bitenler/insta tanıtım script.pages": {
+      "status": "skip",
+      "reason": "Instagram hesabı tanıtımı",
+      "mtimeMs": 1790682098468
+    },
+    "çekimi bitenler/Burun spreyi insta  kurgu.pages": {
+      "status": "skip",
+      "reason": "Kurgu/çekim notu",
+      "mtimeMs": 1790930904708
+    }
+  }
+}

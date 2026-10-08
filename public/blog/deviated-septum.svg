@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#112240"/><stop offset="1" stop-color="#0A192F"/></linearGradient>
+    <radialGradient id="glow" cx="1150" cy="380" r="620" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#E5A93C" stop-opacity="0.10"/><stop offset="1" stop-color="#E5A93C" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2" cx="220" cy="820" r="520" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#00B4D8" stop-opacity="0.10"/><stop offset="1" stop-color="#00B4D8" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#ffffff" fill-opacity="0.06"/></pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#dots)"/>
+  <rect width="1600" height="900" fill="url(#glow)"/>
+  <rect width="1600" height="900" fill="url(#glow2)"/>
+  <circle cx="800" cy="450" r="300" fill="none" stroke="#00B4D8" stroke-opacity="0.4" stroke-width="1.5"/>
+  <circle cx="800" cy="450" r="350" fill="none" stroke="#00B4D8" stroke-opacity="0.15" stroke-width="1.5"/>
+  <g transform="translate(524 174) scale(23)" fill="none" stroke="#ffffff" stroke-opacity="0.85" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M10.5 3.5 C10.5 7.5 9.6 10.6 8 13.2" vector-effect="non-scaling-stroke"/><path d="M13.5 3.5 C13.5 7.5 14.4 10.6 16 13.2" vector-effect="non-scaling-stroke"/><path d="M8 13.2 C6.4 14.8 6.9 17.5 9 17.5 C9.8 17.5 10.4 17.1 10.8 16.6 L13.2 16.6 C13.6 17.1 14.2 17.5 15 17.5 C17.1 17.5 17.6 14.8 16 13.2" vector-effect="non-scaling-stroke"/></g>
+  <g transform="translate(524 174) scale(23)" fill="none" stroke="#00B4D8" stroke-opacity="1.0" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8.2 C11.1 9.6 12.9 11.2 12 12.4 C11.4 13.3 12.4 14 12 14.8" vector-effect="non-scaling-stroke"/></g>
+  <g transform="translate(524 174) scale(23)" fill="none" stroke="#E5A93C" stroke-opacity="0.75" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="2 8" stroke-linejoin="round"><path d="M12 8 L12 15" vector-effect="non-scaling-stroke"/></g>
+
+</svg>
