@@ -14,6 +14,7 @@ import WhatsAppButton from '../components/WhatsAppButton';
 import MobileQuickActions from '../components/MobileQuickActions';
 import MetaPixel from '../components/MetaPixel';
 import CookieConsent from '../components/CookieConsent';
+import Script from 'next/script';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
 import { notFound } from 'next/navigation';
@@ -49,6 +50,11 @@ export default async function RootLayout({
           <MobileQuickActions />
           <CookieConsent />
           <MetaPixel />
+          {/* Vercel Web Analytics: çerezsiz ziyaretçi istatistikleri (vercel.com > proje > Analytics) */}
+          <Script id="vercel-analytics-queue" strategy="afterInteractive">
+            {`window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };`}
+          </Script>
+          <Script id="vercel-analytics" src="/_vercel/insights/script.js" strategy="afterInteractive" />
         </NextIntlClientProvider>
       </body>
     </html>
