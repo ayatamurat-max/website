@@ -9,8 +9,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   return buildMetadata(locale, 'privacy', '/gizlilik-politikasi');
 }
 
-const UPDATED_TR = '6 Ekim 2026';
-const UPDATED_EN = '6 October 2026';
+const UPDATED_TR = '9 Ekim 2026';
+const UPDATED_EN = '9 October 2026';
 
 function Turkish() {
   return (
@@ -92,6 +92,7 @@ function Turkish() {
       <p>Sitemizde iki tür çerez ve benzeri teknoloji kullanılır:</p>
       <ul>
         <li><strong>Zorunlu:</strong> Dil tercihinizi ve çerez tercihinizi hatırlamak için. Bunlar sitenin çalışması için gereklidir.</li>
+        <li><strong>Anonim ziyaret istatistikleri (Vercel Web Analytics):</strong> Hangi sayfaların ne kadar ziyaret edildiğini ölçmek için kullanılır. Çerez kullanmaz, sizi tanımlamaz ve veriler toplu (anonim) olarak raporlanır.</li>
         <li><strong>Reklam ve ölçüm (Meta Pixel):</strong> Reklamlarımızın kaç kişiye ulaştığını ve kaç kişinin bizimle iletişime geçtiğini ölçmek için. Yalnızca çerez bandında “Kabul et” seçeneğini işaretlemeniz hâlinde çalışır.</li>
       </ul>
       <p>Tercihinizi istediğiniz zaman değiştirebilirsiniz:</p>
@@ -170,6 +171,7 @@ function English() {
       <h2 id="cookies">9. Cookies</h2>
       <ul>
         <li><strong>Necessary:</strong> to remember your language and cookie preferences. These are required for the website to work.</li>
+        <li><strong>Anonymous visit statistics (Vercel Web Analytics):</strong> to measure how often pages are visited. It does not use cookies, does not identify you and reports data only in aggregate.</li>
         <li><strong>Advertising and measurement (Meta Pixel):</strong> to measure how many people our ads reach and how many contact us. Used only if you select “Accept” in the cookie banner.</li>
       </ul>
       <p>You can change your choice at any time:</p>
