@@ -1,10 +1,10 @@
 {
   "_aciklama": "Masaüstü/Scriptler klasöründeki senaryoların bloga işlenme durumu. Otomatik kontrol bu listeye bakarak yeni senaryoları bulur. status: published = yazıya dönüştü, skip = blog için uygun değil (tanıtım, kurgu notu vb.).",
   "scripts": {
-    "ceza rinoplastiyi nasıl doğurdu youtube.pages": {
+    "2.hafta/ceza rinoplastiyi nasıl doğurdu youtube.pages": {
       "status": "published",
       "slug": "history-of-rhinoplasty",
-      "mtimeMs": 1791408625735
+      "mtimeMs": 1791462815072
     },
     "çekimi bitenler/rinitis medikamentoza script.pages": {
       "status": "published",
