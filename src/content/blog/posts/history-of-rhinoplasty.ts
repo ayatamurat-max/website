@@ -1,6 +1,6 @@
 import type { Post } from '../types';
 
-// Kaynak: Scriptler/ceza rinoplastiyi nasıl doğurdu youtube.pages
+// Kaynak: Scriptler/2.hafta/ceza rinoplastiyi nasıl doğurdu youtube.pages
 const post: Post = {
   slug: 'history-of-rhinoplasty',
   date: '2026-10-08',
@@ -12,7 +12,7 @@ const post: Post = {
       title: 'Bir ceza, modern rinoplastiyi nasıl doğurdu? Burun estetiğinin 3000 yıllık hikâyesi',
       description:
         'Antik Mısır’dan Sushruta’ya, kolunu burnuna diken Tagliacozzi’nin hastalarından modern rinoplastiye: burun cerrahisinin şaşırtıcı tarihi ve bugün hâlâ geçerli prensipleri.',
-      readMinutes: 9,
+      readMinutes: 10,
       body: [
         {
           type: 'p',
@@ -82,7 +82,7 @@ const post: Post = {
         },
         {
           type: 'p',
-          text: 'Bu ameliyat 1794’te Londra’daki Gentleman’s Magazine’de yayımlanıyor ve doğru kişi tarafından okunuyor: Joseph Constantine Carpue. Carpue yöntemi titizlikle inceliyor ve 1814’te İngiltere’de alın flebiyle başarılı bir burun onarımı yapıyor. İlk ameliyatlarından biri yaklaşık 15 dakika sürüyor; kulağa kısa geliyor, ta ki modern anestezinin henüz olmadığını hatırlayana kadar.',
+          text: 'Bu ameliyat 1794’te Londra’daki Gentleman’s Magazine’de yayımlanıyor ve doğru kişi tarafından okunuyor: Joseph Constantine Carpue. Carpue yöntemi hemen ilk gördüğü hastada denemiyor; önce inceliyor, hazırlık yapıyor. 200 yıl önce bile cerrahın biraz frene basması gerekiyor. 1814’te İngiltere’de alın flebiyle başarılı bir burun onarımı yapıyor, ardından ikinci bir vaka geliyor ve 1816’da sonuçlarını kitap olarak yayımlıyor. Avrupa’nın burun onarımına ilgisi böylece yeniden canlanıyor. İlk ameliyatlarından biri yaklaşık 15 dakika sürüyor; kulağa kısa geliyor, ta ki modern anestezinin henüz olmadığını hatırlayana kadar.',
         },
         { type: 'h2', text: 'Soru değişiyor: burnu olan birinin burnunu değiştirebilir miyiz?' },
         {
@@ -92,6 +92,24 @@ const post: Post = {
         {
           type: 'p',
           text: 'Berlin’de çalışan Jacques Joseph’in hikâyesi ise burunla değil, kulakla başlıyor: kepçe kulakları yüzünden okulda alay edilen bir çocuğa yaptığı estetik ameliyatla. Joseph çok önemli bir şeyi erken fark ediyor: Fiziksel olarak sağlıklı olmak, insanın görünüşüyle ilgili hiçbir sorun yaşamadığı anlamına gelmiyor. 1898’de rinoplasti tekniklerini yayımlıyor, özel aletler tasarlıyor. Bugün ameliyathanede piezo cihazlarının yanında hâlâ “Joseph elevatörü” kullanıyoruz.',
+        },
+        { type: 'h2', text: 'Rinoplasti bir ameliyattan bir disipline dönüşüyor' },
+        {
+          type: 'p',
+          text: 'Roe ve Joseph’in döneminde önemli olan yalnızca yeni tekniklerin bulunması değil; rinoplastinin belli prensipleri olan bir ameliyat hâline gelmeye başlaması. Cerrahın cevaplaması gereken sorular netleşiyor:',
+        },
+        {
+          type: 'ul',
+          items: [
+            'Burun sırtına ne yapacağız?',
+            'Kıkırdakları nasıl şekillendireceğiz, burun ucunu nasıl düzenleyeceğiz?',
+            'Kesileri nereden yapacağız, izi nasıl azaltacağız?',
+            'Ve en önemlisi: Nefesi nasıl koruyacağız?',
+          ],
+        },
+        {
+          type: 'p',
+          text: 'Çünkü burnun dışını değiştirdiğiniz anda içini de etkileyebilirsiniz. Burun estetik olarak çok güzel olabilir; ama hasta nefes alamıyorsa ortada iyi bir sonuç olduğunu söylemek zor. Şekil ve fonksiyon birbirinden ayrı değil ve bu, bugün de rinoplastinin merkezindeki meselelerden biri.',
         },
         { type: 'h2', text: 'Savaş ve modern yüz cerrahisi' },
         {
@@ -112,6 +130,24 @@ const post: Post = {
           type: 'p',
           text: 'Sushruta’nın elinde bir yaprak vardı. Bugün biz bir iki milimetrenin yüz ifadesini nasıl değiştireceğini konuşuyoruz. Teknoloji açısından inanılmaz bir fark var; ama cerrahın kafasındaki bazı sorular hâlâ çok benzer: Bu dokunun kanlanmasını nasıl koruyacağım? Neyi çıkarabilirim, neye dokunmamalıyım? Bu burun iyi nefes alacak mı? Ve en sonunda: Bu burun gerçekten bu insanın yüzüne aitmiş gibi görünecek mi?',
         },
+        { type: 'h2', text: 'Bir güzellik tarihi değil, bir kimlik tarihi' },
+        {
+          type: 'p',
+          text: 'Hikâyenin çok büyük bir bölümünde mesele güzellik değil, kimlik: Bir insanın yüzünü geri vermek, toplumdan dışlanmasına neden olan bir bozukluğu düzeltmek, savaşta kaybedilen bir parçayı yeniden oluşturmak. Estetik işin içine sonradan giriyor ve bugün ikisini birbirinden tamamen ayırmak pek mümkün değil. Çünkü burun hem bir solunum organı hem de yüzün ortasındaki en belirgin yapılardan biri. Bir hastanın burnunu değiştirdiğinizde bazen insanın kendisini nasıl gördüğünü de değiştiriyorsunuz; Jacques Joseph’in yüz yılı aşkın süre önce fark ettiği bu taraf, yöntemler değişse de pek değişmedi.',
+        },
+        {
+          type: 'p',
+          text: 'Üç bin yıl önce başarı, burnu olmayan bir insanın yeniden burnunun olmasıydı. Sonra travma görmüş bir burnu onarmak, ardından burnun şeklini değiştirmek başarı oldu. Bugün ise hepsini aynı anda istiyoruz:',
+        },
+        {
+          type: 'ul',
+          items: [
+            'İyi nefes alan,',
+            'yüzün diğer yapılarıyla uyumlu,',
+            'doğal görünen',
+            've yıllar içinde desteğini koruyan bir burun.',
+          ],
+        },
         {
           type: 'p',
           text: 'Burun estetiğinin tarihi aslında bir güzellik tarihi değil. Bir insanın yüzünden alınan bir parçayı ona geri verme çabasıyla başlıyor ve üç bin yıl sonra “Bu insan için en doğru burun hangisi?” sorusuna kadar geliyor. Muhtemelen yüz yıl sonra cerrahlar da bizim bugünkü tekniklerimize bakıp “Gerçekten bunu mu yapıyorlarmış?” diyecekler; tıpkı bizim Tagliacozzi’nin hastalarına baktığımız gibi.',
@@ -122,7 +158,7 @@ const post: Post = {
       title: 'How a punishment gave birth to modern rhinoplasty: a 3,000-year story',
       description:
         'From ancient Egypt and Sushruta to Tagliacozzi’s patients with their arms stitched to their noses, the surprising history of nose surgery, and the principles that still guide it today.',
-      readMinutes: 8,
+      readMinutes: 9,
       body: [
         {
           type: 'p',
@@ -166,12 +202,30 @@ const post: Post = {
         { type: 'h2', text: 'From India to London' },
         {
           type: 'p',
-          text: 'In the 1790s, a man named Cowasjee, whose nose had been cut off as a prisoner of war, was treated in India with a forehead flap kept attached between the eyebrows. The operation was published in London’s Gentleman’s Magazine in 1794 and read by Joseph Constantine Carpue, who performed a successful forehead-flap reconstruction in England in 1814 — reportedly in about 15 minutes, which sounds quick until you remember there was no modern anaesthesia.',
+          text: 'In the 1790s, a man named Cowasjee, whose nose had been cut off as a prisoner of war, was treated in India with a forehead flap kept attached between the eyebrows. The operation was published in London’s Gentleman’s Magazine in 1794 and read by Joseph Constantine Carpue. Carpue did not try it on the first patient he saw; he studied the method and prepared, a reminder that even 200 years ago a surgeon needed to know when to slow down. In 1814 he performed a successful forehead-flap reconstruction in England, followed by a second case, and published his results as a book in 1816, reviving Europe’s interest in nasal reconstruction. One of his first operations took about 15 minutes, which sounds quick until you remember there was no modern anaesthesia.',
         },
         { type: 'h2', text: 'A new question: can we change a nose that exists?' },
         {
           type: 'p',
           text: 'For about 2,500 years the question had been “how do we build a missing nose?” At the end of the 19th century it changed. In 1887, American ENT surgeon John Orlando Roe published an aesthetic nose operation performed from inside the nose, without external incisions, and is often called the father of aesthetic rhinoplasty. In Berlin, Jacques Joseph recognised that being physically healthy does not mean being free of distress about one’s appearance, published his rhinoplasty techniques in 1898 and designed instruments still used today, alongside modern piezo devices.',
+        },
+        { type: 'h2', text: 'From an operation to a discipline' },
+        {
+          type: 'p',
+          text: 'What mattered in Roe’s and Joseph’s era was not only new techniques, but rhinoplasty becoming an operation with principles. The questions a surgeon must answer became clearer:',
+        },
+        {
+          type: 'ul',
+          items: [
+            'What do we do with the nasal bridge?',
+            'How do we shape the cartilages and the tip?',
+            'Where do we place the incisions, and how do we minimise scarring?',
+            'And above all: how do we preserve breathing?',
+          ],
+        },
+        {
+          type: 'p',
+          text: 'Change the outside of the nose and you may affect the inside. A nose can look beautiful, but if the patient cannot breathe, it is hard to call it a good result. Form and function are not separate, and this is still at the heart of rhinoplasty today.',
         },
         { type: 'h2', text: 'War, reconstruction and modern rhinoplasty' },
         {
@@ -187,6 +241,24 @@ const post: Post = {
         {
           type: 'p',
           text: 'Sushruta had a leaf; today we discuss how one or two millimetres change a face. The technology is incomparable, but some questions in the surgeon’s mind are the same: how do I preserve blood supply, what can I remove and what must I leave, will this nose breathe well — and will it truly look like it belongs to this person’s face?',
+        },
+        { type: 'h2', text: 'A history of identity, not of beauty' },
+        {
+          type: 'p',
+          text: 'For most of this story, the issue was not beauty but identity: giving someone their face back, correcting a deformity that excluded them from society, rebuilding what was lost in war. Aesthetics came later, and today the two can hardly be separated. The nose is both a breathing organ and one of the most prominent features at the centre of the face. When you change someone’s nose, you sometimes change how they see themselves, the very thing Jacques Joseph noticed more than a century ago. Our methods have changed a great deal; that part has not.',
+        },
+        {
+          type: 'p',
+          text: 'Three thousand years ago, success meant that someone without a nose had one again. Later it meant repairing an injured nose, then changing its shape. Today we want all of it at once:',
+        },
+        {
+          type: 'ul',
+          items: [
+            'a nose that breathes well,',
+            'is in harmony with the rest of the face,',
+            'looks natural,',
+            'and keeps its support over the years.',
+          ],
         },
         {
           type: 'p',
