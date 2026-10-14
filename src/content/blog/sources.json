@@ -60,6 +60,16 @@
       "status": "skip",
       "reason": "Kurgu/çekim notu",
       "mtimeMs": 1790930904708
+    },
+    "2.hafta/Ceza_rinoplasti_senaryo_v2.pages": {
+      "status": "published",
+      "slug": "history-of-rhinoplasty",
+      "mtimeMs": 1791897501050
+    },
+    "2.hafta/rinoplasti youtube yeni.pages": {
+      "status": "published",
+      "slug": "history-of-rhinoplasty",
+      "mtimeMs": 1791896957997
     }
   }
 }

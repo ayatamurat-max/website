@@ -1,6 +1,7 @@
 import type { Post } from '../types';
 
-// Kaynak: Scriptler/2.hafta/ceza rinoplastiyi nasıl doğurdu youtube.pages
+// Kaynak: Scriptler/2.hafta/Ceza_rinoplasti_senaryo_v2.pages (aynı metin: 2.hafta/rinoplasti youtube yeni.pages)
+// İlk sürüm: Scriptler/2.hafta/ceza rinoplastiyi nasıl doğurdu youtube.pages
 const post: Post = {
   slug: 'history-of-rhinoplasty',
   date: '2026-10-08',
@@ -11,258 +12,326 @@ const post: Post = {
     tr: {
       title: 'Bir ceza, modern rinoplastiyi nasıl doğurdu? Burun estetiğinin 3000 yıllık hikâyesi',
       description:
-        'Antik Mısır’dan Sushruta’ya, kolunu burnuna diken Tagliacozzi’nin hastalarından modern rinoplastiye: burun cerrahisinin şaşırtıcı tarihi ve bugün hâlâ geçerli prensipleri.',
+        'Sushruta’nın yaprağından kolu burnuna dikilmiş hastalara, Roe ve Joseph’ten bugünkü koruyucu yaklaşıma: burun cerrahisinin tarihini üç soru üzerinden anlatıyorum.',
       readMinutes: 10,
       body: [
         {
           type: 'p',
-          text: 'Size biraz farklı bir burun estetiği hikâyesi anlatacağım. Bu hikâye ameliyathanelerde başlamıyor. İnsanların daha güzel görünmek istemesiyle de başlamıyor. Tam tersine, bir insanı çirkinleştirmek için başlıyor. Çünkü yaklaşık üç bin yıl önce, dünyanın bazı bölgelerinde bir insanı cezalandırmanın en ağır yollarından biri burnunu kesmekti.',
+          text: 'Size biraz farklı bir burun estetiği hikâyesi anlatacağım. Bu hikâye ameliyathanelerde başlamıyor, Instagram’da hiç başlamıyor; hatta insanların daha güzel görünmek istemesiyle de başlamıyor. Tam tersine, bir insanı çirkinleştirme amacıyla başlıyor. Çünkü yaklaşık üç bin yıl önce, dünyanın bazı bölgelerinde bir insanı cezalandırmanın en ağır yollarından biri burnunu kesmekti.',
         },
         {
           type: 'p',
-          text: 'Düşünün: Cezanız hiç bitmiyor. İnsanlarla konuşurken, sokağa çıktığınızda, aynaya her baktığınızda ceza devam ediyor. Ve belki de tarihin ilk plastik cerrahi ameliyatlarından biri, tam olarak bu insanların yüzünü yeniden yapmaya çalışırken ortaya çıkıyor.',
-        },
-        { type: 'h2', text: 'Antik Mısır: önce güzellik değil, onarım' },
-        {
-          type: 'p',
-          text: 'Burun cerrahisiyle ilgili en eski yazılı izleri Antik Mısır’da görüyoruz. Edwin Smith Papirüsü adlı tıbbi metinde, MÖ 3000–2500’lere uzanan bilgiler içinde yüz yaralanmaları, burun kırıkları ve bunların nasıl ele alınacağı anlatılıyor. Elbette burada bugünkü anlamıyla estetikten söz etmiyoruz; problem çok daha temel: Burun kırılmış, yer değiştirmiş. Nasıl eski hâline yaklaştırabiliriz?',
+          text: 'Düşünün: Bu ceza bitmiyor. Ömür boyu yüzünüzün tam ortasında taşıyorsunuz. İnsanlarla konuşurken, sokağa çıktığınızda, aynaya her baktığınızda ceza devam ediyor. Ve tarihin ilk plastik cerrahi ameliyatlarından biri, bu insanların yüzünü düzeltmeye çalışırken ortaya çıkıyor. O zaman ne anestezi var, ne antibiyotik, ne de steril bir ameliyathane. Ama ortada bir problem var ve birileri bu probleme çözüm arıyor.',
         },
         {
           type: 'p',
-          text: 'Aslında cerrahide bugün hâlâ yaptığımız ilk şey de bu: Neresi bozulmuş? Neyi düzeltebilirim? Neyi korumalıyım? Aletler değişiyor, ama düşünme biçiminin bazı kısımları pek değişmiyor.',
+          text: 'Hindistan’dan İtalya’ya, kolu burnuna dikilmiş hastalardan bugünkü rinoplastiye uzanan garip bir yolculuk bu. Ve başlangıcında estetik yok; bir ceza var.',
         },
-        { type: 'h2', text: 'Neden özellikle burun?' },
+        { type: 'h2', text: 'Burun cerrahisinin tarihi, üç sorunun tarihi' },
         {
           type: 'p',
-          text: 'Vücuttaki birçok yarayı kıyafetle kapatabilirsiniz; ama yüzünüzün ortasında burnunuz yoksa onu gizlemek çok zor. Bu yüzden burun amputasyonu tarih boyunca yalnızca fiziksel bir ceza değil, bir damgalama yöntemi olarak da kullanılmış. Özellikle Antik Hindistan’da bunun, burun onarımına duyulan ihtiyacı ciddi biçimde artırdığı düşünülüyor.',
+          text: 'Bu hikâyeyi üç soru üzerinden anlatmak istiyorum, çünkü burun cerrahisinin tarihi aslında üç sorunun tarihi:',
+        },
+        {
+          type: 'steps',
+          items: [
+            { title: 'Olmayan burnu nasıl yaparız?', text: 'Yaklaşık iki bin beş yüz yıl süren soru.' },
+            { title: 'Olan burnu değiştirebilir miyiz?', text: 'Yüz küsur yıl önce sorulmaya başlanıyor.' },
+            { title: 'Neyi değiştireceğiz, neyi koruyacağız?', text: 'Cevabını bugün hâlâ aradığımız soru.' },
+          ],
+        },
+        { type: 'h2', text: '1. soru: Olmayan burnu nasıl yaparız?' },
+        {
+          type: 'p',
+          text: 'Önce neden burun, onu söyleyeyim. Cezanın amacı sadece can yakmak değil, herkesin görmesi. Vücudumuzdaki birçok yarayı kapatabiliriz, ama yüzün ortasındaki bir eksikliği saklamanın yolu yok. Yani burun kesmek ceza olduğu kadar bir damgalama yöntemi. Böyle olunca bir ihtiyaç doğuyor: Birileri burun kesiyor, birileri de “bunu nasıl düzelteceğiz?” diye uğraşıyor.',
         },
         { type: 'h2', text: 'Sushruta ve bir yaprak' },
         {
           type: 'p',
-          text: 'Burada cerrahi tarihinin en meşhur isimlerinden biri çıkıyor karşımıza: yaklaşık 2500–3000 yıl önce Hindistan’da yaşadığı düşünülen Sushruta. Adıyla anılan Sushruta Samhita, tıp tarihinin en eski cerrahi metinlerinden biri ve içinde çok ilginç bir burun onarımı tarifi var.',
+          text: 'Burada karşımıza Sushruta çıkıyor. Tam olarak ne zaman yaşadığı tartışmalı, kaynaklara göre birkaç yüzyıl oynuyor; ama günümüzden aşağı yukarı iki bin beş yüz yıl önce Hindistan’da çalışan bir cerrah. Adıyla anılan kitapta burun onarımının tarifi var.',
         },
         {
           type: 'p',
-          text: 'Bugün eksik bölgeyi ölçmek için fotoğraf çeker, bilgisayarda çalışırız. O dönemde ne kullanıyorlar? Bir yaprak. Yaprağı eksik bölgenin üzerine koyup şeklini belirliyorlar, sonra bu ölçüye göre yanaktan bir deri parçası hazırlıyorlar. En önemli ayrıntı şu: Deriyi tamamen kesip almıyorlar, bir tarafını bağlı bırakıyorlar. Çünkü o bağlantı dokunun kan dolaşımını sürdürüyor.',
+          text: 'Hastanın burnunun bir kısmı yok. Önce eksik bölgenin büyüklüğünü ölçmek lazım. Biz bugün fotoğraf çekiyoruz, cetvelle ölçüyoruz; onlar bir yaprak kullanıyor. Yaprağı eksik bölgenin üzerine koyup kalıbını çıkarıyorlar, sonra o kalıba göre yanaktan bir deri parçası hazırlıyorlar. Ama deriyi tamamen kesip almıyorlar, bir ucunu yerinde bırakıyorlar. Bu çok önemli bir ayrıntı, çünkü derinin kanlanması o bağlantıdan devam ediyor. Sonra deriyi çevirip burundaki eksik yere getiriyorlar.',
         },
         {
           type: 'callout',
-          text: 'Bugün cerrahide “flep” dediğimiz şeyin temel mantığı bu: Dokuyu bir yerden başka bir yere taşıyorsunuz, ama kanlanmasını sağlayan bağlantıyı koruyorsunuz. Mikroorganizmaları, antibiyotiği, modern anesteziyi bilmeden, sadece gözlemle bulunmuş bir prensip.',
+          text: 'Bizim bugün “flep” dediğimiz şey bu: Bir dokuyu, kanlanmasını sağlayan bağlantıyı koparmadan komşu bir bölgeye taşımak. O dönemde kan dolaşımı da mikrop da bilinmiyor; ama gözlem yapmışlar: Tamamen koparırsam bu doku yaşamıyor, bir bağlantı bırakırsam yaşıyor. Cerrahi biraz böyle bir şeydir; bir şeyin neden işe yaradığını bilmeden çok önce işe yaradığını görürsün.',
         },
         {
           type: 'p',
-          text: 'Küçük ama önemli bir düzeltme: İnternette sıkça “Sushruta alın derisiyle burun yaptı” diye okursunuz. Bu biraz fazla basitleştirilmiş bir anlatım. Klasik tarifteki erken yöntem daha çok yanak flebi; bugün “Hint yöntemi” ile özdeşleşen alın flebi sonraki dönemlerde gelişiyor. Ve bu prensip o kadar iyi ki, büyük burun kayıplarında alın flebi bugün hâlâ çok değerli bir yöntem.',
+          text: 'Bir de şunu düzelteyim, çünkü ben de eskiden böyle anlatıyordum: Çoğu yerde Sushruta’nın alından deri çevirdiği yazar. Aslında ilk tarif yanaktan; alından çevirme sonraki yüzyıllarda gelişiyor. O yöntemi de biz bugün hâlâ kullanıyoruz. Burun kanseri nedeniyle burnun büyük kısmını almak zorunda kaldığımız hastalarda yaptığımız onarım neredeyse aynısı.',
         },
-        { type: 'h2', text: 'İtalya: kolunuzu burnunuza dikelim' },
+        { type: 'h2', text: 'İtalya: koldan buruna' },
         {
           type: 'p',
-          text: '1400’lü yıllarda İtalya’da burun onarımıyla uğraşan cerrah aileleri ortaya çıkıyor; en bilineni Branca ailesi. Yüzden deri alınınca deriyi alınan bölgede de iz ve bozukluk kalabildiği fark ediliyor. Antonio Branca’nın çözümü: deriyi koldan almak.',
-        },
-        {
-          type: 'p',
-          text: 'Koldan hazırlanan deri bir kısmı kola bağlı kalacak şekilde buruna dikiliyor. Yani hasta bir süre kolu başının yanında sabitlenmiş hâlde yaşıyor. Yeni doku burundan yeterince beslenmeye başlayınca koldaki bağlantı kesiliyor ve burun şekillendiriliyor. Görüntüsü bir işkence düzeneğini andırsa da cerrahi prensip son derece mantıklı ve bugün hâlâ geçerli.',
+          text: 'Yaklaşık iki bin yıl ileri gidelim: 1400’lü yıllar, İtalya. Burada burun kesme cezası yok, ama savaş var, düello var; burnunu kaybeden insan yine çok. Bu işle uğraşan cerrah aileleri ortaya çıkıyor, en bilineni Branca ailesi.',
         },
         {
           type: 'p',
-          text: 'O dönemin bir başka ilginç tarafı: İyi bir burun yapabilen cerrah ailesi için teknik aynı zamanda ticari bir sırdı. Bilgi babadan oğula aktarılıyor, yaygınlaşması çok yavaş oluyordu. 1460’ta benzer bir yöntemi yazan Heinrich von Pfalzpaint’in el yazması kaybolup yüzyıllar sonra yeniden bulunmuş. Cerrahide yazmanın ve paylaşmanın neden önemli olduğuna güzel bir örnek.',
-        },
-        { type: 'h2', text: 'Tagliacozzi: yöntemi bir kitaba dönüştürmek' },
-        {
-          type: 'p',
-          text: 'Bologna’da çalışan Gaspare Tagliacozzi kol flebini bulan kişi değil; ama yöntemi sistematik hâle getiriyor, aşamalarını çiziyor, sonuçlarını kaydediyor ve 1597’de “De Curtorum Chirurgia per Insitionem” adlı kitabını yayımlıyor. Bu eser, plastik cerrahiye adanmış ilk kapsamlı kitaplardan biri kabul ediliyor.',
+          text: 'Bu aileler bir sorunu fark ediyor: Yüzden deri alıp burun yapıyorsun, ama bu sefer deriyi aldığın yerde iz kalıyor. Yani bir yeri düzeltirken başka bir yeri bozuyorsun. Çözüm olarak deriyi koldan almaya karar veriyorlar. Mantık yine aynı, deri koparılmayacak. Koldan hazırlanan deri, bir ucu kolda kalacak şekilde buruna dikiliyor. Böyle olunca hasta kolunu indiremiyor; kol başın yanına sabitleniyor ve hasta haftalarca öyle bekliyor. Deri burundan beslenmeye başlayınca ikinci bir ameliyatla koldaki bağlantı kesiliyor.',
         },
         {
           type: 'p',
-          text: 'Bugün hastalar bana “Hocam, atel bir hafta mı kalacak?” diye soruyor. Tagliacozzi’nin çizimlerinden birkaçını muayenehaneye assam, bir haftalık atel süresine yönelik şikâyetlerin ciddi şekilde azalacağını düşünüyorum.',
+          text: 'Görüntü pek iç açıcı değil, kabul ediyorum. Ama prensip gayet mantıklı ve bugün de geçerli: Dokuyu getir, kanlanmasını koru, yeni yerine tutunmasını bekle, sonra bağlantıyı ayır. Biz sadece hastayı haftalarca kolu havada bekletmemeye çalışıyoruz; o konuda bir ilerleme kaydettik diyebiliriz.',
         },
-        { type: 'h2', text: 'Hindistan’dan Londra’ya: 1794’ün “sosyal medyası”' },
+        { type: 'h2', text: 'Sırdan kitaba: Tagliacozzi' },
         {
           type: 'p',
-          text: 'Tagliacozzi’den sonra Avrupa’da burun onarımı yaklaşık iki yüzyıl geri plana düşüyor. Sonra hikâye başladığı yere, Hindistan’a dönüyor. 1790’larda İngiliz ordusu için çalışan Cowasjee adlı bir arabacı esir düşüyor, burnu kesiliyor. Yerel bir cerrah ona alından aldığı, kaşların arasından bağlantısı korunan bir flep ile yeni bir burun yapıyor.',
-        },
-        {
-          type: 'p',
-          text: 'Bu ameliyat 1794’te Londra’daki Gentleman’s Magazine’de yayımlanıyor ve doğru kişi tarafından okunuyor: Joseph Constantine Carpue. Carpue yöntemi hemen ilk gördüğü hastada denemiyor; önce inceliyor, hazırlık yapıyor. 200 yıl önce bile cerrahın biraz frene basması gerekiyor. 1814’te İngiltere’de alın flebiyle başarılı bir burun onarımı yapıyor, ardından ikinci bir vaka geliyor ve 1816’da sonuçlarını kitap olarak yayımlıyor. Avrupa’nın burun onarımına ilgisi böylece yeniden canlanıyor. İlk ameliyatlarından biri yaklaşık 15 dakika sürüyor; kulağa kısa geliyor, ta ki modern anestezinin henüz olmadığını hatırlayana kadar.',
-        },
-        { type: 'h2', text: 'Soru değişiyor: burnu olan birinin burnunu değiştirebilir miyiz?' },
-        {
-          type: 'p',
-          text: 'Yaklaşık 2500 yıl boyunca burun cerrahisinin sorusu şuydu: “Olmayan burnu nasıl yaparız?” 19. yüzyılın sonlarında soru değişiyor ve gerçek anlamda modern rinoplastiye giriyoruz. 1887’de Amerikalı KBB hekimi John Orlando Roe, burun içinden, dışarıda kesi olmadan yaptığı estetik bir burun ameliyatını yayımlıyor. Bu yüzden birçok kaynakta “estetik rinoplastinin babası” olarak anılıyor.',
+          text: 'Bu dönemin ilginç bir tarafı daha var: Bu aileler yöntemi sır olarak saklıyor, çünkü bu onların ekmek kapısı. Bilgi babadan oğula geçiyor. Bugün bir yöntem bulduğumuzda yayınlıyoruz, kongrede anlatıyoruz, başka biri eksiğini görüp düzeltiyor; yöntem öyle gelişiyor. O zaman kongre yok, dergi yok, “beş dakikada kol flebi” videosu hiç yok. İyi bir fikir ortaya çıkıyor, ama yayılması yüz yıldan uzun sürüyor.',
         },
         {
           type: 'p',
-          text: 'Berlin’de çalışan Jacques Joseph’in hikâyesi ise burunla değil, kulakla başlıyor: kepçe kulakları yüzünden okulda alay edilen bir çocuğa yaptığı estetik ameliyatla. Joseph çok önemli bir şeyi erken fark ediyor: Fiziksel olarak sağlıklı olmak, insanın görünüşüyle ilgili hiçbir sorun yaşamadığı anlamına gelmiyor. 1898’de rinoplasti tekniklerini yayımlıyor, özel aletler tasarlıyor. Bugün ameliyathanede piezo cihazlarının yanında hâlâ “Joseph elevatörü” kullanıyoruz.',
+          text: 'Bunu değiştiren kişi Bologna’da bir anatomi hocası: Gaspare Tagliacozzi. Yöntemi o bulmuyor; ama ameliyatı basamak basamak yazıyor, çizimlerini yaptırıyor ve 1597’de kitap olarak yayımlıyor. Yani yaptığı şey, bugün bizim makale yazmak dediğimiz şey. Plastik cerrahinin ilk kitaplarından biri bu. Sonra ne oluyor? Hiçbir şey. Yaklaşık iki yüz yıl bu konu Avrupa’da unutuluyor.',
         },
-        { type: 'h2', text: 'Rinoplasti bir ameliyattan bir disipline dönüşüyor' },
+        { type: 'h2', text: 'Hindistan’dan Londra’ya: tek bir dergi yazısı' },
         {
           type: 'p',
-          text: 'Roe ve Joseph’in döneminde önemli olan yalnızca yeni tekniklerin bulunması değil; rinoplastinin belli prensipleri olan bir ameliyat hâline gelmeye başlaması. Cerrahın cevaplaması gereken sorular netleşiyor:',
+          text: 'Hikâye tekrar Hindistan’a dönüyor ve bu sefer hastanın adını biliyoruz: Cowasjee. İngiliz ordusunda öküz arabası sürücüsü. 1790’larda savaşta esir düşüyor; burnunu ve bir elini kesip serbest bırakıyorlar. Bir yıl kadar burunsuz yaşıyor, sonra yerel bir cerrah alnından çevirdiği deriyle ona yeni bir burun yapıyor.',
+        },
+        {
+          type: 'p',
+          text: 'Bu ameliyatı gören İngilizler çok etkileniyor ve 1794’te Londra’da bir dergide çizimiyle birlikte yayımlıyorlar. O dergiyi okuyanlardan biri Joseph Carpue adında bir cerrah. İlk gördüğü hastada hemen denemiyor; yöntemi inceliyor, hazırlanıyor ve 1814’te İngiltere’de alın flebiyle ilk burnu yapıyor. Ameliyat on beş dakika kadar sürmüş. Kulağa kısa geliyor, ama anestezi henüz yok; hasta için o on beş dakika pek kısa geçmemiştir.',
+        },
+        {
+          type: 'p',
+          text: 'Yani Hindistan’da yüzyıllardır yapılan bir ameliyatın Avrupa’ya ulaşması tek bir dergi yazısıyla oluyor. Branca ailesinin sakladığı şeyle Tagliacozzi’nin yazdığı şey arasındaki fark tam olarak bu.',
+        },
+        { type: 'h2', text: '2. soru: Olan burnu değiştirebilir miyiz?' },
+        {
+          type: 'p',
+          text: 'Buraya kadar anlattığım bütün ameliyatlar kaybedilmiş bir burnu yerine koymak için; estetik diye bir şey yok. 19. yüzyılın sonunda soru değişiyor: Burnu yerinde olan, nefes alan, ama burnunun görüntüsünden memnun olmayan birinin burnunu değiştirebilir miyiz?',
+        },
+        {
+          type: 'p',
+          text: 'Bu bizim için bambaşka bir problem. Çünkü onarımda hedef belli: Eksik olanı yerine koyuyorsun. Burada ise önce şuna karar vermek lazım: Güzel burun nedir? Hemen arkasından daha zoru geliyor: Kime göre güzel? Bu soruya bugün de kesin bir cevabımız yok.',
+        },
+        {
+          type: 'p',
+          text: 'Bilinen ilk estetik burun ameliyatını 1887’de Amerika’da bir kulak burun boğaz doktoru, John Orlando Roe yayımlıyor. Ameliyatı burnun içinden yapıyor, yani dışarıda hiç iz bırakmadan. Birkaç yıl sonra burun kemerini de içeriden küçültmeyi tarif ediyor. Bugün kapalı teknik dediğimiz şeyin başlangıcı bu.',
+        },
+        { type: 'h2', text: 'Jacques Joseph: kulakla başlayan bir burun hikâyesi' },
+        {
+          type: 'p',
+          text: 'Ama bu işi asıl sisteme oturtan kişi Berlin’de: Jacques Joseph. Aslında bir ortopedi asistanı ve hikâyesi burunla değil, kulakla başlıyor. Kepçe kulakları yüzünden okulda alay edilen bir çocuk var. Joseph bir yöntem bulup kulakları geriye yatırıyor. Sonuç çok iyi; bunu bir toplantıda sunuyor ve büyük ilgi görüyor.',
+        },
+        {
+          type: 'p',
+          text: 'Hocası ise bundan hiç hoşlanmıyor ve Joseph’i klinikten kovuyor. Hasta olmayan bir çocuğu sırf görüntüsü için ameliyat etmek o dönemde kabul gören bir şey değil. Joseph de kendi muayenehanesini açıyor ve iki yıl sonra, 1898’de ilk burun küçültme ameliyatını yayımlıyor. Bir hocanın asistanına farkında olmadan yaptığı en büyük iyiliklerden biri olabilir.',
+        },
+        {
+          type: 'p',
+          text: 'Joseph sonraki otuz yıl boyunca ameliyatı basamaklara ayırıyor, kendi aletlerini tasarlıyor. O aletlerin bir kısmını biz hâlâ kullanıyoruz. Ameliyathanede bir tarafta piezo dediğimiz, kemiği titreşimle kesen cihaz duruyor; öbür tarafta yüz yıl önce yaşamış bir adamın adını taşıyan el aleti. Cerrahide bir şey işe yarıyorsa eski diye atılmaz. Joseph’in asıl fark ettiği şey de şu: Bir insanın sağlıklı olması, görüntüsüyle ilgili bir derdi olmadığı anlamına gelmiyor.',
+        },
+        { type: 'h2', text: 'Savaş: hikâye birinci soruya dönüyor' },
+        {
+          type: 'p',
+          text: 'Bu arada araya savaş giriyor ve hikâye bir süreliğine birinci soruya geri dönüyor. Birinci Dünya Savaşı’nda askerlerin gövdesi siperde korunuyor, ama başı açıkta. O güne kadar görülmemiş sayıda yüz yaralanması oluyor; burnunu, çenesini kaybetmiş ama hayatta kalmış çok sayıda insan var.',
+        },
+        {
+          type: 'p',
+          text: 'Bu hastalarla uğraşan cerrahların başında Harold Gillies geliyor; ilk eğitimi de kulak burun boğaz. O kadar çok hasta görülünce flepler, kıkırdak ve kemik nakilleri çok hızlı gelişiyor. Yani onarım cerrahisiyle estetik cerrahi bu dönemde aynı ellerde buluşuyor. Bugünkü rinoplasti bu ikisinin birleşimi.',
+        },
+        { type: 'h2', text: '3. soru: Neyi değiştireceğiz, neyi koruyacağız?' },
+        {
+          type: 'p',
+          text: '20. yüzyılın büyük kısmında burun estetiğinin mantığı basit: Fazlaysa çıkar. Burun büyükse küçült, kemer varsa al, uç genişse kıkırdak çıkar. Doğru hastada bunların bir kısmını hâlâ yapıyoruz. Ama yıllar geçtikçe bir şey görülüyor: Burundaki her yapı fazlalık değil. Bazısı burnu taşıyor, bazısı hava yolunu açık tutuyor.',
         },
         {
           type: 'ul',
           items: [
-            'Burun sırtına ne yapacağız?',
-            'Kıkırdakları nasıl şekillendireceğiz, burun ucunu nasıl düzenleyeceğiz?',
-            'Kesileri nereden yapacağız, izi nasıl azaltacağız?',
-            'Ve en önemlisi: Nefesi nasıl koruyacağız?',
+            'Kıkırdağı gereğinden fazla çıkarırsanız, ilk yıl çok güzel duran burun birkaç yıl sonra desteğini kaybedebiliyor.',
+            'Burnu gereğinden fazla daraltırsanız görüntü düzeliyor, ama hasta nefes alamıyor. Nefes alamayan bir burna da güzel demek zor.',
           ],
         },
         {
           type: 'p',
-          text: 'Çünkü burnun dışını değiştirdiğiniz anda içini de etkileyebilirsiniz. Burun estetik olarak çok güzel olabilir; ama hasta nefes alamıyorsa ortada iyi bir sonuç olduğunu söylemek zor. Şekil ve fonksiyon birbirinden ayrı değil ve bu, bugün de rinoplastinin merkezindeki meselelerden biri.',
-        },
-        { type: 'h2', text: 'Savaş ve modern yüz cerrahisi' },
-        {
-          type: 'p',
-          text: 'Birinci Dünya Savaşı’nda siperlerde gövdesi korunan askerlerin yüzleri açıkta kalıyor ve daha önce görülmemiş sayıda ağır yüz yaralanması ortaya çıkıyor. Bu hastaları tedavi eden cerrahların en önemlilerinden biri, erken eğitimi kulak burun boğaz alanında olan Harold Gillies. Bu yoğun deneyim flep ve greft tekniklerini, kıkırdak ve kemik kullanımını hızla geliştiriyor. Modern rinoplasti biraz da bu iki dünyanın, onarım ve estetiğin, birleşmesi.',
-        },
-        { type: 'h2', text: '“Fazlaysa çıkar”dan “neyi koruyacağım?”a' },
-        {
-          type: 'p',
-          text: '20. yüzyılın büyük bölümünde rinoplasti ağırlıklı olarak bir küçültme ameliyatıydı: Kemer varsa al, uç büyükse kıkırdak çıkar. Ama zamanla fark edildi ki burundaki her yapı fazlalık değil. Bazıları burnu taşıyor, bazıları hava yolunu açık tutuyor. Gereğinden fazla çıkarılan bir kıkırdak, ilk yıl güzel görünen burnun birkaç yıl sonra desteğini kaybetmesine yol açabiliyor; gereğinden fazla daraltılan bir bölge nefesi bozabiliyor.',
+          text: 'O yüzden soru değişti. Artık “bu burundan ne çıkaracağım?” diye değil, “neyi değiştireceğim, neyi koruyacağım, neyi destekleyeceğim?” diye bakıyoruz.',
         },
         {
           type: 'p',
-          text: 'Bugün sıkça duyduğunuz preservation (koruyucu) rinoplasti fikri de, ilginç bir şekilde, tamamen yeni değil; benzer yaklaşımlar 19. yüzyıl sonu ve 20. yüzyıl başında da tarif edilmiş, sonra unutulup yeniden keşfedilmiş. Yine de her burun için tek ve üstün bir yöntem yok; doğru teknik, o burnun anatomisine göre seçiliyor.',
+          text: 'Son yıllarda çok konuşulan koruyucu rinoplasti de bunun devamı: burun sırtının doğal yapısını bozmadan şekil vermeye çalışmak. İşin ilginç tarafı, bu fikir de yeni değil. Benzer yöntemler yüz yıl önce tarif edilmiş, sonra unutulmuş, şimdi daha iyi anatomi bilgisiyle geri dönüyor. Bu, her burna uyan tek yöntem olduğu anlamına gelmiyor; hangi hastada daha iyi olduğu hâlâ tartışılıyor.',
         },
-        { type: 'h2', text: 'Üç bin yılda gerçekten ne değişti?' },
+        { type: 'h2', text: 'Bir yapraktan bugüne: sorular pek değişmedi' },
         {
           type: 'p',
-          text: 'Sushruta’nın elinde bir yaprak vardı. Bugün biz bir iki milimetrenin yüz ifadesini nasıl değiştireceğini konuşuyoruz. Teknoloji açısından inanılmaz bir fark var; ama cerrahın kafasındaki bazı sorular hâlâ çok benzer: Bu dokunun kanlanmasını nasıl koruyacağım? Neyi çıkarabilirim, neye dokunmamalıyım? Bu burun iyi nefes alacak mı? Ve en sonunda: Bu burun gerçekten bu insanın yüzüne aitmiş gibi görünecek mi?',
-        },
-        { type: 'h2', text: 'Bir güzellik tarihi değil, bir kimlik tarihi' },
-        {
-          type: 'p',
-          text: 'Hikâyenin çok büyük bir bölümünde mesele güzellik değil, kimlik: Bir insanın yüzünü geri vermek, toplumdan dışlanmasına neden olan bir bozukluğu düzeltmek, savaşta kaybedilen bir parçayı yeniden oluşturmak. Estetik işin içine sonradan giriyor ve bugün ikisini birbirinden tamamen ayırmak pek mümkün değil. Çünkü burun hem bir solunum organı hem de yüzün ortasındaki en belirgin yapılardan biri. Bir hastanın burnunu değiştirdiğinizde bazen insanın kendisini nasıl gördüğünü de değiştiriyorsunuz; Jacques Joseph’in yüz yılı aşkın süre önce fark ettiği bu taraf, yöntemler değişse de pek değişmedi.',
-        },
-        {
-          type: 'p',
-          text: 'Üç bin yıl önce başarı, burnu olmayan bir insanın yeniden burnunun olmasıydı. Sonra travma görmüş bir burnu onarmak, ardından burnun şeklini değiştirmek başarı oldu. Bugün ise hepsini aynı anda istiyoruz:',
+          text: 'En başa dönelim. Sushruta’nın karşısında burnu kesilmiş bir insan var, elinde de bir yaprak. Bugün bizim elimizde üç boyutlu görüntüleme var, piezo var, güvenli anestezi var ve ameliyatta bir iki milimetreyi konuşuyoruz. Ama sorduğumuz sorular çok değişmedi:',
         },
         {
           type: 'ul',
           items: [
-            'İyi nefes alan,',
-            'yüzün diğer yapılarıyla uyumlu,',
-            'doğal görünen',
-            've yıllar içinde desteğini koruyan bir burun.',
+            'Bu dokunun kanlanmasını nasıl koruyacağım?',
+            'Neye dokunmamam lazım?',
+            'Bu burun nefes alacak mı?',
+            'Ve bu burun, bu insanın yüzüne ait gibi duracak mı?',
           ],
         },
         {
           type: 'p',
-          text: 'Burun estetiğinin tarihi aslında bir güzellik tarihi değil. Bir insanın yüzünden alınan bir parçayı ona geri verme çabasıyla başlıyor ve üç bin yıl sonra “Bu insan için en doğru burun hangisi?” sorusuna kadar geliyor. Muhtemelen yüz yıl sonra cerrahlar da bizim bugünkü tekniklerimize bakıp “Gerçekten bunu mu yapıyorlarmış?” diyecekler; tıpkı bizim Tagliacozzi’nin hastalarına baktığımız gibi.',
+          text: 'Yani burun estetiğinin tarihi aslında bir güzellik tarihi değil. Büyük kısmında mesele, bir insana yüzünü geri vermek; estetik işin içine son yüz yılda giriyor. Muhtemelen yüz yıl sonraki cerrahlar da bizim bugünkü ameliyat fotoğraflarımıza bakıp “Gerçekten böyle mi yapıyorlarmış?” diyecek; tıpkı bizim Tagliacozzi’nin çizimlerine baktığımız gibi.',
         },
       ],
     },
     en: {
       title: 'How a punishment gave birth to modern rhinoplasty: a 3,000-year story',
       description:
-        'From ancient Egypt and Sushruta to Tagliacozzi’s patients with their arms stitched to their noses, the surprising history of nose surgery, and the principles that still guide it today.',
-      readMinutes: 9,
+        'From Sushruta’s leaf to patients with their arms stitched to their noses, from Roe and Joseph to today’s preservation approach: the history of nose surgery told through three questions.',
+      readMinutes: 10,
       body: [
         {
           type: 'p',
-          text: 'This is a slightly different story about nose surgery. It does not begin in an operating room, and it does not begin with people wanting to look more beautiful. It begins with the opposite: an attempt to disfigure. Around three thousand years ago, in some parts of the world, cutting off someone’s nose was one of the harshest punishments.',
+          text: 'This is a slightly different story about nose surgery. It does not begin in an operating room, it certainly does not begin on Instagram, and it does not even begin with people wanting to look better. It begins with the opposite: an attempt to disfigure. Around three thousand years ago, in some parts of the world, cutting off someone’s nose was one of the harshest punishments.',
         },
         {
           type: 'p',
-          text: 'Imagine a sentence that never ends: every conversation, every walk in the street, every look in the mirror. Some of the earliest plastic surgery in history appears precisely in the effort to rebuild these people’s faces.',
+          text: 'Imagine a sentence that never ends. You carry it for life, in the middle of your face: in every conversation, every walk down the street, every look in the mirror. And one of the first plastic surgery operations in history appears in the effort to repair these people’s faces. There is no anaesthesia, no antibiotics, no sterile operating room. But there is a problem, and someone is looking for a solution.',
         },
-        { type: 'h2', text: 'Ancient Egypt: repair before beauty' },
         {
           type: 'p',
-          text: 'The earliest written traces of nasal surgery come from ancient Egypt. The Edwin Smith Papyrus, with knowledge reaching back to around 3000–2500 BC, describes facial injuries, broken noses and how to manage them. This is not aesthetics; the problem is basic. The nose is broken and displaced. How can we bring it closer to its original state? It is still the first question a surgeon asks today: what is damaged, what can I correct, what must I protect?',
+          text: 'It is a strange journey, from India to Italy, from patients with their arms stitched to their noses to modern rhinoplasty. And at its beginning there is no aesthetics, only a punishment.',
+        },
+        { type: 'h2', text: 'The history of three questions' },
+        {
+          type: 'p',
+          text: 'I want to tell this story through three questions, because the history of nose surgery is really the history of three questions:',
+        },
+        {
+          type: 'steps',
+          items: [
+            { title: 'How do we build a nose that is missing?', text: 'A question that lasted about two and a half thousand years.' },
+            { title: 'Can we change a nose that exists?', text: 'First asked a little over a hundred years ago.' },
+            { title: 'What do we change, and what do we preserve?', text: 'The question we are still answering today.' },
+          ],
+        },
+        { type: 'h2', text: 'Question 1: How do we build a missing nose?' },
+        {
+          type: 'p',
+          text: 'First, why the nose? The aim of the punishment was not only pain, but visibility. We can cover many wounds on the body, but there is no way to hide something missing from the centre of the face. Cutting off a nose was as much a way of branding someone as of punishing them. And so a need arose: some people were cutting noses off, and others were trying to work out how to repair them.',
         },
         { type: 'h2', text: 'Sushruta and a leaf' },
         {
           type: 'p',
-          text: 'In ancient India, where nose amputation was used as a visible, stigmatising punishment, the need for reconstruction grew. Here we meet one of the most famous names in surgical history: Sushruta, thought to have lived around 2,500–3,000 years ago. The Sushruta Samhita contains a remarkable description of nasal reconstruction.',
+          text: 'This is where we meet Sushruta. Exactly when he lived is debated, and the sources vary by a few centuries, but he was a surgeon working in India roughly two and a half thousand years ago. The book that bears his name contains a description of nasal reconstruction.',
         },
         {
           type: 'p',
-          text: 'Today we measure a defect with photographs and software. Then, they used a leaf. The leaf was placed over the missing area to define its shape, and a piece of skin was prepared from the cheek. Crucially, the skin was not cut free: one side stayed attached to keep its blood supply.',
+          text: 'Part of the patient’s nose is missing. First you need to measure the defect. Today we take photographs and measure with a ruler; they used a leaf. They placed the leaf over the missing area to make a template, then prepared a piece of skin from the cheek to match it. But they did not cut the skin free: they left one end attached. This is a crucial detail, because the skin’s blood supply continued through that connection. Then they turned the skin and brought it to the defect on the nose.',
         },
         {
           type: 'callout',
-          text: 'This is the basic logic of what surgeons now call a “flap”: moving tissue from one place to another while preserving the connection that keeps it alive, discovered through observation alone, without antibiotics or modern anaesthesia.',
+          text: 'This is what we now call a “flap”: moving tissue to a neighbouring area without cutting the connection that keeps it supplied with blood. Nobody knew about blood circulation or germs at the time, but they had observed it: cut the tissue free and it dies; leave a connection and it lives. Surgery is often like that; you see that something works long before you know why.',
         },
         {
           type: 'p',
-          text: 'A small correction to a common story: Sushruta is often said to have used forehead skin. The classic early description is closer to a cheek flap; the forehead flap now known as the “Indian method” developed later. The principle was so good that the forehead flap is still a valuable technique for large nasal defects today.',
+          text: 'Let me correct one thing, because I used to tell it this way too: you will often read that Sushruta turned down skin from the forehead. In fact the first description uses the cheek; the forehead technique developed in later centuries. We still use that method today: the reconstruction we perform for patients who lose most of their nose to skin cancer is almost the same.',
         },
-        { type: 'h2', text: 'Italy: stitching the arm to the nose' },
+        { type: 'h2', text: 'Italy: from the arm to the nose' },
         {
           type: 'p',
-          text: 'In 15th-century Italy, surgical families such as the Brancas worked on nasal reconstruction. Taking skin from the face left scars at the donor site, so Antonio Branca is said to have taken it from the arm instead. The skin stayed attached to the arm and was stitched to the nose, so the patient lived for a while with the arm fixed beside the head, until the new tissue took and the connection was cut. It looks like a torture device, but the surgical principle is sound and still used today.',
+          text: 'Let us move about two thousand years forward, to 15th-century Italy. There is no nose-cutting punishment here, but there are wars and duels, and plenty of people still lose their noses. Families of surgeons take up this work, the best known being the Branca family.',
         },
         {
           type: 'p',
-          text: 'In 1597, Gaspare Tagliacozzi of Bologna systematised the method in “De Curtorum Chirurgia per Insitionem”, one of the first comprehensive books devoted to plastic surgery. Patients sometimes ask me whether the splint really needs to stay for a week. If I hung a few of Tagliacozzi’s drawings in my clinic, I suspect the complaints would stop.',
+          text: 'They noticed a problem: if you take skin from the face to build a nose, you leave a scar where you took it. You fix one place and damage another. Their solution was to take the skin from the arm. The logic was the same: the skin must not be cut free. So the skin prepared on the arm was stitched to the nose with one end still attached to the arm. The patient could not lower the arm; it was fixed beside the head, and the patient waited like that for weeks. Once the skin began to draw its blood supply from the nose, a second operation cut the connection to the arm.',
         },
-        { type: 'h2', text: 'From India to London' },
         {
           type: 'p',
-          text: 'In the 1790s, a man named Cowasjee, whose nose had been cut off as a prisoner of war, was treated in India with a forehead flap kept attached between the eyebrows. The operation was published in London’s Gentleman’s Magazine in 1794 and read by Joseph Constantine Carpue. Carpue did not try it on the first patient he saw; he studied the method and prepared, a reminder that even 200 years ago a surgeon needed to know when to slow down. In 1814 he performed a successful forehead-flap reconstruction in England, followed by a second case, and published his results as a book in 1816, reviving Europe’s interest in nasal reconstruction. One of his first operations took about 15 minutes, which sounds quick until you remember there was no modern anaesthesia.',
+          text: 'I admit the picture is not pleasant. But the principle is entirely logical and still valid today: bring the tissue, protect its blood supply, wait for it to take, then divide the connection. We simply try not to keep patients with their arm in the air for weeks. On that front, I think we can say we have made some progress.',
         },
-        { type: 'h2', text: 'A new question: can we change a nose that exists?' },
+        { type: 'h2', text: 'From secret to book: Tagliacozzi' },
         {
           type: 'p',
-          text: 'For about 2,500 years the question had been “how do we build a missing nose?” At the end of the 19th century it changed. In 1887, American ENT surgeon John Orlando Roe published an aesthetic nose operation performed from inside the nose, without external incisions, and is often called the father of aesthetic rhinoplasty. In Berlin, Jacques Joseph recognised that being physically healthy does not mean being free of distress about one’s appearance, published his rhinoplasty techniques in 1898 and designed instruments still used today, alongside modern piezo devices.',
+          text: 'There is another interesting side to this period. These families kept the method secret, because it was their livelihood, and the knowledge passed from father to son. Today, when we develop a technique, we publish it and present it at congresses; someone else sees what is missing and improves it, and that is how methods evolve. Back then there were no congresses, no journals, and certainly no “arm flap in five minutes” videos. A good idea appeared, but it took more than a century to spread.',
         },
-        { type: 'h2', text: 'From an operation to a discipline' },
         {
           type: 'p',
-          text: 'What mattered in Roe’s and Joseph’s era was not only new techniques, but rhinoplasty becoming an operation with principles. The questions a surgeon must answer became clearer:',
+          text: 'The person who changed this was an anatomy professor in Bologna, Gaspare Tagliacozzi. He did not invent the method, but he wrote the operation down step by step, had it illustrated, and published it as a book in 1597. In other words, he did what we would now call writing a paper. It is one of the first books of plastic surgery. And then? Nothing. For about two hundred years the subject was forgotten in Europe.',
+        },
+        { type: 'h2', text: 'From India to London: a single magazine article' },
+        {
+          type: 'p',
+          text: 'The story returns to India, and this time we know the patient’s name: Cowasjee, a bullock-cart driver with the British army. In the 1790s he was taken prisoner; his captors cut off his nose and one hand and released him. He lived without a nose for about a year, until a local surgeon built him a new one with skin turned down from his forehead.',
+        },
+        {
+          type: 'p',
+          text: 'The British who saw the operation were deeply impressed, and in 1794 it was published, with an illustration, in a London magazine. One of its readers was a surgeon named Joseph Carpue. He did not try it on the first patient he saw; he studied the method, prepared, and in 1814 performed his first forehead-flap nose in England. The operation reportedly took about fifteen minutes. That sounds short, but there was no anaesthesia yet; those fifteen minutes cannot have felt short to the patient.',
+        },
+        {
+          type: 'p',
+          text: 'So an operation performed in India for centuries reached Europe through a single magazine article. That is exactly the difference between what the Branca family kept secret and what Tagliacozzi wrote down.',
+        },
+        { type: 'h2', text: 'Question 2: Can we change a nose that exists?' },
+        {
+          type: 'p',
+          text: 'Every operation I have described so far was about replacing a nose that had been lost; aesthetics did not come into it. At the end of the 19th century the question changed: can we change the nose of someone whose nose is intact and breathes, but who is unhappy with how it looks?',
+        },
+        {
+          type: 'p',
+          text: 'For us this is a completely different problem. In reconstruction the goal is clear: you replace what is missing. Here you first have to decide what a beautiful nose is, and right after that comes the harder question: beautiful according to whom? We still have no definitive answer.',
+        },
+        {
+          type: 'p',
+          text: 'The first known aesthetic nose operation was published in 1887 in the United States by an ear, nose and throat doctor, John Orlando Roe. He operated from inside the nose, leaving no external scar. A few years later he also described reducing a nasal hump from the inside. This is the beginning of what we now call the closed technique.',
+        },
+        { type: 'h2', text: 'Jacques Joseph: a nose story that starts with ears' },
+        {
+          type: 'p',
+          text: 'But the person who truly systematised this work was in Berlin: Jacques Joseph. He was actually an orthopaedic assistant, and his story starts not with a nose but with ears. A boy was being teased at school because of his prominent ears. Joseph devised a method and set the ears back. The result was very good; he presented it at a meeting and it attracted great interest.',
+        },
+        {
+          type: 'p',
+          text: 'His professor, however, did not like this at all and dismissed Joseph from the clinic. Operating on a child who was not ill, purely for appearance, was not accepted at the time. So Joseph opened his own practice, and two years later, in 1898, published his first nose reduction operation. It may be one of the greatest favours a professor ever unknowingly did for an assistant.',
+        },
+        {
+          type: 'p',
+          text: 'Over the next thirty years Joseph broke the operation down into steps and designed his own instruments, some of which we still use. In the operating room, on one side there is a piezo device that cuts bone by vibration; on the other, a hand instrument bearing the name of a man who lived a hundred years ago. In surgery, if something works, it is not thrown away for being old. And Joseph’s real insight was this: being healthy does not mean having no concerns about one’s appearance.',
+        },
+        { type: 'h2', text: 'War: the story returns to the first question' },
+        {
+          type: 'p',
+          text: 'Then war intervened, and for a while the story went back to the first question. In the First World War soldiers’ bodies were protected in the trenches, but their heads were exposed. Facial injuries occurred on an unprecedented scale; many people survived having lost a nose or a jaw.',
+        },
+        {
+          type: 'p',
+          text: 'Foremost among the surgeons treating them was Harold Gillies, whose first training was also in ear, nose and throat surgery. With so many patients, flaps and cartilage and bone grafts developed very quickly. In this period reconstructive and aesthetic surgery came together in the same hands. Today’s rhinoplasty is the combination of the two.',
+        },
+        { type: 'h2', text: 'Question 3: What do we change, and what do we preserve?' },
+        {
+          type: 'p',
+          text: 'For most of the 20th century the logic of nose surgery was simple: if there is too much, remove it. If the nose is big, make it smaller; if there is a hump, take it off; if the tip is wide, remove cartilage. In the right patient we still do some of this. But over the years something became clear: not every structure in the nose is excess. Some support the nose; some keep the airway open.',
         },
         {
           type: 'ul',
           items: [
-            'What do we do with the nasal bridge?',
-            'How do we shape the cartilages and the tip?',
-            'Where do we place the incisions, and how do we minimise scarring?',
-            'And above all: how do we preserve breathing?',
+            'Remove more cartilage than necessary, and a nose that looks great in the first year can lose its support a few years later.',
+            'Narrow the nose more than necessary, and the appearance improves but the patient cannot breathe. It is hard to call a nose that cannot breathe beautiful.',
           ],
         },
         {
           type: 'p',
-          text: 'Change the outside of the nose and you may affect the inside. A nose can look beautiful, but if the patient cannot breathe, it is hard to call it a good result. Form and function are not separate, and this is still at the heart of rhinoplasty today.',
-        },
-        { type: 'h2', text: 'War, reconstruction and modern rhinoplasty' },
-        {
-          type: 'p',
-          text: 'The First World War produced severe facial injuries on an unprecedented scale. Harold Gillies, whose early training was in ENT, was among the surgeons who advanced flaps, grafts and the use of cartilage and bone. Modern rhinoplasty is, in part, the meeting of these two worlds: reconstruction and aesthetics.',
-        },
-        { type: 'h2', text: 'From “remove the excess” to “what should I preserve?”' },
-        {
-          type: 'p',
-          text: 'For much of the 20th century, rhinoplasty was mainly a reduction operation. Over time it became clear that not every structure is excess: some support the nose, some keep the airway open. Removing too much cartilage can make a nose that looks good in the first year lose support years later; narrowing too much can harm breathing. Preservation rhinoplasty, popular today, revives ideas first described over a century ago — yet there is still no single best technique for every nose; the method is chosen for each anatomy.',
-        },
-        { type: 'h2', text: 'What has really changed in 3,000 years?' },
-        {
-          type: 'p',
-          text: 'Sushruta had a leaf; today we discuss how one or two millimetres change a face. The technology is incomparable, but some questions in the surgeon’s mind are the same: how do I preserve blood supply, what can I remove and what must I leave, will this nose breathe well — and will it truly look like it belongs to this person’s face?',
-        },
-        { type: 'h2', text: 'A history of identity, not of beauty' },
-        {
-          type: 'p',
-          text: 'For most of this story, the issue was not beauty but identity: giving someone their face back, correcting a deformity that excluded them from society, rebuilding what was lost in war. Aesthetics came later, and today the two can hardly be separated. The nose is both a breathing organ and one of the most prominent features at the centre of the face. When you change someone’s nose, you sometimes change how they see themselves, the very thing Jacques Joseph noticed more than a century ago. Our methods have changed a great deal; that part has not.',
+          text: 'That is why the question has changed. We no longer ask “what shall I remove from this nose?” but “what shall I change, what shall I preserve, and what shall I support?”',
         },
         {
           type: 'p',
-          text: 'Three thousand years ago, success meant that someone without a nose had one again. Later it meant repairing an injured nose, then changing its shape. Today we want all of it at once:',
+          text: 'Preservation rhinoplasty, much discussed in recent years, is a continuation of this: shaping the nose without disrupting the natural structure of the nasal bridge. Interestingly, this idea is not new either. Similar methods were described a hundred years ago, then forgotten, and are now returning with better anatomical knowledge. That does not mean it is the one method for every nose; which patients it suits best is still debated.',
+        },
+        { type: 'h2', text: 'From a leaf to today: the questions have barely changed' },
+        {
+          type: 'p',
+          text: 'Let us go back to the beginning. In front of Sushruta is a person whose nose has been cut off, and in his hand, a leaf. Today we have 3D imaging, piezo instruments and safe anaesthesia, and in surgery we talk about one or two millimetres. But the questions we ask have not changed much:',
         },
         {
           type: 'ul',
           items: [
-            'a nose that breathes well,',
-            'is in harmony with the rest of the face,',
-            'looks natural,',
-            'and keeps its support over the years.',
+            'How do I protect this tissue’s blood supply?',
+            'What must I not touch?',
+            'Will this nose breathe?',
+            'And will this nose look like it belongs to this person’s face?',
           ],
         },
         {
           type: 'p',
-          text: 'The history of rhinoplasty is not really a history of beauty. It begins with the effort to give back what was taken from someone’s face, and arrives, three thousand years later, at the question: what is the right nose for this person?',
+          text: 'So the history of rhinoplasty is not really a history of beauty. For most of it, the point was to give someone their face back; aesthetics entered only in the last hundred years. Surgeons a hundred years from now will probably look at our operation photos and say, “Did they really do it like that?”, just as we look at Tagliacozzi’s drawings.',
         },
       ],
     },
