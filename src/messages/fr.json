@@ -70,7 +70,7 @@
       "t3_title": "Mésothérapie et PRP",
       "t3_desc": "Injections de vitamines qui améliorent la qualité de la peau, rajeunissent et préviennent la chute des cheveux.",
       "t4_title": "Rajeunissement Facial Non Chirurgical",
-      "t4_desc": "Effet lifting avec fils tenseurs, 'vaccin de jeunesse' et applications de radiofréquence à micro-aiguilles."
+      "t4_desc": "Effet lifting avec fils tenseurs, « vaccin de jeunesse » et lipolyse laser."
     }
   },
   "Surgical": {
@@ -140,7 +140,7 @@
     "mesoTitle": "Mésothérapie & PRP | Dr. Murat Ayata",
     "mesoDesc": "Mésothérapie et PRP pour la qualité de la peau et les cheveux qui s’affinent, avec un plan de séances sur mesure.",
     "rejuvenationTitle": "Rajeunissement du visage sans chirurgie | Dr. Murat Ayata",
-    "rejuvenationDesc": "Fils tenseurs, skin boosters et radiofréquence avec micro-aiguilles pour une peau raffermie et ravivée.",
+    "rejuvenationDesc": "Fils tenseurs, skin boosters et lipolyse laser pour une peau raffermie et ravivée.",
     "blogTitle": "Blog : rhinoplastie, respiration et esthétique du visage | Dr. Murat Ayata",
     "blogDesc": "Les réponses du Dr Murat Ayata, chirurgien ORL, aux questions fréquentes sur la rhinoplastie, la septoplastie et l’esthétique du visage."
   },
@@ -606,7 +606,7 @@
     "rejuvenation": {
       "tag": "Rajeunissement du visage sans chirurgie",
       "title": "Liftez et ravivez, sans chirurgie.",
-      "intro": "Les fils tenseurs, les skin boosters et la radiofréquence avec micro-aiguilles aident à raffermir et renouveler la peau. Ils conviennent aux personnes qui souhaitent un coup d’éclat visible avec peu d’éviction sociale.",
+      "intro": "Les fils tenseurs, les skin boosters et la lipolyse laser aident à raffermir et renouveler la peau et à redessiner les contours du visage. Ils conviennent aux personnes qui souhaitent un coup d’éclat visible avec une récupération courte.",
       "waMessage": "Bonjour, je souhaite réserver une consultation vidéo en ligne au sujet du rajeunissement du visage sans chirurgie.",
       "fact1Label": "Lieu",
       "fact1Value": "Au cabinet à Kırklareli",
@@ -615,10 +615,10 @@
       "fact3Label": "Retour",
       "fact3Value": "Le jour même",
       "whatTitle": "Que comprend ce traitement ?",
-      "whatDesc": "Les fils tenseurs résorbables, placés sous la peau, soulèvent et soutiennent les tissus. Les injections de skin boosters améliorent l’hydratation et la qualité de la peau. La radiofréquence avec micro-aiguilles associe micro-aiguilles et énergie thermique pour stimuler le collagène et raffermir la peau.",
+      "whatDesc": "Les fils tenseurs résorbables placés sous la peau soulèvent et soutiennent les tissus. Les injections de skin boosters améliorent l’hydratation et la qualité de la peau. En lipolyse laser, l’énergie laser délivrée sous anesthésie locale par une fine canule réduit les amas graisseux localisés de l’ovale du visage et sous le menton ; la chaleur contribue aussi à raffermir la peau.",
       "who1": "Relâchement débutant des joues ou de la ligne de la mâchoire",
       "who2": "Perte de fermeté de la peau",
-      "who3": "Ridules et pores dilatés",
+      "who3": "Ridules ; graisse localisée sur l’ovale du visage ou sous le menton",
       "who4": "Personnes qui ne souhaitent pas de chirurgie ou veulent une éviction minimale",
       "approachTitle": "La bonne combinaison pour votre peau",
       "a1Title": "Analyse personnalisée",

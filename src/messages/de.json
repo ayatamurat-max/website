@@ -70,7 +70,7 @@
       "t3_title": "Mesotherapie & PRP",
       "t3_desc": "Vitamininjektionen, die die Hautqualität erhöhen, verjüngen und Haarausfall verhindern.",
       "t4_title": "Nicht-chirurgische Gesichtsverjüngung",
-      "t4_desc": "Lifting-Effekt mit Fadenlifting, 'Jugendimpfung' und Mikronadel-Radiofrequenz-Anwendungen."
+      "t4_desc": "Lifting-Effekt mit Fadenlifting, „Jugendimpfung“ und Laserlipolyse."
     }
   },
   "Surgical": {
@@ -140,7 +140,7 @@
     "mesoTitle": "Mesotherapie & PRP | Op. Dr. Murat Ayata",
     "mesoDesc": "Mesotherapie und PRP für Hautqualität und dünner werdendes Haar, mit individuellem Sitzungsplan.",
     "rejuvenationTitle": "Gesichtsverjüngung ohne OP | Op. Dr. Murat Ayata",
-    "rejuvenationDesc": "Fadenlifting, Skinbooster und Microneedling-Radiofrequenz für straffere, frischere Haut mit kurzer Ausfallzeit.",
+    "rejuvenationDesc": "Fadenlifting, Skinbooster und Laserlipolyse für straffere, frischere Haut mit kurzer Ausfallzeit.",
     "blogTitle": "Blog: Rhinoplastik, Atmung & Gesichtsästhetik | Op. Dr. Murat Ayata",
     "blogDesc": "Antworten des HNO-Chirurgen Op. Dr. Murat Ayata auf häufige Fragen zu Rhinoplastik, Septumplastik und Gesichtsästhetik."
   },
@@ -606,7 +606,7 @@
     "rejuvenation": {
       "tag": "Gesichtsverjüngung ohne OP",
       "title": "Straffen und auffrischen – ohne Operation.",
-      "intro": "Fadenlifting, Skinbooster und Microneedling-Radiofrequenz helfen, die Haut zu straffen und zu erneuern. Sie eignen sich für Menschen, die sichtbare Frische bei kurzer Ausfallzeit wünschen.",
+      "intro": "Fadenlifting, Skinbooster und Laserlipolyse helfen, die Haut zu straffen und zu erneuern und die Gesichtskonturen zu definieren. Sie eignen sich für Menschen, die sichtbare Frische bei kurzer Ausfallzeit wünschen.",
       "waMessage": "Hallo, ich möchte eine Online-Videoberatung zur nicht-operativen Gesichtsverjüngung buchen.",
       "fact1Label": "Ort",
       "fact1Value": "In der Praxis in Kırklareli",
@@ -615,10 +615,10 @@
       "fact3Label": "Heimreise",
       "fact3Value": "Am selben Tag",
       "whatTitle": "Was umfasst die Behandlung?",
-      "whatDesc": "Beim Fadenlifting werden resorbierbare Fäden unter die Haut eingebracht, um das Gewebe anzuheben und zu stützen. Skinbooster-Injektionen verbessern Feuchtigkeit und Hautqualität. Microneedling-Radiofrequenz kombiniert Mikronadeln mit Wärmeenergie, um die Kollagenbildung anzuregen und die Haut zu straffen.",
+      "whatDesc": "Beim Fadenlifting heben und stützen resorbierbare Fäden unter der Haut das Gewebe. Skinbooster-Injektionen verbessern Feuchtigkeit und Hautqualität. Bei der Laserlipolyse reduziert Laserenergie, die unter örtlicher Betäubung über eine dünne Kanüle eingebracht wird, lokale Fettpolster an der Kinnlinie und unter dem Kinn; die Wärme unterstützt zudem die Hautstraffung.",
       "who1": "Beginnende Erschlaffung an Wangen oder Kinnlinie",
       "who2": "Nachlassende Hautfestigkeit",
-      "who3": "Feine Linien und vergrößerte Poren",
+      "who3": "Feine Linien; lokale Fettpolster an der Kinnlinie oder unter dem Kinn",
       "who4": "Menschen, die (noch) keine Operation möchten oder eine kurze Ausfallzeit wünschen",
       "approachTitle": "Die richtige Kombination für Ihre Haut",
       "a1Title": "Persönliche Analyse",
