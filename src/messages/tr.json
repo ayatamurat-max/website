@@ -70,7 +70,7 @@
       "t3_title": "Mezoterapi & PRP",
       "t3_desc": "Cilt kalitesini artıran, gençleştiren ve saç dökülmesini önleyen vitamin enjeksiyonları.",
       "t4_title": "Ameliyatsız Yüz Gençleştirme",
-      "t4_desc": "İp askı, gençlik aşısı ve iğneli radyofrekans uygulamaları ile lifting etkisi."
+      "t4_desc": "İp askı, gençlik aşısı ve lazer lipoliz uygulamaları ile lifting etkisi."
     }
   },
   "Surgical": {
@@ -116,7 +116,7 @@
     "surgicalTitle": "Cerrahi İşlemler: Rinoplasti, Septoplasti, Otoplasti | Op. Dr. Murat Ayata",
     "surgicalDesc": "Rinoplasti, septoplasti, kepçe kulak (otoplasti), göz kapağı estetiği ve boyun-gıdı estetiği operasyonları hakkında bilgi.",
     "medicalTitle": "Medikal Estetik: Botoks, Dolgu, Mezoterapi | Op. Dr. Murat Ayata",
-    "medicalDesc": "Kırklareli'de ameliyatsız yüz gençleştirme: botoks, dermal dolgu, mezoterapi, PRP ve iğneli radyofrekans uygulamaları.",
+    "medicalDesc": "Kırklareli'de ameliyatsız yüz gençleştirme: botoks, dermal dolgu, mezoterapi, PRP ve lazer lipoliz uygulamaları.",
     "contactTitle": "İletişim ve Randevu | Op. Dr. Murat Ayata",
     "contactDesc": "Op. Dr. Murat Ayata Muayenehanesi adres, telefon, WhatsApp ve online randevu bilgileri. Saranta İş Merkezi, Kırklareli.",
     "rhinoTitle": "Rinoplasti (Burun Estetiği) Kırklareli | Op. Dr. Murat Ayata",
@@ -140,7 +140,7 @@
     "mesoTitle": "Mezoterapi ve PRP Kırklareli | Op. Dr. Murat Ayata",
     "mesoDesc": "Cilt kalitesi ve saç dökülmesi için mezoterapi ve PRP; size özel seans planı.",
     "rejuvenationTitle": "Ameliyatsız Yüz Gençleştirme Kırklareli | Op. Dr. Murat Ayata",
-    "rejuvenationDesc": "İp askı, gençlik aşısı ve iğneli radyofrekans ile kısa toparlanma süreli yüz gençleştirme.",
+    "rejuvenationDesc": "İp askı, gençlik aşısı ve lazer lipoliz ile kısa toparlanma süreli yüz gençleştirme.",
     "blogTitle": "Blog: Burun Estetiği, Nefes ve Yüz Estetiği | Op. Dr. Murat Ayata",
     "blogDesc": "Rinoplasti, septoplasti ve yüz estetiği hakkında sık sorulan sorulara KBB uzmanı Op. Dr. Murat Ayata’dan cevaplar."
   },
@@ -606,7 +606,7 @@
     "rejuvenation": {
       "tag": "Ameliyatsız Yüz Gençleştirme",
       "title": "Ameliyatsız toparlanma ve canlılık.",
-      "intro": "İp askı, gençlik aşısı ve iğneli radyofrekans cildi sıkılaştırmaya ve yenilemeye yardımcı olur. Kısa toparlanma süresiyle belirgin bir canlılık isteyenler için uygundur.",
+      "intro": "İp askı, gençlik aşısı ve lazer lipoliz cildi sıkılaştırmaya, yenilemeye ve yüz hatlarını belirginleştirmeye yardımcı olur. Kısa toparlanma süresiyle belirgin bir canlılık isteyenler için uygundur.",
       "waMessage": "Merhaba, ameliyatsız yüz gençleştirme hakkında online görüntülü ön görüşme randevusu almak istiyorum.",
       "fact1Label": "Nerede",
       "fact1Value": "Kırklareli’deki muayenehanede",
@@ -615,10 +615,10 @@
       "fact3Label": "Dönüş",
       "fact3Value": "Aynı gün",
       "whatTitle": "Neleri kapsar?",
-      "whatDesc": "İp askıda, deri altına yerleştirilen eriyebilen iplerle dokular kaldırılır ve desteklenir. Gençlik aşısı (cilt güçlendirici enjeksiyonlar) cildin nemini ve kalitesini artırır. İğneli radyofrekans, mikro iğneleri ısı enerjisiyle birleştirerek kolajen üretimini uyarır ve cildi sıkılaştırır.",
+      "whatDesc": "İp askıda, deri altına yerleştirilen eriyebilen iplerle dokular kaldırılır ve desteklenir. Gençlik aşısı (cilt güçlendirici enjeksiyonlar) cildin nemini ve kalitesini artırır. Lazer lipolizde, lokal anestezi altında ince bir kanülle deri altına ulaştırılan lazer enerjisi çene hattı ve gıdıdaki bölgesel yağları inceltir; ısı etkisi cildin toparlanmasına da katkı sağlar.",
       "who1": "Yanaklarda veya çene hattında başlangıç düzeyinde sarkma",
       "who2": "Cilt sıkılığında azalma",
-      "who3": "İnce çizgiler ve geniş gözenekler",
+      "who3": "İnce çizgiler; çene hattında veya gıdıda bölgesel yağlanma",
       "who4": "Ameliyata hazır olmayan veya kısa toparlanma süresi isteyenler",
       "approachTitle": "Cildinize uygun kombinasyon",
       "a1Title": "Kişisel analiz",
