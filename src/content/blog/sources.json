@@ -60,6 +60,26 @@
       "status": "skip",
       "reason": "Kurgu/çekim notu",
       "mtimeMs": 1790930904708
+    },
+    "3. hafta/1. gurup reels scriptleri.pages": {
+      "status": "published",
+      "slug": [
+        "mouth-taping-sleep",
+        "which-water-for-nasal-rinse",
+        "sudden-hearing-loss",
+        "why-one-nostril-gets-blocked"
+      ],
+      "mtimeMs": 1792063859767
+    },
+    "3. hafta/2. gurup.pages": {
+      "status": "published",
+      "slug": [
+        "ai-face-rhinoplasty-consultation",
+        "natural-nose-era",
+        "preventative-botox-age",
+        "face-taping-gua-sha-face-yoga"
+      ],
+      "mtimeMs": 1792065066634
     }
   }
 }
