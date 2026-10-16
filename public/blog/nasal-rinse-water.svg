@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#112240"/><stop offset="1" stop-color="#0A192F"/></linearGradient>
+    <radialGradient id="glow" cx="1200" cy="400" r="620" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#E5A93C" stop-opacity="0.10"/><stop offset="1" stop-color="#E5A93C" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2" cx="220" cy="820" r="520" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#00B4D8" stop-opacity="0.10"/><stop offset="1" stop-color="#00B4D8" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#ffffff" fill-opacity="0.06"/></pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#dots)"/>
+  <rect width="1600" height="900" fill="url(#glow)"/>
+  <rect width="1600" height="900" fill="url(#glow2)"/>
+  <circle cx="800" cy="440" r="300" fill="none" stroke="#00B4D8" stroke-opacity="0.4" stroke-width="1.5"/>
+  <circle cx="800" cy="440" r="350" fill="none" stroke="#00B4D8" stroke-opacity="0.14" stroke-width="1.5"/>
+  <path d="M800 220 C860 320 950 410 950 500 C950 590 885 650 800 650 C715 650 650 590 650 500 C650 410 740 320 800 220 Z" fill="none" stroke="#00B4D8" stroke-width="3.5" stroke-linejoin="round"/>
+  <path d="M700 510 Q716.7 496 733.3 510 Q750.0 524 766.7 510 Q783.3 496 800.0 510 Q816.7 524 833.3 510 Q850.0 496 866.7 510 Q883.3 524 900.0 510" fill="none" stroke="#ffffff" stroke-opacity="0.6" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M720 560 Q736.0 548 752.0 560 Q768.0 572 784.0 560 Q800.0 548 816.0 560 Q832.0 572 848.0 560 Q864.0 548 880.0 560" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M710 450 C705 410 730 370 750 345" fill="none" stroke="#ffffff" stroke-opacity="0.5" stroke-width="3" stroke-linecap="round"/>
+  <path d="M1140 560 C1115 520 1165 480 1140 440 C1115 400 1165 360 1140 320" fill="none" stroke="#E5A93C" stroke-opacity="0.85" stroke-width="3" stroke-linecap="round"/>
+  <path d="M1200 560 C1175 520 1225 480 1200 440 C1175 400 1225 360 1200 320" fill="none" stroke="#E5A93C" stroke-opacity="0.6499999999999999" stroke-width="3" stroke-linecap="round"/>
+  <path d="M1260 560 C1235 520 1285 480 1260 440 C1235 400 1285 360 1260 320" fill="none" stroke="#E5A93C" stroke-opacity="0.44999999999999996" stroke-width="3" stroke-linecap="round"/>
+
+</svg>

@@ -8,9 +8,25 @@ import deviatedSeptum from './posts/deviated-septum-surgery';
 import botoxFacts from './posts/botox-facts';
 import earwax from './posts/earwax';
 import coldWeather from './posts/cold-weather-illness';
+import mouthTaping from './posts/mouth-taping';
+import nasalRinseWater from './posts/nasal-rinse-water';
+import suddenHearingLoss from './posts/sudden-hearing-loss';
+import nasalCycle from './posts/nasal-cycle';
+import aiFace from './posts/ai-face';
+import naturalNose from './posts/natural-nose';
+import preventativeBotox from './posts/preventative-botox';
+import faceTaping from './posts/face-taping';
 
 // Yeni yazıyı buraya ekleyin.
 const ALL: Post[] = [
+  mouthTaping,
+  nasalRinseWater,
+  suddenHearingLoss,
+  nasalCycle,
+  aiFace,
+  naturalNose,
+  preventativeBotox,
+  faceTaping,
   historyOfRhinoplasty,
   nasalSprayAddiction,
   deviatedSeptum,

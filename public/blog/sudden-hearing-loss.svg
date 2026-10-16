@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#112240"/><stop offset="1" stop-color="#0A192F"/></linearGradient>
+    <radialGradient id="glow" cx="1000" cy="380" r="620" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#E5A93C" stop-opacity="0.10"/><stop offset="1" stop-color="#E5A93C" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2" cx="220" cy="820" r="520" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#00B4D8" stop-opacity="0.10"/><stop offset="1" stop-color="#00B4D8" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#ffffff" fill-opacity="0.06"/></pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#dots)"/>
+  <rect width="1600" height="900" fill="url(#glow)"/>
+  <rect width="1600" height="900" fill="url(#glow2)"/>
+  <circle cx="1000" cy="450" r="330" fill="none" stroke="#E5A93C" stroke-opacity="0.12" stroke-width="1.5"/>
+  <g transform="translate(724 174) scale(23)" fill="none" stroke="#E5A93C" stroke-opacity="1.0" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 9 C7 5.1 9.4 2.5 12.5 2.5 C15.9 2.5 18.5 5.2 18.5 8.8 C18.5 12.2 16.5 13.6 15.2 15 C14 16.3 13.8 17.4 13.6 19 C13.4 20.8 12 22 10.3 22 C8.6 22 7.5 20.9 7.2 19.5" vector-effect="non-scaling-stroke"/><path d="M10 9 C10 7 11.2 5.6 12.8 5.6 C14.4 5.6 15.5 6.9 15.5 8.6 C15.5 10 14.6 10.8 13.5 11.2" vector-effect="non-scaling-stroke"/><path d="M10 9 L10 10.5 C10 11.6 10.8 12.2 11.8 12.4" vector-effect="non-scaling-stroke"/></g>
+  <path d="M604.7 395.0 A110 110 0 0 0 604.7 505.0" fill="none" stroke="#00B4D8" stroke-opacity="0.9" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M544.1 360.0 A180 180 0 0 0 544.1 540.0" fill="none" stroke="#00B4D8" stroke-opacity="0.55" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M483.5 325.0 A250 250 0 0 0 483.5 575.0" fill="none" stroke="#00B4D8" stroke-opacity="0.25" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="14 12"/>
+  <path d="M1000.0 120.0 A330 330 0 1 1 689.9 562.9" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M685.9 583.5 L689.9 562.9 L706.2 576.1" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="1000.0" y1="105.0" x2="1000.0" y2="90.0" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="1172.5" y1="151.2" x2="1180.0" y2="138.2" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="1298.8" y1="277.5" x2="1311.8" y2="270.0" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="1345.0" y1="450.0" x2="1360.0" y2="450.0" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="1298.8" y1="622.5" x2="1311.8" y2="630.0" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="1172.5" y1="748.8" x2="1180.0" y2="761.8" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="1000.0" y1="795.0" x2="1000.0" y2="810.0" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="827.5" y1="748.8" x2="820.0" y2="761.8" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="701.2" y1="622.5" x2="688.2" y2="630.0" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="655.0" y1="450.0" x2="640.0" y2="450.0" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="701.2" y1="277.5" x2="688.2" y2="270.0" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="827.5" y1="151.2" x2="820.0" y2="138.2" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2.5" stroke-linecap="round"/>
+
+</svg>

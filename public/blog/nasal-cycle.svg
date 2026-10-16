@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" width="1600" height="900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#112240"/><stop offset="1" stop-color="#0A192F"/></linearGradient>
+    <radialGradient id="glow" cx="800" cy="380" r="620" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#E5A93C" stop-opacity="0.10"/><stop offset="1" stop-color="#E5A93C" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2" cx="220" cy="820" r="520" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#00B4D8" stop-opacity="0.10"/><stop offset="1" stop-color="#00B4D8" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#ffffff" fill-opacity="0.06"/></pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect width="1600" height="900" fill="url(#dots)"/>
+  <rect width="1600" height="900" fill="url(#glow)"/>
+  <rect width="1600" height="900" fill="url(#glow2)"/>
+  <circle cx="800" cy="450" r="360" fill="none" stroke="#00B4D8" stroke-opacity="0.12" stroke-width="1.5"/>
+  <g transform="translate(524 174) scale(23)" fill="none" stroke="#ffffff" stroke-opacity="0.85" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M10.5 3.5 C10.5 7.5 9.6 10.6 8 13.2" vector-effect="non-scaling-stroke"/><path d="M13.5 3.5 C13.5 7.5 14.4 10.6 16 13.2" vector-effect="non-scaling-stroke"/><path d="M8 13.2 C6.4 14.8 6.9 17.5 9 17.5 C9.8 17.5 10.4 17.1 10.8 16.6 L13.2 16.6 C13.6 17.1 14.2 17.5 15 17.5 C17.1 17.5 17.6 14.8 16 13.2" vector-effect="non-scaling-stroke"/></g>
+  <path d="M697.4 731.9 A300 300 0 0 1 697.4 168.1" fill="none" stroke="#E5A93C" stroke-opacity="0.9" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M676.8 164.1 L697.4 168.1 L684.2 184.4" fill="none" stroke="#E5A93C" stroke-opacity="0.9" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M902.6 168.1 A300 300 0 0 1 902.6 731.9" fill="none" stroke="#00B4D8" stroke-opacity="0.9" stroke-width="3.2" stroke-linecap="round"/>
+  <path d="M923.2 735.9 L902.6 731.9 L915.8 715.6" fill="none" stroke="#00B4D8" stroke-opacity="0.9" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="755" cy="610" rx="30" ry="14" fill="#E5A93C" fill-opacity="0.18"/>
+  <ellipse cx="845" cy="610" rx="30" ry="14" fill="#00B4D8" fill-opacity="0.10"/>
+
+</svg>
