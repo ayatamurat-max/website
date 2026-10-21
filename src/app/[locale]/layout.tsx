@@ -6,11 +6,8 @@ import { SITE_URL } from "@/i18n/metadata";
 // Sayfa başlık ve açıklamaları her sayfada dile göre üretilir (src/i18n/metadata.ts)
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
-  // Google Search Console doğrulaması: Vercel'de NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION
-  // ortam değişkenine Search Console'un verdiği kodu yazın. Boşsa etiket basılmaz.
-  verification: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION
-    ? { google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION }
-    : undefined,
+  // Google Search Console doğrulaması (https://www.muratayata.com/ mülkü). Kaldırmayın.
+  verification: { google: 'Qt15Q0VvfhRubK7ZuzAr_mT_EC9a-PVDksVmoaClmJs' },
 };
 
 import Header from '../components/Header';
