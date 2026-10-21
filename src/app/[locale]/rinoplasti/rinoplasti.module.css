@@ -75,7 +75,8 @@
 
 .stats {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  /* Öğe sayısı dile göre 2 veya 3 olabilir */
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 }
 
 .stat {

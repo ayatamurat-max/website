@@ -9,6 +9,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 
 const config: ProcedureConfig = {
   key: 'otoplasty',
+  path: '/kepce-kulak',
   icon: 'otoplasty',
   related: [
     { key: 'rhinoplasty', icon: 'rhinoplasty', href: '/rinoplasti' },

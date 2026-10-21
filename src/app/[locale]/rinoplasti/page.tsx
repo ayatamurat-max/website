@@ -1,6 +1,8 @@
 import type { Metadata } from 'next';
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 import { buildMetadata } from '@/i18n/metadata';
+import { breadcrumbJsonLd, faqJsonLd } from '@/lib/schema';
+import JsonLd from '../../components/JsonLd';
 import ProcedureIcon from '../../components/ProcedureIcon';
 import styles from './rinoplasti.module.css';
 
@@ -13,11 +15,14 @@ const WHATSAPP_NUMBER = '905553332120';
 
 export default function Rinoplasti() {
   const t = useTranslations('Rhinoplasty');
+  const tNav = useTranslations('Header');
+  const locale = useLocale();
   const waUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(t('waMessage'))}`;
 
+  // Ameliyat sayısı yalnızca yabancı dillerde gösterilir (Türkçe tanıtım mevzuatı gereği gizli)
   const stats = [
     { value: '15+', label: t('stat1Label') },
-    { value: t('stat2Value'), label: t('stat2Label') },
+    ...(locale === 'tr' ? [] : [{ value: t('stat2Value'), label: t('stat2Label') }]),
     { value: '7', label: t('stat3Label') },
   ];
   const approach = [1, 2, 3].map((n) => ({ title: t(`a${n}Title`), desc: t(`a${n}Desc`) }));
@@ -28,6 +33,13 @@ export default function Rinoplasti() {
 
   return (
     <>
+      <JsonLd data={faqJsonLd(faq)} />
+      <JsonLd
+        data={breadcrumbJsonLd(locale, [
+          { name: tNav('home'), path: '/' },
+          { name: tNav('rhinoplasty'), path: '/rinoplasti' },
+        ])}
+      />
       {/* Hero */}
       <section className={styles.hero}>
         <div className={`container ${styles.heroInner}`}>
