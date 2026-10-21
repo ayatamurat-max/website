@@ -2,7 +2,6 @@ import { Link } from '@/i18n/navigation';
 import Image from 'next/image';
 import { useLocale, useTranslations } from 'next-intl';
 import styles from './Footer.module.css';
-import ProcedureIcon from './ProcedureIcon';
 
 export default function Footer() {
   const year = new Date().getFullYear();
@@ -45,24 +44,9 @@ export default function Footer() {
             <li><Link href="/">{tNav('home')}</Link></li>
             <li><Link href="/hakkimda">{tNav('about')}</Link></li>
             <li><Link href="/international-patients">{tNav('international')}</Link></li>
-            <li>
-              <Link href="/rinoplasti" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.4rem' }}>
-                <ProcedureIcon name="rhinoplasty" size={16} />
-                {tNav('rhinoplasty')}
-              </Link>
-            </li>
-            <li>
-              <Link href="/medikal-islemler" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.4rem' }}>
-                <ProcedureIcon name="medical" size={16} />
-                {tNav('medical')}
-              </Link>
-            </li>
-            <li>
-              <Link href="/cerrahi-islemler" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.4rem' }}>
-                <ProcedureIcon name="surgical" size={16} />
-                {tNav('surgical')}
-              </Link>
-            </li>
+            <li><Link href="/rinoplasti">{tNav('rhinoplasty')}</Link></li>
+            <li><Link href="/medikal-islemler">{tNav('medical')}</Link></li>
+            <li><Link href="/cerrahi-islemler">{tNav('surgical')}</Link></li>
             <li><Link href="/blog">{tNav('blog')}</Link></li>
             <li><Link href="/iletisim">{tNav('contact')}</Link></li>
           </ul>

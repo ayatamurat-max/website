@@ -184,7 +184,7 @@ export default function ProcedurePage({ config }: { config: ProcedureConfig }) {
               {config.related.map((r) => (
                 <Link key={r.key} href={r.href} className={styles.card} style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
                   <span style={{ color: 'var(--color-accent)', flexShrink: 0 }}>
-                    <ProcedureIcon name={r.icon} size={34} strokeWidth={1.2} />
+                    <ProcedureIcon name={r.icon} size={38} strokeWidth={1.2} />
                   </span>
                   <span>
                     <strong style={{ display: 'block', color: 'var(--color-primary)', fontFamily: 'var(--font-heading)', fontSize: '1.05rem' }}>{r.key === 'rhinoplasty' ? tRhino('tag') : tAll(`${r.key}.tag`)}</strong>

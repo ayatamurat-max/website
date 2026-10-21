@@ -66,6 +66,11 @@
   color: var(--color-accent);
 }
 
+.heroRing img {
+  /* Koyu lacivert hero zemininde ikon çizgisi beyaza dönsün (PNG ikon lacivert çizgili) */
+  filter: brightness(0) invert(1);
+}
+
 /* ---------- Stats ---------- */
 .statsBand {
   padding: 0;

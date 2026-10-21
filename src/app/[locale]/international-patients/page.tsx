@@ -112,7 +112,7 @@ export default function InternationalPatients() {
             {treatments.map((tr) => (
               <Link key={tr.title} href={tr.href} className={own.treatCard}>
                 <span className={own.treatIcon}>
-                  <ProcedureIcon name={tr.icon} size={34} strokeWidth={1.2} />
+                  <ProcedureIcon name={tr.icon} size={46} strokeWidth={1.2} />
                 </span>
                 <div>
                   <h3>{tr.title}</h3>
