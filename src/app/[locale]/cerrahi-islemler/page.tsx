@@ -37,7 +37,7 @@ export default function CerrahiIslemler() {
           {surgeries.map((s, i) => (
             <div key={i} style={{ padding: '2.5rem', backgroundColor: 'var(--color-primary-light)', color: 'white', borderRadius: 'var(--radius-lg)', boxShadow: 'var(--shadow-md)' }}>
               <div style={{ width: '56px', height: '56px', borderRadius: '50%', border: '1px solid rgba(229,169,60,0.45)', display: 'flex', alignItems: 'center', justifyContent: 'center', color: 'var(--color-accent)', marginBottom: '1.25rem' }}>
-                <ProcedureIcon name={s.icon} size={30} strokeWidth={1.3} />
+                <ProcedureIcon name={s.icon} size={44} strokeWidth={1.3} style={{ filter: 'brightness(0) invert(1)' }} />
               </div>
               <h3 style={{ marginBottom: '1rem', fontSize: '1.4rem', color: 'var(--color-accent)' }}>{s.title}</h3>
               <p style={{ color: 'rgba(255,255,255,0.8)', lineHeight: '1.6' }}>{s.desc}</p>

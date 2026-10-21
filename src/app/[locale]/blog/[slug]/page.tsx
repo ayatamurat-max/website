@@ -150,7 +150,7 @@ export default async function BlogPost({ params }: Params) {
         {post.procedure && relatedTitle && (
           <Link href={post.procedure.href} className={styles.related}>
             <span className={styles.relatedIcon}>
-              <ProcedureIcon name={post.procedure.icon} size={30} strokeWidth={1.2} />
+              <ProcedureIcon name={post.procedure.icon} size={42} strokeWidth={1.2} />
             </span>
             <span>
               <span className={styles.relatedLabel} lang={locale}>{t('related')}</span>
