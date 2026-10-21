@@ -1,4 +1,6 @@
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
+import { breadcrumbJsonLd, faqJsonLd } from '@/lib/schema';
+import JsonLd from './JsonLd';
 import { Link } from '@/i18n/navigation';
 import { CLINIC } from '@/lib/clinic';
 import ProcedureIcon, { type ProcedureIconName } from './ProcedureIcon';
@@ -8,6 +10,8 @@ import styles from '../[locale]/rinoplasti/rinoplasti.module.css';
 export type ProcedureConfig = {
   /** messages içindeki anahtar: Procedures.<key> */
   key: string;
+  /** Sayfa yolu, ör. '/septoplasti' (breadcrumb şeması için) */
+  path: string;
   icon: ProcedureIconName;
   /** İlgili diğer işlemler (alt kısımda gösterilir) */
   related: { key: string; icon: ProcedureIconName; href: string }[];
@@ -30,6 +34,8 @@ export default function ProcedurePage({ config }: { config: ProcedureConfig }) {
   const c = useTranslations('ProcedureCommon');
   const tAll = useTranslations('Procedures');
   const tRhino = useTranslations('Rhinoplasty');
+  const tNav = useTranslations('Header');
+  const locale = useLocale();
   const waUrl = `https://wa.me/${CLINIC.whatsapp}?text=${encodeURIComponent(t('waMessage'))}`;
 
   const facts = collect(t, 'fact', ['Label', 'Value']);
@@ -40,6 +46,13 @@ export default function ProcedurePage({ config }: { config: ProcedureConfig }) {
 
   return (
     <>
+      {faq.length > 0 && <JsonLd data={faqJsonLd(faq.map((f) => ({ q: f.Q, a: f.A })))} />}
+      <JsonLd
+        data={breadcrumbJsonLd(locale, [
+          { name: tNav('home'), path: '/' },
+          { name: t('tag'), path: config.path },
+        ])}
+      />
       {/* Hero */}
       <section className={styles.hero}>
         <div className={`container ${styles.heroInner}`}>
