@@ -1,0 +1,121 @@
+code: "09"
+type: surgical
+aesthetic: false
+title: "Endolaryngeal Microsurgery"
+alt_name: "Microsurgery of the vocal cords / larynx (microlaryngoscopy)"
+
+specific_fields:
+  - label: "Lesion / preliminary diagnosis:"
+  - label: "Side:"
+    options: ["Right vocal cord", "Left vocal cord", "Both sides", "Other area of the larynx"]
+  - label: "Planned technique:"
+    options: ["Cold instruments", "CO2 laser", "To be decided by the surgeon during the operation"]
+    blank: false
+  - label: "Biopsy / pathological examination:"
+    options: ["Planned", "If considered necessary", "Not planned"]
+
+about:
+  - "The larynx (voice box) sits at the front of the neck. It produces the voice, protects the airway and closes off the windpipe when you swallow. The vocal cords are two thin structures inside the larynx that vibrate to create sound."
+  - "Growths such as **nodules, polyps, cysts, Reinke's oedema, papillomas or leukoplakia (white patches)**, or a lesion that raises a suspicion of cancer, may develop on the vocal cords or elsewhere in the larynx. These can cause hoarseness, a tired voice, a feeling of something stuck in the throat and, rarely, breathing difficulty. Causes include incorrect or excessive voice use, smoking, reflux, infections (e.g. HPV) and sometimes unknown factors."
+  - "The aim of the operation is to remove the lesion while preserving as much healthy vocal cord tissue as possible, **to improve your voice**, to widen the airway where necessary and to reach a **definite diagnosis through pathological examination** of the removed tissue."
+
+procedure_intro:
+  - "The operation is carried out under general anaesthesia in an operating theatre, through the mouth; no cut is made in the neck."
+procedure_steps:
+  - "**Reaching the larynx:** Once you are asleep, a metal tube (laryngoscope) is passed through your mouth to reach the larynx. Your teeth are protected with a special guard."
+  - "**Examination under the microscope:** The vocal cords are magnified with an operating microscope or endoscope and examined in detail. Additional findings not visible in the clinic may be found at this stage."
+  - "**Removing the lesion:** The lesion is removed with very fine microsurgical instruments or a CO2 laser, preserving the vibrating surface of the vocal cord as much as possible. If needed, only a small piece is taken for diagnosis (biopsy)."
+  - "**Additional steps:** Depending on the situation, small medicated swabs may be used to stop bleeding, and medication may be injected into the vocal cord to reduce scarring."
+  - "**Finishing:** The laryngoscope is removed and the mouth and teeth are checked. There are no stitches or visible scars on the neck."
+procedure_notes:
+  - "Very rarely, because of limited mouth opening, the shape of the teeth, or the anatomy of the jaw or neck, it may not be possible to reach the larynx safely. In that case the procedure may be stopped and alternative methods will be explained to you."
+anesthesia: "General anaesthesia"
+duration: "About 20–60 minutes"
+stay: "Usually same-day discharge or one night in hospital"
+
+benefits:
+  - "Less hoarseness and a clearer voice that tires less easily"
+  - "A **definite diagnosis** through pathological examination of the removed tissue, so that any disease found at an early stage can be treated in good time"
+  - "Easier breathing if the lesion is narrowing the airway"
+success:
+  - "For benign lesions such as nodules, polyps and cysts, the voice improves significantly in most patients. However, the result depends on the type and size of the lesion, the previous condition of the vocal cords, factors such as smoking and reflux, and how well **voice rest and voice therapy** are followed after surgery. Some conditions, such as papillomas, can recur and may need more than one operation."
+
+alternatives:
+  - "**Voice therapy (with a speech and language therapist):** May be the first choice, especially for vocal cord nodules, and often makes surgery unnecessary."
+  - "**Medication:** Medicines that reduce stomach acid or inflammation may help where reflux or inflammation is the cause."
+  - "**Stopping smoking and good voice care:** Helps some lesions (e.g. Reinke's oedema) to regress."
+  - "**Office procedure under local anaesthetic:** For suitably selected small lesions or biopsies, a procedure can be done while you are awake using an endoscope through the nose or mouth; this is not suitable for every lesion."
+  - "**Close observation:** Small lesions with no suspicion of cancer may be monitored with regular examinations."
+
+no_treatment:
+  - "If the operation is not performed, your hoarseness may continue or get worse. As the exact nature of the lesion is not known, diagnosis of an underlying serious condition (e.g. early-stage cancer or a lesion that could become cancerous) may, although rarely, be delayed. Growing lesions may rarely cause breathing difficulty."
+
+before:
+  - "Blood tests will be carried out before the operation and you will be assessed by the anaesthetist."
+  - "You must not eat or drink anything for **6–8 hours** before the operation (follow the anaesthetist's instructions)."
+  - "Be sure to tell us about any **loose teeth, crowns, bridges, implants or dentures**; dentures are removed before the operation."
+  - "If reflux treatment has been recommended, you may be asked to start it before the operation."
+
+recovery:
+  - when: "First 24–48 hours"
+    what: "You may have a sore or burning throat, mild discomfort when swallowing, hoarseness and a little blood-stained phlegm. You may notice numbness of the tongue, a change in taste or jaw pain; these usually settle within a few days."
+  - when: "Week 1"
+    what: "Your doctor will usually recommend **3–7 days of complete voice rest** (no talking, no whispering), followed by a gradual return to using your voice. Most people can return to desk work within 2–3 days; professional voice users (teachers, singers, call-centre staff) should wait longer."
+  - when: "Weeks 2–4"
+    what: "The voice gradually improves. Voice therapy is started if needed. Avoid shouting, singing and prolonged talking. The pathology result is usually available during this period and will be discussed with you."
+  - when: "Months 1–3"
+    what: "The vocal cords finish healing; the final voice usually becomes apparent within **6–12 weeks**. At the follow-up visit the vocal cords are examined with an endoscope."
+
+risks:
+  expected:
+    - "Sore throat and mild discomfort when swallowing (a few days)"
+    - "Temporary hoarseness or change in voice pitch after the operation"
+    - "A little blood-stained phlegm (first 1–2 days)"
+    - "Tenderness of the jaw, lips or teeth; small cracks at the corners of the mouth"
+  common:
+    - name: "Numbness of the tongue and change in taste"
+      text: "Caused by pressure of the laryngoscope on the tongue; occurs in about **5–15 in 100** patients and usually settles within a few days to a few weeks, very rarely lasting several months."
+    - name: "Jaw joint pain"
+      text: "Caused by keeping the mouth open for a long time; usually passes within a few days. It may be more frequent and longer-lasting in people with existing jaw joint problems."
+    - name: "Voice not improving as much as expected"
+      text: "The voice does not always return fully to normal after surgery; voice therapy or further treatment may be needed."
+  uncommon:
+    - name: "Dental damage"
+      text: "Despite the use of a tooth guard, about **1–5 in 100** patients may have a chipped, cracked or loosened tooth, or damage to a crown/bridge. The risk is higher with loose, decayed or artificial teeth; dental treatment may be needed."
+    - name: "Worsening of the voice or permanent voice change"
+      text: "If scar tissue forms on the surface of the vocal cord, the voice may become more hoarse, weaker or tire more quickly than before surgery. This may require voice therapy and sometimes further operations; rarely it may be permanent."
+    - name: "Recurrence of the lesion"
+      text: "The lesion may come back, especially if voice misuse or smoking continues, or with conditions such as papillomas, and further surgery may be needed."
+    - name: "Web formation at the front of the vocal cords"
+      text: "When both vocal cords are treated near the front, they may stick together; this can affect voice quality and a second operation may be needed to separate them."
+    - name: "Further treatment depending on the pathology result"
+      text: "The pathology result may differ from what was expected (e.g. a lesion with a tendency to become cancerous, or cancer). In this case further surgery, radiotherapy or close follow-up may be needed; this will be explained to you in detail."
+  rare:
+    - name: "Swelling (oedema) of the larynx and breathing difficulty"
+      text: "Swelling of the larynx may develop after surgery. It usually improves with medication; very rarely, observation in intensive care or a temporary opening in the neck to secure the airway (tracheostomy) may be needed."
+    - name: "Bleeding"
+      text: "Significant bleeding is rare. Because of the risk of blood entering the airway, serious bleeding may require urgent intervention and a return to the operating theatre."
+    - name: "Laser-related risks"
+      text: "When a CO2 laser is used, there is a risk of burns to surrounding tissue and, very rarely, of the breathing tube catching fire (airway fire). Laser-specific safety measures (special tube, wet swabs, eye protection) are applied. If this happened, it could cause serious burns to the airway and require prolonged intensive care treatment and a tracheostomy."
+    - name: "Injury to the mouth, tongue, lips or throat"
+      text: "Minor injuries from the instruments usually heal on their own; very rarely stitches may be needed. Extremely rarely, a tear in the wall of the throat may let air escape under the skin of the neck (a crackling feeling) or cause a neck infection; this may require observation in hospital, intravenous antibiotics and, rarely, surgery."
+    - name: "Neck problems"
+      text: "Because the head is tilted back, neck pain may occur — especially in people with cervical spine disease — and, very rarely, more serious spinal problems. Please tell us about any history of a slipped disc in the neck or neck surgery."
+
+emergency:
+  - "**Shortness of breath**, or a whistling or harsh noise when breathing in (stridor)"
+  - "**Coughing up or vomiting blood**, or blood-stained phlegm increasing rather than decreasing"
+  - "**Inability to swallow**, or pain or swelling so severe that you cannot swallow your saliva"
+  - "**Fever above 38.5 °C** with a sore throat that keeps getting worse"
+  - "Swelling of the neck or face, or a crackling feeling under the skin"
+
+lifestyle:
+  - "Follow the recommended **voice rest** strictly; whispering also strains the vocal cords. You can communicate in writing or with phone apps."
+  - "Drink plenty of water and keep the air in your room humid. Avoid throat clearing and coughing as much as possible."
+  - "Stay away from smoking and cigarette smoke; smoking both impairs healing and increases the risk of the lesion returning."
+  - "If reflux medication has been prescribed, take it for the recommended period; do not eat within 2–3 hours before bedtime and limit spicy and acidic foods."
+  - "Air travel is usually safe from the following day; continue voice rest during the journey."
+
+declarations_extra:
+  - "I understand that if it becomes clear during the operation that the larynx cannot be reached safely, the procedure may be stopped, and that further treatment or follow-up may be needed depending on the pathology result of the removed tissue."
+  - "I understand that the final voice also depends on my following voice rest, voice therapy, stopping smoking and reflux treatment after surgery."

@@ -10,7 +10,9 @@
     "book": "Randevu Al",
     "rhinoplasty": "Rinoplasti",
     "international": "Yurt Dışı Hastalar",
-    "blog": "Blog"
+    "blog": "Blog",
+    "documents": "Belgeler",
+    "consentForms": "Onam Formları"
   },
   "Footer": {
     "description": "Kulak Burun Boğaz ve Baş Boyun Cerrahisi Uzmanı. Estetik ve sağlık için modern, kanıta dayalı çözümler.",
@@ -142,7 +144,13 @@
     "rejuvenationTitle": "Ameliyatsız Yüz Gençleştirme Kırklareli | Op. Dr. Murat Ayata",
     "rejuvenationDesc": "İp askı, gençlik aşısı ve lazer lipoliz ile kısa toparlanma süreli yüz gençleştirme.",
     "blogTitle": "Blog: Burun Estetiği, Nefes ve Yüz Estetiği | Op. Dr. Murat Ayata",
-    "blogDesc": "Rinoplasti, septoplasti ve yüz estetiği hakkında sık sorulan sorulara KBB uzmanı Op. Dr. Murat Ayata’dan cevaplar."
+    "blogDesc": "Rinoplasti, septoplasti ve yüz estetiği hakkında sık sorulan sorulara KBB uzmanı Op. Dr. Murat Ayata’dan cevaplar.",
+    "documentsTitle": "Hasta Belgeleri | Op. Dr. Murat Ayata",
+    "documentsDesc": "Op. Dr. Murat Ayata Muayenehanesi hasta belgeleri: aydınlatılmış onam formları ve işlem öncesi bilgilendirme metinleri. Okuyun, indirin, yazdırın.",
+    "consentTitle": "Aydınlatılmış Onam Formları | Op. Dr. Murat Ayata",
+    "consentDesc": "Rinoplasti, septoplasti, otoplasti, göz kapağı estetiği, botoks, dolgu ve diğer işlemler için aydınlatılmış onam formları. İşlemden önce okuyun, PDF olarak indirin ve yazdırın.",
+    "consentFormTitle": "{title} Onam Formu | Op. Dr. Murat Ayata",
+    "consentFormDesc": "{title}: işlemin nasıl yapıldığı, beklenen faydalar, alternatifler, iyileşme süreci ve olası riskler. İşlemden önce okuyun, PDF olarak indirin ve yazdırın."
   },
   "Rhinoplasty": {
     "tag": "Rinoplasti",
@@ -664,5 +672,40 @@
     "instagram": "Bu konunun videosunu Instagram’da izleyin →",
     "latest": "Blogdan son yazılar",
     "all": "Tüm yazılar →"
+  },
+  "Documents": {
+    "hubTag": "Belgeler",
+    "hubTitle": "Hasta belgeleri",
+    "hubIntro": "İşleminizden önce okumanız gereken bilgilendirme metinleri burada. Her belgeyi sitede okuyabilir, PDF olarak indirebilir veya yazdırabilirsiniz.",
+    "consentCardTitle": "Aydınlatılmış onam formları",
+    "consentCardDesc": "Cerrahi işlemler ve muayenehane uygulamaları için 18 form: işlem nasıl yapılır, iyileşme süreci, olası riskler ve alternatifler.",
+    "privacyCardTitle": "KVKK aydınlatma metni",
+    "privacyCardDesc": "Kişisel ve sağlık verilerinizin nasıl işlendiği ve haklarınız.",
+    "open": "Aç →",
+    "formsCount": "{count} form",
+    "consentTag": "Onam Formları",
+    "consentTitle": "Aydınlatılmış onam formları",
+    "consentIntro": "Size önerilen işlem hakkında bilmeniz gerekenler, sade bir dille. Formu acele etmeden okuyun ve aklınıza takılan soruları muayenede hekiminize sorun.",
+    "groupSurgical": "Cerrahi işlemler",
+    "groupOffice": "Muayenehane uygulamaları",
+    "read": "Oku",
+    "downloadPdf": "PDF indir",
+    "print": "Yazdır",
+    "pages": "{count} sayfa",
+    "noticeTitle": "Bu form önceden okumanız içindir",
+    "noticeText": "Formu imzalamanız gerekmez. Onamınız, işlemden önce hekiminizle yüz yüze görüşülerek muayenehanede veya hastanede imzalı olarak alınır. Size özel riskler o görüşmede ayrıca konuşulur. Yazdırıp sorularınızı üzerine not alarak getirebilirsiniz.",
+    "backToList": "← Tüm onam formları",
+    "onThisPage": "Bu formda",
+    "facts": "Kısaca",
+    "declarationsIntro": "Onam verirken aşağıdaki ifadeleri onaylamanız istenir:",
+    "photoIntro": "Fotoğraf kullanımı için formda şu seçeneklerden birini işaretlersiniz:",
+    "decisionIntro": "Formun sonunda kararınızı işaretlersiniz:",
+    "minorTitle": "18 yaşından küçük hastalar",
+    "issued": "Yayın tarihi: {date} · Rev. {rev}",
+    "otherLanguages": "Bu formun diğer dilleri",
+    "procedureConsentTag": "Onam formu",
+    "procedureConsentTitle": "İşlemden önce okuyun",
+    "procedureConsentDesc": "Bu işlemin aydınlatılmış onam formunu şimdiden okuyabilir, indirebilir veya yazdırabilirsiniz.",
+    "riskLegend": "Oranlar yaklaşık değerlerdir; kişisel riskiniz muayenede değerlendirilir."
   }
 }

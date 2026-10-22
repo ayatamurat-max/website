@@ -1,0 +1,160 @@
+{
+ "code": "11",
+ "type": "surgical",
+ "aesthetic": true,
+ "title": "Gıdı Liposuction",
+ "alt_name": "Çene altı yağ alımı (submental liposuction)",
+ "about": [
+  "Çene altında biriken yağ dokusu (“gıdı”, “çift çene”), çene ve boyun arasındaki açıyı silerek yüz hattının belirsiz, yorgun veya olduğundan kilolu görünmesine neden olabilir. Bu bölgedeki yağ birikimi çoğu zaman **genetik yatkınlığa** bağlıdır ve kilo verilse, egzersiz yapılsa bile tam olarak kaybolmayabilir. Yaşla birlikte deri esnekliğinin azalması da görünümü belirginleştirir.",
+  "Gıdı liposuction, **deri altındaki yağ dokusunun** ince kanüllerle emilerek alınmasıdır. Amaç, çene hattını belirginleştirmek ve **doğal, dengeli bir çene–boyun açısı** elde etmektir.",
+  "Sonucu belirleyen en önemli etken **deri kalitesi ve esnekliğidir**. Esnek deride yağ alındıktan sonra deri yeni şekle uyum sağlar; esnekliği az olan deride ise sarkıklık belirginleşebilir. Boyun kasının (platisma) altındaki derin yağ, büyük tükürük bezleri, belirgin boyun kas bantları ve ileri derecede deri sarkması liposuction ile düzeltilemez; bu durumlarda derin boyun germe gibi başka yöntemler gerekebilir."
+ ],
+ "procedure_intro": [
+  "Ameliyattan önce çene–boyun bölgeniz muayene edilir, deri esnekliği değerlendirilir, fotoğraflanır ve alınacak alan oturur pozisyonda işaretlenir."
+ ],
+ "procedure_steps": [
+  "**Uyuşturma ve sıvı verilmesi:** Bölgeye lokal anestezik ve kanamayı azaltan ilaç içeren özel bir sıvı (tümesan solüsyon) verilir. Bu sıvı hem ağrıyı önler hem de kanamayı ve morarmayı azaltır.",
+  "**Küçük kesiler:** Çene altındaki doğal kıvrıma ve gerekirse kulak memelerinin arkasına yaklaşık **3–5 mm**'lik küçük giriş delikleri açılır.",
+  "**Yağın alınması:** İnce kanüller (metal tüpler) ile yağ dokusu dikkatlice ve dengeli şekilde emilerek alınır. Derinin altında, düzgün bir yüzey için ince bir yağ tabakası bırakılır.",
+  "**Enerji destekli uygulama (planlandıysa):** Lazer veya radyofrekans enerjisi ile yağ dokusu yumuşatılır ve derinin bir miktar toparlanması desteklenir. Bu yöntem deri sıkılaşmasına katkı sağlayabilir, ancak belirgin sarkıklığı gidermez.",
+  "**Kapatma ve korse:** Giriş delikleri tek dikişle kapatılır veya kendiliğinden kapanmaya bırakılır. Ameliyat sonunda çene–boyun bölgesine **elastik bir korse (çene bandı)** takılır."
+ ],
+ "anesthesia": "Lokal anestezi, lokal + sedasyon veya genel anestezi",
+ "duration": "Yaklaşık 45–90 dakika (tek başına yapıldığında)",
+ "stay": "Genellikle aynı gün taburculuk",
+ "benefits": [
+  "Çene altındaki yağ fazlalığının azalması",
+  "Çene hattının ve çene–boyun açısının belirginleşmesi; yüz profilinin daha dengeli görünmesi",
+  "Alınan yağ hücreleri yeniden oluşmadığı için, kilonuz korunduğu sürece **uzun süreli** bir sonuç (yaşlanmayla cilt ve dokulardaki doğal değişiklikler devam eder)"
+ ],
+ "success": [
+  "Deri esnekliği iyi olan hastaların büyük çoğunluğu sonuçtan memnun kalır. Sonuç, şişliğin çekilmesiyle **3–6 ay** içinde ortaya çıkar. Yaklaşık 100 hastadan **3–5'inde** düzensizlik, kalan yağ veya asimetri nedeniyle küçük bir düzeltme işlemi gerekebilir. Belirgin kilo alımı ve yaşlanma sonucu zamanla etkileyebilir."
+ ],
+ "alternatives": [
+  "**İşlem yaptırmamak:** Estetik bir işlem olduğu için yaptırmama seçeneğiniz her zaman vardır.",
+  "**Kilo verme ve yaşam tarzı değişiklikleri:** Genel vücut yağını azaltır, ancak çene altındaki inatçı yağı her zaman gidermez.",
+  "**Yağ eritici enjeksiyonlar (ör. deoksikolik asit):** Birkaç seans gerektirir; belirgin şişlik ve ağrı yapabilir; etkisi daha sınırlıdır.",
+  "**Soğutarak yağ azaltma (kriyolipoliz) ve cihaz uygulamaları:** Ameliyatsızdır ancak birden fazla seans gerektirir ve etkisi daha sınırlıdır.",
+  "**Derin boyun germe / boyun germe ameliyatı:** Belirgin deri sarkıklığı, kas bantları veya kas altı derin yağ varsa daha uygun bir seçenektir."
+ ],
+ "no_treatment": [
+  "İşlem yapılmazsa çene altındaki görünüm mevcut hâliyle kalır ve yaşla veya kilo alımıyla artabilir. Bu durum sağlığınız için bir tehlike oluşturmaz."
+ ],
+ "before": [
+  "Ameliyattan önce kan tahlilleri yapılır; sedasyon veya genel anestezi planlanıyorsa anestezi uzmanı tarafından değerlendirilirsiniz ve önceden aç kalmanız gerekir.",
+  "İşlemden önce kilonuzun stabil olması önerilir; kısa süre içinde belirgin kilo değişikliği planlıyorsanız bunu hekiminizle konuşunuz.",
+  "Ameliyat günü yüz ve boyna krem veya makyaj uygulamayınız; boğazlı giysi yerine önden açılan rahat bir üst giyiniz.",
+  "Sedasyon veya genel anestezi sonrası araç kullanmamanız ve bir yakınınızla eve dönmeniz gerekir."
+ ],
+ "recovery": [
+  {
+   "when": "İlk 48 saat",
+   "what": "Çene altında şişlik, gerginlik, hafif ağrı ve giriş deliklerinden biraz pembe renkli sıvı sızması olur; bu normaldir. Morarma **olursa** boyna doğru yayılabilir ve 1–2 haftada çekilir. Başınızı yüksekte tutarak yatınız; korseyi sürekli takınız."
+  },
+  {
+   "when": "1. hafta",
+   "what": "Korse genellikle **ilk 1 hafta gece-gündüz**, sonraki **2–3 hafta** ise geceleri takılır. Varsa dikişler 5–7. günde alınır. Çoğu hasta 3–7 gün içinde masa başı işine ve sosyal hayata döner."
+  },
+  {
+   "when": "2–6. haftalar",
+   "what": "Şişlik büyük ölçüde azalır. Bölgede sertlik, hafif yumrular ve uyuşukluk hissedilebilir; bunlar zamanla yumuşar. Ağır egzersiz genellikle **2–3 hafta** sonra başlanabilir. Önerilirse hafif masaj yapılır."
+  },
+  {
+   "when": "3–6. aylar",
+   "what": "Kalan şişlik ve sertlik çözülür, deri yeni şekle uyum sağlar ve sonuç belirginleşir."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Çene altında ve boyunda şişlik, gerginlik ve hafif ağrı; morarma **olursa** 1–2 hafta içinde geçer",
+   "Giriş deliklerinden ilk 24–48 saat pembe renkli sıvı sızması",
+   "Bölgede geçici uyuşukluk ve his azalması",
+   "Haftalarca süren hafif sertlik ve elle hissedilen küçük yumrular"
+  ],
+  "common": [
+   {
+    "name": "Uzun süren sertlik ve yumrular (fibrozis)",
+    "text": "İyileşme sırasında derinin altında sertlik ve yumru hissi sıktır; çoğu birkaç ay içinde masaj ve zamanla yumuşar."
+   },
+   {
+    "name": "Uzun süren uyuşukluk",
+    "text": "Çene altı derisinde his azalması birkaç hafta–birkaç ay sürebilir; çok nadiren kalıcı olur."
+   },
+   {
+    "name": "Hafif asimetri",
+    "text": "Yüzün iki yarısı zaten tam simetrik olmadığından sonuçta küçük farklılıklar kalabilir."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Kontur düzensizliği ve çukurlaşma",
+    "text": "Yaklaşık 100 hastadan **2–5'inde** deride dalgalanma, çukurluk veya kalan yağ birikimi görülebilir. Fazla yağ alınması hâlinde çene altında çökük veya “iskeletleşmiş” görünüm ve boyun kas bantlarının belirginleşmesi olabilir. Düzeltme için yağ enjeksiyonu, ek liposuction veya başka bir işlem gerekebilir."
+   },
+   {
+    "name": "Deride sarkıklık veya yetersiz toparlanma",
+    "text": "Özellikle deri esnekliği azalmış kişilerde, yağ alındıktan sonra deri yeterince toparlanmayabilir ve sarkıklık daha belirgin görünebilir. Bu durumda ileride boyun germe ameliyatı gerekebilir."
+   },
+   {
+    "name": "Gülümsemede asimetri (alt dudak sinir dalının etkilenmesi)",
+    "text": "Çene kenarı boyunca seyreden ve alt dudağı hareket ettiren ince bir sinir dalının şişlik veya basıya bağlı etkilenmesiyle gülümserken alt dudakta asimetri olabilir. Yaklaşık 100 hastada **1** civarındadır, hemen hemen her zaman **birkaç hafta–birkaç ay** içinde kendiliğinden düzelir; kalıcı olması çok nadirdir."
+   },
+   {
+    "name": "Kan veya sıvı toplanması (hematom, serom)",
+    "text": "100 hastada **1'den az** görülür. Küçük birikimler kendiliğinden çekilir; büyükse iğneyle veya küçük bir işlemle boşaltılması gerekebilir."
+   },
+   {
+    "name": "Enfeksiyon",
+    "text": "100 hastada **1'den az** görülür; genellikle antibiyotikle düzelir, nadiren apse boşaltılması gerekebilir."
+   },
+   {
+    "name": "Giriş deliklerinde iz veya renk değişikliği",
+    "text": "Küçük giriş izleri genellikle belirsizleşir; nadiren koyu renk, kalınlaşma veya çukurluk kalabilir."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Deride yanık (enerji destekli yöntemde)",
+    "text": "Lazer veya radyofrekans kullanıldığında, güvenlik önlemlerine rağmen nadiren deride yanık, kabarcık ve kalıcı iz oluşabilir; yara bakımı ve iz tedavisi gerekebilir."
+   },
+   {
+    "name": "Deri hasarı veya doku kaybı",
+    "text": "Çok nadiren, özellikle sigara içenlerde, deri beslenmesinin bozulmasına bağlı yara ve iz gelişebilir."
+   },
+   {
+    "name": "Kalıcı sinir hasarı",
+    "text": "Alt dudak hareketlerinde kalıcı zayıflık son derece nadirdir; gelişirse ek tedavi gerekebilir."
+   },
+   {
+    "name": "Lokal anestezik ilaca bağlı reaksiyon",
+    "text": "Kullanılan lokal anestezik ilaca karşı alerji veya yüksek kan düzeyine bağlı baş dönmesi, kulak çınlaması, ağızda metal tadı ve çok nadiren nöbet veya kalp ritim bozukluğu görülebilir. Dozlar güvenli sınırlar içinde tutulur."
+   },
+   {
+    "name": "Yağ embolisi ve iç organ/nefes yolu yaralanması",
+    "text": "Yağ damlacıklarının dolaşıma karışması veya kanülün derin yapılara zarar vermesi, küçük hacimli gıdı liposuction'ında **son derece nadirdir**; gelişirse hastanede acil ve yoğun bakım tedavisi gerekebilir."
+   },
+   {
+    "name": "Psikolojik memnuniyetsizlik",
+    "text": "Teknik olarak başarılı bir sonuca rağmen kişi yeni görünümüne uyum sağlamakta zorlanabilir. Beklentilerin ameliyat öncesi açıkça konuşulması bu riski azaltır."
+   }
+  ]
+ },
+ "emergency": [
+  "Boyunda **hızla artan, sert, gergin şişlik**, özellikle tek tarafta",
+  "**Nefes almada veya yutkunmada zorluk**, sesinizde değişiklik",
+  "**38,5 °C üzerinde ateş**, artan ağrı, kızarıklık, sıcaklık veya kötü kokulu akıntı",
+  "Derinin beyaz, koyu mor veya siyah renge dönmesi; içi sıvı dolu kabarcıklar",
+  "Göğüs ağrısı, nefes darlığı, bilinç bulanıklığı"
+ ],
+ "lifestyle": [
+  "Korseyi size söylenen süre boyunca düzenli takınız; çok sıkı veya çok gevşek olmamasına dikkat ediniz.",
+  "İlk 1–2 hafta başınızı yüksekte tutarak sırtüstü yatınız; boynunuzu ani ve aşırı esnetmekten kaçınınız.",
+  "İlk 2–3 hafta ağır egzersiz, sauna, hamam ve uzun süre sıcak duştan kaçınınız.",
+  "İlk aylarda bölgeyi güneşten koruyunuz; iz ve renk değişikliği riskini azaltır.",
+  "Sonucun korunması için kilonuzu sabit tutmaya özen gösteriniz.",
+  "Yurt dışından geldiyseniz uçak yolculuğu genellikle 2–3. günden sonra güvenlidir."
+ ],
+ "declarations_extra": [
+  "Sonucun deri esnekliğime bağlı olduğunu; liposuction'ın deri sarkıklığını, boyun kas bantlarını ve kas altındaki derin yağı düzeltmediğini anladım.",
+  "Korse kullanımı ve önerilere uymamın sonucu doğrudan etkileyeceğini biliyorum."
+ ]
+}

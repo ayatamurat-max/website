@@ -1,0 +1,147 @@
+{
+ "meta": {
+  "date": "22.10.2026",
+  "rev": "00"
+ },
+ "clinic": {
+  "brand": "Op. Dr. Murat Ayata",
+  "title": "Facharzt für Hals-Nasen-Ohren-Heilkunde und Kopf-Hals-Chirurgie",
+  "name": "Privatpraxis Op. Dr. Murat Ayata",
+  "doctor": "Op. Dr. Murat Ayata",
+  "address": "Karacaibrahim Mah. Dereüstü Sk., Merkez, Kırklareli, Türkei",
+  "tel": "+90 288 502 50 20",
+  "whatsapp": "+90 555 333 21 20",
+  "email": "info@muratayata.com",
+  "web": "www.muratayata.com"
+ },
+ "labels": {
+  "doc_title": "Aufklärungs- und Einwilligungsbogen",
+  "tel": "Tel.",
+  "doc_no": "Dok.-Nr.",
+  "pub_date": "Ausgabedatum",
+  "rev": "Rev.",
+  "page": "Seite",
+  "initials_patient": "Kürzel Patient/in bzw. Vertreter/in",
+  "initials_doctor": "Kürzel Arzt",
+  "patient_info": "Angaben zu Patient/in und Eingriff",
+  "performing_doctor": "Durchführender und aufklärender Arzt",
+  "place": "Krankenhaus / Einrichtung, in der der Eingriff durchgeführt wird:",
+  "place_office": "Behandlungsort:",
+  "anesthesia": "Betäubung (Anästhesie)",
+  "duration": "Voraussichtliche Dauer",
+  "stay": "Krankenhausaufenthalt / Entlassung",
+  "name": "Vor- und Nachname",
+  "signature": "Unterschrift",
+  "datetime": "Datum / Uhrzeit",
+  "minor_title": "Für Patientinnen und Patienten unter 18 Jahren oder mit eingeschränkter Einwilligungsfähigkeit",
+  "child_opinion": "Das Kind wurde altersgerecht aufgeklärt; Meinung des Kindes:",
+  "withdraw_title": "Widerruf der Einwilligung (nur ausfüllen, wenn Sie sich anders entscheiden)",
+  "withdraw_sign": "Name, Unterschrift, Datum und Uhrzeit der widerrufenden Person (Patient/in bzw. Vertreter/in):"
+ },
+ "sections": {
+  "about": "Ihre Erkrankung und das Ziel des Eingriffs",
+  "procedure": "Wie wird der Eingriff durchgeführt?",
+  "benefits": "Erwarteter Nutzen und Erfolgsaussichten",
+  "alternatives": "Andere Behandlungsmöglichkeiten",
+  "no_treatment": "Was geschieht, wenn der Eingriff nicht durchgeführt wird?",
+  "before": "Vorbereitung auf den Eingriff",
+  "recovery": "Heilungsverlauf: Was Sie erwartet",
+  "risks": "Mögliche Risiken und Komplikationen",
+  "emergency": "Wann Sie sich sofort bei uns melden sollten",
+  "lifestyle": "Hinweise zu Medikamenten und zum Alltag",
+  "intraop": "Unerwartete Befunde während des Eingriffs, Gewebeproben und Blutprodukte",
+  "photo": "Fotos, Bildaufnahmen und Ihre personenbezogenen Daten",
+  "individual": "Informationen und Anmerkungen speziell für Sie (vom Arzt auszufüllen)",
+  "declaration": "Erklärung der Patientin / des Patienten",
+  "signatures": "Unterschriften"
+ },
+ "intro": [
+  "Liebe Patientin, lieber Patient, dieser Bogen soll Ihnen in **einfacher und verständlicher Sprache** erklären, was Sie über den Ihnen empfohlenen Eingriff wissen sollten. Er soll Ihnen keine Angst machen, sondern Ihnen helfen, Ihre Entscheidung **frei und gut informiert** zu treffen.",
+  "Bitte lesen Sie diesen Bogen in Ruhe durch. Fragen Sie Ihren Arzt nach allem, was Sie nicht verstehen. Ihr Arzt wird Ihnen außerdem mündlich die Risiken erläutern, die speziell in Ihrer Situation bestehen. Ob Sie Ihre Einwilligung geben oder nicht, ist allein Ihr Recht."
+ ],
+ "refusal_right": [
+  "Sie haben das Recht, den empfohlenen Eingriff abzulehnen, ihn zu verschieben oder eine ärztliche Zweitmeinung einzuholen. Diese Entscheidung hat keinerlei Einfluss auf andere medizinische Leistungen, die Ihnen angeboten werden. Sie können Ihre Einwilligung jederzeit vor Beginn des Eingriffs widerrufen; bitte beachten Sie jedoch, dass es nach Beginn eines Eingriffs Phasen geben kann, in denen ein Abbruch medizinisch nicht vertretbar wäre."
+ ],
+ "before_common": [
+  "Teilen Sie Ihrem Arzt **alle Medikamente** mit, die Sie einnehmen (einschließlich Blutverdünnern, Aspirin, Schmerzmitteln, Medikamenten zur Gewichtsabnahme und Hormonpräparaten), sowie alle **pflanzlichen Mittel und Nahrungsergänzungsmittel** (z. B. Omega-3, Vitamin E, Ginkgo, Knoblauch, Ginseng, Fischöl). Setzen Sie kein Medikament eigenmächtig ohne ärztlichen Rat ab.",
+  "Informieren Sie uns unbedingt über **Allergien**, Blutungs- oder Gerinnungsstörungen, Herz- und Lungenerkrankungen, Diabetes, Bluthochdruck oder Schilddrüsenerkrankungen, frühere Operationen sowie über Probleme, die Sie bei früheren Narkosen hatten.",
+  "Wenn Sie möglicherweise schwanger sind oder stillen, teilen Sie uns dies bitte vor dem Eingriff mit.",
+  "Rauchen und Nikotinprodukte beeinträchtigen die Wundheilung erheblich. Hören Sie nach Möglichkeit mindestens 2–4 Wochen vor dem Eingriff damit auf und rauchen Sie während der Heilungsphase nicht."
+ ],
+ "risk_intro": [
+  "Wie jeder medizinische Eingriff ist auch dieser Eingriff mit gewissen Risiken verbunden. Im Folgenden sind **zu erwartende vorübergehende Begleiterscheinungen** und **Komplikationen** getrennt aufgeführt und nach ihrer Häufigkeit geordnet. Die angegebenen Zahlen sind **ungefähre** Werte aus der medizinischen Fachliteratur; Ihr persönliches Risiko kann je nach Alter, allgemeinem Gesundheitszustand, Rauchen und früheren Operationen niedriger oder höher sein.",
+  "Die allermeisten Komplikationen sind **vorübergehend** und bessern sich bei angemessener Behandlung. Aufgeführt sind auch sehr seltene, aber schwerwiegende Ereignisse; dass sie hier stehen, bedeutet nicht, dass sie bei Ihnen auftreten werden, doch Sie sollten sie kennen, um eine informierte Entscheidung treffen zu können."
+ ],
+ "risk_tiers": {
+  "expected": "Zu erwartende, vorübergehende Begleiterscheinungen (keine Komplikationen – ein normaler Teil der Heilung)",
+  "common": "Häufige Beschwerden (meist vorübergehend oder mit Behandlung rückläufig)",
+  "uncommon": "Gelegentliche Beschwerden",
+  "rare": "Seltene oder sehr seltene, aber möglicherweise schwerwiegende Komplikationen",
+  "general": "Allgemeine Risiken jedes operativen / medizinischen Eingriffs"
+ },
+ "general_risks_surgical": [
+  "**Narkoserisiken:** Wird eine Vollnarkose oder Sedierung (Dämmerschlaf) durchgeführt, erläutert Ihnen der Narkosearzt deren Risiken (Übelkeit, Halsschmerzen, Zahnschäden, allergische Reaktion und sehr selten Herz- oder Lungenprobleme) gesondert, und Ihre Einwilligung wird auf einem **separaten Narkose-Aufklärungsbogen** eingeholt.",
+  "**Blutung und Bluttransfusion:** Eine Bluttransfusion ist bei diesen Eingriffen nur sehr selten erforderlich. Bei einer schweren Blutung können Blut oder Blutprodukte notwendig werden; diese bergen eigene, sehr seltene Risiken (z. B. Allergie oder Infektion).",
+  "**Infektion:** Eine Wundinfektion nach der Operation wird in der Regel mit Antibiotika behandelt; selten kann eine Drainage (Ableiten des Eiters) notwendig sein.",
+  "**Blutgerinnsel in den Beinvenen (Thrombose) und in der Lunge (Lungenembolie):** Bei kurzen Operationen im Kopf-Hals-Bereich sehr selten. Frühes Aufstehen und Gehen senkt das Risiko. Hormonpräparate, Rauchen, starkes Übergewicht und frühere Blutgerinnsel erhöhen das Risiko.",
+  "**Medikamentenallergie:** Auf die verwendeten Medikamente, Desinfektionsmittel, Pflaster oder Nahtmaterialien kann eine allergische Reaktion auftreten.",
+  "**Narbenbildung und Heilungsstörungen:** Wie Narben verheilen, ist von Mensch zu Mensch unterschiedlich; sehr selten kann sich eine verdickte (hypertrophe) Narbe oder ein Keloid bilden.",
+  "**Lebensgefahr:** Todesfälle bei geplanten Operationen im Kopf-Hals-Bereich sind heute äußerst selten; dennoch ist kein operativer Eingriff völlig frei von Risiken. Eine schwere Komplikation kann eine Behandlung auf der Intensivstation erforderlich machen und zu einer bleibenden Behinderung führen."
+ ],
+ "general_risks_office": [
+  "**Schwächegefühl (vasovagale Reaktion):** Während einer Injektion oder Blutabnahme können Schwindel, Schwitzen und eine kurze Ohnmacht auftreten; im Liegen geht dies rasch vorüber.",
+  "**Infektion:** Durch Hautdesinfektion und sterile Materialien ist das Risiko sehr gering; tritt dennoch eine Infektion auf, wird sie in der Regel mit Antibiotika behandelt.",
+  "**Allergische Reaktion:** Auf das verwendete Präparat, das örtliche Betäubungsmittel oder das Desinfektionsmittel – von leichter Rötung bis, sehr selten, zu einer schweren allergischen Reaktion (Anaphylaxie). Unsere Praxis ist mit Notfallausrüstung und Notfallmedikamenten ausgestattet.",
+  "**Wiederauftreten von Lippenherpes (Herpes):** Wenn Sie schon einmal Lippenherpes hatten, kann er im behandelten Bereich erneut auftreten; bitte teilen Sie uns dies mit.",
+  "**Ergebnis entspricht nicht den Erwartungen:** Ausmaß und Dauer der Wirkung sind individuell verschieden; zusätzliche Sitzungen oder eine Nachbehandlung können erforderlich sein."
+ ],
+ "risk_outro": [
+  "Diese Aufstellung umfasst nicht jede denkbare Komplikation; andere unvorhersehbare und sehr seltene Ereignisse können auftreten. Tritt eine Komplikation auf, plant Ihr Arzt die notwendige Behandlung und Nachsorge; dies kann eine zusätzliche Behandlung, Medikamente, Eingriffe oder eine erneute Operation erfordern."
+ ],
+ "emergency_call": "Wenn eines dieser Anzeichen auftritt, rufen Sie unverzüglich Ihren Arzt an: +90 288 502 50 20 · WhatsApp +90 555 333 21 20. Wenn Sie uns nicht erreichen, suchen Sie die nächste Notaufnahme auf oder wählen Sie die 112 (Notrufnummer in der Türkei und in ganz Europa).",
+ "lifestyle_common": [
+  "Nehmen Sie die Ihnen verordneten Medikamente (Antibiotika, Schmerzmittel usw.) in der empfohlenen Dosierung und für die empfohlene Dauer ein. Nehmen Sie Aspirin oder ähnliche Medikamente, die Blutungen verstärken können, nicht ohne Rücksprache mit Ihrem Arzt ein.",
+  "Trinken Sie nach der Operation bei Flügen oder Reisen von mehr als 4 Stunden reichlich Wasser, bewegen Sie sich regelmäßig und tragen Sie, falls empfohlen, Kompressionsstrümpfe; dies senkt das Risiko von Blutgerinnseln in den Beinen.",
+  "Während der Heilungsphase wird empfohlen, keinen Alkohol zu trinken und auf Rauchen und Nikotinprodukte zu verzichten.",
+  "Bitte nehmen Sie alle Kontrolltermine wahr. Wenn Sie aus dem Ausland angereist sind, kann die Nachsorge nach Ihrer Rückkehr per Online-Sprechstunde und Fotos/Videos fortgeführt werden; falls Sie einen Arzt vor Ort aufsuchen müssen, erhalten Sie einen schriftlichen Operationsbericht und unsere Empfehlungen."
+ ],
+ "intraop": [
+  "Ergibt sich während des Eingriffs eine unvorhergesehene Situation, hält sich Ihr Arzt an den Umfang des Eingriffs, in den Sie mit diesem Bogen eingewilligt haben. **Sofern keine Lebensgefahr und keine Gefahr eines schweren Organschadens besteht**, wird kein zusätzlicher Eingriff vorgenommen, in den Sie nicht eingewilligt haben; in diesem Fall wird der Eingriff an einem sicheren Punkt beendet, und Sie werden anschließend informiert, damit die Entscheidung gemeinsam mit Ihnen getroffen werden kann. Besteht Lebensgefahr, wird die Notfallbehandlung durchgeführt, die zum Schutz Ihres Lebens oder des Organs erforderlich ist.",
+  "Während des Eingriffs entnommenes Gewebe wird, wenn nötig, zur Sicherung der Diagnose zur **feingeweblichen (pathologischen) Untersuchung** eingesandt. Je nach Ergebnis kann eine weitere Behandlung oder Nachsorge erforderlich sein.",
+  "Eine Bluttransfusion ist bei diesen Eingriffen nur sehr selten notwendig und wird nur verabreicht, wenn sie lebenswichtig ist. Wenn Sie Blut oder Blutprodukte ablehnen (zum Beispiel aus religiösen Gründen), müssen Sie uns dies vor dem Eingriff mitteilen; die möglichen Folgen dieser Entscheidung werden gesondert mit Ihnen besprochen und unter „Informationen speziell für Sie“ festgehalten."
+ ],
+ "photo_intro": [
+  "Vor und nach dem Eingriff können zur Planung, Verlaufskontrolle und Beurteilung des Ergebnisses **Fotos/Videos** angefertigt werden. Diese Aufnahmen sind Teil Ihrer Krankenakte und werden vertraulich behandelt. Ihre Aufnahmen werden **niemals für Werbung, Öffentlichkeitsarbeit oder soziale Medien verwendet.**",
+  "Für jeden anderen Zweck dürfen Ihre Aufnahmen **nur mit Ihrer gesonderten und ausdrücklichen Erlaubnis** verwendet werden. Eine Ablehnung hat keinerlei Einfluss auf Ihre Behandlung, und Sie können Ihre Erlaubnis jederzeit widerrufen:"
+ ],
+ "photo_options": [
+  "Ich bin damit einverstanden, dass meine Aufnahmen **ausschließlich für die medizinische Dokumentation und die Verlaufskontrolle der Behandlung** verwendet werden.",
+  "Ich erlaube die Verwendung meiner Aufnahmen für wissenschaftliche Veröffentlichungen und die ärztliche Aus- und Weiterbildung **in einer Form, in der ich nicht erkennbar bin** (Gesicht/Augenpartie abgedeckt).",
+  "Ich erlaube die Verwendung meiner Aufnahmen für wissenschaftliche Veröffentlichungen und die ärztliche Aus- und Weiterbildung **in einer Form, in der ich erkennbar sein kann**.",
+  "Ich **erlaube keine** Verwendung zu wissenschaftlichen Zwecken / Ausbildungszwecken."
+ ],
+ "kvkk": [
+  "Ihre personenbezogenen Daten und Gesundheitsdaten werden nach dem türkischen Gesetz Nr. 6698 zum Schutz personenbezogener Daten (KVKK) und den einschlägigen gesundheitsrechtlichen Vorschriften zu Zwecken der Diagnose, der Behandlung und der Erfüllung gesetzlicher Pflichten von Personen verarbeitet, die der beruflichen Schweigepflicht unterliegen. Einzelheiten entnehmen Sie bitte unseren Datenschutzhinweisen."
+ ],
+ "declarations": [
+  "Ich habe diesen Bogen in meiner Sprache gelesen und verstanden. Ich hatte ausreichend Bedenkzeit, konnte Fragen stellen und habe zufriedenstellende Antworten erhalten.",
+  "Meine Erkrankung, das Ziel des empfohlenen Eingriffs, wie, von wem und wo er durchgeführt wird, seine voraussichtliche Dauer, der erwartete Nutzen, die Erfolgsaussichten, die Alternativen und die möglichen Folgen, wenn er nicht durchgeführt wird, wurden mir mündlich und schriftlich erklärt.",
+  "Die häufigen und die möglicherweise schwerwiegenden Risiken sowie die möglichen Folgen dieser Komplikationen (einschließlich der Möglichkeit, dass eine weitere Behandlung oder ein erneuter Eingriff bzw. eine erneute Operation notwendig wird) wurden mir erklärt. Mir ist bewusst, dass das Ergebnis eines medizinischen Eingriffs **nicht zu 100 % garantiert werden kann**.",
+  "Ich habe zutreffende und vollständige Angaben zu meinem Gesundheitszustand, meinen Medikamenten, meinen Allergien und früheren Erkrankungen gemacht. Mir ist bewusst, dass unvollständige oder falsche Angaben die Risiken erhöhen können.",
+  "Mir ist bewusst, dass die Befolgung der Anweisungen vor und nach dem Eingriff zum Ergebnis beiträgt und dass die Wahrnehmung der Kontrolltermine wichtig ist.",
+  "Ich weiß, dass ich meine Einwilligung jederzeit vor Beginn des Eingriffs widerrufen kann. Mir ist bewusst, dass meine Unterschrift unter diesen Bogen den Arzt nicht von seiner Sorgfaltspflicht entbindet.",
+  "Ich treffe diese Entscheidung aus freiem Willen und ohne Druck von irgendeiner Seite."
+ ],
+ "declarations_aesthetic": [
+  "Mir ist bewusst, dass dieser Eingriff **ästhetischer Natur** ist, dass er medizinisch nicht notwendig ist und dass ich jederzeit die Möglichkeit habe, ihn nicht durchführen zu lassen. Ich habe meine Erwartungen mit meinem Arzt besprochen, und das realistisch erreichbare Ergebnis wurde mir erklärt.",
+  "Mir ist bewusst, dass weder eine vollkommene Symmetrie noch eine exakte Nachbildung des Aussehens auf einem Foto garantiert werden kann, dass das endgültige Ergebnis davon abhängt, wie mein Gewebe heilt, und dass in manchen Fällen ein Korrektureingriff notwendig sein kann."
+ ],
+ "decision_options": [
+  "Ich **ERTEILE MEINE EINWILLIGUNG** zu dem oben beschriebenen Eingriff.",
+  "Den oben beschriebenen Eingriff **LEHNE ICH AB**. Die möglichen Folgen der Ablehnung wurden mir erklärt."
+ ],
+ "minor_text": [
+  "Bei Patientinnen und Patienten unter 18 Jahren wird die Einwilligung von einem **Elternteil oder dem gesetzlichen Vormund** erteilt. Das Kind wird seinem Alter und seiner Reife entsprechend aufgeklärt, und seine Meinung wird eingeholt. Bei nicht einwilligungsfähigen Patientinnen und Patienten erteilt die gesetzliche Vertretung die Einwilligung."
+ ],
+ "final_note": "Dieser Bogen wurde in Übereinstimmung mit der türkischen Patientenrechteverordnung und den Grundsätzen der Türkischen Ärztekammer zur Aufklärung und Einwilligung erstellt. Er ergänzt das mündliche Aufklärungsgespräch mit Ihrem Arzt, ersetzt es aber nicht."
+}

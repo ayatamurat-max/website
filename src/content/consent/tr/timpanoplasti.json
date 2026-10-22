@@ -1,0 +1,166 @@
+{
+ "code": "18",
+ "type": "surgical",
+ "aesthetic": false,
+ "title": "Timpanoplasti",
+ "alt_name": "Kulak zarı onarımı (gerekirse orta kulak kemikçik onarımı ve mastoidektomi ile birlikte)",
+ "about": [
+  "Kulak zarı, dış kulak yolunu orta kulaktan ayıran, ses titreşimlerini orta kulaktaki küçük kemikçiklere ileten ince bir zardır. Kulak zarında **delik (perforasyon)** olduğunda işitme azalır ve kulağa su veya mikrop girmesiyle **tekrarlayan kulak akıntıları** olur.",
+  "Kulak zarı delikleri çoğunlukla **kronik orta kulak iltihabı**, bazen de travma (tokat, kulak çubuğu, ani basınç değişikliği) sonucu oluşur. Küçük, yeni oluşmuş delikler kendiliğinden kapanabilir; ancak uzun süredir var olan delikler genellikle kapanmaz. Bazı hastalarda iltihap orta kulaktaki kemikçikleri de aşındırmış olabilir veya kulak arkasındaki kemik boşluklara (mastoid) yayılmış olabilir. Orta kulakta **kolesteatom** (deri hücrelerinden oluşan, kemiği aşındırarak büyüyen bir kese) varsa bu durumun tedavisi ayrıca önemlidir.",
+  "Timpanoplastinin amacı; kulak zarını kapatmak, orta kulağı iltihaptan arındırarak **kuru ve güvenli bir kulak** elde etmek ve mümkünse **işitmeyi korumak veya iyileştirmektir**."
+ ],
+ "procedure_intro": [
+  "Ameliyat genel anestezi altında, ameliyathane koşullarında, mikroskop ve/veya endoskop kullanılarak yapılır."
+ ],
+ "procedure_steps": [
+  "**Yaklaşım:** Delik küçük ve uygun yerdeyse ameliyat tamamen kulak yolu içinden yapılabilir ve dışarıdan iz kalmaz. Daha büyük deliklerde veya geniş görüş gerektiğinde kulak arkasından (kulak kepçesinin arkasındaki kıvrımda) veya kulak önünden küçük bir kesi yapılır.",
+  "**Greftin alınması:** Kulak zarını onarmak için kişinin kendi dokusu kullanılır: genellikle kulak üzerindeki kasın zarı (temporal fasya) veya kulak kepçesinin kıkırdağı ve zarı. Bu dokular aynı kesiden veya küçük ek bir kesiden alınır.",
+  "**Orta kulağın temizlenmesi:** Deliğin kenarları tazelenir, kulak zarı kaldırılarak orta kulak incelenir; varsa iltihaplı doku ve yapışıklıklar temizlenir. Kemikçikler kontrol edilir.",
+  "**Kemikçik onarımı (gerekirse):** Kemikçik zinciri aşınmış veya kopmuşsa, hastanın kendi kemikçiği/kıkırdağı veya titanyum gibi doku dostu bir protez ile onarılabilir.",
+  "**Mastoidektomi (gerekirse):** İltihap veya kolesteatom kulak arkasındaki kemik boşluklara yayılmışsa bu boşluklar özel bir tur ile açılarak temizlenir.",
+  "**Greftin yerleştirilmesi ve kapatma:** Greft, deliğin altına veya üstüne yerleştirilir. Orta kulak ve kulak yolu eriyebilen süngerlerle desteklenir. Kesi varsa dikişle kapatılır ve kulak üzerine baskılı bir pansuman uygulanır."
+ ],
+ "procedure_notes": [
+  "Kolesteatom saptanırsa, hastalığın tamamen temizlendiğinden emin olmak için bazı hastalarda **6–12 ay sonra ikinci bir kontrol ameliyatı** planlanabilir. Bu durum size ayrıca açıklanır."
+ ],
+ "anesthesia": "Genel anestezi",
+ "duration": "Yaklaşık 1,5–3 saat (mastoidektomi ile daha uzun)",
+ "stay": "Genellikle aynı gün veya 1 gece",
+ "benefits": [
+  "Kulak zarındaki deliğin kapanması",
+  "Tekrarlayan kulak akıntılarının ve iltihapların azalması veya sona ermesi; kuru ve güvenli bir kulak",
+  "Banyo, duş ve yüzmede kulağı korumak için gereken kısıtlamaların azalması",
+  "Mümkün olan hastalarda işitmenin korunması veya iyileşmesi",
+  "Kolesteatom varsa hastalığın temizlenmesi ve olası ciddi komplikasyonlarının önlenmesi"
+ ],
+ "success": [
+  "Kulak zarının kalıcı olarak kapanması hastaların yaklaşık **%85–95'inde** sağlanır. İşitmede düzelme ise kemikçiklerin durumuna, iltihabın yaygınlığına ve iç kulağın sağlığına bağlıdır; işitme belirgin şekilde düzelebilir, aynı kalabilir veya nadiren azalabilir. Greft tutmazsa veya yeniden delik oluşursa ameliyat tekrarlanabilir."
+ ],
+ "alternatives": [
+  "**Takip ve kulağı kuru tutma:** Küçük, akıntısız deliklerde düzenli kontrol ve kulağı sudan koruma ile izlem yapılabilir. Delik açık kalır ve iltihaplanma riski devam eder.",
+  "**İlaç tedavisi:** Akıntı dönemlerinde antibiyotikli kulak damlaları iltihabı geçici olarak kontrol eder; deliği kapatmaz.",
+  "**İşitme cihazı:** İşitme kaybını telafi edebilir; ancak akıntılı kulakta kullanımı zor olabilir ve deliği kapatmaz.",
+  "**Küçük deliklerde basit yama işlemleri:** Çok küçük deliklerde kâğıt yama veya yağ dokusu ile kapatma (miringoplasti) seçenekleri değerlendirilebilir."
+ ],
+ "no_treatment": [
+  "Ameliyat yapılmazsa kulak zarındaki delik genellikle açık kalır. Kulağa su kaçtığında veya üst solunum yolu enfeksiyonlarında akıntılar tekrarlayabilir ve zamanla işitme kaybı artabilir. Kolesteatom varsa tedavi edilmediğinde büyümeye devam eder ve **kalıcı işitme kaybı, baş dönmesi, yüz felci, menenjit veya beyin apsesi** gibi ciddi komplikasyonlara yol açabilir."
+ ],
+ "before": [
+  "Ameliyattan önce işitme testi (odyometri) yapılır; gerekirse bilgisayarlı tomografi çekilir. Anestezi uzmanı tarafından değerlendirilirsiniz.",
+  "Ameliyattan önceki **6–8 saat** boyunca hiçbir şey yememeniz ve içmemeniz gerekir (anestezi uzmanının talimatlarına uyunuz).",
+  "Kulakta aktif akıntı varsa ameliyat öncesinde damla tedavisi ile kulağın kurutulması istenebilir.",
+  "Ameliyat günü kulak arkasındaki saçlar bir miktar kısaltılabilir. Grip veya üst solunum yolu enfeksiyonu varsa ameliyat ertelenebilir."
+ ],
+ "recovery": [
+  {
+   "when": "İlk 24–48 saat",
+   "what": "Kulakta dolgunluk, hafif ağrı ve tıkanıklık hissi olur; ağrı kesicilerle kontrol edilir. Kısa süreli hafif baş dönmesi ve bulantı olabilir. Baskılı pansuman genellikle 1. gün çıkarılır. Ameliyatlı kulağın üzerine yatmamanız önerilir."
+  },
+  {
+   "when": "1–2. haftalar",
+   "what": "Kulak yolundaki süngerler nedeniyle işitme bu dönemde **azalmış** hissedilir; bu normaldir. Kulaktan hafif kanlı akıntı olabilir. Dikişler genellikle **7–10. günlerde** alınır. Masa başı işe çoğunlukla 1 hafta içinde dönülür."
+  },
+  {
+   "when": "3–6. haftalar",
+   "what": "Kulak yolundaki süngerler kontrollerde temizlenir veya kendiliğinden erir. Kulağa kesinlikle su kaçırılmamalıdır. Ağır egzersiz, ağır kaldırma ve ıkınma yaklaşık **4–6 hafta** ertelenmelidir. Uçak yolculuğu genellikle hekim onayıyla **2–4 hafta sonra** yapılabilir."
+  },
+  {
+   "when": "2–3. aylar",
+   "what": "Greftin tutup tutmadığı kontrollerde değerlendirilir. Bu dönemde yapılan işitme testi, ameliyatın işitmeye etkisini gösterir. Yüzme ve kulağa su temasına genellikle hekim onayından sonra izin verilir."
+  },
+  {
+   "when": "6–12. aylar",
+   "what": "Kulak zarı ve orta kulak iyileşmesini tamamlar. Kolesteatom ameliyatı olduysa düzenli kontroller ve gerekirse görüntüleme veya ikinci kontrol ameliyatı planlanır."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Kulakta dolgunluk, tıkanıklık hissi ve ilk haftalarda işitmenin azalmış gibi hissedilmesi (kulak yolundaki süngerlere bağlı)",
+   "Kulakta hafif ağrı, çıtırtı, su sesi veya uğultu hissi",
+   "Kulaktan hafif kanlı akıntı (ilk günler)",
+   "Kulak kepçesi ve kesi çevresinde geçici uyuşukluk; kulak kepçesinin biraz öne dönük görünmesi (kulak arkası yaklaşımda, haftalar içinde düzelir)"
+  ],
+  "common": [
+   {
+    "name": "Dilde tat değişikliği",
+    "text": "Kulak zarının hemen arkasından geçen tat siniri (korda timpani) ameliyat sırasında gerilebilir veya nadiren kesilmek zorunda kalınabilir. Yaklaşık 100 hastadan **5–20'sinde** dilin o tarafında metalik tat, tat azalması veya ağız kuruluğu hissi olur; çoğunlukla **haftalar–aylar içinde** düzelir veya fark edilmez hâle gelir. Nadiren kalıcı olabilir."
+   },
+   {
+    "name": "Kulak çınlaması",
+    "text": "Ameliyat sonrası kulak çınlaması olabilir veya var olan çınlama bir süre artabilir; genellikle geçicidir."
+   },
+   {
+    "name": "Geçici baş dönmesi",
+    "text": "İlk günlerde hafif dengesizlik veya baş dönmesi olabilir; çoğunlukla birkaç gün içinde geçer."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Greftin tutmaması veya yeniden delik oluşması",
+    "text": "Yaklaşık 100 hastadan **5–15'inde** kulak zarı tam kapanmayabilir veya ileride yeniden delik oluşabilir. Bu durumda kulak akıntıları devam edebilir ve **ameliyatın tekrarlanması** gerekebilir."
+   },
+   {
+    "name": "İşitmenin düzelmemesi",
+    "text": "Kulak zarı kapansa bile kemikçik zinciri, orta kulak havalanması veya iç kulağa bağlı nedenlerle işitme beklenen düzeyde iyileşmeyebilir. Kemikçik onarımında protez yer değiştirebilir veya kulak zarından dışarı itilebilir; ek ameliyat gerekebilir."
+   },
+   {
+    "name": "Kulak enfeksiyonu ve akıntı",
+    "text": "Ameliyat sonrası kulak akıntısı veya yara enfeksiyonu olabilir; genellikle damla veya antibiyotikle düzelir. Kulak kepçesi kıkırdağının iltihabı (perikondrit) nadirdir ancak kıkırdakta şekil bozukluğu bırakabilir."
+   },
+   {
+    "name": "Kulak yolunda daralma veya zarın lateralizasyonu",
+    "text": "Kulak yolunda iz dokusu oluşarak daralma olabilir veya yeni kulak zarı olması gereken yerden uzaklaşabilir; işitmeyi etkileyebilir ve düzeltme işlemi gerektirebilir."
+   },
+   {
+    "name": "Kolesteatomun tekrarlaması veya kalıntı",
+    "text": "Kolesteatom ameliyatlarında hastaların bir kısmında hastalık tekrarlayabilir veya küçük bir kalıntı büyüyebilir; bu nedenle uzun süreli takip ve gerekirse **yeniden ameliyat** gerekir."
+   },
+   {
+    "name": "Yara ve iz sorunları",
+    "text": "Kulak arkası kesisinde kalınlaşmış iz veya keloid, nadiren kulak arkasında sıvı birikimi olabilir."
+   }
+  ],
+  "rare": [
+   {
+    "name": "İç kulak hasarına bağlı kalıcı işitme kaybı",
+    "text": "Yaklaşık 100 hastada **1'den azında** iç kulağın etkilenmesine bağlı **kalıcı sinirsel işitme kaybı** gelişebilir; çok nadiren ameliyat edilen kulakta işitme tamamen kaybolabilir (ölü kulak). Bu durum işitme cihazı veya ileri işitme rehabilitasyonu gerektirebilir. Risk, kolesteatom ve iç kulağa yakın hastalıklarda daha yüksektir."
+   },
+   {
+    "name": "Uzun süren baş dönmesi ve denge bozukluğu",
+    "text": "Nadiren iç kulağın etkilenmesine bağlı haftalarca süren baş dönmesi olabilir; denge egzersizleri ve ilaç tedavisi gerekebilir."
+   },
+   {
+    "name": "Yüz siniri felci",
+    "text": "Yüz siniri orta kulaktan geçtiği için çok nadiren (100 hastada **1'den çok daha az**) yüzün o tarafında geçici veya kalıcı güçsüzlük gelişebilir. Risk, kolesteatom, tekrarlayan ameliyatlar ve doğuştan farklı seyreden sinirlerde daha yüksektir. Gelişirse ilaç tedavisi, göz koruması ve gerekirse cerrahi müdahale (sinirin basıdan kurtarılması veya onarımı) gerekebilir. Kalıcı olursa yüzde asimetri ve gözün tam kapanmaması kalabilir; bu durumda uzun süreli göz koruması ve gerekirse yüz canlandırma ameliyatları gerekebilir."
+   },
+   {
+    "name": "Beyin zarı ile ilgili komplikasyonlar",
+    "text": "Özellikle mastoidektomi ve kolesteatom ameliyatlarında, kafa tabanı kemiğinin incelmiş olduğu durumlarda çok nadiren beyin-omurilik sıvısı (BOS) sızıntısı, menenjit veya beyin zarı yaralanması gelişebilir; hastanede, gerekirse yoğun bakımda ek tedavi ve ameliyat gerektirebilir; menenjit nadiren kalıcı hasar bırakabilir."
+   },
+   {
+    "name": "Kulak kepçesinin şeklinde kalıcı değişiklik",
+    "text": "Kulak arkası yaklaşım veya kıkırdak grefti alınmasına bağlı olarak kulak kepçesinin konumunda veya şeklinde hafif değişiklik nadiren kalıcı olabilir."
+   }
+  ]
+ },
+ "emergency": [
+  "**Ani ve belirgin işitme kaybı** (süngerlere bağlı tıkanıklıktan farklı, ani kötüleşme)",
+  "**Şiddetli baş dönmesi**, kusma ve ayakta duramama",
+  "**Yüzde güçsüzlük**: ağız kenarında kayma, gözü kapatamama",
+  "**38,5 °C üzerinde ateş**, kulakta artan ağrı, kulak kepçesinde kızarıklık ve şişlik veya kötü kokulu, iltihaplı akıntı",
+  "Kulaktan **berrak, sulu akıntı**, şiddetli baş ağrısı veya ense sertliği",
+  "Pansuman veya kulaktan **durmayan kanama**"
+ ],
+ "lifestyle": [
+  "Hekiminiz izin verene kadar **kulağınıza kesinlikle su kaçırmayınız**: duşta kulağınızı vazelinli pamukla tıkayınız, havuz ve denize girmeyiniz.",
+  "İlk **4–6 hafta** burnunuzu **sümkürmeyiniz**; hapşırmanız gerekirse ağzınız açık hapşırınız. Burnunuzu kapatıp ıkınmayınız (Valsalva yapmayınız).",
+  "Ağır kaldırma, ıkınma, eğilme ve ağır egzersizden ilk haftalarda kaçınınız. Kabızlık varsa hekiminize bildiriniz.",
+  "Uçak yolculuğu, dalış ve basınç değişikliği gerektiren aktiviteler için mutlaka hekiminizden onay alınız; **dalış** için genellikle daha uzun süre beklenmesi gerekir.",
+  "Kulak yoluna pamuklu çubuk veya başka bir cisim sokmayınız; size verilen kulak damlalarını gösterildiği şekilde kullanınız.",
+  "Yurt dışından geldiyseniz dönüş yolculuğunuzu hekiminizle planlayınız; dönüş sonrası kontroller ve işitme testi yerel bir KBB hekimi ile sürdürülebilir."
+ ],
+ "declarations_extra": [
+  "Ameliyatın öncelikli amacının kulak zarını kapatmak ve kuru, güvenli bir kulak elde etmek olduğunu; işitmede düzelmenin garanti edilemeyeceğini ve nadiren işitmenin azalabileceğini anladım.",
+  "Ameliyat sırasında bulunacak duruma göre kemikçik onarımı veya mastoidektomi gerekebileceği bana açıklandı ve bu işlemlerin yukarıda işaretlendiği şekilde yapılmasına onay veriyorum."
+ ]
+}

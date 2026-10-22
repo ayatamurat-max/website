@@ -1,0 +1,128 @@
+code: "07"
+type: surgical
+aesthetic: false
+title: "Parotidectomy"
+alt_name: "Partial or complete removal of the parotid salivary gland (in front of the ear)"
+
+specific_fields:
+  - label: "Side:"
+    options: ["Right", "Left"]
+    blank: false
+  - label: "Planned extent:"
+    options: ["Superficial", "Partial / extracapsular", "Total", "To be decided during surgery"]
+  - label: "Facial nerve monitoring:"
+    options: ["Will be used", "Will not be used"]
+    blank: false
+  - label: "Preliminary diagnosis (fine-needle biopsy / imaging result):"
+  - label: "Decision agreed in advance if the tumour involves the facial nerve:"
+    options: ["A nerve branch may be sacrificed", "Preserve the nerve", "Other"]
+
+about:
+  - "The parotid gland is the largest salivary gland. There is one in front of and just below each ear. The **facial nerve**, which moves the muscles of the face, runs through the gland and divides into branches inside it. Parotid surgery is therefore delicate surgery in which particular care is taken to protect this nerve."
+  - "Parotidectomy is most often performed because of a **lump (tumour)** in the gland. The great majority of these lumps (about 80%) are **benign (not cancer)**; the most common are pleomorphic adenoma and Warthin's tumour. Benign lumps can still grow over time, and some (particularly pleomorphic adenoma) can become malignant over many years. Less often, surgery is needed for recurrent infection, stones or a malignant tumour."
+  - "The aim of the operation is to remove the lump or diseased gland tissue completely **while preserving the facial nerve**, and to establish the definitive diagnosis by pathological examination."
+
+procedure_intro:
+  - "The operation is performed under general anaesthesia in an operating theatre. Before surgery the lump is assessed with ultrasound, MRI and/or fine-needle biopsy; these tests give useful preliminary information, but the definitive diagnosis is made by pathology after the operation."
+procedure_steps:
+  - "**Incision:** The incision usually starts in the natural crease in front of the ear, curves around under the earlobe and continues into a skin crease in the neck. In suitable cases the incision can be kept shorter or hidden at the hairline."
+  - "**Finding the facial nerve:** The skin and the tissue over the gland are lifted and the main trunk of the facial nerve is identified. If used, a **nerve monitoring** device helps to track the position and function of the nerve throughout the operation."
+  - "**Removing the lump/gland:** The nerve and its branches are followed carefully while the lump is removed together with a margin of healthy gland tissue. Depending on the position and size of the lump, only the outer part of the gland (superficial), a portion of it, or the whole gland (total) may be removed."
+  - "**Pathological examination:** The removed tissue is sent to pathology. The final result is usually available within 1–2 weeks."
+  - "**Closure:** Bleeding is controlled and a thin **drain** (tube) is usually placed to remove any blood or fluid that collects. The skin is closed with fine stitches and a light pressure dressing may be applied."
+procedure_notes:
+  - "If the tumour surrounds or has grown into the facial nerve (this mostly happens with malignant tumours), it may be necessary to sacrifice a branch of the nerve, or the whole nerve, in order to remove the tumour completely. This possibility is **discussed with you separately** before surgery. The nerve will not be cut unexpectedly without this having been discussed with you; what will be done if the tumour cannot be separated from the nerve is agreed with you beforehand."
+anesthesia: "General anaesthesia"
+duration: "About 2–4 hours"
+stay: "Usually 1–2 nights; discharge once the drain is removed"
+
+benefits:
+  - "Removal of the lump and a definitive diagnosis"
+  - "Preventing a benign lump from growing, pressing on the facial nerve and, in the long term, becoming malignant"
+  - "In malignant tumours, the first and most important step of treatment"
+  - "Ending pain and swelling caused by recurrent infection or stones"
+success:
+  - "For most benign tumours, surgery provides a permanent cure. For pleomorphic adenomas removed with an appropriate technique, the recurrence rate is **below 1–2 in 100 patients**; however, rupture of the tumour capsule or previous surgery increases this rate. A Warthin's tumour can appear as a new focus in the same or the opposite gland. For malignant tumours, the outcome depends on the type and stage of the tumour and further treatment may be needed."
+
+alternatives:
+  - "**Observation:** For some small lumps thought to be benign (for example Warthin's tumour in older patients or those at high surgical risk), regular follow-up with ultrasound/MRI may be discussed. The lump then stays in place and may grow, and a definitive diagnosis cannot be made."
+  - "**Medical treatment:** For infection or stones — antibiotics, plenty of fluids, massage; in suitable cases removal of stones by salivary duct endoscopy (sialendoscopy). Medical treatment is not an option for tumours."
+  - "**Radiotherapy:** Used for malignant tumours that cannot be operated on, or in addition to surgery; it is not the preferred treatment for benign tumours."
+
+no_treatment:
+  - "Without surgery the lump remains and a definitive diagnosis cannot be made. Benign tumours usually grow slowly, but over time they can enlarge, making surgery more difficult and increasing the risk to the facial nerve; pleomorphic adenomas can become malignant over many years (around 5–10% over the years). A malignant tumour, if untreated, will progress and may spread to surrounding tissues and lymph nodes."
+
+before:
+  - "Before surgery, blood tests, imaging (ultrasound/MRI) and, if necessary, a fine-needle biopsy are carried out; you will be assessed by the anaesthetist."
+  - "You must not eat or drink anything for **6–8 hours** before the operation (please follow the anaesthetist's instructions)."
+  - "For male patients, beard and hair around the ear in the incision area may be trimmed on the day of surgery. Depending on the incision, a little hair behind the ear may be tidied."
+  - "Your facial movements are examined and photographed before surgery to record how they work before the operation."
+
+recovery:
+  - when: "First 24–48 hours"
+    what: "There will be tightness, mild to moderate pain and swelling in the operated area, controlled with painkillers. The drain is usually removed on day 1–2 once the fluid decreases. Sleeping with your head raised is recommended. Your facial movements will be checked."
+  - when: "Week 1"
+    what: "After discharge you can return to daily activities. Stitches are usually removed on **days 5–7**. Numbness of the earlobe and the area in front of the ear is noticeable. The pathology result is usually available during this period or shortly afterwards and will be shared with you."
+  - when: "Weeks 2–6"
+    what: "Most people return to desk work within 1–2 weeks. Strenuous exercise and work involving bending and lifting should be postponed for about **2–3 weeks**. If there is temporary facial weakness, it usually begins to improve within weeks; eye protection and facial exercises are recommended."
+  - when: "Months 3–12"
+    what: "The scar gradually fades. Earlobe numbness partly improves. Most patients with temporary nerve weakness recover fully within 6–12 months. Sweating of the cheek while eating (Frey's syndrome), if it occurs, may appear during this period."
+
+risks:
+  expected:
+    - "Pain, tightness and swelling in the operated area"
+    - "Numbness of the earlobe and the skin in front of the ear"
+    - "A scar at the incision site (fades over time)"
+    - "Mild pain on the operated side when opening the mouth or chewing (first few days)"
+  common:
+    - name: "Temporary facial nerve weakness"
+      text: "In about **10–40 in 100** patients (depending on how much tissue is removed and where the lump is), there is temporary weakness at the corner of the mouth, in closing the eye or in raising the eyebrow. It usually affects only one branch and **improves within weeks to months**. If your eye does not close fully during this time, you will need drops, gel and a night-time eye patch to prevent dryness of the eye."
+    - name: "Permanent reduced sensation of the earlobe"
+      text: "The nerve supplying sensation to the earlobe (great auricular nerve) is affected in most operations. Numbness lessens with time in most patients, but some reduced sensation of the earlobe and surrounding area may be **permanent**. This usually does not affect daily life."
+    - name: "Frey's syndrome (sweating while eating)"
+      text: "Sweating and flushing of the cheek on the operated side while eating. Although detected more often with tests, it is noticeable in about **10–20 in 100** patients and usually starts months later. If bothersome, it can be treated with antiperspirant creams or **botulinum toxin** injections."
+    - name: "Hollowing of the cheek area"
+      text: "Depending on how much tissue is removed, a slight hollow in front of the ear and a difference between the two sides may develop. If noticeable, it can be corrected with fat or filler."
+  uncommon:
+    - name: "Fluid collection (seroma) or saliva collection (sialocele) / salivary fistula"
+      text: "In about **5–10 in 100** patients, fluid or saliva may collect in the operated area; rarely it leaks out through the skin (fistula). It usually settles within a few weeks with needle drainage, a pressure dressing and, if needed, botulinum toxin."
+    - name: "Bleeding and haematoma"
+      text: "In about **1–3 in 100** patients, blood may collect under the skin. If large, it may need to be drained and the bleeding stopped in the operating theatre."
+    - name: "Wound infection"
+      text: "Occurs in **1–3 in 100** patients; it usually settles with antibiotics, and rarely drainage is needed."
+    - name: "First-bite syndrome"
+      text: "Particularly after deep-lobe surgery, a sharp pain at the angle of the jaw lasting a few seconds with the first bites of a meal. It usually lessens with time."
+    - name: "Recurrence of the lump"
+      text: "Although uncommon for benign tumours, the lump may recur in the same area, or a new focus may develop with Warthin's tumour; this may require another operation. In repeat operations the risk to the facial nerve is higher."
+    - name: "Thick scar or keloid"
+      text: "Depending on individual tendency, the scar may thicken; steroid injections or other scar treatments can be used."
+  rare:
+    - name: "Permanent facial nerve paralysis"
+      text: "For benign tumours at first operation, about **1–3 in 100** patients may be left with permanent weakness of one branch of the facial nerve or, rarely, the whole nerve. This can result in drooping of the corner of the mouth, incomplete eye closure, an asymmetric smile and dry eye; if the eye is not protected, damage to the clear front surface of the eye (cornea) and loss of vision can occur. The risk is higher with malignant tumours, repeat operations and lumps adherent to the nerve. If permanent paralysis develops, further treatment such as eye-protecting medicines, an eyelid weight, nerve repair or facial reanimation surgery may be needed."
+    - name: "Final pathology different from the preliminary diagnosis"
+      text: "Even if pre-operative tests suggest a benign lump, the final pathology may show a **malignant** tumour. In that case further surgery (removal of the remaining gland or the neck lymph nodes), radiotherapy or other treatments may be needed."
+    - name: "Large neck haematoma affecting the airway"
+      text: "Very rarely, a rapidly enlarging collection of blood can press on the neck and cause difficulty swallowing or breathing. This is an emergency: it must be drained in the operating theatre immediately, and rarely the airway may need to be secured (intubation or tracheostomy)."
+    - name: "Skin blood-supply problems"
+      text: "Breakdown of the wound edge, particularly below the earlobe, due to reduced skin blood supply; more common in smokers."
+    - name: "Change in earlobe shape or altered sensation of the ear"
+      text: "Rare; caused by the incision or by effects on the nerve."
+
+emergency:
+  - "**Rapidly increasing swelling of the neck or cheek**, especially with difficulty swallowing or breathing (emergency — call 112)"
+  - "**Bleeding that does not stop** from the drain or wound"
+  - "**Fever above 38.5 °C**, increasing redness, pain, warmth or pus from the wound"
+  - "**New or worsening weakness** of facial movement"
+  - "If you cannot fully close your eye: **redness, grittiness, pain or blurred vision** in the eye"
+  - "**Clear fluid leaking** from the wound, or a soft swelling in front of the ear that keeps growing"
+
+lifestyle:
+  - "Keep the wound dry for the first 48 hours; after that you may take a short lukewarm shower as instructed."
+  - "In the first few weeks, avoiding very sour foods and foods that strongly stimulate saliva may reduce the risk of fluid collection."
+  - "If you have facial nerve weakness, use artificial tear drops during the day and eye gel and an eye patch at night; protect your eye from wind and dust."
+  - "Protect the scar from the sun for at least 6 months (high-factor sunscreen)."
+  - "Make sure to discuss the pathology result and the follow-up plan with your doctor; regular check-ups are recommended even for benign tumours."
+
+declarations_extra:
+  - "I understand that the relationship between the facial nerve and the lump can only be seen with certainty during the operation, that the definitive diagnosis will be made by pathology after surgery, and that further treatment may be needed depending on the result."
+  - "Before surgery, it was discussed with me what will be done about the nerve if the tumour has grown into the facial nerve, and my decision has been recorded in the patient details section."

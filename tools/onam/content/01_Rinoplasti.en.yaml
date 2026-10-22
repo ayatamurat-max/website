@@ -1,0 +1,136 @@
+code: "01"
+type: surgical
+aesthetic: true
+title: "Rhinoplasty"
+alt_name: "Cosmetic nose surgery (combined with correction of the nasal airway if needed)"
+
+specific_fields:
+  - label: "Planned technique:"
+    options: ["Open technique", "Closed technique", "To be decided by the surgeon during the operation"]
+    blank: false
+  - label: "Procedures to be performed at the same time:"
+    options: ["Septoplasty", "Turbinate reduction", "None"]
+  - label: "Source of cartilage graft:"
+    options: ["Inside the nose (septum)", "Ear", "Rib", "Not expected to be needed"]
+  - label: "Patient's concerns and expectations:"
+
+about:
+  - "Rhinoplasty is an operation to reshape the outer appearance of the nose (the bridge, a hump, the tip, the width of the nose, the nostrils and its harmony with the face). If you have a bend in the central wall of the nose that makes breathing difficult (septal deviation), collapse of the nasal sidewalls or enlarged turbinates, these can be corrected in the same operation."
+  - "The shape of the nose results from inherited features, changes during growth or previous injuries (a blow, a fracture). These structures do not change by themselves. The aim of the operation is to reach the **realistic goals** we agree on together and to achieve a nose that is **natural, in harmony with your face and comfortable to breathe through**."
+
+procedure_intro:
+  - "The operation is performed under general anaesthesia in an operating theatre. Before surgery your nose is examined and photographed, and a plan is made together with you."
+procedure_steps:
+  - "**Incision:** In the closed technique all incisions are inside the nose and no scar is visible from outside. In the open technique a small incision of about 4–5 mm is also made across the thin bridge of skin between the nostrils (the columella); this scar usually becomes barely noticeable over time."
+  - "**Reshaping the nasal framework:** The skin and soft tissues are gently lifted. If there is a hump, it is reduced from the bone and cartilage or corrected with hump-preserving techniques. The tip cartilages are reshaped with stitches."
+  - "**Narrowing/straightening the bones (osteotomy):** If wide or crooked nasal bones need to be narrowed or straightened, controlled cuts are made in the bone. This step may increase the chance of bruising and swelling."
+  - "**Support and grafts:** To help the nose keep its shape in the long term and keep the airway open, cartilage supports (grafts) are used if needed. Cartilage is taken first from inside the nose (the septum); if this is not enough, ear or rib cartilage may be used. This will be discussed with you before the operation."
+  - "**Functional correction:** If necessary, the central wall of the nose (septum) is straightened and the turbinates are reduced."
+  - "**Closure and splint:** Incisions are closed with fine stitches. A protective splint is placed over the bridge of the nose; if needed, soft silicone splints or packs that allow you to breathe are placed inside the nose."
+anesthesia: "General anaesthesia"
+duration: "About 2–4 hours"
+stay: "Usually one night in hospital"
+
+benefits:
+  - "A nose shape that is more natural, balanced and in harmony with your face"
+  - "Relief of nasal blockage, if present, and easier breathing"
+  - "Helping you to feel better about yourself"
+success:
+  - "Most patients are satisfied with the result. However, the nose sits in the centre of the face and takes a long time to heal; the final result becomes apparent within **12–18 months**. Published studies report that about **5–15%** of patients may need a minor or more extensive corrective operation (revision). Results are harder to predict in noses with thick skin, previous surgery or a history of severe injury."
+
+alternatives:
+  - "**No surgery:** As this is a cosmetic procedure, you always have the option not to have it."
+  - "**Shaping the nose with fillers (“non-surgical rhinoplasty”):** Can temporarily camouflage a small hump or dip; it does not make the nose smaller, does not improve breathing and carries its own risks, such as blockage of a blood vessel."
+  - "**Functional surgery only (septoplasty/turbinate reduction):** If breathing is the only problem, this can be done without changing the outer shape of the nose."
+  - "**Medical treatment:** Nasal sprays may help with blockage caused by allergy or swelling of the lining; they do not correct structural deformities."
+
+no_treatment:
+  - "If the operation is not performed, the current shape of your nose will remain unchanged. If you have breathing problems with a structural cause (a deviation, sidewall collapse), these will not improve by themselves, but they usually do not pose an urgent danger to your health."
+
+before:
+  - "If you have taken **isotretinoin** (acne medicine, e.g. Roaccutane) in the last 6–12 months, please tell us; it can affect skin healing and the timing of surgery may be planned accordingly."
+  - "Blood tests and, if necessary, other investigations are carried out before surgery, and you will be assessed by the anaesthetist."
+  - "You must not eat or drink anything for **6–8 hours** before the operation (please follow the anaesthetist's instructions)."
+  - "On the day of surgery do not wear make-up, nail polish, jewellery or contact lenses. It is advisable to have a relative or friend with you for the first day after surgery."
+  - "Surgery may be postponed if you have active acne or a skin infection on the face, flu or an upper respiratory tract infection."
+
+recovery:
+  - when: "First 48 hours"
+    what: "Nasal blockage, mild ooze, headache and swelling of the face are normal. Pain is usually mild to moderate and controlled with painkillers. Sleeping with your head raised and using cold compresses help to reduce swelling. **If** bruising occurs, it appears around the eyes and fades in 7–10 days."
+  - when: "Week 1"
+    what: "Any silicone splints/packs inside the nose are usually removed on days 2–5, and the external splint and stitches at around **day 7**. You will be asked to rinse the inside of the nose with saline. Most patients return to desk work and social life within 7–10 days."
+  - when: "Weeks 2–6"
+    what: "Most of the swelling settles, but the tip may still feel firm and mildly numb. Strenuous exercise, contact sports and swimming should be postponed for about **4–6 weeks**. Glasses should not be worn for at least **6 weeks** unless they are taped so that they do not press on the bridge of the nose."
+  - when: "Months 3–12"
+    what: "The remaining swelling, particularly at the tip, gradually decreases. The shape of the nose continues to change during this period; minor irregularities seen early on usually disappear."
+  - when: "Months 12–18"
+    what: "The final result becomes apparent. If a corrective (revision) procedure is considered necessary, it is usually done after waiting at least 12 months."
+
+risks:
+  expected:
+    - "Nasal blockage, mild ooze and blood-stained discharge (in the first few days)"
+    - "Swelling of the face and around the eyes; **if** bruising occurs, it fades within 1–2 weeks"
+    - "Temporary numbness of the nasal tip and front teeth; firmness of the nasal tip"
+    - "Temporary reduction in sense of smell (improves as swelling settles)"
+    - "The shape of the nose continuing to change over months"
+  common:
+    - name: "Prolonged swelling"
+      text: "Especially with thick skin, swelling of the tip may last a year or longer. It can be helped with steroid injections if necessary."
+    - name: "Mild asymmetry and small irregularities"
+      text: "Because the face itself is not perfectly symmetrical, slight differences may remain in the nose; small bony/cartilage bumps may be felt but are usually not visible."
+    - name: "Need for revision (correction)"
+      text: "In about **5–15 out of 100** patients, a corrective procedure ranging from a minor touch-up to a more extensive operation may be needed."
+    - name: "Crusting and dryness inside the nose"
+      text: "Common in the first few weeks; settles with regular rinsing and moisturising."
+  uncommon:
+    - name: "Nosebleed"
+      text: "In about **1–3 out of 100** patients, bleeding requiring packing or intervention may occur. Very rarely, the bleeding may need to be stopped in the operating theatre."
+    - name: "Infection"
+      text: "Occurs in **anywhere from fewer than 1 to 3 in every 100** patients. It usually settles with antibiotics; rarely, the infection may need to be drained or a graft removed."
+    - name: "Breathing does not improve as expected"
+      text: "Your nasal blockage may not fully resolve or, rarely, may increase; further treatment or surgery may be needed."
+    - name: "Hole in the septum (perforation)"
+      text: "A hole in the central wall of the nose occurs in about **1 in 100** patients. It often causes no symptoms; if it causes whistling, crusting or bleeding, treatment may be needed."
+    - name: "Collection of blood or pus in the septum (haematoma / abscess)"
+      text: "When the septum is operated on, this occurs in **fewer than 1 in 100** patients. It shows as increasing blockage, pain and fever in the days after surgery. It must be **drained urgently** to avoid damage to the nasal cartilage; if untreated, loss of cartilage and collapse of the nasal bridge (saddle nose) may occur, and further surgery may be needed to correct it."
+    - name: "Adhesions inside the nose (synechiae)"
+      text: "Tissues inside the nose sticking together; if they cause blockage they can be separated with a simple procedure."
+    - name: "Noticeable scar"
+      text: "In the open technique the columellar scar may rarely remain noticeable; if the nostrils are narrowed, a fine scar forms in the crease of the nostril."
+    - name: "Prolonged numbness"
+      text: "Reduced sensation of the nasal tip or front teeth may last several months; rarely it may be permanent."
+    - name: "Graft-related problems"
+      text: "Cartilage grafts may shift, bend, partially absorb or become visible through the skin over time. If cartilage is taken from the ear or rib, there is a risk of pain, scarring and bleeding at that site and, for the rib, very rarely injury to the lining of the lung (pneumothorax)."
+  rare:
+    - name: "Skin problems"
+      text: "Thinning of the skin, redness, small visible blood vessels, or increased scar tissue in thick skin. Very rarely, especially in smokers and noses with previous surgery, poor blood supply to the skin may lead to a wound and tissue loss. In that case prolonged wound care and reconstructive surgery may be needed, and a permanent scar or deformity may remain."
+    - name: "Permanent reduction or loss of sense of smell"
+      text: "Very rare."
+    - name: "Tear-duct problems and bleeding around the eye"
+      text: "Very rarely, the bone cuts may lead to a watery eye or bleeding around the eye."
+    - name: "Cerebrospinal fluid (CSF) leak, meningitis, loss of vision"
+      text: "Extremely rare complications, occurring in **far fewer than 1 in 10,000** cases, caused by injury to the thin bones that separate the nose from the skull base and the eye. If they occur, further hospital treatment (sometimes in intensive care) and surgery may be needed; loss of vision, if it occurs, may be permanent."
+    - name: "Toxic shock syndrome"
+      text: "A very rare but serious illness linked to the use of nasal packs (sudden high fever, rash, low blood pressure) that needs urgent treatment. It requires hospital treatment, sometimes in intensive care, and can be life-threatening."
+    - name: "Psychological dissatisfaction"
+      text: "Despite a technically successful result, a person may find it difficult to adjust to their new appearance. Discussing expectations openly before surgery reduces this risk."
+
+emergency:
+  - "**Nosebleed that does not stop or is very heavy** despite a few minutes of pressure and ice"
+  - "**Increasing nasal blockage, severe pain and swelling of the nose** in the days after surgery (may be a sign of a septal haematoma/abscess)"
+  - "**Fever above 38.5 °C**, increasing pain, redness or foul-smelling discharge from the nose"
+  - "**Sudden high fever, skin rash, dizziness or weakness** while packs are in place"
+  - "**Clear, watery discharge** from the nose, especially if it increases when you lean forward; or severe headache and neck stiffness"
+  - "**Blurred or double vision**, or rapidly increasing swelling and pain around the eye"
+  - "A blow to the nose or a sudden change in its shape"
+  - "Shortness of breath or chest pain"
+
+lifestyle:
+  - "Do not blow your nose for the first 2 weeks; if you need to sneeze, sneeze with your mouth open."
+  - "Clean the inside of your nose as shown to you and as often as recommended."
+  - "For at least 6 weeks avoid knocks to the nose, glasses resting on the bridge of the nose and sleeping face down."
+  - "Protect the skin of your nose from the sun for at least 3 months (high-factor sunscreen, a hat)."
+  - "If you have travelled from abroad, flying is usually safe after the splint has been removed (around day 7)."
+
+declarations_extra:
+  - "I understand that comparing my photographs from before and after surgery is part of assessing the result, and that computer simulations or example photographs are only meant to give an idea and do not guarantee the result."

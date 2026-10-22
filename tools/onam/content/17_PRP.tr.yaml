@@ -1,0 +1,117 @@
+code: "17"
+type: office
+aesthetic: true
+title: "PRP (Trombositten Zengin Plazma) Uygulaması"
+alt_name: "Kendi kanınızdan hazırlanan plazmanın cilde veya saçlı deriye uygulanması"
+
+specific_fields:
+  - label: "Kullanılan kit adı / LOT no:"
+  - label: "Alınan kan miktarı (mL):"
+  - label: "Aktivatör / katkı maddesi:"
+    options: ["Yok", "Kalsiyum klorür", "Diğer"]
+  - label: "Uygulama bölgesi:"
+    options: ["Yüz", "Saçlı deri", "Göz altı", "Boyun / dekolte", "Diğer"]
+  - label: "Seans no / planlanan seans sayısı:"
+
+about:
+  - "PRP (Platelet Rich Plasma – Trombositten Zengin Plazma), **kendi kanınızdan** hazırlanan ve kan pulcukları (trombositler) bakımından zenginleştirilmiş bir plazmadır. Trombositler, dokuların onarımında rol oynayan doğal büyüme faktörleri içerir."
+  - "PRP; cilt kalitesini, parlaklığını ve elastikiyetini desteklemek, ince çizgilerin ve göz altı yorgunluğunun görünümünü azaltmak, akne izlerinin iyileşmesine katkı sağlamak veya **saç dökülmesinde** saç köklerini desteklemek amacıyla kullanılır. Kendi kanınızdan hazırlandığı için ürünün kendisine karşı alerji veya vücudun reddetmesi beklenmez."
+
+procedure_intro:
+  - "İşlem muayenehanede, steril koşullarda ve **tek kullanımlık, kapalı sistem kitlerle** yapılır. Kullanılan kitin adı ve LOT numarası dosyanıza kaydedilir."
+procedure_steps:
+  - "**Kan alma:** Kolunuzdaki damardan, normal bir kan tahlilindeki gibi, genellikle 10–30 mL kan alınır."
+  - "**Hazırlama:** Kan, içinde pıhtılaşmayı önleyici madde bulunan özel tüpte santrifüj cihazında ayrıştırılır ve trombositten zengin plazma bölümü steril şekilde ayrılır. Tüplerin size ait olduğu her aşamada kontrol edilir."
+  - "**Bölgenin hazırlanması:** Uygulama bölgesi temizlenip antiseptikle silinir; isteğe bağlı olarak uyuşturucu krem uygulanır."
+  - "**Uygulama:** Plazma ince iğne veya kanülle cilde ya da saçlı deriye çok sayıda küçük noktadan enjekte edilir; bazen mikroiğne işlemiyle birlikte cilde yayılır."
+  - "**Bitiş:** Bölge temizlenir, gerekirse soğuk uygulama yapılır ve bakım önerileri verilir."
+procedure_notes:
+  - "Genellikle **4–6 hafta arayla 3–4 seanslık** bir kür, ardından 4–6 ayda bir idame seansı önerilir."
+anesthesia: "Uyuşturucu krem (isteğe bağlı)"
+duration: "Yaklaşık 45–60 dakika (hazırlık dahil)"
+stay: "Aynı gün; işlem sonrası kısa gözlem"
+
+benefits:
+  - "Cildin daha canlı, parlak ve sıkı görünmesi, ince çizgilerin daha az belirgin olması"
+  - "Göz altında koyuluk ve yorgun görünümde hafifleme"
+  - "Saç dökülmesinde dökülmenin azalmasına ve saç kalınlığının artmasına destek"
+  - "Kendi kanınız kullanıldığı için plazmanın kendisine karşı alerji beklenmemesi"
+success:
+  - "Sonuçlar kişiden kişiye değişir. Bilimsel kanıtlar uygulama amacına göre farklıdır: **androgenetik (kalıtsal) saç dökülmesinde** olumlu sonuçlar bildiren çok sayıda çalışma vardır; cilt yenileme amaçlı kullanımda ise veriler daha sınırlıdır. Uygulanan teknik ve kitler arasında da farklılık bulunur. Etki kademeli olarak ortaya çıkar ve kalıcı değildir; belirli bir sonuç garanti edilemez."
+
+alternatives:
+  - "**Hiçbir işlem yaptırmamak** veya düzenli cilt bakımı ve güneşten korunmayla devam etmek"
+  - "**Saç dökülmesinde:** Altta yatan nedenin (demir, tiroid, hormon) araştırılması; minoksidil gibi hekim önerisiyle kullanılan ilaçlar; saç mezoterapisi; ileri dönemde saç ekimi"
+  - "**Cilt için:** Topikal ürünler, mezoterapi, cilt kalitesine yönelik hyalüronik asit uygulamaları, kimyasal peeling, lazer veya mikroiğne tedavileri"
+
+no_treatment:
+  - "PRP uygulanmazsa cildiniz veya saçınız doğal seyrini sürdürür. Saç dökülmesi nedenine göre ilerleyebilir; bu durumda diğer tedavi seçenekleri her zaman değerlendirilebilir. PRP yaptırmamanın sağlığınız açısından bir zararı yoktur."
+
+before:
+  - "**PRP uygulanmayan durumlar:** Trombosit sayısı düşüklüğü veya işlev bozukluğu, kanama-pıhtılaşma hastalıkları, ciddi kansızlık, aktif enfeksiyon veya ateş, aktif kanser tedavisi veya son yıllarda kan kanseri öyküsü, hamilelik ve emzirme. Bu durumlardan biri sizde varsa mutlaka bildiriniz."
+  - "Kan sulandırıcı (varfarin, rivaroksaban, apiksaban, klopidogrel vb.) kullanıyorsanız işlemden önce hekiminize söyleyiniz; bu ilaçları **kendi kendinize kesmeyiniz**."
+  - "Mümkünse işlemden 1 hafta önce aspirin ve ağrı kesici/iltihap giderici ilaçları (ibuprofen, naproksen vb.) hekiminize danışarak bırakınız; bu ilaçlar trombosit işlevini azaltabilir."
+  - "Son 2–3 hafta içinde ağızdan veya iğne şeklinde kortizon tedavisi aldıysanız bildiriniz; PRP'nin etkisini azaltabilir ve işlemin ertelenmesi gerekebilir."
+  - "İşlem günü bol su içiniz ve hafif bir öğün yiyerek geliniz; aç gelmek baş dönmesi riskini artırır."
+  - "Saçlı deri uygulamasında saçınızı işlemden önceki gün veya aynı sabah yıkayınız; jöle, sprey gibi ürünler kullanmayınız."
+
+recovery:
+  - when: "İlk saatler"
+    what: "Uygulama bölgesinde kızarıklık, hafif şişlik, gerginlik ve iğne noktalarında küçük kabarıklıklar olur. Kan alınan yerde hafif hassasiyet olabilir."
+  - when: "İlk 24 saat"
+    what: "Makyaj yapmayınız; sauna, hamam, solaryum, yoğun spor ve doğrudan güneşten kaçınınız. Saçlı deri uygulamasında saçınızı en erken ertesi gün yıkayınız."
+  - when: "2–7. günler"
+    what: "Kızarıklık ve şişlik geçer. Morarma **olursa** (özellikle göz altında) 3–7 günde çekilir."
+  - when: "Kür süresince"
+    what: "Seanslar 4–6 hafta arayla tekrarlanır. Ciltte değişiklik genellikle 2.–3. seanstan sonra, saçta ise 3–6 ay içinde fark edilir."
+  - when: "Kür sonrası"
+    what: "Etki zamanla azalır; korumak için 4–6 ayda bir idame seansı önerilebilir."
+
+risks:
+  expected:
+    - "Kan alma ve enjeksiyon sırasında hafif ağrı veya yanma"
+    - "Uygulama bölgesinde kızarıklık, hafif şişlik, hassasiyet ve gerginlik (birkaç saat–2 gün)"
+    - "İğne noktalarında küçük kanama izleri"
+  common:
+    - name: "Morarma"
+      text: "Uygulama bölgesinde veya kan alınan yerde görülebilir; 3–7 günde kendiliğinden geçer."
+    - name: "Baş ağrısı veya saçlı deride hassasiyet"
+      text: "Saçlı deri uygulamasından sonra 1–2 gün sürebilir; basit ağrı kesicilerle geçer (aspirin yerine parasetamol önerilir)."
+    - name: "Beklenen etkinin az olması"
+      text: "Bazı kişilerde belirgin bir değişiklik görülmeyebilir veya etki kısa sürebilir."
+  uncommon:
+    - name: "Bayılma hissi"
+      text: "Kan alma veya iğne sırasında baş dönmesi, terleme ve kısa süreli bayılma olabilir; uzanarak kısa sürede geçer."
+    - name: "Geçici saç dökülmesi artışı"
+      text: "Saçlı deri uygulamasından sonraki ilk haftalarda geçici bir dökülme artışı görülebilir; genellikle kendiliğinden düzelir."
+    - name: "Uzayan şişlik"
+      text: "Özellikle göz altında şişlik birkaç gün sürebilir."
+    - name: "Renk değişikliği"
+      text: "Esmer ciltlerde ve güneşe maruz kalınırsa iğne noktalarında geçici koyulaşma görülebilir."
+  rare:
+    - name: "Enfeksiyon"
+      text: "Steril teknikle çok nadirdir; gelişirse antibiyotik tedavisi, nadiren iltihabın boşaltılması gerekebilir."
+    - name: "Kitteki maddelere karşı alerji"
+      text: "Plazmanın kendisine alerji beklenmez; ancak kitteki pıhtılaşma önleyici maddeye, aktivatöre, uyuşturucu kreme veya antiseptiğe karşı çok nadiren alerjik reaksiyon gelişebilir."
+    - name: "Damar tıkanıklığı"
+      text: "Yüz bölgesine derin enjeksiyonda, maddenin bir damarın içine girmesi veya damara bası yapmasıyla **son derece nadir** olarak ciltte beslenme bozukluğu, iz ve çok daha nadir olarak görme bozukluğu bildirilmiştir. Erken fark edilip acil tedavi uygulanması çok önemlidir."
+    - name: "Sinir etkilenmesi"
+      text: "Kan alma veya enjeksiyon sırasında bir sinire temas edilirse geçici uyuşma veya karıncalanma olabilir; çok nadiren uzun sürebilir."
+
+emergency:
+  - "Uygulama sırasında veya sonrasında **ani şiddetli ağrı, ciltte beyazlaşma veya morumsu ağsı renk değişikliği**"
+  - "**Görmede bulanıklık, görme kaybı**, çift görme veya göz ağrısı"
+  - "Uygulama bölgesinde **giderek artan kızarıklık, sıcaklık, şişlik veya iltihaplı akıntı**, 38 °C üzerinde ateş"
+  - "Yüzde, dudakta veya dilde şişme, **nefes darlığı**, yaygın kaşıntılı döküntü"
+  - "Kan alınan kolda giderek artan şişlik, ağrı veya uyuşma"
+
+lifestyle:
+  - "İlk 24 saat makyaj yapmayınız; sauna, hamam, solaryum, yoğun spor ve havuzdan uzak durunuz."
+  - "İşlemden sonraki 3 gün iltihap giderici ağrı kesici (ibuprofen, naproksen, aspirin) kullanmamanız önerilir; ağrı olursa parasetamol kullanabilirsiniz."
+  - "Kür süresince her gün yüksek faktörlü güneş koruyucu kullanınız; saçlı deri uygulamasında saç boyası ve perma için en az 3 gün bekleyiniz."
+  - "Sigara, trombositlerin etkisini ve iyileşmeyi olumsuz etkiler; mümkünse bırakmanız önerilir."
+
+declarations_extra:
+  - "PRP'nin kendi kanımdan hazırlanacağını, kullanılan kitin bilgilerinin dosyama kaydedileceğini ve tüplerin bana ait olduğunun her aşamada kontrol edileceğini biliyorum."
+  - "PRP uygulanmasına engel olabilecek kan hastalıkları, kanser öyküsü, kan sulandırıcı kullanımı ve hamilelik konularında doğru bilgi verdim."
+  - "Etkinin kişiden kişiye değiştiğini, birkaç seans gerektiğini ve sonucun kalıcı olmadığını anladım."

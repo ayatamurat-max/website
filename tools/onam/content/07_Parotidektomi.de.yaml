@@ -1,0 +1,128 @@
+code: "07"
+type: surgical
+aesthetic: false
+title: "Parotidektomie"
+alt_name: "Teilweise oder vollständige Entfernung der Ohrspeicheldrüse (Parotis, vor dem Ohr)"
+
+specific_fields:
+  - label: "Seite:"
+    options: ["Rechts", "Links"]
+    blank: false
+  - label: "Geplanter Umfang:"
+    options: ["Oberflächlich (superfiziell)", "Partiell / extrakapsulär", "Total", "Wird während der Operation entschieden"]
+  - label: "Neuromonitoring des Gesichtsnervs:"
+    options: ["Wird eingesetzt", "Wird nicht eingesetzt"]
+    blank: false
+  - label: "Vorläufige Diagnose (Feinnadelbiopsie / Ergebnis der Bildgebung):"
+  - label: "Im Voraus gemeinsam getroffene Entscheidung, falls der Tumor den Gesichtsnerv erfasst:"
+    options: ["Ein Nervenast darf falls nötig geopfert werden", "Den Nerv erhalten", "Sonstiges"]
+
+about:
+  - "Die Ohrspeicheldrüse (Parotis) ist die größte Speicheldrüse. Auf jeder Seite liegt eine vor und knapp unterhalb des Ohres. Der **Gesichtsnerv (Nervus facialis)**, der die Gesichtsmuskulatur bewegt, verläuft durch die Drüse und teilt sich in ihr in seine Äste auf. Die Operation an der Ohrspeicheldrüse ist daher ein feiner Eingriff, bei dem besonders sorgfältig auf den Schutz dieses Nervs geachtet wird."
+  - "Eine Parotidektomie wird am häufigsten wegen eines **Knotens (Tumors)** in der Drüse durchgeführt. Die große Mehrheit dieser Knoten (etwa 80 %) ist **gutartig (kein Krebs)**; am häufigsten sind das pleomorphe Adenom und der Warthin-Tumor. Auch gutartige Knoten können mit der Zeit wachsen, und einige (insbesondere das pleomorphe Adenom) können im Laufe vieler Jahre bösartig werden. Seltener ist eine Operation wegen wiederkehrender Entzündungen, Steinen oder eines bösartigen Tumors erforderlich."
+  - "Ziel der Operation ist es, den Knoten bzw. das erkrankte Drüsengewebe **unter Erhalt des Gesichtsnervs** vollständig zu entfernen und durch die feingewebliche (pathologische) Untersuchung die endgültige Diagnose zu stellen."
+
+procedure_intro:
+  - "Die Operation wird in Vollnarkose im Operationssaal durchgeführt. Vor der Operation wird der Knoten mit Ultraschall, MRT und/oder Feinnadelbiopsie beurteilt; diese Untersuchungen liefern wertvolle vorläufige Informationen, die endgültige Diagnose wird jedoch nach der Operation durch die Pathologie gestellt."
+procedure_steps:
+  - "**Hautschnitt:** Der Schnitt beginnt meist in der natürlichen Hautfalte vor dem Ohr, verläuft im Bogen um das Ohrläppchen herum nach unten und setzt sich in einer Hautfalte am Hals fort. In geeigneten Fällen kann der Schnitt kürzer gehalten oder am Haaransatz versteckt werden."
+  - "**Aufsuchen des Gesichtsnervs:** Die Haut und das Gewebe über der Drüse werden angehoben, und der Hauptstamm des Gesichtsnervs wird dargestellt. Falls eingesetzt, hilft ein **Neuromonitoring**-Gerät, Lage und Funktion des Nervs während der gesamten Operation zu überwachen."
+  - "**Entfernung des Knotens/der Drüse:** Der Nerv und seine Äste werden sorgfältig verfolgt, während der Knoten zusammen mit einem Saum gesunden Drüsengewebes entfernt wird. Je nach Lage und Größe des Knotens wird nur der äußere Teil der Drüse (oberflächlich), ein Teil davon oder die gesamte Drüse (total) entfernt."
+  - "**Feingewebliche Untersuchung:** Das entfernte Gewebe wird zur Pathologie geschickt. Das endgültige Ergebnis liegt in der Regel innerhalb von 1–2 Wochen vor."
+  - "**Wundverschluss:** Blutungen werden gestillt, und meist wird eine dünne **Drainage** (Schlauch) eingelegt, um sich ansammelndes Blut oder Wundflüssigkeit abzuleiten. Die Haut wird mit feinen Nähten verschlossen; gegebenenfalls wird ein leichter Druckverband angelegt."
+procedure_notes:
+  - "Wenn der Tumor den Gesichtsnerv umschließt oder in ihn hineingewachsen ist (dies kommt vor allem bei bösartigen Tumoren vor), kann es notwendig sein, einen Ast des Nervs oder den gesamten Nerv zu opfern, um den Tumor vollständig zu entfernen. Diese Möglichkeit wird vor der Operation **gesondert mit Ihnen besprochen**. Der Nerv wird nicht unerwartet durchtrennt, ohne dass dies mit Ihnen besprochen wurde; was geschehen soll, falls sich der Tumor nicht vom Nerv lösen lässt, wird vorab gemeinsam mit Ihnen festgelegt."
+anesthesia: "Vollnarkose"
+duration: "Etwa 2–4 Stunden"
+stay: "In der Regel 1–2 Nächte; Entlassung nach Entfernung der Drainage"
+
+benefits:
+  - "Entfernung des Knotens und Stellung der endgültigen Diagnose"
+  - "Verhindern, dass ein gutartiger Knoten wächst, auf den Gesichtsnerv drückt und langfristig bösartig wird"
+  - "Bei bösartigen Tumoren der erste und wichtigste Behandlungsschritt"
+  - "Beendigung von Schmerzen und Schwellungen durch wiederkehrende Entzündungen oder Steine"
+success:
+  - "Bei den meisten gutartigen Tumoren führt die Operation zur dauerhaften Heilung. Bei pleomorphen Adenomen, die mit geeigneter Technik entfernt wurden, liegt die Rückfallrate **unter 1–2 von 100 Patienten**; ein Einreißen der Tumorkapsel oder eine frühere Operation erhöht diese Rate jedoch. Ein Warthin-Tumor kann als neuer Herd in derselben oder in der gegenüberliegenden Drüse auftreten. Bei bösartigen Tumoren hängt das Ergebnis von Art und Stadium des Tumors ab, und eine weitere Behandlung kann erforderlich sein."
+
+alternatives:
+  - "**Beobachtung:** Bei manchen kleinen Knoten, die für gutartig gehalten werden (zum Beispiel ein Warthin-Tumor bei älteren Patienten oder bei hohem Operationsrisiko), kann eine regelmäßige Verlaufskontrolle mit Ultraschall/MRT besprochen werden. Der Knoten bleibt dann bestehen und kann wachsen, und eine endgültige Diagnose kann nicht gestellt werden."
+  - "**Medikamentöse Behandlung:** Bei Entzündungen oder Steinen – Antibiotika, reichlich Flüssigkeit, Massage; in geeigneten Fällen Entfernung der Steine durch eine Spiegelung des Speichelgangs (Sialendoskopie). Bei Tumoren ist eine medikamentöse Behandlung keine Option."
+  - "**Strahlentherapie:** Wird bei bösartigen Tumoren eingesetzt, die nicht operiert werden können, oder ergänzend zur Operation; bei gutartigen Tumoren ist sie nicht die bevorzugte Behandlung."
+
+no_treatment:
+  - "Ohne Operation bleibt der Knoten bestehen, und eine endgültige Diagnose kann nicht gestellt werden. Gutartige Tumoren wachsen meist langsam, können sich aber mit der Zeit vergrößern, was die Operation erschwert und das Risiko für den Gesichtsnerv erhöht; pleomorphe Adenome können im Laufe vieler Jahre bösartig werden (über die Jahre etwa 5–10 %). Ein bösartiger Tumor schreitet unbehandelt fort und kann sich auf umliegendes Gewebe und Lymphknoten ausbreiten."
+
+before:
+  - "Vor der Operation werden Blutuntersuchungen, eine Bildgebung (Ultraschall/MRT) und bei Bedarf eine Feinnadelbiopsie durchgeführt; Sie werden von der Narkoseärztin bzw. dem Narkosearzt untersucht."
+  - "In den **6–8 Stunden** vor der Operation dürfen Sie nichts essen und nichts trinken (bitte befolgen Sie die Anweisungen der Narkoseärztin bzw. des Narkosearztes)."
+  - "Bei männlichen Patienten können Bart und Haare um das Ohr im Schnittbereich am Operationstag gekürzt werden. Je nach Schnittführung können auch einige Haare hinter dem Ohr gekürzt werden."
+  - "Ihre Gesichtsbewegungen werden vor der Operation untersucht und fotografiert, um ihre Funktion vor dem Eingriff zu dokumentieren."
+
+recovery:
+  - when: "Erste 24–48 Stunden"
+    what: "Im Operationsgebiet bestehen ein Spannungsgefühl, leichte bis mäßige Schmerzen und eine Schwellung, die mit Schmerzmitteln behandelt werden. Die Drainage wird meist am 1.–2. Tag entfernt, sobald weniger Flüssigkeit abfließt. Es wird empfohlen, mit erhöhtem Kopf zu schlafen. Ihre Gesichtsbewegungen werden kontrolliert."
+  - when: "1. Woche"
+    what: "Nach der Entlassung können Sie Ihren Alltagstätigkeiten wieder nachgehen. Die Fäden werden in der Regel am **5.–7. Tag** gezogen. Ein Taubheitsgefühl am Ohrläppchen und vor dem Ohr ist deutlich spürbar. Das Ergebnis der Pathologie liegt meist in diesem Zeitraum oder kurz danach vor und wird mit Ihnen besprochen."
+  - when: "2.–6. Woche"
+    what: "Die meisten Patienten können innerhalb von 1–2 Wochen wieder einer Bürotätigkeit nachgehen. Anstrengender Sport sowie Arbeiten mit Bücken und Heben sollten etwa **2–3 Wochen** aufgeschoben werden. Falls eine vorübergehende Schwäche der Gesichtsmuskulatur besteht, beginnt sie sich meist innerhalb von Wochen zu bessern; Augenschutz und Gesichtsübungen werden empfohlen."
+  - when: "3.–12. Monat"
+    what: "Die Narbe verblasst allmählich. Das Taubheitsgefühl am Ohrläppchen bessert sich teilweise. Die meisten Patienten mit vorübergehender Nervenschwäche erholen sich innerhalb von 6–12 Monaten vollständig. Ein Schwitzen der Wange beim Essen (Frey-Syndrom) kann, falls es auftritt, in diesem Zeitraum beginnen."
+
+risks:
+  expected:
+    - "Schmerzen, Spannungsgefühl und Schwellung im Operationsgebiet"
+    - "Taubheitsgefühl am Ohrläppchen und an der Haut vor dem Ohr"
+    - "Eine Narbe an der Schnittstelle (verblasst mit der Zeit)"
+    - "Leichte Schmerzen auf der operierten Seite beim Öffnen des Mundes oder beim Kauen (erste Tage)"
+  common:
+    - name: "Vorübergehende Schwäche des Gesichtsnervs"
+      text: "Bei etwa **10–40 von 100** Patienten (abhängig davon, wie viel Gewebe entfernt wird und wo der Knoten liegt) tritt eine vorübergehende Schwäche am Mundwinkel, beim Augenschluss oder beim Anheben der Augenbraue auf. Meist ist nur ein Ast betroffen, und die Schwäche **bessert sich innerhalb von Wochen bis Monaten**. Wenn sich Ihr Auge in dieser Zeit nicht vollständig schließt, benötigen Sie Tropfen, Gel und nachts einen Augenverband (Uhrglasverband), um eine Austrocknung des Auges zu verhindern."
+    - name: "Dauerhaft vermindertes Gefühl am Ohrläppchen"
+      text: "Der Nerv, der das Ohrläppchen sensibel versorgt (Nervus auricularis magnus), wird bei den meisten Operationen in Mitleidenschaft gezogen. Das Taubheitsgefühl nimmt bei den meisten Patienten mit der Zeit ab, ein gewisses vermindertes Gefühl am Ohrläppchen und in seiner Umgebung kann jedoch **dauerhaft** bestehen bleiben. Dies beeinträchtigt den Alltag in der Regel nicht."
+    - name: "Frey-Syndrom (Schwitzen beim Essen)"
+      text: "Schwitzen und Rötung der Wange auf der operierten Seite beim Essen. Obwohl es mit Tests häufiger nachweisbar ist, wird es bei etwa **10–20 von 100** Patienten bemerkt und beginnt meist erst Monate später. Wenn es stört, kann es mit schweißhemmenden Cremes oder Injektionen von **Botulinumtoxin** behandelt werden."
+    - name: "Einsenkung im Wangenbereich"
+      text: "Je nachdem, wie viel Gewebe entfernt wird, kann eine leichte Mulde vor dem Ohr und ein Unterschied zwischen beiden Seiten entstehen. Ist dies deutlich sichtbar, kann es mit Eigenfett oder Filler ausgeglichen werden."
+  uncommon:
+    - name: "Flüssigkeitsansammlung (Serom) oder Speichelansammlung (Sialozele) / Speichelfistel"
+      text: "Bei etwa **5–10 von 100** Patienten kann sich im Operationsgebiet Flüssigkeit oder Speichel ansammeln; selten tritt sie durch die Haut nach außen (Fistel). Dies klingt meist innerhalb weniger Wochen durch Punktion mit einer Nadel, einen Druckverband und bei Bedarf Botulinumtoxin ab."
+    - name: "Nachblutung und Bluterguss (Hämatom)"
+      text: "Bei etwa **1–3 von 100** Patienten kann sich Blut unter der Haut ansammeln. Ist die Ansammlung groß, muss sie unter Umständen im Operationssaal ausgeräumt und die Blutung gestillt werden."
+    - name: "Wundinfektion"
+      text: "Tritt bei **1–3 von 100** Patienten auf; sie heilt meist mit Antibiotika ab, selten ist eine Eiterentleerung (Drainage) erforderlich."
+    - name: "First-Bite-Syndrom (Schmerz beim ersten Bissen)"
+      text: "Insbesondere nach Operationen am tiefen Drüsenanteil ein scharfer, einige Sekunden anhaltender Schmerz am Kieferwinkel bei den ersten Bissen einer Mahlzeit. Er lässt meist mit der Zeit nach."
+    - name: "Wiederauftreten des Knotens"
+      text: "Auch wenn dies bei gutartigen Tumoren selten ist, kann der Knoten im selben Bereich erneut auftreten, oder beim Warthin-Tumor kann sich ein neuer Herd bilden; dies kann eine erneute Operation erforderlich machen. Bei Wiederholungsoperationen ist das Risiko für den Gesichtsnerv höher."
+    - name: "Verdickte Narbe oder Keloid"
+      text: "Je nach individueller Veranlagung kann sich die Narbe verdicken; Kortisoninjektionen oder andere Narbenbehandlungen können eingesetzt werden."
+  rare:
+    - name: "Dauerhafte Lähmung des Gesichtsnervs"
+      text: "Bei gutartigen Tumoren kann bei der Erstoperation bei etwa **1–3 von 100** Patienten eine dauerhafte Schwäche eines Astes des Gesichtsnervs oder selten des gesamten Nervs zurückbleiben. Dies kann zu einem herabhängenden Mundwinkel, unvollständigem Augenschluss, einem asymmetrischen Lächeln und trockenem Auge führen; wird das Auge nicht geschützt, können eine Schädigung der durchsichtigen vorderen Augenoberfläche (Hornhaut) und ein Sehverlust auftreten. Das Risiko ist bei bösartigen Tumoren, Wiederholungsoperationen und am Nerv anhaftenden Knoten höher. Entwickelt sich eine dauerhafte Lähmung, können weitere Behandlungen wie augenschützende Medikamente, ein Lidgewicht, eine Nervenrekonstruktion oder Operationen zur Wiederherstellung der Gesichtsbeweglichkeit (Facialis-Reanimation) erforderlich sein."
+    - name: "Endgültiger feingeweblicher Befund weicht von der vorläufigen Diagnose ab"
+      text: "Auch wenn die Voruntersuchungen auf einen gutartigen Knoten hindeuten, kann der endgültige feingewebliche Befund einen **bösartigen** Tumor zeigen. In diesem Fall können eine weitere Operation (Entfernung der restlichen Drüse oder der Halslymphknoten), eine Strahlentherapie oder andere Behandlungen erforderlich sein."
+    - name: "Großer Bluterguss am Hals mit Beeinträchtigung der Atemwege"
+      text: "Sehr selten kann eine sich rasch vergrößernde Blutansammlung auf den Hals drücken und Schluck- oder Atembeschwerden verursachen. Dies ist ein Notfall: Sie muss sofort im Operationssaal ausgeräumt werden, und selten muss der Atemweg gesichert werden (Intubation oder Luftröhrenschnitt/Tracheotomie)."
+    - name: "Durchblutungsstörungen der Haut"
+      text: "Aufgehen des Wundrandes, insbesondere unterhalb des Ohrläppchens, infolge einer verminderten Hautdurchblutung; häufiger bei Raucherinnen und Rauchern."
+    - name: "Veränderung der Form des Ohrläppchens oder Gefühlsstörung der Ohrmuschel"
+      text: "Selten; bedingt durch den Hautschnitt oder eine Beeinträchtigung des Nervs."
+
+emergency:
+  - "**Rasch zunehmende Schwellung an Hals oder Wange**, insbesondere mit Schluck- oder Atembeschwerden (Notfall – rufen Sie die 112 an)"
+  - "**Nicht aufhörende Blutung** aus der Drainage oder der Wunde"
+  - "**Fieber über 38,5 °C**, zunehmende Rötung, Schmerzen, Überwärmung oder Eiter aus der Wunde"
+  - "**Neue oder zunehmende Schwäche** der Gesichtsbewegungen"
+  - "Wenn Sie Ihr Auge nicht vollständig schließen können: **Rötung, Fremdkörpergefühl, Schmerzen oder verschwommenes Sehen** am Auge"
+  - "**Austreten klarer Flüssigkeit** aus der Wunde oder eine weiche Schwellung vor dem Ohr, die immer größer wird"
+
+lifestyle:
+  - "Halten Sie die Wunde in den ersten 48 Stunden trocken; danach dürfen Sie nach Anweisung kurz lauwarm duschen."
+  - "In den ersten Wochen kann es das Risiko einer Flüssigkeitsansammlung verringern, sehr saure Speisen und Speisen, die den Speichelfluss stark anregen, zu meiden."
+  - "Wenn eine Schwäche des Gesichtsnervs besteht, verwenden Sie tagsüber künstliche Tränen und nachts Augengel und einen Augenverband; schützen Sie Ihr Auge vor Wind und Staub."
+  - "Schützen Sie die Narbe mindestens 6 Monate lang vor der Sonne (Sonnenschutzmittel mit hohem Lichtschutzfaktor)."
+  - "Besprechen Sie das Ergebnis der Pathologie und den weiteren Nachsorgeplan unbedingt mit Ihrer Ärztin bzw. Ihrem Arzt; auch bei gutartigen Tumoren werden regelmäßige Kontrollen empfohlen."
+
+declarations_extra:
+  - "Ich habe verstanden, dass die Beziehung zwischen dem Gesichtsnerv und dem Knoten erst während der Operation sicher beurteilt werden kann, dass die endgültige Diagnose nach der Operation durch die Pathologie gestellt wird und dass je nach Ergebnis eine weitere Behandlung erforderlich sein kann."
+  - "Vor der Operation wurde mit mir besprochen, was mit dem Nerv geschehen soll, falls der Tumor in den Gesichtsnerv hineingewachsen ist, und meine Entscheidung wurde im Abschnitt mit den Patientenangaben festgehalten."

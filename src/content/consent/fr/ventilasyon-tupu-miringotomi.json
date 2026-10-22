@@ -1,0 +1,155 @@
+{
+ "code": "06",
+ "type": "surgical",
+ "aesthetic": false,
+ "title": "Pose d'aérateurs transtympaniques / Myringotomie",
+ "alt_name": "Pose de petits tubes (yoyos) dans le tympan / ouverture du tympan pour évacuer le liquide (paracentèse)",
+ "about": [
+  "L'oreille moyenne est une petite cavité située derrière le tympan, normalement remplie d'air. Elle est ventilée par la **trompe d'Eustache**, qui s'ouvre à l'arrière du nez. Lorsque la trompe d'Eustache fonctionne mal (en particulier chez l'enfant, en raison de végétations hypertrophiées, d'une allergie ou de rhumes fréquents), du **liquide s'accumule** dans l'oreille moyenne (« otite séromuqueuse »).",
+  "Ce liquide peut entraîner une **baisse de l'audition** et, chez l'enfant, un **retard du développement de la parole et du langage**, des troubles de l'attention, des troubles de l'équilibre et des **otites à répétition**. Si le liquide persiste longtemps, le tympan peut s'amincir, se rétracter et subir des modifications définitives. Des problèmes similaires peuvent survenir chez l'adulte, par exemple après des vols en avion ou de la plongée, ou en raison d'affections situées à l'arrière du nez.",
+  "Le but de cette intervention est de pratiquer une petite ouverture dans le tympan pour évacuer le liquide et, grâce à un petit tube placé dans cette ouverture, de maintenir la ventilation de l'oreille moyenne — **afin d'améliorer l'audition et de réduire la fréquence des infections.**"
+ ],
+ "procedure_intro": [
+  "Chez l'enfant, l'intervention est généralement réalisée sous une courte anesthésie générale ; chez l'adulte, elle se fait le plus souvent sous anesthésie locale. Elle est réalisée par le conduit auditif, sous microscope ; **il n'y a aucune incision ni cicatrice à l'extérieur.**"
+ ],
+ "procedure_steps": [
+  "**Nettoyage du conduit auditif :** Sous microscope, le cérumen éventuellement présent dans le conduit auditif est retiré et le tympan est examiné.",
+  "**Myringotomie :** Une petite incision d'environ 1–2 mm est pratiquée dans une zone du tympan où elle n'affectera pas l'audition.",
+  "**Évacuation du liquide :** Le liquide de l'oreille moyenne (qui peut être clair, épais et collant, ou infecté) est retiré par une fine aspiration. Si nécessaire, un prélèvement peut être réalisé pour une mise en culture.",
+  "**Mise en place de l'aérateur :** Un minuscule tube en forme de bobine, de quelques millimètres, est placé dans l'ouverture. Ce tube prend temporairement le relais de la trompe d'Eustache et maintient la ventilation de l'oreille moyenne.",
+  "**Fin de l'intervention :** Des gouttes auriculaires sont appliquées si nécessaire. En général, aucune mèche n'est placée dans l'oreille, ou seulement un petit morceau de coton."
+ ],
+ "procedure_notes": [
+  "Les **aérateurs de courte durée** sont généralement expulsés naturellement en **6–18 mois**, à mesure que le tympan cicatrise, et tombent dans le conduit auditif ; cela passe souvent inaperçu. Les **aérateurs de longue durée** restent en place plus longtemps et doivent parfois être retirés lors d'une intervention distincte.",
+  "Lorsqu'une myringotomie seule est réalisée (sans aérateur), l'ouverture du tympan se referme en quelques jours et le liquide peut s'accumuler à nouveau."
+ ],
+ "anesthesia": "Anesthésie générale chez l'enfant ; généralement anesthésie locale chez l'adulte",
+ "duration": "Environ 10–20 minutes pour les deux oreilles",
+ "stay": "Généralement retour à domicile le jour même",
+ "benefits": [
+  "L'audition s'améliore généralement immédiatement ou en peu de temps",
+  "Chez l'enfant, un effet positif sur la parole, le développement du langage, l'attention et les résultats scolaires",
+  "Des otites moins fréquentes et moins sévères ; lorsqu'une infection survient, elle peut généralement être traitée par des gouttes auriculaires plutôt que par des antibiotiques par voie orale",
+  "Un risque plus faible de lésions définitives du tympan ; la disparition de la sensation de pression et d'oreille bouchée"
+ ],
+ "success": [
+  "Tant que l'aérateur est en place et perméable, l'audition s'améliore et les otites deviennent moins fréquentes chez la grande majorité des patients. Si la trompe d'Eustache a suffisamment mûri au moment où l'aérateur tombe, le liquide ne revient généralement pas. Cependant, chez certains enfants (environ **20–30 sur 100**), le liquide s'accumule à nouveau et la **pose de nouveaux aérateurs** peut être nécessaire."
+ ],
+ "alternatives": [
+  "**Surveillance :** Le liquide de l'oreille moyenne disparaît de lui-même en 3 mois chez de nombreux enfants. Si la baisse d'audition est légère et qu'il n'existe pas de facteur de risque, une surveillance avec des tests auditifs réguliers est possible.",
+  "**Auto-insufflation :** En particulier chez les enfants plus âgés, gonfler un ballon spécial avec le nez peut aider à ouvrir la trompe d'Eustache.",
+  "**Appareils auditifs :** Pour les patients qui ne souhaitent pas d'opération ou pour qui elle n'est pas adaptée, ils peuvent constituer une solution temporaire tant que le liquide persiste.",
+  "**Médicaments :** Une allergie ou une maladie du nez et des sinus est traitée si elle est présente ; cependant, les preuves que les antibiotiques, les corticoïdes ou les sprays nasaux font disparaître durablement le liquide de l'oreille moyenne sont limitées.",
+  "**Adénoïdectomie :** Chez certains enfants, elle peut être recommandée en même temps que la pose d'aérateurs ou lorsque de nouveaux aérateurs sont nécessaires."
+ ],
+ "no_treatment": [
+  "Sans intervention, le liquide peut disparaître de lui-même chez certains patients ; s'il persiste, cependant, la baisse de l'audition, le retard de développement de la parole et du langage chez l'enfant, les troubles de l'attention et les difficultés scolaires, les troubles de l'équilibre et les otites à répétition peuvent se poursuivre. Un liquide qui persiste longtemps peut entraîner une rétraction du tympan, des modifications définitives du tympan, des lésions des osselets de l'audition et, rarement, des maladies de l'oreille plus graves nécessitant une opération, comme un **cholestéatome**."
+ ],
+ "before": [
+  "Un test auditif (audiométrie) et un test de pression de l'oreille moyenne (tympanométrie) sont réalisés avant l'intervention.",
+  "Si une anesthésie générale est prévue, vous serez examiné(e) par le médecin anesthésiste ; aucun aliment solide ni lait ne doit être donné pendant les **6 heures** précédant l'opération, et pour les liquides clairs, respectez le délai indiqué par le médecin anesthésiste.",
+  "Merci de nous signaler toute fièvre, toux ou grippe dans les 2 semaines précédant l'intervention ; elle peut être reportée.",
+  "En cas d'écoulement de l'oreille ou d'infection active, un traitement peut être nécessaire avant l'intervention."
+ ],
+ "recovery": [
+  {
+   "when": "Jour de l'intervention",
+   "what": "La plupart des patients rentrent chez eux en quelques heures. Une légère douleur d'oreille ou une sensation d'oreille pleine peut survenir ; elle cède avec des antalgiques simples. Un écoulement légèrement teinté de sang ou aqueux peut s'écouler de l'oreille pendant quelques jours. La plupart des patients **entendent immédiatement les sons plus forts** ; cela peut sembler désagréable au début."
+  },
+  {
+   "when": "1re semaine",
+   "what": "Des gouttes auriculaires sont utilisées si votre médecin les a recommandées. Les enfants peuvent retourner à l'école ou à la crèche, et les adultes au travail, en 1–2 jours. Veillez à éviter que de l'eau ne pénètre dans les oreilles."
+  },
+  {
+   "when": "4e–8e semaine",
+   "what": "Le premier examen de contrôle est réalisé ; nous vérifions que l'aérateur est en place et perméable, et le test auditif est répété."
+  },
+  {
+   "when": "Tant que l'aérateur est en place (6–18 mois)",
+   "what": "Des contrôles environ **tous les 3–6 mois** sont recommandés. Une otite se manifeste par un écoulement et est généralement traitée par des gouttes auriculaires. Les voyages en avion sont généralement plus confortables tant qu'un aérateur est en place."
+  },
+  {
+   "when": "Après la chute de l'aérateur",
+   "what": "Le tympan est examiné pour vérifier que l'orifice s'est refermé et qu'il n'y a pas de liquide dans l'oreille moyenne ; un test auditif est réalisé."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Légère douleur d'oreille et sensation d'oreille pleine (1–2 jours)",
+   "Écoulement de l'oreille légèrement teinté de sang ou aqueux pendant quelques jours",
+   "Sons paraissant temporairement très forts ou résonnants",
+   "Nausées ou agitation temporaires après une anesthésie générale"
+  ],
+  "common": [
+   {
+    "name": "Écoulement de l'oreille (otorrhée)",
+    "text": "Environ **10–25 patients sur 100** porteurs d'aérateurs présentent au moins un épisode d'écoulement de l'oreille, généralement après un rhume ou une entrée d'eau dans l'oreille. Il disparaît le plus souvent en quelques jours avec des gouttes auriculaires antibiotiques. Rarement, l'écoulement peut être persistant et nécessiter un traitement par voie orale, un nettoyage de l'oreille ou le retrait de l'aérateur."
+   },
+   {
+    "name": "Plaques blanches sur le tympan (tympanosclérose)",
+    "text": "Des plaques blanches d'aspect crayeux sur le tympan sont fréquentes (environ **10–30+ oreilles sur 100**). Dans la plupart des cas, elles n'affectent pas l'audition."
+   },
+   {
+    "name": "Expulsion précoce ou obstruction de l'aérateur",
+    "text": "L'aérateur peut tomber plus tôt que prévu ou se boucher avec du sang séché ou des sécrétions. On tente alors de le déboucher avec des gouttes ; si nécessaire, l'aérateur est remplacé."
+   },
+   {
+    "name": "Nécessité de nouveaux aérateurs",
+    "text": "Si le liquide s'accumule à nouveau après la chute de l'aérateur, environ **20–30 enfants sur 100** peuvent avoir besoin d'une deuxième pose d'aérateurs (parfois associée à une ablation des végétations adénoïdes)."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Trou définitif dans le tympan (perforation)",
+    "text": "Après la chute de l'aérateur, l'orifice du tympan peut ne pas se refermer : chez environ **1–3 patients sur 100** avec des aérateurs de courte durée, et plus souvent avec des aérateurs de longue durée (environ **10–20 sur 100**). Les petites perforations ne posent souvent aucun problème ; si elles entraînent des écoulements à répétition ou une baisse de l'audition, une **fermeture par une opération distincte (tympanoplastie/myringoplastie)** peut être nécessaire."
+   },
+   {
+    "name": "Amincissement ou rétraction du tympan",
+    "text": "Le tympan peut s'amincir ou se rétracter vers l'intérieur à l'endroit où se trouvait l'aérateur ; un suivi peut être nécessaire."
+   },
+   {
+    "name": "Aérateur qui ne tombe pas",
+    "text": "Si l'aérateur ne tombe pas dans le délai prévu (généralement s'il reste en place plus de 2–3 ans), il peut être nécessaire de le retirer lors d'une courte intervention ; chez l'enfant, celle-ci est généralement réalisée sous anesthésie générale."
+   },
+   {
+    "name": "Prolifération de tissu dans le conduit auditif (granulome inflammatoire)",
+    "text": "Un tissu rouge et inflammatoire peut se former autour de l'aérateur ; il peut provoquer un écoulement teinté de sang et est traité par des gouttes ou par un petit geste."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Passage de l'aérateur dans l'oreille moyenne",
+    "text": "Très rarement, au lieu de tomber vers l'extérieur, l'aérateur peut glisser derrière le tympan, dans l'oreille moyenne ; une intervention distincte peut être nécessaire pour le retirer."
+   },
+   {
+    "name": "Cholestéatome",
+    "text": "Affection ressemblant à un kyste, due à la croissance de la couche cutanée du tympan vers l'oreille moyenne. Elle est **très rarement** associée à la pose d'aérateurs. Si elle se développe, un traitement chirurgical est nécessaire."
+   },
+   {
+    "name": "Perte d'audition, bourdonnements d'oreille (acouphènes) ou vertiges",
+    "text": "Une perte d'audition, des acouphènes ou des vertiges définitifs dus à une atteinte de l'oreille interne ou des osselets sont **extrêmement rares**."
+   },
+   {
+    "name": "Blessure du conduit auditif et saignement",
+    "text": "De petites blessures peuvent survenir dans les conduits auditifs étroits ; très rarement, des lésions graves liées à des variations anatomiques du nerf facial, de l'oreille interne ou de gros vaisseaux sanguins ont été rapportées."
+   }
+  ]
+ },
+ "emergency": [
+  "Écoulement de l'oreille abondant ou malodorant persistant **plus de 3–5 jours** malgré les gouttes",
+  "**Fièvre supérieure à 38,5 °C**, douleur d'oreille intense",
+  "Rougeur ou gonflement derrière l'oreille, ou pavillon de l'oreille repoussé vers l'avant",
+  "**Perte d'audition soudaine**, vertiges intenses, troubles de l'équilibre ou vomissements",
+  "Asymétrie du visage, affaissement du coin de la bouche ou impossibilité de fermer l'œil",
+  "Saignement abondant de l'oreille"
+ ],
+ "lifestyle": [
+  "Tant que l'aérateur est en place, **évitez que de l'eau sale (lacs, mer, piscines, eau du bain) ne pénètre dans l'oreille.** Un coton enduit de vaseline ou des bouchons d'oreille peuvent être utilisés sous la douche et dans le bain. Suivez les conseils de votre médecin concernant la natation ; la nage en surface avec des bouchons d'oreille et/ou un bonnet de bain est généralement autorisée, mais la plongée est déconseillée.",
+  "Ne nettoyez pas l'intérieur du conduit auditif avec des cotons-tiges.",
+  "En cas d'écoulement de l'oreille, essuyez-le délicatement de l'extérieur, utilisez les gouttes qui vous ont été recommandées et prévenez votre médecin. N'utilisez pas d'autres gouttes auriculaires de vous-même ; certaines gouttes ne conviennent pas à l'oreille moyenne.",
+  "Continuez à vous présenter aux rendez-vous de suivi même après la chute de l'aérateur ; il est important de surveiller l'audition et l'état du tympan."
+ ],
+ "declarations_extra": [
+  "Je comprends que l'aérateur tombera de lui-même au bout d'un certain temps, que de nouveaux aérateurs peuvent être nécessaires si le liquide s'accumule à nouveau, et que si un trou définitif persiste dans le tympan, une opération distincte peut être nécessaire pour le refermer."
+ ]
+}

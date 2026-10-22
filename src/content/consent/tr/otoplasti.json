@@ -1,0 +1,144 @@
+{
+ "code": "03",
+ "type": "surgical",
+ "aesthetic": true,
+ "title": "Otoplasti",
+ "alt_name": "Kepçe kulak düzeltme ameliyatı",
+ "about": [
+  "Kepçe kulak, kulak kepçesinin başa göre normalden daha dik açıyla öne doğru durması veya kulak kıkırdağındaki doğal kıvrımın (antiheliks) gelişmemiş olmasıdır. Genellikle doğuştandır, sağlığa zararı yoktur ve işitmeyi etkilemez. Ancak özellikle çocukluk ve ergenlik döneminde alay edilme, özgüven kaybı ve sosyal kaygıya neden olabilir.",
+  "Otoplastinin amacı kulakların başa daha yakın, **doğal görünümlü** ve iki taraf arasında olabildiğince **dengeli** hâle gelmesini sağlamaktır. Kulak kepçesi 5–6 yaş civarında erişkin boyutunun büyük kısmına ulaştığı için ameliyat **5–6 yaşından itibaren** yapılabilir; okul çağından önce yapılması çocuğun sosyal açıdan etkilenmesini önleyebilir. Çocuğunuz ameliyat edilecekse, onun da isteğinin ve hazır olup olmadığının dikkate alınması önemlidir."
+ ],
+ "procedure_intro": [
+  "Ameliyat ameliyathane koşullarında yapılır. Çocuklarda genellikle genel anestezi, erişkinlerde lokal anestezi (gerekirse sedasyonla birlikte) veya genel anestezi tercih edilir."
+ ],
+ "procedure_steps": [
+  "**Planlama ve işaretleme:** Kulakların başa olan uzaklıkları ölçülür, fotoğraflanır ve yeni kıvrımın yeri işaretlenir.",
+  "**Kesi:** Kulağın **arka yüzünde**, kulak ile baş arasındaki doğal kıvrıma yakın yerde, cilt içinde bir kesi yapılır. Bu iz kulak arkasında kaldığı için dışarıdan genellikle görünmez.",
+  "**Kıkırdağın şekillendirilmesi:** Kulak kıkırdağına kalıcı dikişlerle yeni bir kıvrım (antiheliks) oluşturulur. Gerekirse kıkırdak inceltilir veya hafifçe çizilerek yumuşatılır.",
+  "**Kulağın başa yaklaştırılması:** Kulak kepçesinin derin çanak kısmı (konka) büyükse küçültülür veya dikişlerle kafatası arkasındaki dokuya sabitlenir. Kulak memesi de öne doğru duruyorsa düzeltilir.",
+  "**Kapatma ve sargı:** Cilt dikişlerle kapatılır. Kulakların yeni şeklini koruması ve kan toplanmasını önlemek için başa yumuşak, hafif baskılı bir sargı uygulanır."
+ ],
+ "anesthesia": "Çocuklarda genel anestezi; erişkinlerde lokal anestezi ± sedasyon veya genel anestezi",
+ "duration": "Yaklaşık 1–2 saat (iki taraf)",
+ "stay": "Genellikle aynı gün taburculuk",
+ "benefits": [
+  "Kulakların başa daha yakın ve doğal görünmesi",
+  "İki kulak arasında daha dengeli bir görünüm",
+  "Görünüme bağlı sosyal kaygının ve alay edilmenin azalması, özgüvene katkı"
+ ],
+ "success": [
+  "Hastaların ve ailelerin büyük çoğunluğu sonuçtan memnun kalır. Kulak kıkırdağı esnek bir doku olduğu için, yayınlarda hastaların yaklaşık **100'de 5–10'unda** kulağın kısmen tekrar öne doğru açılabildiği ve düzeltme ameliyatı gerekebildiği bildirilmektedir. İki kulak arasında birkaç milimetrelik farklar normal kabul edilir."
+ ],
+ "alternatives": [
+  "**Ameliyat olmamak:** Kepçe kulak sağlık sorunu yaratmadığı için ameliyat zorunlu değildir.",
+  "**Yenidoğan döneminde kalıplama (splint):** Kulak kıkırdağı doğumdan sonraki ilk birkaç hafta çok yumuşak olduğundan özel kalıplarla şekillendirilebilir; bu dönem geçtikten sonra etkili değildir.",
+  "**Saç modeliyle kamuflaj:** Kulakları örten saç modelleri görünümü gizleyebilir.",
+  "**Kesisiz / iplikle düzeltme teknikleri:** Seçilmiş, yumuşak kıkırdaklı hastalarda küçük kesilerle yapılabilir; tekrarlama oranı klasik ameliyata göre daha yüksek olabilir."
+ ],
+ "no_treatment": [
+  "Ameliyat yapılmazsa kulakların şekli değişmeden kalır; zamanla kendiliğinden düzelmez. Kepçe kulak sağlık açısından bir tehlike oluşturmaz; ameliyat kararı tamamen görünüme ve kişinin (çocuklarda çocuğun ve ailenin) isteğine bağlıdır."
+ ],
+ "before": [
+  "Ameliyattan önce gerekli kan tahlilleri yapılır; genel anestezi uygulanacaksa anestezi uzmanı tarafından değerlendirilirsiniz/çocuğunuz değerlendirilir.",
+  "Genel anestezi veya sedasyon uygulanacaksa ameliyattan önceki **6–8 saat** (küçük çocuklarda anestezi uzmanının belirttiği süre) boyunca bir şey yenmemeli ve içilmemelidir.",
+  "Ameliyat sabahı saç şampuanla yıkanmalıdır. Uzun saçlar ameliyat bölgesinden uzak tutulacak şekilde toplanabilir.",
+  "Kulak çevresinde aktif cilt enfeksiyonu, egzama veya piercing yarası varsa ameliyat ertelenebilir."
+ ],
+ "recovery": [
+  {
+   "when": "İlk 48 saat",
+   "what": "Kulaklarda zonklama, gerginlik ve orta düzeyde ağrı olabilir; ağrı kesicilerle kontrol edilir. Başınız yüksekte yatmanız önerilir. **Tek taraflı, giderek artan şiddetli ağrı normal değildir** ve hemen bildirilmelidir."
+  },
+  {
+   "when": "2–7. gün",
+   "what": "Sargı genellikle **2–5. günler** arasında kontrolde açılır, kulaklar kontrol edilir. Bu dönemde kulaklarda şişlik, morarma ve hassasiyet olabilir. Sargı çıktıktan sonra yumuşak bir **saç bandı (kulak bandı)** takılmaya başlanır. Çocuklar genellikle 1 hafta sonra okula dönebilir."
+  },
+  {
+   "when": "1–2. haftalar",
+   "what": "Kulak bandı ilk **1–2 hafta gece ve gündüz**, sonrasında **4–6 hafta yalnızca geceleri** takılır. Bu, uykuda kulağın katlanmasını ve dikişlerin zorlanmasını önler. Eriyen olmayan cilt dikişleri varsa 7–10. günde alınır."
+  },
+  {
+   "when": "3–6. haftalar",
+   "what": "Şişlik büyük ölçüde geçer. Temas sporları, yüzme ve kulağa baskı yapabilecek kask kullanımı en az **4–6 hafta** ertelenmelidir."
+  },
+  {
+   "when": "3–6. aylar",
+   "what": "Kulak kıvrımları yerine oturur, iz soluklaşır ve nihai görünüm ortaya çıkar. Kulaklardaki hafif uyuşukluk bu dönemde genellikle düzelir."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "İlk günlerde ağrı, zonklama ve gerginlik hissi",
+   "Kulaklarda şişlik ve morarma (1–2 hafta)",
+   "Kulak derisinde geçici uyuşukluk ve soğuğa karşı hassasiyet (haftalar–aylar)",
+   "Kulak arkasında, zamanla soluklaşan ince iz"
+  ],
+  "common": [
+   {
+    "name": "Dikişlerin hissedilmesi veya ciltten çıkması",
+    "text": "Kıkırdağı şekillendiren kalıcı dikişler, yaklaşık 100 hastadan **5–10'unda** aylar veya yıllar sonra kulak arkasından hissedilebilir, ciltten dışarı çıkabilir veya küçük bir iltihaplı kabarıklık (granülom) oluşturabilir. Genellikle basit bir işlemle dikiş alınarak düzeltilir."
+   },
+   {
+    "name": "Kısmi tekrarlama (kulağın yeniden açılması)",
+    "text": "Yaklaşık 100 hastadan **5–10'unda** kulak kısmen eski konumuna doğru açılabilir; gerekirse düzeltme ameliyatı yapılabilir."
+   },
+   {
+    "name": "Hafif asimetri",
+    "text": "İki kulak hiçbir zaman tamamen aynı değildir; ameliyat sonrası birkaç milimetrelik farklar normaldir. Belirgin fark varsa düzeltme yapılabilir."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Kulakta kan toplanması (hematom)",
+    "text": "Yaklaşık 100 hastadan **1–3'ünde**, çoğu zaman ilk 48 saat içinde görülür. **Tek tarafta giderek artan şiddetli ağrı** en önemli belirtisidir. Kıkırdağın beslenmesini bozmadan önce **acilen boşaltılması** gerekir; geç kalınırsa kıkırdak hasarı ve kalıcı şekil bozukluğu (“karnabahar kulak”) gelişebilir."
+   },
+   {
+    "name": "Yara enfeksiyonu",
+    "text": "Yaklaşık 100 hastadan **1–5'inde** görülür; genellikle antibiyotikle düzelir."
+   },
+   {
+    "name": "Kalın iz veya keloid",
+    "text": "Yaklaşık 100 hastadan **1–3'ünde**, özellikle koyu tenlilerde ve keloid eğilimi olanlarda kulak arkasında kalın, kabarık iz gelişebilir. Kortizonlu iğne, silikon jel veya cerrahi ile tedavi gerekebilir ve tekrarlayabilir. Daha önce keloid geliştiyse lütfen bildiriniz."
+   },
+   {
+    "name": "Aşırı düzeltme veya doğal olmayan görünüm",
+    "text": "Kulağın başa fazla yapışık görünmesi, kıvrımın keskin olması veya kulağın orta kısmının üst ve alt kısmına göre fazla geride kalması (“telefon kulağı” görünümü) gibi durumlar olabilir; gerekirse düzeltme ameliyatı yapılır."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Kıkırdak zarı iltihabı (perikondrit)",
+    "text": "100 hastada **1'den az** görülür. Kulakta artan kızarıklık, şişlik, sıcaklık ve şiddetli ağrıyla belirti verir. Damar yoluyla antibiyotik tedavisi ve gerekirse cerrahi temizlik gerektirebilir; tedavi gecikirse kıkırdak kaybı ve **kalıcı şekil bozukluğu** gelişebilir."
+   },
+   {
+    "name": "Cilt veya kıkırdakta beslenme bozukluğu (nekroz)",
+    "text": "Çok nadirdir; çoğunlukla fazla sıkı sargı, tedavi edilmemiş hematom veya enfeksiyonla ilişkilidir. Yara bakımı ve bazen onarım ameliyatı gerekebilir."
+   },
+   {
+    "name": "Kalıcı his azalması veya kronik ağrı",
+    "text": "Kulak derisinde uyuşukluk veya soğukta ağrı nadiren kalıcı olabilir."
+   },
+   {
+    "name": "Dış kulak yolunda daralma",
+    "text": "Konka küçültme veya sabitleme sonrası çok nadiren kulak yolu girişi daralabilir; düzeltme gerekebilir."
+   }
+  ]
+ },
+ "emergency": [
+  "**Tek taraflı, giderek artan şiddetli kulak ağrısı** (özellikle ilk 48 saatte) — kan toplanmasının belirtisi olabilir",
+  "Sargının içinden kan sızmasının artması veya sargının kanla ıslanması",
+  "**38,5 °C üzerinde ateş**, kulakta artan kızarıklık, şişlik, sıcaklık veya kötü kokulu akıntı",
+  "Sargının çok sıkı gelmesi, kulakta morarma veya renk değişikliği",
+  "Kulağa darbe alınması veya kulağın şeklinde ani değişiklik"
+ ],
+ "lifestyle": [
+  "Sargı çıkana kadar sargıyı ıslatmayınız ve kendiniz açmayınız. Sargı açıldıktan sonra hekiminizin önerdiği günden itibaren nazikçe duş alınabilir.",
+  "Kulak bandını size söylenen süre boyunca düzenli takınız; bu, sonucun kalıcılığı için önemlidir.",
+  "İlk haftalarda kulakların üzerine yatmaktan, kulağı öne doğru katlamaktan ve dar yakalı kıyafetleri kulakları zorlayarak giyip çıkarmaktan kaçınınız.",
+  "Kulakları en az 3 ay güneşten ve aşırı soğuktan koruyunuz; his azlığı nedeniyle yanık veya donma fark edilmeyebilir.",
+  "Çocuğunuzun sargıyı veya bandı çekmemesi için gerekli gözetimi sağlayınız."
+ ],
+ "declarations_extra": [
+  "Ameliyattan sonra kulak bandının önerilen süre boyunca takılmasının sonucun bir parçası olduğunu ve bu talimatlara uyulmamasının tekrarlama riskini artırabileceğini anladım."
+ ]
+}

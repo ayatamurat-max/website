@@ -1,0 +1,125 @@
+code: "02"
+type: surgical
+aesthetic: false
+title: "Septoplasti"
+alt_name: "Burun orta bölmesi (septum) eğriliğinin düzeltilmesi ameliyatı"
+
+specific_fields:
+  - label: "Birlikte yapılacak işlemler:"
+    options: ["Konka küçültme (radyofrekans / submukozal)", "Endoskopik sinüs cerrahisi — FESS (ayrı onam formuyla)", "Yok"]
+  - label: "Burun içi atel / tampon:"
+    options: ["Silikon atel", "Tampon", "Gerek görülmüyor", "Ameliyatta karar verilecek"]
+  - label: "Hastanın şikâyeti (tıkanıklık tarafı, horlama, baş ağrısı vb.):"
+
+about:
+  - "Burun boşluğunu sağ ve sol olarak ikiye ayıran, kıkırdak ve ince kemikten oluşan duvara **septum** denir. Septumun bir tarafa veya her iki tarafa eğri olmasına **septum deviasyonu** denir. Bu durum doğuştan, büyüme sırasında veya burna alınan bir darbe sonrası oluşabilir."
+  - "Eğri septum burun tıkanıklığına, ağızdan nefes almaya, horlamaya, uyku kalitesinde bozulmaya, ağız kuruluğuna, burun kanamalarına ve bazı kişilerde sinüzit ataklarına veya baş ağrısına yol açabilir. Yapısal bir sorun olduğu için ilaçlarla düzelmez. Septoplastinin amacı, eğri bölümleri düzelterek **burundan rahat nefes almanızı** sağlamaktır. Bu ameliyat burnun dış görünümünü değiştirmeyi amaçlamaz."
+
+procedure_intro:
+  - "Ameliyat genellikle genel anestezi altında, ameliyathanede, tamamen burun deliklerinin içinden yapılır. Yüzde dışarıdan görünen bir kesi veya iz olmaz."
+procedure_steps:
+  - "**Kesi:** Burun deliğinin içinde, septumu örten mukoza (burun içi zarı) üzerinde küçük bir kesi yapılır."
+  - "**Mukozanın kaldırılması:** Septumu iki taraftan örten zar, kıkırdak ve kemikten nazikçe ayrılır."
+  - "**Eğriliğin düzeltilmesi:** Eğri olan kıkırdak ve kemik parçaları çıkarılır, düzeltilir veya yeniden yerine konur. Burnun dış şeklini taşıyan destek bölümleri (burun sırtı ve ucunu tutan kıkırdak çerçeve) korunur."
+  - "**Konkaların küçültülmesi (gerekirse):** Burun yan duvarındaki konka adı verilen yapılar büyükse, radyofrekans veya zarın altından doku azaltılması yöntemiyle küçültülür."
+  - "**Kapatma:** Mukoza kendi yerine yatırılır, eriyen dikişlerle tutturulur."
+  - "**Atel/tampon:** Septumun düz iyileşmesi ve kanamanın önlenmesi için burun içine genellikle ortası boş, nefes almaya izin veren yumuşak silikon ateller veya tamponlar yerleştirilir."
+procedure_notes:
+  - "Septumun ön ve dış kısmı da eğri ise veya burnun dış şekli de tıkanıklığa katkıda bulunuyorsa, ayrı olarak konuşulup onaylanması koşuluyla rinoplasti ile birlikte (septorinoplasti) planlanabilir."
+anesthesia: "Genel anestezi (seçilmiş durumlarda lokal anestezi + sedasyon)"
+duration: "Yaklaşık 45–90 dakika"
+stay: "Aynı gün veya 1 gece hastanede kalış"
+
+benefits:
+  - "Burundan nefes almanın rahatlaması, ağızdan solunumun azalması"
+  - "Uyku kalitesinin artması, horlamanın azalması (horlamanın başka nedenleri de olabilir)"
+  - "Eğriliğe bağlı tekrarlayan burun kanamalarının ve bazı hastalarda sinüzit ataklarının azalması"
+  - "Gerekiyorsa sinüs veya diğer burun ameliyatları için yolun açılması"
+success:
+  - "Yayınlarda hastaların yaklaşık **100'de 70–85'inin** ameliyattan sonra burun tıkanıklığının belirgin olarak azaldığını ifade ettiği bildirilmektedir. Tıkanıklığın alerji, mukoza şişliği, burun kanadı çökmesi veya sinüs hastalığı gibi başka nedenleri de varsa bu nedenlerin ayrıca tedavisi gerekebilir. Nadiren septum zamanla yeniden hafif eğrilebilir."
+
+alternatives:
+  - "**Ameliyat olmamak / beklemek:** Şikâyetleriniz hafifse yalnızca takip edilebilir."
+  - "**İlaç tedavisi:** Kortizonlu burun spreyleri, burun yıkama ve alerji ilaçları mukoza şişliğini azaltarak şikâyetleri hafifletebilir; ancak kemik ve kıkırdaktaki yapısal eğriliği düzeltmez."
+  - "**Burun bandı / burun deliği genişleticiler:** Geçici rahatlama sağlayabilir."
+  - "**Dekonjestan (burun açıcı) spreyler:** Yalnızca birkaç günlük kullanım için uygundur; uzun süreli kullanım bağımlılığa ve daha fazla tıkanıklığa yol açar."
+
+no_treatment:
+  - "Ameliyat yapılmazsa septumdaki eğrilik kendiliğinden düzelmez; burun tıkanıklığı, ağızdan nefes alma ve horlama gibi şikâyetleriniz devam eder ve yaşla birlikte artabilir. Bu durum genellikle hayati bir tehlike oluşturmaz; ameliyat kararı şikâyetlerinizin yaşam kalitenizi ne kadar etkilediğine göre verilir."
+
+before:
+  - "Ameliyattan önce kan tahlilleri, gerekirse sinüs tomografisi ve diğer tetkikler yapılır; anestezi uzmanı tarafından değerlendirilirsiniz."
+  - "Ameliyattan önceki **6–8 saat** boyunca hiçbir şey yememeniz ve içmemeniz gerekir (anestezi uzmanının talimatlarına uyunuz)."
+  - "Ameliyattan önceki günlerde grip, nezle veya ateşli bir hastalık geçirirseniz bize bildiriniz; ameliyat ertelenebilir."
+
+recovery:
+  - when: "İlk 48 saat"
+    what: "Burun içi ateller nedeniyle tıkanıklık hissi, hafif kanlı sızıntı, baş ağrısı ve boğaz kuruluğu olur. Ağrı genellikle hafiftir. Başınız yüksekte yatmanız önerilir. Burnun altına konan gazlı bez birkaç kez değiştirilebilir."
+  - when: "3–7. gün"
+    what: "Silikon ateller veya tamponlar genellikle **3–7. günler** arasında kontrolde çıkarılır; bu işlem kısa süreli bir rahatsızlık verir. Burun yıkamaya başlanır. Masa başı işe dönüş çoğunlukla 5–7 gün içinde olur."
+  - when: "2–4. haftalar"
+    what: "Burun içinde kabuklanma ve kuruluk olabilir; düzenli yıkama ile azalır. Nefes alma giderek rahatlar. Ağır egzersiz ve temas sporları yaklaşık **3–4 hafta** ertelenmelidir."
+  - when: "1–3. aylar"
+    what: "Burun içi zar tamamen iyileşir. Nihai nefes alma sonucu genellikle bu dönemde değerlendirilir."
+
+risks:
+  expected:
+    - "Ateller çıkana kadar burun tıkanıklığı ve ağızdan nefes alma"
+    - "İlk günlerde hafif kanlı sızıntı"
+    - "Üst ön dişlerde ve üst dudakta geçici uyuşukluk"
+    - "Burun içinde kabuklanma ve kuruluk (ilk haftalar)"
+    - "Koku almada geçici azalma"
+  common:
+    - name: "Uzun süren kabuklanma ve kuruluk"
+      text: "Özellikle konka küçültme yapıldıysa birkaç hafta sürebilir; yıkama ve nemlendirici merhemle geçer."
+    - name: "Üst dişlerde ve dudakta uzun süren uyuşukluk"
+      text: "Genellikle birkaç hafta içinde düzelir; nadiren birkaç ay sürebilir."
+    - name: "Tıkanıklığın tam olarak geçmemesi"
+      text: "Yaklaşık 100 hastadan **15–30'unda** nefes alma beklenen ölçüde düzelmeyebilir. Bunun nedeni çoğu zaman alerji, mukoza şişliği veya burun kanadı zayıflığı gibi ek etkenlerdir; ilaç tedavisi veya ek cerrahi gerekebilir."
+  uncommon:
+    - name: "Burun kanaması"
+      text: "Yaklaşık 100 hastadan **1–3'ünde** tamponlama gerektiren kanama olabilir. Çok nadiren kanamanın ameliyathanede durdurulması gerekebilir."
+    - name: "Septum delinmesi (perforasyon)"
+      text: "Yaklaşık 100 hastadan **1–3'ünde** septumda delik oluşabilir. Çoğu zaman şikâyet yapmaz; ıslık sesi, kabuklanma veya kanamaya yol açarsa yıkama, septum düğmesi (buton) veya onarım ameliyatı gerekebilir."
+    - name: "Burun içi yapışıklık (sineşi)"
+      text: "Yaklaşık 100 hastadan **1–5'inde** septum ile yan duvar arasında yapışıklık gelişebilir; tıkanıklık yaparsa kontrolde basit bir işlemle ayrılır."
+    - name: "Septumda kan veya iltihap toplanması (hematom / apse)"
+      text: "100 hastada **1'den az** görülür. Ameliyattan sonraki günlerde artan tıkanıklık, ağrı ve ateşle belirti verir. Burun kıkırdağına zarar vermemesi için **acilen boşaltılması** gerekir; tedavi edilmezse kıkırdak kaybı ve burun sırtında çökme gelişebilir."
+    - name: "Enfeksiyon"
+      text: "Nadirdir; genellikle antibiyotikle düzelir."
+    - name: "Eğriliğin tekrarlaması"
+      text: "Kıkırdak hafızası nedeniyle septum zamanla tekrar hafif eğrilebilir; şikâyet oluşturursa ikinci bir ameliyat gerekebilir."
+  rare:
+    - name: "Burun sırtında çökme (semer burun)"
+      text: "100 hastada **1'den az** görülür. Septumun destek kıkırdağının zayıflaması veya hematom/apse sonrası kıkırdak kaybıyla burun sırtı çökebilir; burnun dış görünümünde değişikliğe yol açar ve düzeltilmesi için kıkırdak grefti ile ek ameliyat gerekir."
+    - name: "Burun ucunda düşme veya şekil değişikliği"
+      text: "Çok nadirdir; destek yapılarının etkilenmesiyle oluşabilir."
+    - name: "Koku almanın kalıcı azalması veya kaybı"
+      text: "Çok nadirdir."
+    - name: "Beyin-omurilik sıvısı (BOS) sızıntısı ve menenjit"
+      text: "Septumun üst kısmının kafa tabanına komşu olması nedeniyle **10.000'de 1'den çok daha az** görülen, son derece nadir bir komplikasyondur. Gelişirse hastanede yatış, ek tedavi ve onarım ameliyatı gerekebilir."
+    - name: "Boş burun sendromu"
+      text: "Konkalar aşırı küçültülürse, burun açık olmasına rağmen tıkanıklık ve kuruluk hissi gelişebilir. Çok nadirdir; konkalar bu nedenle korunarak küçültülür. Gelişirse uzun sürebilir veya kalıcı olabilir ve tedavisi güçtür."
+    - name: "Toksik şok sendromu"
+      text: "Burun içi tampon/atel kullanımına bağlı, çok nadir ancak acil tedavi gerektiren ciddi bir enfeksiyon tablosudur (ani yüksek ateş, döküntü, tansiyon düşüklüğü). Hastanede, gerekirse yoğun bakımda tedavi gerektirir ve hayatı tehdit edebilir."
+    - name: "Görme bozukluğu, göz çevresi kanaması"
+      text: "Septoplasti ile son derece nadirdir; FESS gibi sinüs ameliyatlarıyla birlikte yapıldığında risk biraz daha yüksektir ve ayrı onam formunda anlatılır."
+
+emergency:
+  - "Birkaç dakikalık baskıya ve buz uygulamasına rağmen **durmayan veya çok yoğun burun kanaması**, ağızdan sürekli kan gelmesi"
+  - "Ameliyattan sonraki günlerde **artan burun tıkanıklığı, burunda şiddetli ağrı ve şişlik** (septum hematomu/apsesi belirtisi olabilir)"
+  - "**38,5 °C üzerinde ateş**, kötü kokulu akıntı"
+  - "Tampon/atel varken **ani yüksek ateş, ciltte döküntü, baş dönmesi veya halsizlik**"
+  - "Burundan, özellikle öne eğilince artan **berrak, sulu akıntı**, şiddetli baş ağrısı veya ense sertliği"
+  - "**Görmede bulanıklık, çift görme** veya göz çevresinde şişlik"
+  - "Nefes darlığı veya göğüs ağrısı"
+
+lifestyle:
+  - "İlk 2 hafta burnunuzu sümkürmeyiniz; hapşırırken ağzınızı açık tutunuz."
+  - "Burun yıkamayı size gösterildiği şekilde, önerilen sıklıkta yapınız."
+  - "İlk 2 hafta sıcak banyo, sauna, hamam ve ağır kaldırmaktan kaçınınız."
+  - "Burnunuzu en az 4 hafta darbelere karşı koruyunuz."
+  - "Yurt dışından geldiyseniz uçak yolculuğu genellikle ateller çıkarıldıktan sonra güvenlidir."
+
+declarations_extra:
+  - "Bu ameliyatın amacının burnun dış görünümünü değiştirmek değil, nefes almayı rahatlatmak olduğunu; tıkanıklığın başka nedenleri varsa ek tedavi gerekebileceğini anladım."

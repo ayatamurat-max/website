@@ -1,0 +1,154 @@
+{
+ "code": "09",
+ "type": "surgical",
+ "aesthetic": false,
+ "title": "Endolaryngeale Mikrochirurgie",
+ "alt_name": "Mikrochirurgie an den Stimmlippen / am Kehlkopf (Mikrolaryngoskopie)",
+ "about": [
+  "Der Kehlkopf (Larynx) liegt vorn am Hals. Er erzeugt die Stimme, schützt die Atemwege und verschließt beim Schlucken die Luftröhre. Die Stimmlippen (Stimmbänder) sind zwei dünne Strukturen im Inneren des Kehlkopfs, die durch Schwingung den Ton erzeugen.",
+  "An den Stimmlippen oder an anderen Stellen des Kehlkopfs können sich Veränderungen wie **Knötchen, Polypen, Zysten, Reinke-Ödem, Papillome oder Leukoplakien (weiße Beläge)** oder ein krebsverdächtiger Befund bilden. Diese können Heiserkeit, eine schnell ermüdende Stimme, ein Fremdkörpergefühl im Hals und selten Atemnot verursachen. Ursachen sind unter anderem falscher oder übermäßiger Stimmgebrauch, Rauchen, Reflux, Infektionen (z. B. HPV) und manchmal unbekannte Faktoren.",
+  "Ziel der Operation ist es, den Befund unter größtmöglicher Schonung des gesunden Stimmlippengewebes zu entfernen, **Ihre Stimme zu verbessern**, bei Bedarf die Atemwege zu erweitern und **eine sichere Diagnose durch die feingewebliche (pathologische) Untersuchung** des entfernten Gewebes zu stellen."
+ ],
+ "procedure_intro": [
+  "Die Operation wird in Vollnarkose im Operationssaal durch den Mund durchgeführt; am Hals wird kein Schnitt gesetzt."
+ ],
+ "procedure_steps": [
+  "**Zugang zum Kehlkopf:** Wenn Sie schlafen, wird ein Metallrohr (Laryngoskop) durch den Mund bis zum Kehlkopf eingeführt. Ihre Zähne werden durch einen speziellen Zahnschutz geschützt.",
+  "**Untersuchung unter dem Mikroskop:** Die Stimmlippen werden mit einem Operationsmikroskop oder Endoskop vergrößert und genau untersucht. Dabei können zusätzliche Befunde entdeckt werden, die bei der Untersuchung in der Praxis nicht sichtbar waren.",
+  "**Entfernung des Befundes:** Der Befund wird mit sehr feinen mikrochirurgischen Instrumenten oder einem CO2-Laser entfernt, wobei die schwingende Oberfläche der Stimmlippe so weit wie möglich erhalten wird. Bei Bedarf wird nur eine kleine Gewebeprobe zur Diagnose entnommen (Biopsie).",
+  "**Zusätzliche Maßnahmen:** Je nach Situation können kleine, mit Medikamenten getränkte Tupfer zur Blutstillung verwendet und ein Medikament in die Stimmlippe gespritzt werden, um die Narbenbildung zu verringern.",
+  "**Abschluss:** Das Laryngoskop wird entfernt, und Mund und Zähne werden kontrolliert. Am Hals gibt es keine Nähte und keine sichtbaren Narben."
+ ],
+ "procedure_notes": [
+  "Sehr selten ist es wegen einer eingeschränkten Mundöffnung, der Form der Zähne oder der Anatomie von Kiefer oder Hals nicht möglich, den Kehlkopf sicher zu erreichen. In diesem Fall kann der Eingriff abgebrochen werden, und es werden Ihnen alternative Verfahren erläutert."
+ ],
+ "anesthesia": "Vollnarkose",
+ "duration": "Etwa 20–60 Minuten",
+ "stay": "In der Regel Entlassung am selben Tag oder eine Nacht im Krankenhaus",
+ "benefits": [
+  "Weniger Heiserkeit und eine klarere, weniger schnell ermüdende Stimme",
+  "Eine **sichere Diagnose** durch die feingewebliche Untersuchung des entfernten Gewebes, sodass eine früh erkannte Erkrankung rechtzeitig behandelt werden kann",
+  "Leichteres Atmen, wenn der Befund die Atemwege einengt"
+ ],
+ "success": [
+  "Bei gutartigen Befunden wie Knötchen, Polypen und Zysten bessert sich die Stimme bei den meisten Patienten deutlich. Das Ergebnis hängt jedoch von Art und Größe des Befundes, dem vorherigen Zustand der Stimmlippen, Faktoren wie Rauchen und Reflux sowie davon ab, wie konsequent **Stimmruhe und Stimmtherapie** nach der Operation eingehalten werden. Manche Erkrankungen, wie z. B. Papillome, können wiederkehren und mehr als eine Operation erforderlich machen."
+ ],
+ "alternatives": [
+  "**Stimmtherapie (bei einer Logopädin/einem Logopäden):** Kann insbesondere bei Stimmlippenknötchen die erste Wahl sein und macht eine Operation oft überflüssig.",
+  "**Medikamente:** Medikamente, die die Magensäure verringern und Entzündungen hemmen, können helfen, wenn Reflux oder eine Entzündung die Ursache ist.",
+  "**Rauchstopp und gute Stimmhygiene:** Tragen bei manchen Befunden (z. B. Reinke-Ödem) zur Rückbildung bei.",
+  "**Ambulanter Eingriff in örtlicher Betäubung:** Bei geeignet ausgewählten kleinen Befunden oder für Biopsien kann ein Eingriff im Wachzustand mit einem Endoskop durch Nase oder Mund durchgeführt werden; dies ist nicht für jeden Befund geeignet.",
+  "**Engmaschige Beobachtung:** Kleine Befunde ohne Krebsverdacht können mit regelmäßigen Untersuchungen überwacht werden."
+ ],
+ "no_treatment": [
+  "Ohne Operation kann Ihre Heiserkeit fortbestehen oder sich verschlimmern. Da die genaue Art des Befundes nicht bekannt ist, kann sich – wenn auch selten – die Diagnose einer zugrunde liegenden ernsten Erkrankung (z. B. Krebs im Frühstadium oder eine Veränderung, die bösartig werden kann) verzögern. Wachsende Befunde können selten Atemnot verursachen."
+ ],
+ "before": [
+  "Vor der Operation werden Blutuntersuchungen durchgeführt, und Sie werden von der Narkoseärztin bzw. dem Narkosearzt untersucht.",
+  "In den **6–8 Stunden** vor der Operation dürfen Sie nichts essen und nichts trinken (befolgen Sie die Anweisungen der Narkoseärztin bzw. des Narkosearztes).",
+  "Teilen Sie uns unbedingt **lockere Zähne, Kronen, Brücken, Implantate oder Zahnprothesen** mit; herausnehmbarer Zahnersatz wird vor der Operation entfernt.",
+  "Wurde Ihnen eine Refluxbehandlung empfohlen, werden Sie möglicherweise gebeten, bereits vor der Operation damit zu beginnen."
+ ],
+ "recovery": [
+  {
+   "when": "Erste 24–48 Stunden",
+   "what": "Es können Halsschmerzen oder ein Brennen im Hals, leichte Beschwerden beim Schlucken, Heiserkeit und etwas blutig tingierter Schleim auftreten. Möglicherweise bemerken Sie ein Taubheitsgefühl der Zunge, einen veränderten Geschmack oder Kieferschmerzen; diese klingen meist innerhalb weniger Tage ab."
+  },
+  {
+   "when": "1. Woche",
+   "what": "Ihre Ärztin bzw. Ihr Arzt wird in der Regel **3–7 Tage vollständige Stimmruhe** (nicht sprechen, nicht flüstern) empfehlen, gefolgt von einer schrittweisen Rückkehr zum Stimmgebrauch. Die meisten Patienten können innerhalb von 2–3 Tagen wieder einer Bürotätigkeit nachgehen; Menschen in Sprechberufen (Lehrkräfte, Sängerinnen und Sänger, Callcenter-Mitarbeitende) sollten länger warten."
+  },
+  {
+   "when": "2.–4. Woche",
+   "what": "Die Stimme bessert sich allmählich. Bei Bedarf wird eine Stimmtherapie begonnen. Vermeiden Sie Schreien, Singen und langes Sprechen. Das Ergebnis der Pathologie liegt meist in diesem Zeitraum vor und wird mit Ihnen besprochen."
+  },
+  {
+   "when": "1.–3. Monat",
+   "what": "Die Heilung der Stimmlippen wird abgeschlossen; die endgültige Stimme zeigt sich in der Regel innerhalb von **6–12 Wochen**. Bei der Kontrolluntersuchung werden die Stimmlippen mit einem Endoskop beurteilt."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Halsschmerzen und leichte Beschwerden beim Schlucken (einige Tage)",
+   "Vorübergehende Heiserkeit oder Veränderung der Stimmlage nach der Operation",
+   "Etwas blutig tingierter Schleim (erste 1–2 Tage)",
+   "Empfindlichkeit von Kiefer, Lippen oder Zähnen; kleine Einrisse in den Mundwinkeln"
+  ],
+  "common": [
+   {
+    "name": "Taubheitsgefühl der Zunge und Geschmacksveränderung",
+    "text": "Entsteht durch den Druck des Laryngoskops auf die Zunge; tritt bei etwa **5–15 von 100** Patienten auf und bildet sich meist innerhalb von wenigen Tagen bis einigen Wochen zurück, sehr selten hält es mehrere Monate an."
+   },
+   {
+    "name": "Kiefergelenkschmerzen",
+    "text": "Entstehen dadurch, dass der Mund längere Zeit geöffnet gehalten wird; vergehen meist innerhalb weniger Tage. Bei Menschen mit bestehenden Kiefergelenkproblemen können sie häufiger auftreten und länger anhalten."
+   },
+   {
+    "name": "Stimme bessert sich weniger als erwartet",
+    "text": "Die Stimme normalisiert sich nach der Operation nicht immer vollständig; eine Stimmtherapie oder eine weitere Behandlung kann erforderlich sein."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Zahnschäden",
+    "text": "Trotz Zahnschutz kann es bei etwa **1–5 von 100** Patienten zu einem abgesplitterten, gesprungenen oder gelockerten Zahn oder zur Beschädigung einer Krone/Brücke kommen. Bei lockeren, kariösen oder künstlichen Zähnen ist das Risiko höher; eine zahnärztliche Behandlung kann erforderlich sein."
+   },
+   {
+    "name": "Verschlechterung der Stimme oder dauerhafte Stimmveränderung",
+    "text": "Bildet sich Narbengewebe auf der Oberfläche der Stimmlippe, kann die Stimme heiserer, schwächer oder schneller ermüdbar werden als vor der Operation. Dies kann eine Stimmtherapie und manchmal weitere Operationen erfordern; selten kann es dauerhaft sein."
+   },
+   {
+    "name": "Wiederauftreten des Befundes",
+    "text": "Der Befund kann wiederkehren, insbesondere wenn die Stimme weiterhin falsch belastet oder weiter geraucht wird, oder bei Erkrankungen wie Papillomen; eine erneute Operation kann dann erforderlich sein."
+   },
+   {
+    "name": "Segelbildung (Synechie) im vorderen Stimmlippenbereich",
+    "text": "Werden beide Stimmlippen nahe am vorderen Ende behandelt, können sie miteinander verkleben; dies kann die Stimmqualität beeinträchtigen, und eine zweite Operation zu ihrer Trennung kann erforderlich sein."
+   },
+   {
+    "name": "Weitere Behandlung je nach feingeweblichem Befund",
+    "text": "Der feingewebliche Befund kann anders ausfallen als erwartet (z. B. eine Veränderung mit Neigung zur bösartigen Entartung oder Krebs). In diesem Fall können eine weitere Operation, eine Strahlentherapie oder engmaschige Kontrollen erforderlich sein; dies wird Ihnen ausführlich erläutert."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Schwellung (Ödem) des Kehlkopfs und Atemnot",
+    "text": "Nach der Operation kann sich eine Schwellung des Kehlkopfs entwickeln. Sie bessert sich meist mit Medikamenten; sehr selten kann eine Überwachung auf der Intensivstation oder eine vorübergehende Öffnung am Hals zur Sicherung der Atemwege (Tracheotomie) erforderlich sein."
+   },
+   {
+    "name": "Blutung",
+    "text": "Stärkere Blutungen sind selten. Wegen der Gefahr, dass Blut in die Atemwege gelangt, kann eine ernste Blutung ein rasches Eingreifen und eine erneute Operation erfordern."
+   },
+   {
+    "name": "Laserbedingte Risiken",
+    "text": "Beim Einsatz eines CO2-Lasers besteht das Risiko von Verbrennungen des umgebenden Gewebes und sehr selten einer Entzündung des Beatmungsschlauchs (Atemwegsbrand). Es werden laserspezifische Sicherheitsmaßnahmen (spezieller Tubus, feuchte Tupfer, Augenschutz) angewendet. Käme es dazu, könnte dies schwere Verbrennungen der Atemwege verursachen und eine längere intensivmedizinische Behandlung sowie eine Tracheotomie erforderlich machen."
+   },
+   {
+    "name": "Verletzung von Mund, Zunge, Lippen oder Rachen",
+    "text": "Kleine Verletzungen durch die Instrumente heilen meist von selbst; sehr selten muss genäht werden. Äußerst selten kann ein Einriss der Rachenwand dazu führen, dass Luft unter die Haut des Halses austritt (knisterndes Gefühl), oder eine Infektion am Hals verursachen; dies kann eine Überwachung im Krankenhaus, Antibiotika über die Vene und selten eine Operation erforderlich machen."
+   },
+   {
+    "name": "Probleme der Halswirbelsäule",
+    "text": "Da der Kopf nach hinten geneigt gelagert wird, können – besonders bei Menschen mit Erkrankungen der Halswirbelsäule – Nackenschmerzen und sehr selten ernstere Wirbelsäulenprobleme auftreten. Bitte teilen Sie uns einen früheren Bandscheibenvorfall an der Halswirbelsäule oder eine Operation an der Halswirbelsäule mit."
+   }
+  ]
+ },
+ "emergency": [
+  "**Atemnot** oder ein pfeifendes bzw. raues Geräusch beim Einatmen (Stridor)",
+  "**Abhusten oder Erbrechen von Blut** oder blutig tingierter Schleim, der zunimmt statt abnimmt",
+  "**Unfähigkeit zu schlucken** oder so starke Schmerzen oder Schwellung, dass Sie Ihren Speichel nicht schlucken können",
+  "**Fieber über 38,5 °C** mit immer stärker werdenden Halsschmerzen",
+  "Schwellung an Hals oder Gesicht oder ein knisterndes Gefühl unter der Haut"
+ ],
+ "lifestyle": [
+  "Halten Sie die empfohlene **Stimmruhe** strikt ein; auch Flüstern belastet die Stimmlippen. Sie können sich schriftlich oder mit Apps auf dem Telefon verständigen.",
+  "Trinken Sie reichlich Wasser und sorgen Sie für eine feuchte Raumluft. Vermeiden Sie Räuspern und Husten so weit wie möglich.",
+  "Meiden Sie das Rauchen und Zigarettenrauch; Rauchen beeinträchtigt die Heilung und erhöht das Risiko, dass der Befund wiederkehrt.",
+  "Wurden Ihnen Refluxmedikamente verordnet, nehmen Sie diese über den empfohlenen Zeitraum ein; essen Sie in den 2–3 Stunden vor dem Schlafengehen nichts und schränken Sie scharfe und saure Speisen ein.",
+  "Flugreisen sind in der Regel ab dem folgenden Tag unbedenklich; halten Sie während der Reise weiterhin Stimmruhe ein."
+ ],
+ "declarations_extra": [
+  "Ich habe verstanden, dass der Eingriff abgebrochen werden kann, wenn sich während der Operation zeigt, dass der Kehlkopf nicht sicher erreicht werden kann, und dass je nach feingeweblichem Befund des entfernten Gewebes eine weitere Behandlung oder Nachsorge erforderlich sein kann.",
+  "Ich habe verstanden, dass die endgültige Stimme auch davon abhängt, dass ich nach der Operation Stimmruhe, Stimmtherapie, Rauchstopp und Refluxbehandlung einhalte."
+ ]
+}

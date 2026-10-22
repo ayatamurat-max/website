@@ -1,0 +1,124 @@
+code: "11"
+type: surgical
+aesthetic: true
+title: "Fettabsaugung am Kinn (submentale Liposuktion)"
+alt_name: "Entfernung von Fett unter dem Kinn (Fettabsaugung beim Doppelkinn)"
+
+specific_fields:
+  - label: "Geplante Technik:"
+    options: ["Konventionell (Tumeszenztechnik)", "Energiegestützt (Laser/RF)", "Wird von der Operateurin/dem Operateur entschieden"]
+    blank: false
+  - label: "Betäubung:"
+    options: ["Örtliche Betäubung", "Örtliche Betäubung + Sedierung", "Vollnarkose"]
+  - label: "Gleichzeitig durchgeführte Eingriffe:"
+    options: ["Keine", "Mit gesonderter Einwilligungserklärung:"]
+  - label: "Anliegen und Erwartungen der Patientin/des Patienten:"
+
+about:
+  - "Fettansammlungen unter dem Kinn (ein „Doppelkinn“) können den Winkel zwischen Kinn und Hals verwischen, sodass die Kieferlinie weniger konturiert, müde oder fülliger wirkt, als sie tatsächlich ist. Fett in diesem Bereich ist häufig **erblich bedingt** und verschwindet selbst durch Gewichtsabnahme oder Sport oft nicht vollständig. Der altersbedingte Verlust der Hautelastizität lässt es zusätzlich deutlicher hervortreten."
+  - "Bei der submentalen Liposuktion wird das **Fett unter der Haut** über feine Kanülen abgesaugt. Ziel ist es, die Kieferlinie zu konturieren und einen **natürlichen, ausgewogenen Kinn-Hals-Winkel** zu erreichen."
+  - "Der wichtigste Faktor für das Ergebnis ist **die Qualität und Elastizität der Haut**. Elastische Haut passt sich nach der Fettentfernung der neuen Kontur an; wenig elastische Haut kann stärker erschlafft wirken. Tiefes Fett unter dem Halsmuskel (Platysma), große Speicheldrüsen, ausgeprägte Halsstränge (Platysmabänder) und eine starke Hauterschlaffung lassen sich durch eine Fettabsaugung nicht korrigieren; in diesen Fällen können andere Verfahren, z. B. ein tiefes Halslifting, erforderlich sein."
+
+procedure_intro:
+  - "Vor der Operation werden Kinn und Hals untersucht, die Hautelastizität wird beurteilt, es werden Fotos angefertigt, und der zu behandelnde Bereich wird im Sitzen angezeichnet."
+procedure_steps:
+  - "**Betäubung und Infiltration von Flüssigkeit:** In den Bereich wird eine spezielle Flüssigkeit (Tumeszenzlösung) eingespritzt, die ein örtliches Betäubungsmittel und ein blutungsminderndes Medikament enthält. Diese Flüssigkeit verhindert Schmerzen und verringert zudem Blutungen und Blutergüsse."
+  - "**Kleine Schnitte:** In der natürlichen Falte unter dem Kinn und bei Bedarf hinter den Ohrläppchen werden kleine Zugänge von etwa **3–5 mm** angelegt."
+  - "**Fettentfernung:** Das Fett wird über feine Kanülen (Metallröhrchen) sorgfältig und gleichmäßig abgesaugt. Unter der Haut wird eine dünne Fettschicht belassen, damit die Oberfläche glatt bleibt."
+  - "**Energiegestützte Behandlung (falls geplant):** Mit Laser- oder Radiofrequenzenergie wird das Fett aufgeweicht und eine gewisse Straffung der Haut unterstützt. Dies kann zur Hautstraffung beitragen, korrigiert aber keine deutliche Erschlaffung."
+  - "**Wundverschluss und Kompressionsverband:** Die Zugänge werden mit einer einzelnen Naht verschlossen oder heilen von selbst zu. Am Ende der Operation wird eine **elastische Kompressionsbandage (Kinnband)** um Kinn und Hals angelegt."
+anesthesia: "Örtliche Betäubung, örtliche Betäubung + Sedierung oder Vollnarkose"
+duration: "Etwa 45–90 Minuten (wenn der Eingriff allein durchgeführt wird)"
+stay: "In der Regel Entlassung am selben Tag"
+
+benefits:
+  - "Verringerung von überschüssigem Fett unter dem Kinn"
+  - "Eine besser konturierte Kieferlinie und ein definierterer Kinn-Hals-Winkel; ein ausgewogeneres Gesichtsprofil"
+  - "Ein **lang anhaltendes** Ergebnis, solange Ihr Gewicht stabil bleibt, da die entfernten Fettzellen nicht nachwachsen (natürliche Alterungsveränderungen von Haut und Gewebe setzen sich fort)"
+success:
+  - "Die meisten Patienten mit guter Hautelastizität sind mit dem Ergebnis zufrieden. Das Ergebnis zeigt sich mit dem Abklingen der Schwellung innerhalb von **3–6 Monaten**. Bei etwa **3–5 von 100** Patienten kann wegen Unregelmäßigkeiten, verbliebenem Fett oder Asymmetrie ein kleiner Korrektureingriff erforderlich sein. Eine deutliche Gewichtszunahme und das Älterwerden können das Ergebnis mit der Zeit beeinflussen."
+
+alternatives:
+  - "**Verzicht auf den Eingriff:** Da es sich um einen ästhetischen Eingriff handelt, haben Sie immer die Möglichkeit, ihn nicht durchführen zu lassen."
+  - "**Gewichtsabnahme und Änderungen des Lebensstils:** Verringern das Körperfett insgesamt, beseitigen aber hartnäckiges Fett unter dem Kinn nicht immer."
+  - "**Fettlösende Injektionen (z. B. Deoxycholsäure):** Erfordern mehrere Sitzungen, können deutliche Schwellungen und Schmerzen verursachen und haben eine begrenztere Wirkung."
+  - "**Fettreduktion durch Kälte (Kryolipolyse) und gerätegestützte Behandlungen:** Nicht operativ, erfordern aber mehrere Sitzungen und haben eine begrenztere Wirkung."
+  - "**Tiefes Halslifting / Halsstraffung:** Die besser geeignete Option bei deutlicher Hauterschlaffung, Halssträngen oder tiefem Fett unter dem Muskel."
+
+no_treatment:
+  - "Ohne Eingriff bleibt das Erscheinungsbild unter Ihrem Kinn unverändert und kann mit dem Alter oder bei Gewichtszunahme zunehmen. Für Ihre Gesundheit besteht dadurch keine Gefahr."
+
+before:
+  - "Vor der Operation werden Blutuntersuchungen durchgeführt; ist eine Sedierung oder Vollnarkose geplant, werden Sie von der Narkoseärztin bzw. dem Narkosearzt untersucht und müssen vorher nüchtern bleiben."
+  - "Ihr Gewicht sollte vor dem Eingriff möglichst stabil sein; wenn Sie in nächster Zeit eine deutliche Gewichtsveränderung planen, besprechen Sie dies mit Ihrer Ärztin bzw. Ihrem Arzt."
+  - "Tragen Sie am Operationstag keine Creme und kein Make-up auf Gesicht und Hals auf; ziehen Sie ein bequemes, vorne zu öffnendes Oberteil statt eines hochgeschlossenen an."
+  - "Nach Sedierung oder Vollnarkose dürfen Sie nicht selbst Auto fahren; bitte lassen Sie sich von einer Begleitperson nach Hause bringen."
+
+recovery:
+  - when: "Erste 48 Stunden"
+    what: "Unter dem Kinn bestehen Schwellung, Spannungsgefühl und leichte Schmerzen, und aus den Zugängen kann etwas rosafarbene Flüssigkeit austreten; das ist normal. Blutergüsse können sich, **falls sie auftreten**, bis zum Hals ausbreiten und klingen innerhalb von 1–2 Wochen ab. Schlafen Sie mit erhöhtem Kopf und tragen Sie die Bandage durchgehend."
+  - when: "1. Woche"
+    what: "Die Bandage wird in der Regel **in der ersten Woche Tag und Nacht** und danach **weitere 2–3 Wochen nachts** getragen. Eventuelle Fäden werden am 5.–7. Tag gezogen. Die meisten Patienten kehren innerhalb von 3–7 Tagen zur Bürotätigkeit und ins gesellschaftliche Leben zurück."
+  - when: "2.–6. Woche"
+    what: "Die Schwellung geht weitgehend zurück. Im Bereich können Verhärtungen, kleine Knötchen und ein Taubheitsgefühl spürbar sein; diese werden mit der Zeit weicher. Anstrengender Sport kann in der Regel nach **2–3 Wochen** wieder aufgenommen werden. Massieren Sie den Bereich sanft, wenn dies empfohlen wird."
+  - when: "3.–6. Monat"
+    what: "Restschwellung und Verhärtung bilden sich zurück, die Haut passt sich der neuen Kontur an, und das Ergebnis wird deutlich."
+
+risks:
+  expected:
+    - "Schwellung, Spannungsgefühl und leichte Schmerzen unter dem Kinn und am Hals; Blutergüsse klingen, **falls sie auftreten**, innerhalb von 1–2 Wochen ab"
+    - "Austritt rosafarbener Flüssigkeit aus den Zugängen in den ersten 24–48 Stunden"
+    - "Vorübergehendes Taubheitsgefühl und vermindertes Gefühl im Bereich"
+    - "Leichte Verhärtung und kleine tastbare Knötchen über mehrere Wochen"
+  common:
+    - name: "Länger anhaltende Verhärtungen und Knötchen (Fibrose)"
+      text: "Verhärtungen und Knötchen unter der Haut sind während der Heilung häufig; die meisten werden innerhalb einiger Monate durch Massage und mit der Zeit weicher."
+    - name: "Länger anhaltendes Taubheitsgefühl"
+      text: "Ein vermindertes Gefühl der Haut unter dem Kinn kann einige Wochen bis einige Monate anhalten; sehr selten ist es dauerhaft."
+    - name: "Leichte Asymmetrie"
+      text: "Da die beiden Gesichtshälften nie vollkommen symmetrisch sind, können kleine Unterschiede bestehen bleiben."
+  uncommon:
+    - name: "Konturunregelmäßigkeiten und Dellen"
+      text: "Bei etwa **2–5 von 100** Patienten können Wellen, Dellen oder verbliebene Fettdepots auftreten. Wird zu viel Fett entfernt, können unter dem Kinn ein eingefallenes oder „skelettiertes“ Aussehen und deutlicher sichtbare Halsstränge entstehen. Zur Korrektur können eine Eigenfettinjektion, eine erneute Fettabsaugung oder ein anderer Eingriff erforderlich sein."
+    - name: "Hauterschlaffung oder unzureichende Straffung"
+      text: "Insbesondere bei Menschen mit verminderter Hautelastizität strafft sich die Haut nach der Fettentfernung möglicherweise nicht ausreichend, und die Erschlaffung kann auffälliger wirken. In diesem Fall kann künftig eine Halsstraffung erforderlich sein."
+    - name: "Asymmetrisches Lächeln (Beeinträchtigung des Nervenastes zur Unterlippe)"
+      text: "Ein feiner Nervenast, der entlang der Kieferlinie verläuft und die Unterlippe bewegt, kann durch Schwellung oder Druck beeinträchtigt werden, was beim Lächeln zu einer Asymmetrie der Unterlippe führt. Dies tritt bei etwa **1 von 100** Patienten auf und bildet sich fast immer **innerhalb von einigen Wochen bis einigen Monaten** von selbst zurück; eine dauerhafte Schwäche ist sehr selten."
+    - name: "Ansammlung von Blut oder Flüssigkeit (Hämatom, Serom)"
+      text: "Tritt bei **weniger als 1 von 100** Patienten auf. Kleine Ansammlungen bilden sich von selbst zurück; größere müssen unter Umständen mit einer Nadel oder einem kleinen Eingriff entleert werden."
+    - name: "Infektion"
+      text: "Tritt bei **weniger als 1 von 100** Patienten auf; sie bessert sich meist mit Antibiotika, selten muss ein Abszess eröffnet werden."
+    - name: "Narben oder Verfärbungen an den Zugängen"
+      text: "Die kleinen Narben an den Zugängen werden meist unauffällig; selten können eine Dunkelfärbung, Verdickung oder eine kleine Delle zurückbleiben."
+  rare:
+    - name: "Hautverbrennung (bei energiegestützten Verfahren)"
+      text: "Beim Einsatz von Laser oder Radiofrequenz können trotz Sicherheitsmaßnahmen selten eine Hautverbrennung, Blasenbildung und eine bleibende Narbe entstehen; eine Wundversorgung und Narbenbehandlung können erforderlich sein."
+    - name: "Hautschädigung oder Gewebeverlust"
+      text: "Sehr selten kann, insbesondere bei Raucherinnen und Rauchern, eine gestörte Durchblutung der Haut zu einer Wunde und Narbenbildung führen."
+    - name: "Dauerhafte Nervenschädigung"
+      text: "Eine dauerhafte Schwäche der Unterlippenbewegung ist äußerst selten; tritt sie auf, kann eine weitere Behandlung erforderlich sein."
+    - name: "Reaktion auf das örtliche Betäubungsmittel"
+      text: "Es kann eine Allergie gegen das örtliche Betäubungsmittel auftreten, oder ein hoher Blutspiegel kann Schwindel, Ohrensausen, einen metallischen Geschmack im Mund und sehr selten Krampfanfälle oder Herzrhythmusstörungen verursachen. Die Dosierungen werden innerhalb sicherer Grenzen gehalten."
+    - name: "Fettembolie und Verletzung tieferer Strukturen oder der Atemwege"
+      text: "Dass Fetttröpfchen in den Blutkreislauf gelangen oder die Kanüle tiefere Strukturen verletzt, ist bei einer Fettabsaugung kleinen Volumens unter dem Kinn **äußerst selten**; käme es dazu, könnte eine Notfall- und intensivmedizinische Behandlung im Krankenhaus erforderlich sein."
+    - name: "Psychische Unzufriedenheit"
+      text: "Trotz eines technisch erfolgreichen Ergebnisses kann es einem Menschen schwerfallen, sich an sein neues Aussehen zu gewöhnen. Ein offenes Gespräch über die Erwartungen vor der Operation verringert dieses Risiko."
+
+emergency:
+  - "**Rasch zunehmende, harte, pralle Schwellung** am Hals, besonders auf einer Seite"
+  - "**Atem- oder Schluckbeschwerden** oder eine Veränderung Ihrer Stimme"
+  - "**Fieber über 38,5 °C**, zunehmende Schmerzen, Rötung, Überwärmung oder übel riechende Absonderung"
+  - "Weiß, dunkelviolett oder schwarz verfärbte Haut; mit Flüssigkeit gefüllte Blasen"
+  - "Brustschmerzen, Atemnot oder Verwirrtheit"
+
+lifestyle:
+  - "Tragen Sie die Bandage regelmäßig für den empfohlenen Zeitraum; achten Sie darauf, dass sie weder zu eng noch zu locker sitzt."
+  - "Schlafen Sie in den ersten 1–2 Wochen auf dem Rücken mit erhöhtem Kopf; vermeiden Sie plötzliches oder übermäßiges Überstrecken des Halses."
+  - "Vermeiden Sie in den ersten 2–3 Wochen anstrengenden Sport, Sauna, Hamam (Dampfbad) und lange heiße Duschen."
+  - "Schützen Sie den Bereich in den ersten Monaten vor der Sonne; dies verringert das Risiko von Narben und Verfärbungen."
+  - "Achten Sie darauf, Ihr Gewicht stabil zu halten, um das Ergebnis zu erhalten."
+  - "Wenn Sie aus dem Ausland angereist sind, ist eine Flugreise in der Regel ab dem 2.–3. Tag unbedenklich."
+
+declarations_extra:
+  - "Ich habe verstanden, dass das Ergebnis von meiner Hautelastizität abhängt und dass eine Fettabsaugung keine Hauterschlaffung, keine Halsstränge und kein tiefes Fett unter dem Muskel korrigiert."
+  - "Ich habe verstanden, dass das Tragen der Bandage und das Befolgen der gegebenen Empfehlungen das Ergebnis unmittelbar beeinflussen."

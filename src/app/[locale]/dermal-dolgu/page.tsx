@@ -16,6 +16,7 @@ const config: ProcedureConfig = {
     { key: 'rejuvenation', icon: 'rejuvenation', href: '/ameliyatsiz-yuz-genclestirme' },
     { key: 'rhinoplasty', icon: 'rhinoplasty', href: '/rinoplasti' },
   ],
+  consent: ['dolgu'],
 };
 
 export default function Page() {

@@ -1,0 +1,113 @@
+code: "03"
+type: surgical
+aesthetic: true
+title: "Otoplasty"
+alt_name: "Surgery to correct prominent ears (ear pinning)"
+
+specific_fields:
+  - label: "Side:"
+    options: ["Right", "Left", "Both"]
+    blank: false
+  - label: "Type of anaesthesia:"
+    options: ["General anaesthesia", "Local anaesthesia", "Local anaesthesia + sedation"]
+    blank: false
+  - label: "Parts to be corrected / patient's expectations:"
+
+about:
+  - "Prominent ears are ears that stand out from the head at a wider angle than usual, or in which the natural fold of the ear cartilage (the antihelix) has not developed. The condition is usually present from birth, is not harmful to health and does not affect hearing. However, especially in childhood and adolescence, it can lead to teasing, loss of self-confidence and social anxiety."
+  - "The aim of otoplasty is to bring the ears closer to the head so that they look **natural** and as **balanced** as possible on both sides. Because the ear reaches most of its adult size by around 5–6 years of age, the operation can be performed **from the age of 5–6**; doing it before school age may prevent the child from being affected socially. If your child is to have the operation, it is important that their own wishes and readiness are taken into account."
+
+procedure_intro:
+  - "The operation is performed in an operating theatre. General anaesthesia is usually used for children; for adults, local anaesthesia (with sedation if needed) or general anaesthesia is used."
+procedure_steps:
+  - "**Planning and marking:** The ears are photographed, their distance from the head is measured, and the position of the new fold is marked."
+  - "**Incision:** An incision is made in the skin on the **back of the ear**, close to the natural crease between the ear and the head. As this scar lies behind the ear, it is usually not visible."
+  - "**Shaping the cartilage:** A new fold (antihelix) is created in the ear cartilage with permanent stitches. If necessary, the cartilage is thinned or lightly scored to soften it."
+  - "**Setting the ear back:** If the deep bowl of the ear (the concha) is large, it is reduced or fixed with stitches to the tissue behind the ear. If the earlobe also sticks out, it is corrected."
+  - "**Closure and dressing:** The skin is closed with stitches. A soft, lightly compressive head dressing is applied to hold the new shape of the ears and prevent blood from collecting."
+anesthesia: "General anaesthesia in children; local anaesthesia ± sedation or general anaesthesia in adults"
+duration: "About 1–2 hours (both sides)"
+stay: "Usually discharged the same day"
+
+benefits:
+  - "Ears that sit closer to the head and look natural"
+  - "A more balanced appearance between the two ears"
+  - "Less social anxiety and teasing related to appearance; a boost to self-confidence"
+success:
+  - "Most patients and families are satisfied with the result. Because ear cartilage is a flexible tissue, published studies report that in about **5–10 out of 100** patients the ear may partly spring forward again and a correction may be needed. Differences of a few millimetres between the two ears are considered normal."
+
+alternatives:
+  - "**No surgery:** Prominent ears do not cause health problems, so surgery is not essential."
+  - "**Moulding (splinting) in the newborn period:** In the first few weeks after birth the ear cartilage is very soft and can be shaped with special moulds; this is not effective after that period."
+  - "**Camouflage with a hairstyle:** Hairstyles that cover the ears can hide their appearance."
+  - "**Incisionless / thread techniques:** In selected patients with soft cartilage, correction can be done through tiny incisions; the recurrence rate may be higher than with standard surgery."
+
+no_treatment:
+  - "If the operation is not performed, the shape of the ears will stay the same; it does not improve by itself over time. Prominent ears pose no danger to health; the decision to operate depends entirely on appearance and on the wishes of the person (for children, the child and family)."
+
+before:
+  - "The necessary blood tests are done before surgery; if general anaesthesia is planned, you/your child will be assessed by the anaesthetist."
+  - "If general anaesthesia or sedation is used, nothing should be eaten or drunk for **6–8 hours** before the operation (for young children, the time stated by the anaesthetist)."
+  - "Wash the hair with shampoo on the morning of surgery. Long hair can be tied back away from the operation area."
+  - "Surgery may be postponed if there is an active skin infection, eczema or an unhealed piercing around the ear."
+
+recovery:
+  - when: "First 48 hours"
+    what: "Throbbing, tightness and moderate pain in the ears may occur and are controlled with painkillers. Sleeping with the head raised is recommended. **Severe pain that keeps increasing on one side is not normal** and must be reported immediately."
+  - when: "Days 2–7"
+    what: "The dressing is usually removed at a follow-up visit between **days 2 and 5** and the ears are checked. Swelling, bruising and tenderness of the ears are common at this stage. After the dressing is removed, a soft **headband (ear band)** is worn. Children can usually return to school after one week."
+  - when: "Weeks 1–2"
+    what: "The headband is worn **day and night for the first 1–2 weeks**, then **at night only for 4–6 weeks**. This prevents the ear from folding forward during sleep and protects the stitches. Non-dissolvable skin stitches, if used, are removed on days 7–10."
+  - when: "Weeks 3–6"
+    what: "Most of the swelling settles. Contact sports, swimming and helmets that press on the ears should be avoided for at least **4–6 weeks**."
+  - when: "Months 3–6"
+    what: "The ear folds settle, the scar fades and the final appearance becomes apparent. Mild numbness of the ears usually improves during this period."
+
+risks:
+  expected:
+    - "Pain, throbbing and a feeling of tightness in the first few days"
+    - "Swelling and bruising of the ears (1–2 weeks)"
+    - "Temporary numbness of the ear skin and sensitivity to cold (weeks to months)"
+    - "A fine scar behind the ear that fades over time"
+  common:
+    - name: "Stitches that can be felt or come through the skin"
+      text: "In about **5–10 out of 100** patients, the permanent stitches shaping the cartilage may be felt behind the ear months or years later, come through the skin or form a small inflamed lump (granuloma). This is usually corrected with a simple procedure to remove the stitch."
+    - name: "Partial recurrence (ear moving forward again)"
+      text: "In about **5–10 out of 100** patients the ear may partly return towards its original position; a correction can be performed if needed."
+    - name: "Mild asymmetry"
+      text: "The two ears are never exactly the same; differences of a few millimetres after surgery are normal. If there is a noticeable difference, it can be corrected."
+  uncommon:
+    - name: "Collection of blood in the ear (haematoma)"
+      text: "Occurs in about **1–3 out of 100** patients, usually within the first 48 hours. **Severe pain that keeps increasing on one side** is its most important sign. It must be **drained urgently**, before it compromises the blood supply to the cartilage; if treatment is delayed, cartilage damage and a permanent deformity (“cauliflower ear”) may develop."
+    - name: "Wound infection"
+      text: "Occurs in about **1–5 out of 100** patients; it usually settles with antibiotics."
+    - name: "Thick scar or keloid"
+      text: "In about **1–3 out of 100** patients, especially those with darker skin or a tendency to keloids, a thick raised scar may form behind the ear. It may need treatment with steroid injections, silicone gel or surgery, and may recur. Please tell us if you have developed a keloid before."
+    - name: "Overcorrection or unnatural appearance"
+      text: "The ears may look too flat against the head, the fold may be too sharp, or the middle of the ear may sit further back than the top and bottom (“telephone ear” appearance); corrective surgery can be performed if needed."
+  rare:
+    - name: "Inflammation of the cartilage lining (perichondritis)"
+      text: "Occurs in **fewer than 1 in 100** patients. It shows as increasing redness, swelling, warmth and severe pain in the ear. It may require intravenous antibiotics and, if necessary, surgical cleaning; if treatment is delayed, cartilage loss and a **permanent deformity** may result."
+    - name: "Loss of blood supply to the skin or cartilage (necrosis)"
+      text: "Very rare; usually associated with an overly tight dressing, an untreated haematoma or infection. Wound care and sometimes reconstructive surgery may be needed."
+    - name: "Permanent reduced sensation or chronic pain"
+      text: "Numbness of the ear skin or pain in cold weather may rarely be permanent."
+    - name: "Narrowing of the ear canal"
+      text: "Very rarely, after concha reduction or fixation, the entrance to the ear canal may narrow; correction may be needed."
+
+emergency:
+  - "**Severe ear pain on one side that keeps increasing** (especially in the first 48 hours) — this may be a sign of a blood collection"
+  - "Increasing blood seeping through the dressing, or the dressing becoming soaked with blood"
+  - "**Fever above 38.5 °C**, increasing redness, swelling, warmth or foul-smelling discharge from the ear"
+  - "A dressing that feels too tight, or the ear turning blue or changing colour"
+  - "A blow to the ear or a sudden change in its shape"
+
+lifestyle:
+  - "Do not get the dressing wet or remove it yourself before it is taken off at the clinic. Once it has been removed, you may shower gently from the day your doctor advises."
+  - "Wear the headband regularly for the period you are told; this is important for a lasting result."
+  - "In the first few weeks avoid lying on your ears, folding the ears forward, and pulling tight-necked clothes over the ears."
+  - "Protect the ears from the sun and extreme cold for at least 3 months; because of reduced sensation, a burn or frostbite may go unnoticed."
+  - "Supervise your child so that they do not pull at the dressing or headband."
+
+declarations_extra:
+  - "I understand that wearing the headband for the recommended period after surgery plays a part in the result, and that not following these instructions may increase the risk of recurrence."

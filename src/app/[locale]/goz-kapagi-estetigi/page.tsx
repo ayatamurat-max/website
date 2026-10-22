@@ -16,6 +16,7 @@ const config: ProcedureConfig = {
     { key: 'botox', icon: 'medical', href: '/botoks' },
     { key: 'rejuvenation', icon: 'rejuvenation', href: '/ameliyatsiz-yuz-genclestirme' },
   ],
+  consent: ['blefaroplasti'],
 };
 
 export default function Page() {

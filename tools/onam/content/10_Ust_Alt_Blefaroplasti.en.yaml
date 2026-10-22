@@ -1,0 +1,130 @@
+code: "10"
+type: surgical
+aesthetic: true
+title: "Upper / Lower Blepharoplasty"
+alt_name: "Eyelid surgery"
+
+specific_fields:
+  - label: "Planned area:"
+    options: ["Upper eyelids", "Lower eyelids", "Upper + lower eyelids"]
+    blank: false
+  - label: "Lower lid technique:"
+    options: ["Transconjunctival", "Subciliary (below the lashes)", "Not applicable"]
+  - label: "Additional procedures:"
+    options: ["Fat repositioning", "Canthopexy / canthoplasty (lid support)", "None"]
+  - label: "Indication:"
+    options: ["Cosmetic", "Functional (narrowed field of vision)", "Both"]
+  - label: "Patient's concerns and expectations:"
+
+about:
+  - "With age, eyelid skin loses elasticity, the muscle around the eye relaxes and the fat in the eye socket may bulge forward. As a result, **excess, drooping skin** develops on the upper lids, and **bags and hollows** develop under the eyes. Genetic tendency, sun exposure, smoking and weight changes can speed up this process."
+  - "Blepharoplasty aims to give the eye area a **fresher, more rested and natural** appearance by removing excess skin, muscle and fat, or by repositioning fat. Upper lid hooding can sometimes be severe enough to narrow the upper part of the field of vision; in that case the operation also has a functional purpose of **widening the field of vision**."
+  - "Blepharoplasty on its own does not correct a low brow position, a droopy lid caused by weakness of the lid-lifting muscle (ptosis), fine wrinkles (crow's feet) or dark circles under the eyes; these may require different treatments."
+
+procedure_intro:
+  - "Before surgery your eyes are examined — vision, tear production and lid function are assessed — and photographs are taken. If necessary, an assessment by an ophthalmologist will be requested."
+procedure_steps:
+  - "**Marking:** The amount of skin to be removed is carefully marked with you sitting upright, with your eyes open and closed."
+  - "**Upper lid:** The incision is placed in the natural lid crease so that it lies hidden in the fold when your eyes are open. Excess skin, and if needed a thin strip of muscle and bulging fat, is removed."
+  - "**Lower lid – transconjunctival technique:** The incision is made on the inner surface of the eyelid, so no scar is visible outside. The fat causing the bags is removed or repositioned to fill the hollow under the eye."
+  - "**Lower lid – subciliary technique:** If there is also excess skin, the incision is made just below the lashes and excess skin and muscle are removed. The scar usually becomes inconspicuous over time."
+  - "**Lid support (canthopexy/canthoplasty):** If the lower lid is lax, supporting stitches are placed at the outer corner of the eye to prevent the lid being pulled down after surgery."
+  - "**Closure:** The incisions are closed with very fine stitches, which are usually removed on **day 5–7**. Protective ointment is applied to the eye."
+anesthesia: "Local anaesthesia (± sedation) or general anaesthesia"
+duration: "About 1–3 hours"
+stay: "Usually same-day discharge; one night may be needed after general anaesthesia"
+
+benefits:
+  - "A fresher, more rested and younger-looking eye area"
+  - "Less heaviness of the upper lids; easier vision if hooding narrows the field of vision"
+  - "Reduced lower lid bags and a smoother transition under the eye"
+success:
+  - "Most patients are satisfied with the result, and the effect usually lasts many years; however, as ageing continues, the skin may relax again over time. About **2–5 in 100** patients may need a small touch-up procedure because of asymmetry, under-correction or scarring. The final result usually appears within **3–6 months**."
+
+alternatives:
+  - "**Not having surgery:** As this is a cosmetic procedure, you always have the option not to have it."
+  - "**Tear trough filler:** May temporarily camouflage a mild hollow under the eye; it does not correct bags or excess skin and has its own specific risks."
+  - "**Brow lift with botulinum toxin:** In mild cases, lifting the brow by a few millimetres may open the upper lid slightly; the effect is temporary."
+  - "**Brow lift (temporal lift / forehead lift):** If the underlying problem is a low brow, this may be more suitable instead of, or in addition to, blepharoplasty."
+  - "**Skin resurfacing treatments (laser, chemical peel, radiofrequency):** May improve fine wrinkles and skin quality; they do not remove significant excess skin or bags."
+
+no_treatment:
+  - "If surgery is not performed, the current appearance of your eyelids will remain and may slowly progress with age. If upper lid hooding narrows your field of vision, this may increase over time; however, it usually poses no urgent danger to eye health."
+
+before:
+  - "Blood tests are carried out before surgery; if general anaesthesia or sedation is planned, you will be assessed by the anaesthetist and will need to fast beforehand."
+  - "Be sure to tell us if you have **dry eyes, glaucoma, thyroid disease or have had previous eye surgery (e.g. laser vision correction)**."
+  - "If you wear contact lenses, do not wear them on the day of surgery; you will need to wear glasses after surgery."
+  - "Do not wear eye make-up, eyelash extensions or face cream on the day of surgery. After sedation or general anaesthesia you must not drive; please go home with a companion."
+
+recovery:
+  - when: "First 48 hours"
+    what: "There may be swelling, tightness, slight oozing and bruising around the eyes. Pain is usually mild. Sleeping with your head raised and applying **cold compresses** help to reduce swelling. Watery eyes, sensitivity to light and temporary blurred vision (due to the ointment) may occur."
+  - when: "Week 1"
+    what: "Stitches are usually removed on **day 5–7**. Bruising and swelling decrease markedly. Eye drops/ointment are used as advised. Most patients return to desk work and social life within 7–10 days; bruising can be covered with make-up."
+  - when: "Weeks 2–4"
+    what: "Remaining swelling decreases. Contact lenses can usually be worn after **2 weeks**. Strenuous exercise and work involving bending should be postponed for about 2–3 weeks. Wait for your doctor's approval before swimming or wearing eye make-up."
+  - when: "Months 1–6"
+    what: "The redness of the scar gradually fades and the scar becomes hard to see in the lid crease. The final shape and symmetry of the lids usually settle within **3–6 months**."
+
+risks:
+  expected:
+    - "Swelling and tightness around the eyes; bruising, **if it occurs**, settles within 1–2 weeks"
+    - "Watery eyes, a dry or gritty feeling, stinging and sensitivity to light (first few days)"
+    - "Mild difficulty closing the eyes completely in the first few days"
+    - "Redness, slight firmness and numbness along the incision"
+  common:
+    - name: "Dry eye"
+      text: "About **10–25 in 100** patients have a stinging, burning or dry feeling; it usually improves with eye drops within a few weeks to a few months. It may be more marked and longer-lasting in people who already have dry eyes."
+    - name: "Swelling of the white of the eye (chemosis)"
+      text: "Swelling of the membrane covering the white of the eye with fluid, seen particularly after lower lid surgery. It usually resolves with drops and compresses within a few weeks."
+    - name: "Inability to close the eyes fully (lagophthalmos)"
+      text: "Incomplete closure of the eyes during sleep is common in the first few weeks after upper lid surgery and usually resolves on its own. A night-time ointment is recommended to protect the eye during this period. It is rarely permanent (**fewer than 1 in 100**)."
+    - name: "Small cysts (milia) and stitch marks"
+      text: "Small white spots may form along the incision; they resolve on their own or are removed with a simple procedure."
+  uncommon:
+    - name: "Lower lid pulled down or turned outwards (lid retraction, ectropion)"
+      text: "After lower lid surgery, in about **1–5 in 100** patients (more often with the subciliary technique), the lower lid may be pulled down, more of the white of the eye may show below the iris, or the lid may turn outwards. Most cases improve with massage and taping; if it persists it may cause dry and watery eyes and **corrective surgery** may be needed."
+    - name: "Asymmetry and under- or over-correction"
+      text: "Differences in crease height or shape may remain between the two eyelids; if too much skin is removed, closing the eyes may be difficult, and if too much fat is removed, a hollow appearance may develop. A correction procedure may be needed."
+    - name: "Change in the shape of the eye corner"
+      text: "Where lid support (canthopexy/canthoplasty) is performed, the outer corner of the eye may look tight, tilted upwards or rounded for a while, or may differ between the two sides. In most cases this softens over a few weeks to months as the swelling settles; occasionally a correction is needed."
+    - name: "A droopy lid (ptosis) becoming apparent"
+      text: "Weakness of the lid-lifting muscle that was previously hidden by excess skin may become apparent after surgery; it may need to be corrected with a separate operation."
+    - name: "Noticeable or thickened scar"
+      text: "Eyelid skin usually heals very well; rarely the scar may remain visible, or a fine web may form at the inner corner (webbing)."
+    - name: "Bleeding and blood collection (haematoma)"
+      text: "A collection of blood under the skin occurs in about **1 in 100** patients; it usually resolves on its own, but if large it may need to be drained."
+    - name: "Infection"
+      text: "Because the eyelids have a very good blood supply, infection is rare (**fewer than 1 in 100**); if it develops it is treated with antibiotics."
+  rare:
+    - name: "Bleeding behind the eye and loss of vision"
+      text: "This is the most serious but very rare complication. Bleeding behind the eye occurs in about **1 in 2,000** patients and can press on the optic nerve. If it is not recognised quickly and treated as an emergency (opening the stitches, draining the blood, medication, emergency surgery), it can cause **permanent loss of vision**. Permanent loss of vision has been reported in about **1 in 10,000–40,000** patients or fewer. This is why the warning signs in the first 48 hours are so important."
+    - name: "Double vision"
+      text: "Caused by a small muscle that moves the eye (inferior oblique muscle) being affected during lower lid surgery; it is usually temporary, very rarely permanent, and may require further treatment or surgery."
+    - name: "Corneal scratch or ulcer"
+      text: "A scratch may occur on the clear front surface of the eye, causing pain, a gritty feeling and watering; it usually heals with drops within a few days. Very rarely long-term eye treatment may be needed."
+    - name: "Tear drainage problems"
+      text: "Watering due to involvement of the tear duct is very rare."
+    - name: "Psychological dissatisfaction"
+      text: "Despite a technically successful result, a person may find it hard to adjust to their new appearance. Discussing expectations openly before surgery reduces this risk."
+
+emergency:
+  - "**Severe, increasing pain in the eye**, especially on one side"
+  - "**The eye bulging forwards**, or rapidly increasing, tense swelling and bruising of the eyelids"
+  - "**Reduced vision**, darkening of vision, double vision or restricted eye movement"
+  - "Eye pain together with nausea or vomiting"
+  - "**Fever above 38.5 °C**, increasing redness, discharge or pain at the incision"
+  - "Marked sensitivity to light and a gritty feeling that does not go away"
+  - "**If any of these occur in the first 48 hours, minutes matter: call immediately or go to the nearest emergency department.**"
+
+lifestyle:
+  - "Apply cold compresses at regular intervals for the first 48 hours; sleep on your back with your head raised."
+  - "Do not rub your eyes. In the first few days avoid heavy lifting, bending, straining and activities that increase the risk of bleeding."
+  - "Use the eye drops and ointments you are given as often as recommended; if your eyes do not close fully, always apply the night-time ointment."
+  - "As a rule, do not wear contact lenses for 2 weeks or eye make-up for 1–2 weeks. Wear sunglasses outdoors and take frequent breaks from screens."
+  - "If you have travelled from abroad, flying is usually safe after the stitches are removed (day 5–7)."
+
+declarations_extra:
+  - "I understand that blepharoplasty on its own does not correct a low brow position, a droopy lid caused by weakness of the lid-lifting muscle, fine wrinkles or dark discolouration under the eyes."
+  - "I understand that if I develop severe eye pain, swelling or reduced vision in the first 48 hours after surgery, I must seek help **immediately**."

@@ -51,6 +51,16 @@ export default function Header() {
           <Link href="/medikal-islemler" className={styles.navLink} onClick={closeMenu}>{t('medical')}</Link>
           <Link href="/cerrahi-islemler" className={styles.navLink} onClick={closeMenu}>{t('surgical')}</Link>
           <Link href="/blog" className={styles.navLink} onClick={closeMenu}>{t('blog')}</Link>
+          {/* Belgeler: alt menüye yeni belge türleri eklenebilir */}
+          <div className={styles.navGroup}>
+            <Link href="/belgeler" className={`${styles.navLink} ${styles.navParent}`} onClick={closeMenu}>
+              {t('documents')}
+              <svg className={styles.caret} width="10" height="10" viewBox="0 0 10 10" aria-hidden="true"><path d="M2 3.5 5 6.5 8 3.5" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" /></svg>
+            </Link>
+            <div className={styles.dropdown}>
+              <Link href="/belgeler/onam-formlari" className={styles.dropdownLink} onClick={closeMenu}>{t('consentForms')}</Link>
+            </div>
+          </div>
           <Link href="/iletisim" className={styles.navLink} onClick={closeMenu}>{t('contact')}</Link>
           
           <div className={styles.mobileCta}>

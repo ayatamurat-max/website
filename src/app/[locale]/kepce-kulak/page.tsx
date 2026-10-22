@@ -16,6 +16,7 @@ const config: ProcedureConfig = {
     { key: 'blepharoplasty', icon: 'eyelid', href: '/goz-kapagi-estetigi' },
     { key: 'neck', icon: 'neck', href: '/boyun-gidi-estetigi' },
   ],
+  consent: ['otoplasti'],
 };
 
 export default function Page() {

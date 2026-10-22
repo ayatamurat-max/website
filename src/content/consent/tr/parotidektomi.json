@@ -1,0 +1,162 @@
+{
+ "code": "07",
+ "type": "surgical",
+ "aesthetic": false,
+ "title": "Parotidektomi",
+ "alt_name": "Kulak önü tükürük bezinin (parotis bezi) kısmen veya tamamen çıkarılması",
+ "about": [
+  "Parotis bezi, her iki kulağın önünde ve hemen altında yer alan, tükürük üreten en büyük tükürük bezimizdir. Bezin içinden, yüz kaslarımızı hareket ettiren **yüz siniri (fasiyal sinir)** dallanarak geçer. Bu nedenle parotis ameliyatı, sinirin korunmasına özel dikkat gösterilerek yapılan hassas bir ameliyattır.",
+  "Parotidektomi en sık bezde gelişen **kitleler (tümörler)** nedeniyle yapılır. Bu kitlelerin büyük çoğunluğu (yaklaşık %80'i) **iyi huyludur**; en sık görülenler pleomorf adenom ve Warthin tümörüdür. İyi huylu kitleler de zamanla büyüyebilir ve bazıları (özellikle pleomorf adenom) uzun yıllar içinde kötü huylu hâle dönüşebilir. Daha az sıklıkla tekrarlayan iltihaplar, taşlar veya kötü huylu tümörler ameliyat gerektirir.",
+  "Ameliyatın amacı, kitleyi veya hastalıklı bez dokusunu **yüz sinirini koruyarak** tamamen çıkarmak ve kesin tanıyı patolojik inceleme ile koymaktır."
+ ],
+ "procedure_intro": [
+  "Ameliyat genel anestezi altında, ameliyathane koşullarında yapılır. Ameliyattan önce ultrason, MR ve/veya ince iğne biyopsisi ile kitle değerlendirilir; bu tetkikler ön bilgi verir, ancak kesin tanı ameliyat sonrası patoloji ile konur."
+ ],
+ "procedure_steps": [
+  "**Kesi:** Kesi genellikle kulağın önündeki doğal kıvrımdan başlayıp kulak memesinin altından dolaşarak boyundaki bir cilt çizgisine uzanır. Uygun olgularda kesi daha kısa tutulabilir veya saç çizgisine gizlenebilir.",
+  "**Yüz sinirinin bulunması:** Cilt ve bez üzerindeki doku kaldırılır, yüz sinirinin ana gövdesi bulunur. Kullanılıyorsa **sinir monitörizasyonu** cihazı, sinirin yerini ve işlevini ameliyat boyunca izlemeye yardımcı olur.",
+  "**Kitlenin/bezin çıkarılması:** Sinir ve dalları dikkatle takip edilerek kitle, çevresinde bir miktar sağlam bez dokusuyla birlikte çıkarılır. Kitlenin yerine ve büyüklüğüne göre bezin yalnızca dış kısmı (yüzeyel), bir bölümü veya tamamı (total) çıkarılabilir.",
+  "**Patolojik inceleme:** Çıkarılan doku patolojiye gönderilir. Kesin sonuç genellikle 1–2 hafta içinde çıkar.",
+  "**Kapatma:** Kanama kontrolü yapılır, birikebilecek kan ve sıvının dışarı alınması için genellikle ince bir **dren** (hortum) yerleştirilir. Cilt ince dikişlerle kapatılır ve hafif baskılı pansuman uygulanabilir."
+ ],
+ "procedure_notes": [
+  "Tümör yüz sinirini sarıyor veya içine yayılmışsa (bu durum çoğunlukla kötü huylu tümörlerde görülür), tümörün tamamen çıkarılması için sinirin bir dalının veya tamamının feda edilmesi gerekebilir. Bu ihtimal ameliyat öncesinde sizinle **ayrıca konuşulur**; size danışılmadan beklenmedik şekilde sinir kesilmez, ancak tümörün sinirden ayrılamadığı durumda ne yapılacağı ameliyat öncesinde birlikte kararlaştırılır."
+ ],
+ "anesthesia": "Genel anestezi",
+ "duration": "Yaklaşık 2–4 saat",
+ "stay": "Genellikle 1–2 gece; dren çıkınca taburculuk",
+ "benefits": [
+  "Kitlenin çıkarılması ve kesin tanının konulması",
+  "İyi huylu kitlelerin büyümesinin, yüz sinirine baskı yapmasının ve uzun vadede kötü huylu hâle dönüşme riskinin önlenmesi",
+  "Kötü huylu tümörlerde tedavinin ilk ve en önemli basamağı",
+  "Tekrarlayan iltihap veya taşa bağlı ağrı ve şişliklerin sona ermesi"
+ ],
+ "success": [
+  "İyi huylu tümörlerin büyük çoğunluğunda ameliyat kalıcı tedavi sağlar. Uygun teknikle çıkarılan pleomorf adenomlarda tekrarlama oranı **100 hastada 1–2'nin altındadır**; ancak tümörün kapsülünün yırtılması veya daha önce ameliyat olmuş olmak bu oranı artırır. Warthin tümörü aynı veya karşı bezde yeni bir odak olarak ortaya çıkabilir. Kötü huylu tümörlerde sonuç, tümörün türüne ve evresine bağlıdır ve ek tedavi gerekebilir."
+ ],
+ "alternatives": [
+  "**Takip (izlem):** Bazı küçük, iyi huylu olduğu düşünülen kitlelerde (özellikle yaşlı veya ameliyat riski yüksek hastalarda Warthin tümörü gibi) düzenli ultrason/MR ile takip seçeneği konuşulabilir. Bu durumda kitle yerinde kalır ve büyüyebilir; kesin tanı konamaz.",
+  "**İlaç tedavisi:** İltihap ve taşa bağlı şikâyetlerde antibiyotik, bol sıvı alımı, masaj; uygun olgularda tükürük kanalı endoskopisi (siyalendoskopi) ile taş çıkarılması. Tümörlerde ilaç tedavisi bir seçenek değildir.",
+  "**Radyoterapi:** Ameliyat edilemeyen kötü huylu tümörlerde veya ameliyata ek tedavi olarak kullanılır; iyi huylu tümörlerin tedavisinde tercih edilmez."
+ ],
+ "no_treatment": [
+  "Ameliyat yapılmazsa kitle yerinde kalır ve kesin tanı konamaz. İyi huylu tümörler genellikle yavaş büyür ancak zamanla büyüyerek ameliyatı zorlaştırabilir ve yüz siniri için riski artırabilir; pleomorf adenomlar uzun yıllar içinde kötü huylu hâle dönüşebilir (yıllar içinde yaklaşık %5–10). Kötü huylu bir tümör ise tedavi edilmezse ilerler ve çevre dokulara, lenf bezlerine yayılabilir."
+ ],
+ "before": [
+  "Ameliyattan önce kan tahlilleri, görüntüleme (ultrason/MR) ve gerekirse ince iğne biyopsisi yapılır; anestezi uzmanı tarafından değerlendirilirsiniz.",
+  "Ameliyattan önceki **6–8 saat** boyunca hiçbir şey yememeniz ve içmemeniz gerekir (anestezi uzmanının talimatlarına uyunuz).",
+  "Erkek hastalarda kesi bölgesindeki sakal ve kulak çevresindeki kıllar ameliyat günü kısaltılabilir. Kesi yerine göre kulak arkasındaki saç bir miktar düzeltilebilir.",
+  "Yüz ifadelerinizin ameliyat öncesi durumu kayıt altına alınmak üzere muayene edilir ve fotoğraflanır."
+ ],
+ "recovery": [
+  {
+   "when": "İlk 24–48 saat",
+   "what": "Ameliyat bölgesinde gerginlik, hafif–orta düzeyde ağrı ve şişlik olur; ağrı kesicilerle kontrol edilir. Dren genellikle 1–2. gün, gelen sıvı azalınca çekilir. Başınızı yüksekte tutarak yatmanız önerilir. Yüz hareketleriniz kontrol edilir."
+  },
+  {
+   "when": "1. hafta",
+   "what": "Taburcu olduktan sonra günlük işlerinize dönebilirsiniz. Dikişler genellikle **5–7. günlerde** alınır. Kulak memesi ve kulak önünde uyuşukluk belirgindir. Patoloji sonucu genellikle bu dönemde veya kısa süre sonra çıkar ve sizinle paylaşılır."
+  },
+  {
+   "when": "2–6. haftalar",
+   "what": "Masa başı işe çoğunlukla 1–2 hafta içinde dönülür. Ağır egzersiz ve eğilip kaldırma gerektiren işler yaklaşık **2–3 hafta** ertelenmelidir. Yüz sinirinde geçici güçsüzlük olduysa genellikle haftalar içinde düzelmeye başlar; göz koruması ve yüz egzersizleri önerilir."
+  },
+  {
+   "when": "3–12. aylar",
+   "what": "İz giderek solar. Kulak memesindeki uyuşukluk kısmen düzelir. Geçici sinir güçsüzlüğü olan hastaların büyük çoğunluğu 6–12 ay içinde tamamen iyileşir. Yemek yerken yanakta terleme (Frey sendromu) varsa bu dönemde ortaya çıkabilir."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Ameliyat bölgesinde ağrı, gerginlik ve şişlik",
+   "Kulak memesi ve kulak önü derisinde uyuşukluk",
+   "Kesi yerinde iz (zamanla solar)",
+   "Ameliyat tarafında çene açarken veya çiğnerken hafif ağrı (ilk günler)"
+  ],
+  "common": [
+   {
+    "name": "Geçici yüz siniri güçsüzlüğü",
+    "text": "Yaklaşık 100 hastadan **10–40'ında** (çıkarılan doku miktarına ve kitlenin yerine bağlı olarak) ağız kenarında, gözü kapatmada veya kaş kaldırmada geçici güçsüzlük olur. Çoğu zaman yalnızca bir daldadır ve **haftalar–aylar içinde** düzelir. Bu süre içinde gözünüz tam kapanmazsa göz kuruluğunu önlemek için damla, jel ve gece göz bandı kullanmanız gerekir."
+   },
+   {
+    "name": "Kulak memesinde kalıcı his kaybı",
+    "text": "Kulak memesine his veren sinir (büyük aurikülar sinir) çoğu ameliyatta etkilenir. Uyuşukluk hastaların çoğunda zamanla azalır, ancak kulak memesi ve çevresinde bir miktar his azlığı **kalıcı** olabilir. Bu durum genellikle günlük yaşamı etkilemez."
+   },
+   {
+    "name": "Frey sendromu (yemek yerken terleme)",
+    "text": "Yemek yerken ameliyat tarafında yanakta terleme ve kızarma. Testlerle bakıldığında daha sık görülse de, yaklaşık 100 hastadan **10–20'sinde** fark edilir hâldedir; genellikle aylar sonra başlar. Rahatsız edici olursa ter önleyici kremler veya **botulinum toksini** enjeksiyonu ile tedavi edilebilir."
+   },
+   {
+    "name": "Yanak bölgesinde çöküklük",
+    "text": "Çıkarılan doku miktarına göre kulak önünde hafif çukurluk ve iki taraf arasında farklılık oluşabilir. Belirginse yağ veya dolgu ile düzeltilebilir."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Sıvı birikimi (serom) veya tükürük birikimi (siyalosel) / tükürük fistülü",
+    "text": "Yaklaşık 100 hastadan **5–10'unda** ameliyat bölgesinde sıvı veya tükürük birikebilir; nadiren ciltten dışarı sızıntı (fistül) olur. Genellikle iğne ile boşaltma, baskılı pansuman ve gerekirse botulinum toksini ile birkaç hafta içinde düzelir."
+   },
+   {
+    "name": "Kanama ve hematom",
+    "text": "Yaklaşık 100 hastadan **1–3'ünde** cilt altında kan birikebilir. Büyükse ameliyathanede boşaltılması ve kanamanın durdurulması gerekebilir."
+   },
+   {
+    "name": "Yara enfeksiyonu",
+    "text": "100 hastada **1–3** oranında; genellikle antibiyotikle düzelir, nadiren iltihabın boşaltılması gerekir."
+   },
+   {
+    "name": "İlk lokma ağrısı (first-bite sendromu)",
+    "text": "Özellikle derin bölge ameliyatlarından sonra, yemeğin ilk lokmalarında çene açısında birkaç saniye süren keskin ağrı. Genellikle zamanla azalır."
+   },
+   {
+    "name": "Kitlenin tekrarlaması",
+    "text": "İyi huylu tümörlerde düşük olmakla birlikte, kitle aynı bölgede tekrar edebilir veya Warthin tümöründe yeni bir odak gelişebilir; bu durum yeniden ameliyat gerektirebilir. Tekrarlayan ameliyatlarda yüz siniri için risk daha yüksektir."
+   },
+   {
+    "name": "Kalın iz veya keloid",
+    "text": "Kişisel yatkınlığa bağlı olarak iz kalınlaşabilir; kortizonlu iğne veya diğer iz tedavileri uygulanabilir."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Kalıcı yüz siniri felci",
+    "text": "İyi huylu tümörlerde ilk ameliyatta yaklaşık 100 hastadan **1–3'ünde** yüz sinirinin bir dalında veya nadiren tümünde kalıcı güçsüzlük kalabilir. Bu durum ağız kenarında düşüklük, gözün tam kapanmaması, gülümsemede asimetri ve göz kuruluğu ile sonuçlanabilir; göz korunmazsa gözün saydam ön tabakasında (kornea) hasar ve görme kaybı gelişebilir. Kötü huylu tümörlerde, tekrar ameliyatlarında ve sinire yapışık kitlelerde bu risk daha yüksektir. Kalıcı felç gelişirse göz korunması için ilaçlar, göz kapağına ağırlık yerleştirilmesi, sinir onarımı veya yüz canlandırma ameliyatları gibi ek tedaviler gerekebilir."
+   },
+   {
+    "name": "Patoloji sonucunun ön tanıdan farklı çıkması",
+    "text": "Ameliyat öncesi tetkikler iyi huylu bir kitleyi düşündürse de kesin patoloji sonucu **kötü huylu** bir tümör gösterebilir. Bu durumda ek ameliyat (bezin kalan kısmının veya boyun lenf bezlerinin çıkarılması), radyoterapi veya başka tedaviler gerekebilir."
+   },
+   {
+    "name": "Boyunda büyük hematom ve nefes yolunun etkilenmesi",
+    "text": "Çok nadiren hızla büyüyen kan birikimi boyunda baskı yaparak yutma veya nefes alma güçlüğüne yol açabilir; bu bir acil durumdur; hemen ameliyathanede boşaltılması, nadiren nefes yolunun güvenceye alınması (entübasyon veya trakeotomi) gerekebilir."
+   },
+   {
+    "name": "Cilt beslenme sorunları",
+    "text": "Kesi kenarında, özellikle kulak memesi altında, cildin beslenmesinin bozulmasına bağlı yara açılması; sigara içenlerde daha sıktır."
+   },
+   {
+    "name": "Kulak memesi şeklinde değişiklik veya kulak kepçesinde his bozukluğu",
+    "text": "Kesi ve sinir etkilenmesine bağlı nadir görülür."
+   }
+  ]
+ },
+ "emergency": [
+  "**Boyunda veya yanakta hızla artan şişlik**, özellikle yutma veya nefes alma güçlüğü ile birlikteyse (acil durum — 112'yi arayınız)",
+  "Dren veya yara yerinden **durmayan kanama**",
+  "**38,5 °C üzerinde ateş**, yarada artan kızarıklık, ağrı, ısı artışı veya iltihaplı akıntı",
+  "Yüz hareketlerinde **yeni ortaya çıkan veya artan güçsüzlük**",
+  "Gözünüzü tam kapatamıyorsanız gözde **kızarıklık, batma, ağrı veya görme bulanıklığı**",
+  "Yara yerinden **berrak sıvı sızması** veya kulak önünde giderek büyüyen yumuşak şişlik"
+ ],
+ "lifestyle": [
+  "Yara bölgesini ilk 48 saat ıslatmayınız; sonrasında size anlatıldığı şekilde ılık suyla kısa duş alabilirsiniz.",
+  "İlk haftalarda çok ekşi ve tükürük salgısını belirgin artıran yiyeceklerden kaçınmanız, sıvı birikimi riskini azaltabilir.",
+  "Yüz siniri güçsüzlüğü varsa gün içinde suni gözyaşı damlası, gece göz jeli ve göz bandı kullanınız; gözünüzü rüzgâr ve tozdan koruyunuz.",
+  "İzi en az 6 ay güneşten koruyunuz (yüksek faktörlü güneş kremi).",
+  "Patoloji sonucunu ve sonrasındaki takip planını mutlaka hekiminizle görüşünüz; iyi huylu tümörlerde de belirli aralıklarla kontrol önerilir."
+ ],
+ "declarations_extra": [
+  "Yüz siniri ile kitle arasındaki ilişkinin ancak ameliyat sırasında kesin olarak görülebileceğini, kesin tanının ameliyat sonrası patoloji ile konacağını ve sonuca göre ek tedavi gerekebileceğini anladım.",
+  "Tümörün yüz sinirine yayılmış olması hâlinde sinir ile ilgili ne yapılacağı ameliyat öncesinde benimle konuşuldu ve kararım hasta bilgileri bölümüne kaydedildi."
+ ]
+}

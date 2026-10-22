@@ -1,0 +1,156 @@
+{
+ "code": "04",
+ "type": "surgical",
+ "aesthetic": false,
+ "title": "Adénoïdectomie",
+ "alt_name": "Ablation des végétations adénoïdes",
+ "about": [
+  "Les végétations adénoïdes sont un tissu lymphoïde, appartenant au système de défense de l'organisme, situé à l'arrière du nez, au-dessus du palais. Elles peuvent augmenter de volume, en particulier chez les enfants de 2 à 7 ans, et diminuent généralement à partir de l'adolescence.",
+  "Des végétations hypertrophiées peuvent obstruer l'arrière du nez et entraîner **une respiration par la bouche, des ronflements, des pauses respiratoires pendant le sommeil, un nez qui coule, une voix nasonnée et des infections fréquentes**. Comme elles peuvent aussi obstruer l'orifice de la trompe d'Eustache, qui relie l'oreille à l'arrière du nez, elles peuvent entraîner **une accumulation de liquide dans l'oreille moyenne (otite séromuqueuse), une baisse de l'audition et des otites à répétition**. Une respiration buccale prolongée peut également affecter le développement du visage et des dents.",
+  "Le but de l'adénoïdectomie est de retirer les végétations hypertrophiées afin de faciliter la respiration par le nez et de réduire les problèmes d'oreilles, de sinus et des voies respiratoires. Votre médecin vous expliquera séparément pourquoi cette opération est recommandée pour vous ou votre enfant."
+ ],
+ "procedure_intro": [
+  "L'opération est réalisée sous anesthésie générale, au bloc opératoire. Elle se fait par la bouche ; **il n'y a aucune incision ni cicatrice à l'extérieur.**"
+ ],
+ "procedure_steps": [
+  "**Préparation :** Une fois l'anesthésie réalisée, un instrument spécial est mis en place pour maintenir la bouche ouverte, et le voile du palais est délicatement soulevé afin de voir l'arrière du nez.",
+  "**Ablation des végétations :** Les végétations sont retirées de l'arrière du nez à l'aide d'une curette (instrument spécial de raclage), d'un microdébrideur guidé par endoscope, de la coblation ou de la diathermie (électrocoagulation). Les végétations étant un tissu et non un organe à part entière, elles ne peuvent pas être retirées « à la racine » ; le but est de retirer en toute sécurité la partie responsable de l'obstruction.",
+  "**Contrôle du saignement :** Une compression est appliquée brièvement sur la zone à l'aide d'une compresse et, si nécessaire, le saignement est arrêté par électrocoagulation. Aucune mèche n'est laissée à l'arrière du nez à la fin de l'opération.",
+  "**Actes supplémentaires :** S'ils sont prévus, l'ablation des amygdales (amygdalectomie) ou la pose d'aérateurs transtympaniques dans les tympans sont réalisées sous la même anesthésie. Des formulaires de consentement distincts sont remplis pour ces actes.",
+  "**Réveil :** Après l'opération, le patient est étroitement surveillé en salle de réveil jusqu'à son réveil complet."
+ ],
+ "procedure_notes": [
+  "Si le médecin le juge nécessaire, le tissu retiré est envoyé pour examen anatomopathologique."
+ ],
+ "anesthesia": "Anesthésie générale",
+ "duration": "Environ 20–30 minutes (hors temps d'anesthésie)",
+ "stay": "Généralement retour à domicile le jour même ; une nuit de surveillance si nécessaire",
+ "benefits": [
+  "Une respiration nasale plus facile, avec moins de ronflements et moins de pauses respiratoires pendant le sommeil",
+  "Un sommeil de meilleure qualité, et donc une amélioration de l'attention, du comportement et des résultats scolaires pendant la journée",
+  "Moins d'épisodes de liquide dans l'oreille moyenne et d'otites, ce qui contribue à améliorer l'audition",
+  "Moins d'écoulement nasal, et moins d'épisodes de sinusite et d'infections des voies respiratoires supérieures"
+ ],
+ "success": [
+  "Chez des patients soigneusement sélectionnés, l'obstruction nasale et les ronflements s'améliorent nettement dans la grande majorité des cas. Cependant, si l'obstruction a aussi d'autres causes — comme une allergie, des cornets hypertrophiés ou une déviation de la cloison —, les symptômes peuvent ne pas disparaître complètement. Le succès pour les problèmes d'oreilles dépend aussi du développement de la trompe d'Eustache ; certains enfants peuvent avoir besoin d'un traitement complémentaire ou d'aérateurs transtympaniques."
+ ],
+ "alternatives": [
+  "**Surveillance :** Si les symptômes sont légers, il est possible d'attendre avec des contrôles réguliers, car les végétations diminuent avec l'âge.",
+  "**Médicaments :** Les sprays nasaux à base de corticoïdes peuvent réduire temporairement le volume des végétations et l'obstruction chez certains enfants ; en cas d'allergie, celle-ci est traitée. L'effet ne dure généralement que le temps de la prise du médicament.",
+  "**Aérateurs transtympaniques seuls pour les problèmes d'oreilles :** Dans certains cas, la pose d'aérateurs dans les tympans sans ablation des végétations peut être envisagée.",
+  "**Autres options pour l'apnée du sommeil :** Dans de très rares cas où la chirurgie n'est pas adaptée, un appareil de ventilation en pression positive continue (PPC) peut être utilisé pendant le sommeil."
+ ],
+ "no_treatment": [
+  "Si l'opération n'est pas réalisée, les végétations peuvent diminuer d'elles-mêmes à l'adolescence. D'ici là, cependant, la respiration par la bouche, les ronflements, un sommeil de mauvaise qualité, les infections à répétition et la baisse d'audition due au liquide dans l'oreille peuvent persister. Des troubles respiratoires du sommeil anciens et sévères peuvent, chez l'enfant, entraîner un retard de croissance et de développement, des troubles de l'attention et du comportement et, rarement, une surcharge pour le cœur et les poumons. Un liquide persistant longtemps dans l'oreille moyenne peut affecter le développement du langage et provoquer des modifications définitives du tympan."
+ ],
+ "before": [
+  "Des analyses de sang (en particulier des tests de saignement et de coagulation) et tout autre examen nécessaire sont réalisés avant l'opération, et vous serez examiné(e) par le médecin anesthésiste.",
+  "Merci de nous signaler s'il existe dans la famille des antécédents de saignements faciles, d'ecchymoses ou de trouble de la coagulation.",
+  "Aucun aliment solide ni lait ne doit être donné pendant les **6 heures** précédant l'opération ; pour les liquides clairs, respectez le délai indiqué par le médecin anesthésiste.",
+  "Merci de nous signaler toute fièvre, diarrhée, toux ou grippe survenue dans les 2–3 semaines précédant l'opération ; il peut être nécessaire de la reporter.",
+  "Si une dent de lait bouge, dites-le à votre médecin, car elle pourrait tomber pendant l'anesthésie.",
+  "Nous vous recommandons de préparer votre enfant à l'opération avec des mots adaptés à son âge et qui ne lui font pas peur."
+ ],
+ "recovery": [
+  {
+   "when": "Jour de l'opération",
+   "what": "Au réveil, il peut y avoir un léger mal de gorge, des sécrétions nasales teintées de sang et une respiration par la bouche. Des vomissements ou une légère fièvre peuvent survenir. Une fois les éventuelles nausées passées, on donne d'abord de l'eau, puis des aliments tièdes et mous. La plupart des patients rentrent chez eux le jour même."
+  },
+  {
+   "when": "3–5 premiers jours",
+   "what": "L'obstruction nasale et les ronflements peuvent encore être présents en raison du gonflement ; une mauvaise haleine, une légère fièvre, des douleurs d'oreille et des douleurs du cou peuvent survenir. La douleur est généralement légère et soulagée par les antalgiques recommandés par votre médecin. Il est important de boire beaucoup."
+  },
+  {
+   "when": "1re semaine",
+   "what": "La plupart des enfants peuvent retourner à l'école ou à la crèche en 3–7 jours, et les adultes au travail. Évitez les lieux très fréquentés et les personnes malades pendant la première semaine."
+  },
+  {
+   "when": "2e–4e semaine",
+   "what": "À mesure que le gonflement diminue, la respiration nasale s'améliore nettement. Une éventuelle voix nasonnée temporaire disparaît généralement durant cette période. La natation et les sports intenses sont généralement autorisés après 2 semaines."
+  },
+  {
+   "when": "1er–3e mois",
+   "what": "Un examen de contrôle est réalisé ; si l'opération a été faite pour des problèmes d'oreilles, un test auditif et une tympanométrie permettent de contrôler les oreilles."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Léger mal de gorge et gêne à la déglutition",
+   "Sécrétions nasales teintées de sang et obstruction nasale pendant quelques jours",
+   "Mauvaise haleine (due à la surface en cours de cicatrisation ; disparaît en 1–2 semaines)",
+   "Douleur d'oreille (douleur projetée par des nerfs communs ; elle ne signifie pas qu'il y a un problème dans l'oreille)",
+   "Légère fièvre (les 1–2 premiers jours), nausées et vomissements dus à l'anesthésie"
+  ],
+  "common": [
+   {
+    "name": "Voix nasonnée temporaire",
+    "text": "Après l'ablation des végétations, le voile du palais a besoin de temps pour s'adapter ; de l'air peut s'échapper par le nez lors de la parole pendant quelques jours à quelques semaines et, occasionnellement, des liquides peuvent refluer par le nez. Cela disparaît généralement de soi-même en 1–2 mois."
+   },
+   {
+    "name": "Douleur et raideur du cou",
+    "text": "En raison de la position opératoire et de la cicatrisation à l'arrière du nez, les mouvements du cou peuvent être douloureux les premiers jours ; cela disparaît généralement en quelques jours."
+   },
+   {
+    "name": "Symptômes ne disparaissant pas complètement",
+    "text": "En présence de causes supplémentaires comme une allergie, des cornets hypertrophiés ou une déviation de la cloison, l'obstruction nasale peut persister en partie ; un traitement complémentaire peut être nécessaire."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Saignement",
+    "text": "Un saignement important après l'opération survient chez **moins de 1 patient sur 100 (environ 0,5–1 sur 100)**. Il survient le plus souvent dans les 24 premières heures. Si le saignement ne peut pas être arrêté, **un retour au bloc opératoire sous anesthésie générale pour l'arrêter** peut être nécessaire. Une transfusion sanguine est très rarement nécessaire."
+   },
+   {
+    "name": "Lésion dentaire",
+    "text": "La pression de l'instrument utilisé pour maintenir la bouche ouverte peut ébrécher ou déloger une dent, en particulier une dent qui bouge déjà ou qui est cariée."
+   },
+   {
+    "name": "Blessure ou gonflement des lèvres, de la langue ou du palais",
+    "text": "De petites plaies ou un gonflement temporaire peuvent survenir au contact des instruments ; ils guérissent en quelques jours."
+   },
+   {
+    "name": "Infection",
+    "text": "Peut se manifester par une montée de la fièvre, une aggravation de la mauvaise haleine et une augmentation de la douleur ; elle s'améliore généralement sous antibiotiques."
+   },
+   {
+    "name": "Repousse des végétations",
+    "text": "Le tissu adénoïdien peut repousser (chez environ **1–5 patients sur 100**), en particulier chez les enfants opérés très jeunes et chez les personnes allergiques. Si les symptômes réapparaissent, une nouvelle opération peut rarement être nécessaire."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Voix nasonnée définitive / reflux de liquides par le nez (insuffisance vélopharyngée)",
+    "text": "Survient chez environ **1 patient sur 1 500–3 000** ; le risque est plus élevé chez les enfants ayant une fente palatine cachée (fente sous-muqueuse). Elle s'améliore généralement avec une rééducation orthophonique ; rarement, une opération de correction peut être nécessaire. C'est pourquoi le palais est examiné avec attention avant l'opération."
+   },
+   {
+    "name": "Glissement des vertèbres cervicales (syndrome de Grisel)",
+    "text": "Affection **très rare** dans laquelle l'inflammation à l'arrière du nez atteint les ligaments des vertèbres cervicales supérieures. Elle se manifeste par une douleur du cou qui commence dans les jours suivant l'opération et s'aggrave progressivement, une impossibilité de tourner la tête et une tête maintenue inclinée d'un côté. Si elle est reconnue tôt, elle est traitée par des médicaments et un collier cervical ; si le diagnostic est retardé, un traitement plus long ou, rarement, une chirurgie peuvent être nécessaires, et une limitation définitive des mouvements du cou peut persister. Une douleur du cou qui s'aggrave progressivement doit donc toujours être signalée."
+   },
+   {
+    "name": "Adhérences ou rétrécissement à l'arrière du nez",
+    "text": "Très rarement, en particulier lorsqu'une grande quantité de tissu est retirée en même temps qu'une amygdalectomie, un rétrécissement peut apparaître à l'arrière du nez au cours de la cicatrisation ; il peut provoquer une obstruction nasale et nécessiter un traitement complémentaire."
+   },
+   {
+    "name": "Saignement grave et ses conséquences",
+    "text": "De manière extrêmement rare, en présence d'un vaisseau sanguin au trajet anormal ou d'un trouble de la coagulation méconnu, un saignement grave peut survenir. Une chirurgie d'urgence, une transfusion sanguine et une prise en charge en **réanimation** peuvent alors être nécessaires ; le passage de sang dans les voies respiratoires peut entraîner des problèmes respiratoires."
+   }
+  ]
+ },
+ "emergency": [
+  "**Sang frais, rouge** par la bouche ou le nez, crachats ou vomissements de sang (tout saignement au-delà de quelques gouttes doit être signalé)",
+  "Déglutitions fréquentes (chez l'enfant, signe important que du sang est avalé), pâleur, grande fatigue",
+  "**Fièvre supérieure à 38,5 °C**, ou fièvre qui ne baisse pas avec les antalgiques",
+  "Refus total de boire, absence d'urines depuis 6–8 heures, somnolence inhabituelle (signes de déshydratation)",
+  "**Douleur du cou** qui s'aggrave progressivement, impossibilité de tourner la tête ou tête maintenue inclinée d'un côté",
+  "Difficultés respiratoires ou pauses respiratoires marquées pendant le sommeil"
+ ],
+ "lifestyle": [
+  "Contre la douleur, utilisez uniquement **les antalgiques recommandés par votre médecin** ; l'aspirine et les médicaments contenant de l'aspirine ne doivent pas être utilisés, car ils peuvent augmenter le saignement.",
+  "Les premiers jours, des aliments mous tièdes ou frais et **beaucoup de liquides** sont recommandés ; évitez les aliments très chauds, durs et épicés.",
+  "Ne vous mouchez pas fort pendant la première semaine.",
+  "Si un vol de retour à l'étranger est prévu au cours de la première semaine après l'opération, discutez avec votre médecin du moment le plus précoce auquel il est sûr de prendre l'avion ; en raison du risque de saignement, il est conseillé de rester à proximité de votre médecin pendant les premiers jours."
+ ],
+ "declarations_extra": [
+  "On m'a expliqué que, pendant les premiers jours suivant l'opération, en particulier pour mon enfant, je dois surveiller les signes de saignement (déglutitions fréquentes, crachats ou vomissements de sang) et contacter le médecin."
+ ]
+}

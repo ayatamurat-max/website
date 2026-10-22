@@ -1,0 +1,118 @@
+code: "15"
+type: office
+aesthetic: true
+title: "Dermal Filler (Hyaluronic Acid) Treatment"
+alt_name: "Hyaluronic acid injection for facial volume loss, contour and lines"
+
+specific_fields:
+  - label: "Product name / brand:"
+  - label: "LOT number and expiry date:"
+  - label: "Total amount (mL):"
+  - label: "Treatment areas:"
+    options: ["Lips", "Nasolabial folds", "Cheeks / cheekbones", "Chin", "Jawline", "Under-eye (tear trough)", "Nose", "Other"]
+  - label: "Injection tool:"
+    options: ["Needle", "Cannula", "Both"]
+
+about:
+  - "Hyaluronic acid is a substance found naturally in our skin; it holds water and gives tissues their fullness. Filler products are a laboratory-made, gel form of this substance. They are used to **restore volume** lost with age, to **define the contour** of the lips, cheeks, chin and jawline, or to soften **lines and hollows**."
+  - "Volume loss and lines in the face develop because of ageing, changes in bone and fat tissue, weight loss, sun exposure and genetics. The effect of hyaluronic acid filler is **temporary**; it is gradually absorbed by the body. **Permanent filler products are not used in our clinic.**"
+
+procedure_intro:
+  - "The treatment is carried out in the clinic. First your face is assessed, your expectations are discussed, a treatment plan is made and photographs are taken before treatment."
+procedure_steps:
+  - "**Preparation:** Make-up is removed and the skin is cleaned with an antiseptic solution. An anaesthetic cream may be applied for your comfort; most filler products also contain a local anaesthetic (lidocaine)."
+  - "**Injection:** The gel is placed slowly and in small amounts at the planned depth and area, using a fine needle or a flexible blunt-tipped cannula. Safe techniques are used to reduce the risk of injecting into a blood vessel."
+  - "**Shaping:** If necessary, the product is gently moulded with the fingers; the result is assessed together with you in the mirror."
+  - "**Record:** The product name, LOT number, amount and treatment areas are recorded in your file. You may be given a card/label with the product details; we recommend that you keep it."
+procedure_notes:
+  - "An important safety advantage of hyaluronic acid filler is that, if necessary, it can be dissolved with an enzyme called **hyaluronidase**. This medicine and emergency equipment are always kept ready in our clinic."
+anesthesia: "Anaesthetic cream and/or local anaesthetic contained in the product"
+duration: "About 20–45 minutes"
+stay: "Same day; 15–30 minutes of observation afterwards"
+
+benefits:
+  - "Replacement of lost volume, giving a fresher and more balanced appearance"
+  - "More defined and harmonious contours of the lips, cheeks, chin and jawline"
+  - "Softening of lines and hollows"
+  - "An immediately visible result and a quick return to daily life"
+success:
+  - "The result is visible immediately after treatment and can be judged more clearly once the swelling has settled, at about **2 weeks**. Depending on the product, the area and your metabolism, the effect usually lasts **6–18 months** (shorter in the lips, longer in the cheeks and chin). To maintain the result, treatment needs to be repeated at intervals. Where skin sagging is marked, the improvement achievable with filler may be limited."
+
+alternatives:
+  - "**No treatment:** As this is a cosmetic procedure, you always have the option not to have it."
+  - "**Botulinum toxin:** More suitable for lines caused by facial movement rather than by volume loss."
+  - "**Skin rejuvenation:** Mesotherapy, PRP, peels or laser can improve skin quality but do not add volume."
+  - "**Fat transfer (using your own fat):** May last longer; requires a minor surgical procedure."
+  - "**Surgery:** A face lift, eyelid surgery, chin implant or rhinoplasty may give a more marked or permanent change."
+
+no_treatment:
+  - "If the treatment is not carried out, your face will continue to change with natural ageing. This poses no danger to your health."
+
+before:
+  - "Treatment is **not given, or is postponed,** in the following situations: pregnancy, breastfeeding, active acne, cold sores or infection in the treatment area, known allergy to the product or to lidocaine, a history of severe allergic reactions (anaphylaxis), or an uncontrolled autoimmune disease. Please tell us if any of these apply to you."
+  - "Tell us if you have previously had **any filler** in the same area (especially permanent products or products of unknown type), threads or implants."
+  - "If possible, avoid dental treatment, vaccinations or other planned surgery for **2 weeks before and 2 weeks after** treatment, as these can increase the risk of a delayed inflammatory reaction. If you need them, please let us know."
+  - "If you have an important social event, plan treatment at least 2 weeks beforehand because of possible swelling and bruising."
+
+recovery:
+  - when: "First 24 hours"
+    what: "Swelling, tenderness and redness occur in the area; a cold compress helps. Do not massage or press the area. Avoid make-up, saunas, strenuous exercise and alcohol. Swelling is more noticeable after lip filler."
+  - when: "Days 2–7"
+    what: "Swelling largely settles. **If** bruising occurs, it fades within 5–10 days. Small firm areas may be felt; most soften by themselves. Avoid sleeping face down and facial massage."
+  - when: "Week 2"
+    what: "The result settles. A check-up is arranged if needed; if there is asymmetry or under-correction, a small additional treatment may be planned after the doctor's assessment."
+  - when: "Months 6–18"
+    what: "The product is gradually absorbed. The timing of repeat treatment is planned together with you."
+
+risks:
+  expected:
+    - "Mild pain, redness and tenderness at the injection points"
+    - "Swelling (may be marked for a few days, especially in the lips and under the eyes)"
+    - "Bruising; **if** it occurs it fades within 1–2 weeks"
+    - "Small firm areas that can be felt (usually soften within a few weeks)"
+  common:
+    - name: "Slight asymmetry or more/less fullness than expected"
+      text: "The two halves of the face are naturally different; small differences may remain. These can be corrected at the check-up with additional filler or with hyaluronidase."
+    - name: "Prolonged swelling"
+      text: "Particularly under the eyes, swelling may last for weeks in some people."
+  uncommon:
+    - name: "Persistent firmness or nodules (lumps)"
+      text: "May form where product collects in one place. Can be treated with massage, hyaluronidase or other treatments."
+    - name: "Bluish discolouration (Tyndall effect)"
+      text: "May be seen when the product is placed too close to the surface, especially in the thin skin under the eyes; it can be corrected with hyaluronidase."
+    - name: "Movement of the product (migration)"
+      text: "Over time the product may shift to a neighbouring area (e.g. above the lip border); it can be dissolved if needed."
+    - name: "Infection and biofilm"
+      text: "Rarely, redness, warmth, pain or an abscess may develop at the treatment site. Antibiotics and, if necessary, dissolving the filler and drainage may be needed. If a layer of bacteria (biofilm) forms around the product, inflammation may recur and treatment may take a long time."
+    - name: "Delayed inflammatory reaction"
+      text: "**Weeks or even months** after treatment, often following an immune trigger such as flu, dental treatment or a vaccination, painful swelling and redness may develop in the filler area (in **fewer than 1 in 100** patients). It improves with medication and, if needed, dissolving the filler."
+    - name: "Cold sore reactivation"
+      text: "May occur, especially after lip treatment; if you have had cold sores before, preventive medication may be given."
+  rare:
+    - name: "Blockage of a blood vessel (vascular occlusion)"
+      text: "This is the most important risk of filler. If the product enters a blood vessel or presses on it from outside, the blood supply to that area may be disrupted. It is reported in roughly **1 in 1,000 to 1 in 10,000 treatments**; the risk is higher in the **nose, between the eyebrows and the nasolabial folds**. Signs: **severe pain** during or after treatment, **blanching** of the skin, followed by a **dusky, purplish, net-like discolouration** and coldness. If not recognised early and treated immediately, it can lead to **skin breakdown and tissue loss (necrosis)**, permanent scarring and deformity."
+    - name: "Emergency treatment: hyaluronidase"
+      text: "If a vascular occlusion is suspected, the treatment is stopped at once and a high dose of **hyaluronidase** is injected to dissolve the filler, together with warm compresses, massage and medication. This treatment is usually effective but **may not always fully reverse** the damage. Hyaluronidase itself can very rarely cause an allergic reaction. Hospital referral, wound care, prolonged treatment or later corrective procedures may be required."
+    - name: "Loss of vision and stroke"
+      text: "Although extremely rare, if the product reaches the blood vessels supplying the eye or brain it can cause **partial or complete, permanent loss of vision** or a **stroke**. It is most often associated with treatment of the nose and the area between the eyebrows. In this situation **minutes matter**; you will be referred to hospital for emergency eye and neurological assessment."
+    - name: "Serious allergic reaction"
+      text: "A severe allergic reaction (anaphylaxis) to hyaluronic acid or lidocaine is extremely rare; it requires emergency treatment."
+    - name: "Granuloma"
+      text: "The body forms firm, inflammatory lumps in reaction to the product; this is very rare and may need long-term treatment."
+
+emergency:
+  - "**Severe pain** after treatment that does not settle or keeps increasing"
+  - "**Blanching, or a dusky purplish, net-like (marbled) discolouration** of the skin, coldness, blisters or a wound"
+  - "**Blurred vision or loss of vision**, eye pain or double vision — **minutes matter**: call immediately or go to the nearest emergency department"
+  - "Sudden **severe headache, slurred speech, weakness of the face, arm or leg** (signs of stroke) — call 112 immediately"
+  - "Rapidly developing swelling of the face, lips or tongue, hives or shortness of breath"
+  - "Fever, redness, warmth and increasing firmness/swelling (even weeks later)"
+
+lifestyle:
+  - "Avoid make-up, saunas, Turkish baths, strenuous exercise and alcohol for the first 24 hours; avoid massaging the area, facials and sleeping face down for the first 2 weeks."
+  - "Protect the area from sun, sunbeds and very cold conditions for the first 2 weeks."
+  - "If another doctor treats your face in the future (filler, laser, surgery, dental treatment), tell them you have had filler and the name of the product."
+
+declarations_extra:
+  - "It has been explained to me that there is a risk of vascular occlusion and resulting skin damage and, although very rarely, of loss of vision and stroke; what emergency treatment (hyaluronidase) would be given in that case; and that this treatment may not always be fully successful."
+  - "I understand that the effect of filler is temporary and that permanent fillers are not used in this clinic, and I declare that I have fully disclosed any previous filler or implant treatments."

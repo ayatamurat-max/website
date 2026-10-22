@@ -1,0 +1,156 @@
+{
+ "code": "04",
+ "type": "surgical",
+ "aesthetic": false,
+ "title": "Adenoidectomy",
+ "alt_name": "Removal of the adenoids",
+ "about": [
+  "The adenoids are lymphatic tissue, part of the body's immune system, located at the back of the nose above the roof of the mouth. They may enlarge, particularly in children aged 2–7, and usually shrink from adolescence onwards.",
+  "Enlarged adenoids can block the back of the nose, causing **mouth breathing, snoring, pauses in breathing during sleep, a runny nose, a nasal-sounding voice and frequent infections**. Because they can also block the opening of the Eustachian tube, which connects the ear to the back of the nose, they may lead to **fluid in the middle ear (glue ear), reduced hearing and repeated ear infections**. Long-term mouth breathing may also affect the development of the face and teeth.",
+  "The aim of adenoidectomy is to remove the enlarged adenoid tissue in order to make nasal breathing easier and to reduce ear, sinus and airway problems. Your doctor will explain separately why this operation has been recommended for you or your child."
+ ],
+ "procedure_intro": [
+  "The operation is performed under general anaesthesia in an operating theatre. It is done through the mouth; **there are no cuts or scars on the outside.**"
+ ],
+ "procedure_steps": [
+  "**Preparation:** After the anaesthetic has been given, a special instrument is placed to keep the mouth open and the soft palate is gently lifted so that the back of the nose can be seen.",
+  "**Removing the adenoids:** The adenoids are removed from the back of the nose using a curette (a special scraping instrument), an endoscope-guided microdebrider, coblation or diathermy. As the adenoids are a tissue rather than a separate organ, they cannot be removed “by the roots”; the aim is to safely remove the part causing the blockage.",
+  "**Controlling bleeding:** Pressure is applied to the area with a swab for a short time and, if needed, bleeding is stopped with diathermy. No packing is left at the back of the nose at the end of the operation.",
+  "**Additional procedures:** If planned, removal of the tonsils (tonsillectomy) or insertion of ventilation tubes into the eardrums is carried out under the same anaesthetic. Separate consent forms are completed for these procedures.",
+  "**Waking up:** After the operation the patient is closely monitored in the recovery room until fully awake."
+ ],
+ "procedure_notes": [
+  "If the doctor considers it necessary, the removed tissue is sent for pathological examination."
+ ],
+ "anesthesia": "General anaesthesia",
+ "duration": "About 20–30 minutes (excluding anaesthesia time)",
+ "stay": "Usually home the same day; one night's observation if needed",
+ "benefits": [
+  "Easier nasal breathing, with less snoring and fewer pauses in breathing during sleep",
+  "Better-quality sleep, and as a result improved daytime attention, behaviour and school performance",
+  "Fewer episodes of middle-ear fluid and ear infections, helping hearing to improve",
+  "Less nasal discharge, and fewer episodes of sinusitis and upper respiratory infections"
+ ],
+ "success": [
+  "In carefully selected patients, nasal blockage and snoring improve markedly in the great majority of cases. However, if the blockage has other causes as well — such as allergy, enlarged turbinates or a deviated septum — the symptoms may not resolve completely. Success for ear problems also depends on the development of the Eustachian tube; some children may need further treatment or ventilation tubes."
+ ],
+ "alternatives": [
+  "**Watchful waiting:** If symptoms are mild, it is possible to wait with regular check-ups, as the adenoids shrink with age.",
+  "**Medicines:** Steroid nasal sprays can temporarily reduce adenoid swelling and blockage in some children; if there is an allergy, it is treated. The effect usually lasts only as long as the medicine is used.",
+  "**Ventilation tubes alone for ear problems:** In some cases, inserting tubes into the eardrums without removing the adenoids may be considered.",
+  "**Other options for sleep apnoea:** In very rare cases where surgery is not suitable, a positive airway pressure device (CPAP) may be used during sleep."
+ ],
+ "no_treatment": [
+  "If the operation is not carried out, the adenoids may shrink by themselves during adolescence. Until then, however, mouth breathing, snoring, poor sleep, recurrent infections and hearing loss due to fluid in the ear may continue. Long-standing and severe sleep-disordered breathing can, in children, lead to slower growth and development, attention and behaviour problems and, rarely, strain on the heart and lungs. Middle-ear fluid that persists for a long time can affect speech development and cause permanent changes in the eardrum."
+ ],
+ "before": [
+  "Blood tests (particularly bleeding and clotting tests) and any other necessary investigations are carried out before the operation, and you will be assessed by the anaesthetist.",
+  "Please tell us if there is a family history of easy bleeding, bruising or a bleeding disorder.",
+  "No solid food or milk should be given for **6 hours** before the operation; for clear fluids, follow the time given by the anaesthetist.",
+  "Please let us know if there has been a fever, diarrhoea, cough or flu in the 2–3 weeks before the operation; it may be necessary to postpone it.",
+  "If there is a loose baby tooth, tell your doctor, as it could come out during the anaesthetic.",
+  "We recommend preparing your child for the operation using age-appropriate language that does not frighten them."
+ ],
+ "recovery": [
+  {
+   "when": "Day of surgery",
+   "what": "After waking up there may be a mild sore throat, blood-stained mucus from the nose and mouth breathing. Vomiting or a slight temperature may occur. Once any nausea has passed, water is given first, then lukewarm, soft foods. Most patients go home the same day."
+  },
+  {
+   "when": "First 3–5 days",
+   "what": "Nasal blockage and snoring may still be present because of swelling; there may be bad breath, a slight temperature, earache and neck pain. Pain is usually mild and is controlled with the painkillers your doctor recommends. Drinking plenty of fluids is important."
+  },
+  {
+   "when": "Week 1",
+   "what": "Most children can return to school or nursery within 3–7 days, and adults to work. Avoid crowded places and people with infections during the first week."
+  },
+  {
+   "when": "Weeks 2–4",
+   "what": "As the swelling settles, nasal breathing improves noticeably. Any temporary nasal-sounding voice usually settles during this period. Swimming and strenuous sport are generally allowed after 2 weeks."
+  },
+  {
+   "when": "Months 1–3",
+   "what": "A follow-up examination is carried out; if the operation was done for ear problems, a hearing test and tympanometry are used to check the ears."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Mild sore throat and discomfort when swallowing",
+   "Blood-stained mucus from the nose and nasal blockage for a few days",
+   "Bad breath (from the healing surface; settles within 1–2 weeks)",
+   "Earache (referred pain from shared nerves; it does not mean there is a problem in the ear)",
+   "Slight temperature (first 1–2 days), nausea and vomiting from the anaesthetic"
+  ],
+  "common": [
+   {
+    "name": "Temporary nasal-sounding voice",
+    "text": "It takes time for the palate to adapt after the adenoids are removed; air may escape through the nose when speaking for a few days to a few weeks, and occasionally fluids may come back through the nose. This usually settles by itself within 1–2 months."
+   },
+   {
+    "name": "Neck pain and stiffness",
+    "text": "Because of the operating position and healing at the back of the nose, moving the neck may be painful in the first few days; this usually settles within a few days."
+   },
+   {
+    "name": "Symptoms not resolving completely",
+    "text": "If there are additional causes such as allergy, enlarged turbinates or a deviated septum, nasal blockage may partly continue; further treatment may be needed."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Bleeding",
+    "text": "Significant bleeding after the operation occurs in **fewer than 1 in 100 patients (about 0.5–1 in 100)**. It most often occurs in the first 24 hours. If the bleeding cannot be stopped, **a return to the operating theatre under general anaesthesia to stop it** may be necessary. A blood transfusion is very rarely needed."
+   },
+   {
+    "name": "Dental damage",
+    "text": "Pressure from the instrument used to keep the mouth open may chip or dislodge a tooth, particularly one that is already loose or decayed."
+   },
+   {
+    "name": "Injury or swelling of the lips, tongue or palate",
+    "text": "Small sores or temporary swelling may occur from contact with instruments; they heal within a few days."
+   },
+   {
+    "name": "Infection",
+    "text": "May show as a rising temperature, worsening bad breath and increasing pain; it usually improves with antibiotics."
+   },
+   {
+    "name": "Regrowth of the adenoids",
+    "text": "Adenoid tissue can grow back (in about **1–5 in 100** patients), especially in those operated on at a very young age and those with allergies. If symptoms return, a repeat operation may rarely be needed."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Permanent nasal speech / fluids coming back through the nose (velopharyngeal insufficiency)",
+    "text": "Occurs in about **1 in 1,500–3,000** patients; the risk is higher in children with a hidden cleft of the palate (submucous cleft). It usually improves with speech therapy; rarely, a corrective operation may be needed. This is why the palate is examined carefully before surgery."
+   },
+   {
+    "name": "Slipping of the neck vertebrae (Grisel syndrome)",
+    "text": "A **very rare** condition in which inflammation at the back of the nose affects the ligaments of the upper neck vertebrae. It shows as neck pain that starts in the days after surgery and gets steadily worse, inability to turn the head, and the head being held tilted to one side. If recognised early it is treated with medicines and a neck collar; if diagnosis is delayed, longer treatment or, rarely, surgery may be needed and permanent restriction of neck movement may remain. Steadily worsening neck pain must therefore always be reported."
+   },
+   {
+    "name": "Scarring or narrowing at the back of the nose",
+    "text": "Very rarely, especially when extensive tissue is removed together with a tonsillectomy, narrowing may develop at the back of the nose during healing; this may cause nasal blockage and require further treatment."
+   },
+   {
+    "name": "Severe bleeding and its consequences",
+    "text": "Extremely rarely, in the presence of an abnormally placed blood vessel or an unrecognised clotting disorder, severe bleeding may occur. In this case emergency surgery, blood transfusion and **intensive care** treatment may be needed; blood entering the airway can cause breathing problems."
+   }
+  ]
+ },
+ "emergency": [
+  "**Fresh, red blood** from the mouth or nose, spitting or vomiting blood (any bleeding beyond a few spots should be reported)",
+  "Frequent swallowing (in children an important sign that blood is being swallowed), paleness, weakness",
+  "**Fever above 38.5 °C**, or a fever that does not settle with painkillers",
+  "Not drinking at all, no urine for 6–8 hours, unusual drowsiness (signs of dehydration)",
+  "Steadily worsening **neck pain**, inability to turn the head or the head held tilted to one side",
+  "Difficulty breathing or marked pauses in breathing during sleep"
+ ],
+ "lifestyle": [
+  "For pain, use only **the painkillers recommended by your doctor**; aspirin and aspirin-containing medicines must not be used, as they may increase bleeding.",
+  "In the first few days, lukewarm or cool soft foods and **plenty of fluids** are recommended; avoid very hot, hard and spicy food.",
+  "Do not blow the nose forcefully for the first week.",
+  "If a return flight abroad is planned in the first week after surgery, discuss with your doctor the earliest time it is safe to fly; because of the risk of bleeding, it is advisable to stay within reach of your doctor for the first few days."
+ ],
+ "declarations_extra": [
+  "It has been explained to me that in the first few days after surgery, particularly for my child, I must watch for signs of bleeding (frequent swallowing, spitting or vomiting blood) and contact the doctor."
+ ]
+}

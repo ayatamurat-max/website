@@ -1,0 +1,167 @@
+{
+ "code": "02",
+ "type": "surgical",
+ "aesthetic": false,
+ "title": "Septoplastie",
+ "alt_name": "Chirurgie de redressement de la paroi centrale du nez (cloison nasale)",
+ "about": [
+  "La paroi faite de cartilage et d'os fin qui divise la cavité nasale en côtés droit et gauche s'appelle la **cloison nasale (septum)**. Lorsque la cloison est déviée vers un côté ou vers les deux, on parle de **déviation de la cloison nasale**. Elle peut être présente dès la naissance, apparaître pendant la croissance ou survenir après un coup sur le nez.",
+  "Une cloison déviée peut entraîner une obstruction nasale, une respiration par la bouche, des ronflements, un sommeil de mauvaise qualité, une sécheresse de la bouche, des saignements de nez et, chez certaines personnes, des épisodes de sinusite ou des maux de tête. Comme il s'agit d'un problème structurel, il ne s'améliore pas avec des médicaments. Le but de la septoplastie est de redresser les parties déviées afin que vous puissiez **respirer confortablement par le nez**. Cette opération ne vise pas à modifier l'apparence extérieure du nez."
+ ],
+ "procedure_intro": [
+  "L'opération est généralement réalisée sous anesthésie générale, au bloc opératoire, entièrement par les narines. Il n'y a ni incision ni cicatrice visible sur le visage."
+ ],
+ "procedure_steps": [
+  "**Incision :** Une petite incision est pratiquée à l'intérieur de la narine, dans la muqueuse qui recouvre la cloison.",
+  "**Décollement de la muqueuse :** La muqueuse qui recouvre les deux faces de la cloison est délicatement séparée du cartilage et de l'os.",
+  "**Correction de la déviation :** Les fragments de cartilage et d'os déviés sont retirés, redressés ou repositionnés. Les parties de soutien qui maintiennent la forme extérieure du nez (la charpente cartilagineuse qui soutient le dos et la pointe du nez) sont préservées.",
+  "**Réduction des cornets (si nécessaire) :** Si les structures de la paroi latérale du nez appelées cornets sont hypertrophiées, elles sont réduites par radiofréquence ou par retrait de tissu sous la muqueuse.",
+  "**Fermeture :** La muqueuse est remise en place et maintenue par des points résorbables.",
+  "**Attelles/mèches :** Pour aider la cloison à cicatriser bien droite et pour prévenir les saignements, on place généralement à l'intérieur du nez des attelles souples en silicone munies d'un canal central permettant de respirer, ou des mèches."
+ ],
+ "procedure_notes": [
+  "Si la partie antérieure et externe de la cloison est également déviée, ou si la forme extérieure du nez contribue à l'obstruction, l'opération peut être associée à une rhinoplastie (septorhinoplastie), à condition que cela soit discuté et fasse l'objet d'un consentement distinct."
+ ],
+ "anesthesia": "Anesthésie générale (dans certains cas, anesthésie locale + sédation)",
+ "duration": "Environ 45–90 minutes",
+ "stay": "Sortie le jour même ou une nuit d'hospitalisation",
+ "benefits": [
+  "Une respiration nasale plus facile et moins de respiration par la bouche",
+  "Une meilleure qualité de sommeil et moins de ronflements (le ronflement peut aussi avoir d'autres causes)",
+  "Moins de saignements de nez récidivants liés à la déviation et, chez certains patients, moins d'épisodes de sinusite",
+  "Un meilleur accès pour une chirurgie des sinus ou une autre chirurgie nasale si nécessaire"
+ ],
+ "success": [
+  "Les publications indiquent qu'environ **70–85 patients sur 100** décrivent une nette amélioration de l'obstruction nasale après l'opération. Si l'obstruction a aussi d'autres causes, comme une allergie, un gonflement de la muqueuse, une faiblesse des ailes du nez ou une maladie des sinus, celles-ci peuvent nécessiter un traitement distinct. Rarement, la cloison peut se dévier à nouveau légèrement avec le temps."
+ ],
+ "alternatives": [
+  "**Ne pas opérer / surveillance :** Si vos symptômes sont légers, une simple surveillance est possible.",
+  "**Traitement médicamenteux :** Les sprays nasaux à base de corticoïdes, les lavages de nez et les médicaments contre l'allergie peuvent soulager les symptômes en réduisant le gonflement de la muqueuse, mais ils ne corrigent pas une déviation structurelle de l'os et du cartilage.",
+  "**Bandelettes nasales / dilatateurs de narines :** Peuvent apporter un soulagement temporaire.",
+  "**Sprays décongestionnants (vasoconstricteurs) :** Ne conviennent que pour quelques jours ; une utilisation prolongée entraîne une dépendance et une obstruction encore plus importante."
+ ],
+ "no_treatment": [
+  "Si l'opération n'est pas réalisée, la déviation ne se redressera pas d'elle-même ; les symptômes tels que l'obstruction nasale, la respiration par la bouche et les ronflements persisteront et peuvent s'aggraver avec l'âge. Cette situation ne met généralement pas la vie en danger ; la décision d'opérer dépend de l'importance de l'impact de vos symptômes sur votre qualité de vie."
+ ],
+ "before": [
+  "Des analyses de sang et, si nécessaire, un scanner des sinus et d'autres examens sont réalisés avant l'opération, et vous serez examiné(e) par le médecin anesthésiste.",
+  "Vous ne devez rien manger ni boire pendant les **6–8 heures** précédant l'opération (veuillez suivre les consignes du médecin anesthésiste).",
+  "Si vous avez un rhume, une grippe ou une maladie avec fièvre dans les jours précédant l'opération, signalez-le-nous ; l'opération peut être reportée."
+ ],
+ "recovery": [
+  {
+   "when": "48 premières heures",
+   "what": "Votre nez sera bouché à cause des attelles, et vous pouvez vous attendre à un léger suintement teinté de sang, à des maux de tête et à une sécheresse de la gorge. La douleur est généralement légère. Il est recommandé de dormir la tête surélevée. La compresse placée sous le nez peut devoir être changée plusieurs fois."
+  },
+  {
+   "when": "3e–7e jour",
+   "what": "Les attelles en silicone ou les mèches sont généralement retirées lors d'une consultation de contrôle **entre le 3e et le 7e jour** ; cela provoque une gêne de courte durée. Les lavages de nez sont alors commencés. La plupart des personnes reprennent un travail de bureau en 5–7 jours."
+  },
+  {
+   "when": "2e–4e semaine",
+   "what": "Des croûtes et une sécheresse à l'intérieur du nez peuvent apparaître et diminuent avec des lavages réguliers. La respiration s'améliore progressivement. Les efforts physiques intenses et les sports de contact doivent être reportés d'environ **3–4 semaines**."
+  },
+  {
+   "when": "1er–3e mois",
+   "what": "La muqueuse nasale cicatrise complètement. Le résultat respiratoire définitif est généralement évalué durant cette période."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Obstruction nasale et respiration par la bouche jusqu'au retrait des attelles",
+   "Léger suintement teinté de sang les premiers jours",
+   "Engourdissement temporaire des dents de devant du haut et de la lèvre supérieure",
+   "Croûtes et sécheresse à l'intérieur du nez (les premières semaines)",
+   "Diminution temporaire de l'odorat"
+  ],
+  "common": [
+   {
+    "name": "Croûtes et sécheresse prolongées",
+    "text": "Peuvent durer plusieurs semaines, en particulier si une réduction des cornets a été réalisée ; disparaissent avec les lavages et une pommade hydratante."
+   },
+   {
+    "name": "Engourdissement prolongé des dents du haut et de la lèvre",
+    "text": "Disparaît généralement en quelques semaines ; rarement, il peut durer quelques mois."
+   },
+   {
+    "name": "Obstruction ne disparaissant pas complètement",
+    "text": "Chez environ **15–30 patients sur 100**, la respiration peut ne pas s'améliorer autant que prévu. Cela est souvent dû à des facteurs supplémentaires tels qu'une allergie, un gonflement de la muqueuse ou une faiblesse des ailes du nez ; un traitement médicamenteux ou une chirurgie complémentaire peut être nécessaire."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Saignement de nez (épistaxis)",
+    "text": "Chez environ **1–3 patients sur 100**, un saignement nécessitant un méchage peut survenir. Très rarement, il peut être nécessaire d'arrêter le saignement au bloc opératoire."
+   },
+   {
+    "name": "Trou dans la cloison (perforation septale)",
+    "text": "Chez environ **1–3 patients sur 100**, un trou peut se former dans la cloison. Il ne provoque souvent aucun symptôme ; s'il entraîne un sifflement, des croûtes ou des saignements, des lavages, la pose d'un bouton septal (obturateur) ou une opération de réparation peuvent être nécessaires."
+   },
+   {
+    "name": "Adhérences à l'intérieur du nez (synéchies)",
+    "text": "Chez environ **1–5 patients sur 100**, des adhérences peuvent se former entre la cloison et la paroi latérale ; si elles provoquent une obstruction, elles sont séparées par un geste simple lors d'une consultation de contrôle."
+   },
+   {
+    "name": "Collection de sang ou de pus dans la cloison (hématome / abcès de cloison)",
+    "text": "Survient chez **moins de 1 patient sur 100**. Elle se manifeste par une obstruction croissante, des douleurs et de la fièvre dans les jours suivant l'opération. La collection doit être **drainée en urgence** pour éviter d'endommager le cartilage du nez ; en l'absence de traitement, une perte de cartilage et un affaissement du dos du nez peuvent survenir."
+   },
+   {
+    "name": "Infection",
+    "text": "Rare ; elle guérit généralement sous antibiotiques."
+   },
+   {
+    "name": "Récidive de la déviation",
+    "text": "Le cartilage ayant une « mémoire », la cloison peut à nouveau se dévier légèrement avec le temps ; si cela entraîne des symptômes, une deuxième opération peut être nécessaire."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Affaissement du dos du nez (nez en selle)",
+    "text": "Survient chez **moins de 1 patient sur 100**. Un affaiblissement du cartilage de soutien de la cloison, ou une perte de cartilage après un hématome/abcès, peut entraîner l'affaissement du dos du nez ; cela modifie l'apparence extérieure du nez et nécessite, pour être corrigé, une opération supplémentaire avec greffe de cartilage."
+   },
+   {
+    "name": "Affaissement ou modification de forme de la pointe du nez",
+    "text": "Très rare ; peut survenir si les structures de soutien sont touchées."
+   },
+   {
+    "name": "Diminution ou perte définitive de l'odorat",
+    "text": "Très rare."
+   },
+   {
+    "name": "Fuite de liquide cérébrospinal (LCS) et méningite",
+    "text": "La partie supérieure de la cloison étant voisine de la base du crâne, il s'agit d'une complication extrêmement rare, survenant dans **bien moins de 1 cas sur 10 000**. Si elle survient, une hospitalisation, un traitement complémentaire et une opération de réparation peuvent être nécessaires."
+   },
+   {
+    "name": "Syndrome du nez vide",
+    "text": "Si les cornets sont trop réduits, une sensation d'obstruction et de sécheresse peut apparaître alors même que le nez est dégagé. Cette complication est très rare ; c'est pourquoi les cornets sont réduits de façon mesurée, en les préservant. Si elle apparaît, elle peut être durable ou définitive et elle est difficile à traiter."
+   },
+   {
+    "name": "Syndrome du choc toxique",
+    "text": "Maladie infectieuse très rare mais grave, liée à l'utilisation de mèches/attelles nasales (forte fièvre soudaine, éruption cutanée, chute de la tension artérielle), qui nécessite un traitement urgent. Elle impose une prise en charge hospitalière, parfois en réanimation, et peut mettre la vie en danger."
+   },
+   {
+    "name": "Troubles de la vision, saignement autour de l'œil",
+    "text": "Extrêmement rares avec une septoplastie ; le risque est un peu plus élevé en cas d'association à une chirurgie des sinus telle que la FESS, et il est expliqué sur un formulaire de consentement distinct."
+   }
+  ]
+ },
+ "emergency": [
+  "**Saignement de nez qui ne s'arrête pas ou très abondant** malgré quelques minutes de compression et l'application de glace, ou sang coulant en permanence dans la bouche",
+  "**Obstruction nasale croissante, douleur intense et gonflement du nez** dans les jours suivant l'opération (peut être le signe d'un hématome/abcès de la cloison)",
+  "**Fièvre supérieure à 38,5 °C** ou écoulement malodorant",
+  "**Forte fièvre soudaine, éruption cutanée, vertiges ou grande fatigue** alors que les mèches/attelles sont en place",
+  "**Écoulement clair et aqueux** par le nez, en particulier s'il augmente lorsque vous vous penchez en avant ; maux de tête intenses ou raideur de la nuque",
+  "**Vision trouble ou double**, ou gonflement autour de l'œil",
+  "Essoufflement ou douleur thoracique"
+ ],
+ "lifestyle": [
+  "Ne vous mouchez pas pendant les 2 premières semaines ; gardez la bouche ouverte lorsque vous éternuez.",
+  "Rincez votre nez comme on vous l'a montré et aussi souvent que recommandé.",
+  "Pendant les 2 premières semaines, évitez les bains chauds, le sauna, le hammam et le port de charges lourdes.",
+  "Protégez votre nez des chocs pendant au moins 4 semaines.",
+  "Si vous êtes venu(e) de l'étranger, le voyage en avion est généralement sans danger une fois les attelles retirées."
+ ],
+ "declarations_extra": [
+  "Je comprends que le but de cette opération est d'améliorer la respiration, et non de modifier l'apparence extérieure du nez, et qu'un traitement complémentaire peut être nécessaire si l'obstruction a d'autres causes."
+ ]
+}

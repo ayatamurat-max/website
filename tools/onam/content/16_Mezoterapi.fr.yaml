@@ -1,0 +1,114 @@
+code: "16"
+type: office
+aesthetic: true
+title: "Mésothérapie"
+alt_name: "Micro-injections de produits de soin de la peau ou du cuir chevelu dans la peau ou le cuir chevelu"
+
+specific_fields:
+  - label: "Nom du produit / composition :"
+  - label: "N° de LOT / date de péremption :"
+  - label: "Zone traitée :"
+    options: ["Visage", "Cou", "Cuir chevelu", "Contour des yeux (cernes)", "Autre"]
+  - label: "Technique :"
+    options: ["Manuelle (aiguille)", "Pistolet injecteur de mésothérapie", "Dermaroller / microneedling"]
+  - label: "N° de séance / nombre de séances prévu :"
+
+about:
+  - "La mésothérapie consiste à injecter de petites quantités de produits contenant des ingrédients tels que **l'acide hyaluronique, des vitamines, des minéraux et des acides aminés** dans les couches superficielles de la peau ou du cuir chevelu, à l'aide d'aiguilles très fines. L'objectif est d'améliorer l'hydratation et l'éclat de la peau, d'atténuer l'aspect des ridules, du teint terne et des cernes d'aspect fatigué, ou de contribuer aux soins du cuir chevelu en cas de chute de cheveux."
+  - "La qualité de la peau et des cheveux est influencée par l'âge, l'exposition au soleil, le tabac, le stress, les hormones et la génétique. La mésothérapie n'arrête pas ces processus ; il s'agit d'un traitement **d'appoint**. Le produit et le nombre de séances qui vous conviennent seront décidés ensemble après votre consultation."
+
+procedure_intro:
+  - "Le traitement est réalisé dans notre cabinet, dans des conditions stériles. Seuls des produits **autorisés/enregistrés en Türkiye, stériles et ouverts à partir de leur emballage d'origine** sont utilisés ; le nom du produit et le numéro de LOT sont consignés dans votre dossier."
+procedure_steps:
+  - "**Préparation :** la zone est photographiée, le maquillage est retiré et la peau est nettoyée avec une solution antiseptique. Si vous le souhaitez, une crème anesthésiante peut être appliquée pendant 20–30 minutes."
+  - "**Traitement :** le produit est injecté dans la couche superficielle de la peau sous forme de nombreuses gouttelettes minuscules, manuellement avec une aiguille très fine, à l'aide d'un pistolet injecteur de mésothérapie ou d'un appareil de microneedling."
+  - "**Fin du soin :** la zone est nettoyée et, si nécessaire, une compresse froide est appliquée pendant un court moment. Des conseils de soins après le traitement vous seront donnés."
+procedure_notes:
+  - "L'effet devient généralement perceptible non pas après une seule séance, mais après **une cure de plusieurs séances**. La plupart des protocoles recommandent 3–6 séances espacées de 2–4 semaines, suivies de séances d'entretien tous les quelques mois."
+anesthesia: "Crème anesthésiante (facultative)"
+duration: "Environ 20–40 minutes"
+stay: "Le jour même ; courte surveillance après le traitement"
+
+benefits:
+  - "Une peau d'aspect plus hydraté, plus lumineux et plus frais ; des ridules moins visibles"
+  - "Un aspect moins fatigué sous les yeux"
+  - "Un soutien à la nutrition du cuir chevelu et à la qualité des cheveux en cas de chute de cheveux"
+success:
+  - "Les résultats varient considérablement d'une personne à l'autre. Le niveau de preuve scientifique de la mésothérapie dépend du produit et de l'objectif : les traitements à base d'acide hyaluronique visant la qualité de la peau ont été étudiés de manière plus approfondie, tandis que les données concernant certains mélanges de produits (« cocktails ») sont limitées. L'effet n'est pas permanent et des traitements réguliers sont nécessaires pour le maintenir. Aucun résultat précis ne peut être garanti."
+
+alternatives:
+  - "**Absence de traitement**, ou poursuite uniquement de soins réguliers de la peau, d'une protection solaire et de mesures d'hygiène de vie saine"
+  - "**Produits topiques :** crèmes contenant des rétinoïdes, de la vitamine C ou des ingrédients hydratants ; en cas de chute de cheveux, médicaments tels que le minoxidil sur avis médical"
+  - "**Autres traitements :** PRP, traitements à l'acide hyaluronique conçus pour la qualité de la peau, peelings chimiques, laser ou microneedling"
+  - "En cas de chute de cheveux, recherche et traitement d'une éventuelle cause sous-jacente (carence en fer ou trouble thyroïdien, causes hormonales)"
+
+no_treatment:
+  - "Si la mésothérapie n'est pas réalisée, votre peau ou vos cheveux poursuivront leur évolution naturelle. S'agissant d'un traitement purement esthétique/d'appoint, le fait de ne pas le réaliser ne comporte aucun risque pour votre santé."
+
+before:
+  - "Si possible, arrêtez pendant 1 semaine avant le traitement les produits qui peuvent favoriser les ecchymoses — tels que l'aspirine, les antalgiques (ibuprofène, etc.), les oméga-3 et la vitamine E — après en avoir parlé avec votre médecin."
+  - "En cas d'acné active, de bouton de fièvre (herpès labial), d'eczéma ou d'infection dans la zone à traiter, le traitement sera reporté."
+  - "Signalez-nous si vous avez reçu des produits de comblement, de la toxine botulique, un laser ou un peeling dans la même zone au cours des 2 dernières semaines."
+  - "La mésothérapie n'est pas réalisée pendant la grossesse ou l'allaitement."
+
+recovery:
+  - when: "Premières heures"
+    what: "De petites élevures (papules), une rougeur et un léger gonflement apparaissent aux points d'injection ; ils disparaissent généralement en quelques heures. De minuscules points de sang peuvent être visibles aux points de piqûre."
+  - when: "Premières 24 heures"
+    what: "Ne vous maquillez pas et ne frottez pas la zone. Évitez le sauna, le hammam, les cabines de bronzage (UV), le sport intense et l'exposition directe au soleil. Après un traitement du cuir chevelu, vous pouvez vous laver les cheveux le lendemain."
+  - when: "Jours 2–7"
+    what: "Si des ecchymoses **apparaissent**, elles s'estompent en 3–7 jours. Les légères élevures et la sensibilité disparaissent complètement. Continuez à utiliser une protection solaire."
+  - when: "Pendant la cure"
+    what: "Les séances sont généralement renouvelées toutes les 2–4 semaines. L'effet est le plus souvent remarqué après la 2e ou la 3e séance."
+  - when: "Après la cure"
+    what: "L'effet s'estompe progressivement ; des séances d'entretien tous les quelques mois peuvent être prévues pour le maintenir."
+
+risks:
+  expected:
+    - "Légère douleur ou sensation de brûlure due à l'aiguille"
+    - "Petites élevures, rougeur et léger gonflement aux points d'injection (quelques heures à 1 jour)"
+    - "Minuscules points de sang et sensibilité aux points de piqûre"
+  common:
+    - name: "Ecchymoses"
+      text: "Fréquentes, en particulier dans les zones où la peau est fine, comme sous les yeux ; elles disparaissent d'elles-mêmes en 3–7 jours et peuvent être camouflées par du maquillage."
+    - name: "Gonflement ou rougeur prolongés"
+      text: "Le gonflement sous les yeux peut durer quelques jours. Les compresses froides et le fait de dormir la tête surélevée aident."
+    - name: "Effet moindre que prévu"
+      text: "Certaines personnes peuvent ne constater aucun changement net, ou l'effet peut être de courte durée."
+  uncommon:
+    - name: "Augmentation temporaire de la chute des cheveux"
+      text: "Après un traitement du cuir chevelu, une augmentation temporaire de la chute peut survenir au cours des premières semaines ; elle disparaît généralement d'elle-même."
+    - name: "Réaction allergique ou inflammatoire"
+      text: "Des démangeaisons, une rougeur, de l'urticaire ou un gonflement prolongé peuvent apparaître en réaction à un composant du produit. Cela se traite généralement par des médicaments."
+    - name: "Assombrissement de la peau (hyperpigmentation)"
+      text: "Un assombrissement aux points de piqûre peut survenir, en particulier sur les peaux mates à foncées et en cas d'exposition au soleil ; il s'estompe généralement en quelques mois."
+    - name: "Petites grosseurs (nodules)"
+      text: "De petites grosseurs perceptibles au toucher peuvent se former ; la plupart disparaissent en quelques semaines."
+  rare:
+    - name: "Infection"
+      text: "Une infection bactérienne est rare. L'**infection à mycobactéries atypiques**, rapportée principalement en lien avec des produits non stériles ou non autorisés, peut apparaître plusieurs semaines après le traitement sous forme de nodules douloureux, rouges et suintants ; elle peut nécessiter un traitement antibiotique de longue durée et parfois un drainage chirurgical, et peut laisser des cicatrices. Pour réduire ce risque, seuls des produits autorisés et stériles sont utilisés."
+    - name: "Inflammation du tissu graisseux (panniculite) ou granulome"
+      text: "Réaction rare se manifestant par une induration douloureuse ou une rougeur des tissus profonds, qui peut être durable et nécessiter un traitement."
+    - name: "Cicatrice ou modification de couleur définitive"
+      text: "Très rarement, après une infection ou une réaction sévère, une cicatrice, un creux ou une différence de couleur de la peau définitifs peuvent persister."
+    - name: "Obstruction d'un vaisseau sanguin"
+      text: "En particulier avec les produits contenant de l'acide hyaluronique, il a été rapporté de manière **extrêmement rare** que la pénétration du produit dans un vaisseau sanguin ou la compression de celui-ci altère la vascularisation de la peau et laisse une cicatrice définitive. Si vous remarquez une douleur intense et soudaine, un blanchiment de la peau ou une coloration violacée en réseau, prévenez-nous immédiatement ; un traitement précoce est très important."
+    - name: "Réaction allergique grave (anaphylaxie)"
+      text: "Très rare ; elle provoque un essoufflement, une éruption cutanée généralisée et une chute de la tension artérielle, et nécessite un traitement en urgence."
+
+emergency:
+  - "**Douleur, rougeur, chaleur, gonflement ou écoulement d'aspect purulent croissants** dans la zone traitée"
+  - "**Fièvre supérieure à 38 °C**"
+  - "Nodules douloureux, rouges ou suintants apparaissant **quelques jours ou quelques semaines après** le traitement"
+  - "Gonflement du visage, des lèvres ou de la langue, **essoufflement**, ou éruption cutanée généralisée avec démangeaisons"
+  - "Blanchiment de la peau, coloration violacée en réseau, ou douleur intense"
+
+lifestyle:
+  - "Ne vous maquillez pas pendant les 24 premières heures ; évitez le sauna, le hammam, les cabines de bronzage (UV), le sport intense et les piscines."
+  - "Utilisez chaque jour une crème solaire à indice de protection élevé pendant la cure."
+  - "N'appliquez pas de peelings, de rétinol ni de produits contenant des acides sur la zone pendant les 2–3 premiers jours."
+  - "Si vous recevez ultérieurement un autre traitement dans la même zone (produit de comblement, laser, etc.), informez le médecin qui le réalise que vous avez eu une mésothérapie."
+
+declarations_extra:
+  - "Le nom et la composition du produit qui sera utilisé m'ont été communiqués ; il m'a été expliqué que seuls des produits autorisés et stériles seront utilisés et que les informations relatives au produit seront consignées dans mon dossier."
+  - "Je comprends que l'effet varie d'une personne à l'autre, que plusieurs séances peuvent être nécessaires et que le résultat n'est pas permanent."

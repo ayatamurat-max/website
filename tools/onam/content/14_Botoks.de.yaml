@@ -1,0 +1,119 @@
+code: "14"
+type: office
+aesthetic: true
+title: "Behandlung mit Botulinumtoxin (Botox)"
+alt_name: "Injektionsbehandlung bei mimischen Falten, vergrößertem Kaumuskel (Masseter) oder übermäßigem Schwitzen"
+
+specific_fields:
+  - label: "Produktname / Marke:"
+  - label: "LOT-Nummer und Verfallsdatum:"
+  - label: "Gesamteinheiten und Verdünnung:"
+  - label: "Behandlungsareale:"
+    options: ["Stirn", "Zornesfalte", "Krähenfüße", "Masseter (Kaumuskel)", "Hals", "Schwitzen (Achseln / Hände)", "Sonstiges"]
+  - label: "Zweck der Behandlung:"
+    options: ["Ästhetisch", "Medizinisch (Zähneknirschen, Schwitzen usw.)"]
+  - label: "Behandlungsareal(e) außerhalb der Zulassung (Off-Label):"
+    options: ["Keine", "Ja — Areal:"]
+
+about:
+  - "Botulinumtoxin ist ein gereinigtes Eiweiß, das die Verbindung zwischen dem behandelten Muskel und seinem Nerv vorübergehend abschwächt, sodass sich der Muskel weniger stark zusammenzieht. In der Ästhetik wird es eingesetzt, um **mimische Falten** an der Stirn, zwischen den Augenbrauen und um die Augen zu glätten. Außerdem wird es medizinisch zur Behandlung von Zähneknirschen (Bruxismus) und einer Vergrößerung des Kaumuskels (Masseter), von Halsbändern (Platysmabändern) sowie von **übermäßigem Schwitzen** (Hyperhidrose) angewendet."
+  - "Mimische Falten entstehen im Laufe der Jahre dadurch, dass sich dieselben Muskeln immer wieder zusammenziehen und die Haut an Elastizität verliert. Die Wirkung ist **vorübergehend**: Der Muskel gewinnt seine Funktion allmählich zurück, und wenn die Behandlung nicht wiederholt wird, kehrt das Erscheinungsbild langsam in den Ausgangszustand zurück. Ziel ist ein **natürliches, erholtes** Aussehen, ohne dass Ihre Mimik erstarrt."
+
+procedure_intro:
+  - "Die Behandlung erfolgt in der Praxis nach einem kurzen Gespräch und einer Untersuchung. Ihre Gesichtsbewegungen werden beurteilt, die Injektionspunkte werden markiert und bei Bedarf werden vor der Behandlung Fotos angefertigt."
+procedure_steps:
+  - "**Vorbereitung:** Das Make-up wird entfernt und die Haut mit einer antiseptischen Lösung gereinigt. Wenn Sie schmerzempfindlich sind, können Eis oder eine betäubende Creme aufgetragen werden."
+  - "**Injektion:** Mit einer sehr feinen Nadel wird eine kleine Menge des Präparats in die markierten Punkte gespritzt. Jeder Einstich dauert wenige Sekunden; dabei ist ein leichtes Stechen oder Brennen zu spüren."
+  - "**Abschluss:** Auf die Einstichstellen wird leichter Druck ausgeübt. Kleine Quaddeln verschwinden innerhalb weniger Minuten."
+  - "**Dokumentation:** Produktname, LOT-Nummer, Gesamteinheiten und Behandlungsareale werden in Ihrer Akte vermerkt."
+procedure_notes:
+  - "Einige Behandlungsareale und -zwecke sind möglicherweise nicht in der in der Türkei zugelassenen Gebrauchsinformation des Präparats enthalten (**Off-Label-Anwendung**); so gehören beispielsweise die Behandlung des Masseters (Kaumuskels) und des Zähneknirschens, des Halses sowie schwitzender Handflächen bei vielen Präparaten nicht zu den zugelassenen Anwendungsgebieten. Obwohl eine solche Anwendung in der medizinischen Fachliteratur verbreitet und anerkannt ist, erklärt Ihnen Ihr Arzt gesondert, ob das bei Ihnen geplante Areal darunter fällt; dies wird im entsprechenden Feld dieses Bogens vermerkt."
+anesthesia: "Meist nicht erforderlich; auf Wunsch Eis oder betäubende Creme"
+duration: "Etwa 10–20 Minuten"
+stay: "Ambulant; anschließend 15–30 Minuten Beobachtung"
+
+benefits:
+  - "Glättung mimischer Falten an der Stirn, zwischen den Augenbrauen und um die Augen für ein erholteres Aussehen"
+  - "Bei Masseterbehandlung weniger Beschwerden durch Zähneknirschen und eine schmalere Kieferlinie"
+  - "Bei Behandlung des Schwitzens eine deutliche Verringerung der Schweißbildung"
+  - "Ein kurzer Eingriff ohne chirurgische Schnitte, nach dem Sie sofort in den Alltag zurückkehren können"
+success:
+  - "Die Wirkung setzt in der Regel innerhalb von **3–14 Tagen** ein, erreicht nach etwa 2 Wochen ihren Höhepunkt und hält in den mimischen Arealen durchschnittlich **3–4 Monate** an (bei Behandlung von Schwitzen und Masseter möglicherweise länger). Stärke und Dauer der Wirkung sind individuell verschieden. Sehr tiefe, eingegrabene Falten verschwinden unter Umständen nicht vollständig. Bei Bedarf erfolgt nach etwa 2 Wochen eine Kontrolle, und wenn Ihr Arzt es für sinnvoll hält, kann eine kleine Nachbehandlung (Touch-up) erfolgen."
+
+alternatives:
+  - "**Keine Behandlung:** Da es sich um einen ästhetischen Eingriff handelt, können Sie sich jederzeit auch dagegen entscheiden."
+  - "**Hautfüller (Filler):** Können bei Falten, die nicht durch Bewegung, sondern durch Volumenverlust entstehen, besser geeignet sein."
+  - "**Hautpflege und Hautverjüngung:** Retinoidhaltige Cremes, chemische Peelings, Laser oder Mesotherapie können die Hautqualität verbessern, verringern aber nicht die Bewegung der mimischen Muskulatur."
+  - "**Operation:** Eingriffe wie ein Brauen- oder Facelift können bei erschlafftem Gewebe eine länger anhaltende Lösung bieten."
+  - "**Bei medizinischen Anwendungen:** Eine Aufbissschiene für die Nacht bei Zähneknirschen; Antitranspirantien und Medikamente bei Schwitzen."
+
+no_treatment:
+  - "Wird die Behandlung nicht durchgeführt, nehmen Ihr derzeitiges Erscheinungsbild bzw. Ihre Beschwerden ihren natürlichen Verlauf. Mimische Falten können mit dem Alter allmählich deutlicher werden; eine Gefahr für Ihre Gesundheit besteht dadurch nicht."
+
+before:
+  - "In folgenden Situationen wird die Behandlung **nicht durchgeführt oder verschoben:** Schwangerschaft, Stillzeit, Nerven-Muskel-Erkrankungen wie **Myasthenia gravis**, ALS oder Lambert-Eaton-Syndrom, aktive Infektion im Behandlungsareal, bekannte Allergie gegen das Präparat oder – bei einigen Präparaten – eine Kuhmilcheiweißallergie. Bitte teilen Sie uns unbedingt mit, wenn eine dieser Situationen auf Sie zutrifft."
+  - "**Aminoglykosid-Antibiotika** (z. B. Gentamicin) und einige Muskelrelaxanzien können die Wirkung von Botulinumtoxin verstärken; bitte teilen Sie uns mit, wenn Sie diese einnehmen."
+  - "Wenn Sie bereits früher mit Botulinumtoxin behandelt wurden, nennen Sie uns bitte Zeitpunkt, Präparat und Ergebnis."
+  - "Um das Risiko von Blutergüssen zu verringern, setzen Sie Aspirin und ähnliche Medikamente nach Möglichkeit und nach Rücksprache mit Ihrem Arzt einige Tage vor der Behandlung ab."
+
+recovery:
+  - when: "Erste 4 Stunden"
+    what: "Legen Sie sich nicht hin und massieren oder drücken Sie das behandelte Areal nicht. Dies hilft, dass das Präparat an der Stelle bleibt, an der es eingebracht wurde. An den Einstichstellen können leichte Rötungen und kleine Quaddeln sichtbar sein."
+  - when: "Erster Tag"
+    what: "Vermeiden Sie anstrengenden Sport, Sauna, Hamam (türkisches Bad), Solarium und sehr heiße Umgebungen. Make-up kann nach einigen Stunden aufgetragen werden. Leichte Kopfschmerzen können auftreten; sie vergehen mit einfachen Schmerzmitteln."
+  - when: "Tag 3–14"
+    what: "Die Wirkung setzt allmählich ein. **Falls** an den Einstichstellen kleine Blutergüsse entstehen, verschwinden sie innerhalb einer Woche. Lassen Sie in dieser Zeit keine Gesichtsbehandlungen, Hautbehandlungen oder Gesichtsmassagen durchführen."
+  - when: "2. Woche"
+    what: "Die Wirkung erreicht ihren Höhepunkt. Bei Bedarf erfolgt eine Kontrolluntersuchung; besteht eine Asymmetrie oder eine unzureichende Wirkung, kann nach ärztlicher Beurteilung eine kleine Nachbehandlung geplant werden."
+  - when: "Ab Monat 3–4"
+    what: "Die Wirkung lässt allmählich nach. Zwischen den Behandlungen wird im Allgemeinen ein Abstand von mindestens 3 Monaten empfohlen."
+
+risks:
+  expected:
+    - "Leichte Schmerzen, Rötung und kleine Quaddeln an den Einstichstellen (vergehen innerhalb von Minuten bis Stunden)"
+    - "Kleine Blutergüsse; **falls** ein Bluterguss auftritt, verschwindet er innerhalb von einigen Tagen bis einer Woche"
+    - "Ein leichtes Schwere- oder Spannungsgefühl in der Stirn (erste 1–2 Wochen)"
+  common:
+    - name: "Kopfschmerzen"
+      text: "Insbesondere nach der ersten Behandlung haben etwa **1–10 von 100** Patienten in den ersten Tagen leichte Kopfschmerzen; diese klingen meist innerhalb weniger Tage ab."
+    - name: "Leichte Asymmetrie oder unzureichende Wirkung"
+      text: "Da die Muskelkraft von Mensch zu Mensch unterschiedlich ist, können kleine Unterschiede zwischen beiden Seiten bestehen bleiben oder die Wirkung geringer ausfallen als erwartet. Dies wird bei der Kontrolle nach 2 Wochen beurteilt."
+    - name: "Zu stark angehobene äußere Augenbraue („Spock-Braue“)"
+      text: "Nach einer Stirnbehandlung kann sich das äußere Ende der Augenbraue zu stark anheben; dies wird meist durch eine kleine zusätzliche Injektion korrigiert."
+  uncommon:
+    - name: "Herabhängen des Oberlids (Ptosis)"
+      text: "Nach einer Behandlung zwischen den Augenbrauen oder an der Stirn kann bei etwa **1–5 von 100** Patienten ein Oberlid leicht herabhängen. Dies ist **vorübergehend** und bildet sich meist innerhalb von 2–6 Wochen zurück. In dieser Zeit können Augentropfen verordnet werden, die das Lid vorübergehend anheben und das Erscheinungsbild verbessern."
+    - name: "Absinken der Augenbraue und Schweregefühl der Stirn"
+      text: "Ursache ist eine zu starke Entspannung des Stirnmuskels; bessert sich, wenn die Wirkung nachlässt (Wochen bis einige Monate)."
+    - name: "Ungleichmäßiges Lächeln, Schwäche der Lippenbewegung, Speichelaustritt aus dem Mund"
+      text: "Kann bei Behandlungen im unteren Gesicht und des Masseters auftreten, wenn das Präparat benachbarte Muskeln beeinflusst; vorübergehend, kann aber mehrere Wochen bis Monate anhalten."
+    - name: "Trockenes Auge, Tränenfluss oder Doppelbilder"
+      text: "Gelegentlich bei Behandlungen um die Augen; vorübergehend. Informieren Sie Ihren Arzt, wenn Sie Doppelbilder bemerken."
+    - name: "Schluckbeschwerden, Schwäche der Halsmuskulatur"
+      text: "Kann bei Behandlungen am Hals auftreten; meist leicht und vorübergehend."
+    - name: "Verminderte Kaukraft, eingefallen wirkende Wangen"
+      text: "Nach einer Masseterbehandlung kann das Kauen harter Speisen eine Zeit lang ermüdend sein; sehr selten können die Wangen leicht eingefallen oder das Lächeln ungleichmäßig wirken."
+    - name: "Schwäche der Hand nach Behandlung der Handflächen"
+      text: "Nach Injektionen in die Handflächen gegen Schwitzen kann die Greifkraft der Finger vorübergehend vermindert sein; die Injektionen selbst können recht schmerzhaft sein. Die Schwäche bildet sich meist innerhalb weniger Wochen zurück."
+  rare:
+    - name: "Ausbreitung der Wirkung auf entfernte Bereiche"
+      text: "Sehr selten, vor allem bei hohen Dosen, kann sich die Wirkung des Präparats über das behandelte Areal hinaus ausbreiten und zu allgemeiner Muskelschwäche, Sehstörungen oder **Sprech-, Schluck- oder Atembeschwerden** führen. Dies erfordert eine **Notfallbehandlung**; eine stationäre Aufnahme und Unterstützung der Atmung können notwendig werden. Bei den in der Ästhetik verwendeten Dosen ist dies äußerst selten."
+    - name: "Schwere allergische Reaktion"
+      text: "Eine schwere allergische Reaktion (Anaphylaxie) mit Nesselsucht, Schwellung von Gesicht und Lippen oder Atemnot ist äußerst selten; sie erfordert eine Notfallbehandlung."
+    - name: "Wirkungsverlust (Antikörperbildung)"
+      text: "Sehr selten bildet der Körper Antikörper gegen das Präparat, sodass spätere Behandlungen wirkungslos bleiben können. Häufige Behandlungen in hoher Dosis erhöhen dieses Risiko."
+
+emergency:
+  - "**Schluck-, Sprech- oder Atembeschwerden** oder ausgeprägte Muskelschwäche"
+  - "**Verschwommenes Sehen oder Doppelbilder** oder Unfähigkeit, ein Augenlid überhaupt zu öffnen"
+  - "Rasch zunehmende Schwellung von Gesicht, Lippen oder Zunge, Nesselsucht oder Atemnot (allergische Reaktion)"
+  - "Zunehmende Schmerzen, Rötung, Überwärmung oder Eiter im Behandlungsareal"
+
+lifestyle:
+  - "Legen Sie sich in den ersten 4 Stunden nicht hin und massieren Sie das Areal nicht; vermeiden Sie am ersten Tag anstrengenden Sport, Sauna und Hamam (türkisches Bad)."
+  - "Wenn Sie sich, solange die Wirkung anhält, bei einem anderen Arzt mit Botulinumtoxin, einer Gesichtsmassage oder einer Hautbehandlung behandeln lassen, informieren Sie ihn über diese Behandlung."
+  - "Wenn Sie während des Behandlungszeitraums eine Schwangerschaft planen, besprechen Sie dies mit Ihrem Arzt."
+
+declarations_extra:
+  - "Ich wurde nach Umständen gefragt, die gegen eine Behandlung sprechen (Schwangerschaft, Stillzeit, Nerven-Muskel-Erkrankungen, Medikamente), und habe wahrheitsgemäße Angaben gemacht."
+  - "Ich habe verstanden, dass die Wirkung von Botulinumtoxin vorübergehend ist und die Behandlung in regelmäßigen Abständen wiederholt werden muss, um sie aufrechtzuerhalten. Mir wurde erklärt, dass einige Behandlungsareale außerhalb der zugelassenen Gebrauchsinformation des Präparats liegen können."

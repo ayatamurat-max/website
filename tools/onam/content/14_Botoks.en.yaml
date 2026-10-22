@@ -1,0 +1,119 @@
+code: "14"
+type: office
+aesthetic: true
+title: "Botulinum Toxin (Botox) Treatment"
+alt_name: "Injection treatment for expression lines, enlarged jaw muscle (masseter) or excessive sweating"
+
+specific_fields:
+  - label: "Product name / brand:"
+  - label: "LOT number and expiry date:"
+  - label: "Total units and dilution:"
+  - label: "Treatment areas:"
+    options: ["Forehead", "Frown lines", "Crow's feet", "Masseter (jaw muscle)", "Neck", "Sweating (underarm / hands)", "Other"]
+  - label: "Purpose of treatment:"
+    options: ["Cosmetic", "Medical (teeth grinding, sweating, etc.)"]
+  - label: "Off-label treatment area(s):"
+    options: ["None", "Yes — area:"]
+
+about:
+  - "Botulinum toxin is a purified protein that temporarily reduces the link between the injected muscle and its nerve, so that the muscle contracts less strongly. For cosmetic purposes it is used to soften **expression lines** on the forehead, between the eyebrows and around the eyes. It is also used as a medical treatment for teeth grinding (bruxism) and enlargement of the jaw muscle (masseter), neck bands and **excessive sweating** (hyperhidrosis)."
+  - "Expression lines form over the years as the same muscles contract again and again and the skin loses elasticity. The effect is **temporary**: the muscle gradually regains its function and, if treatment is not repeated, the appearance slowly returns to how it was before. The aim is a **natural, rested** look without freezing your facial expression."
+
+procedure_intro:
+  - "The treatment is carried out in the clinic after a short consultation and examination. Your facial movements are assessed, the injection points are marked and, if necessary, photographs are taken before treatment."
+procedure_steps:
+  - "**Preparation:** Make-up is removed and the skin is cleaned with an antiseptic solution. If you are sensitive to pain, ice or an anaesthetic cream can be applied."
+  - "**Injection:** A small amount of product is injected with a very fine needle into the marked points. Each injection takes a few seconds; you may feel a slight prick or stinging."
+  - "**Finishing:** Gentle pressure is applied to the injection points. Small bumps disappear within a few minutes."
+  - "**Record:** The product name, LOT number, total units and treatment areas are recorded in your file."
+procedure_notes:
+  - "Some treatment areas and purposes may not be included in the approved instructions for use of the product in Türkiye (**off-label use**); for example, treatment of the masseter (jaw muscle) and teeth grinding, the neck and sweaty palms is not among the approved uses of many products. Although such use is widespread and accepted in the medical literature, your doctor will explain separately whether your planned area falls into this category, and this will be recorded in the relevant field of this form."
+anesthesia: "Usually not needed; ice or anaesthetic cream on request"
+duration: "About 10–20 minutes"
+stay: "Same day; 15–30 minutes of observation afterwards"
+
+benefits:
+  - "Softening of expression lines on the forehead, between the eyebrows and around the eyes, for a more rested appearance"
+  - "With masseter treatment, fewer teeth-grinding symptoms and a slimmer jawline"
+  - "With sweating treatment, a marked reduction in sweating"
+  - "A short procedure without surgical incisions, after which you can return to daily life straight away"
+success:
+  - "The effect usually begins within **3–14 days**, reaches its peak at around 2 weeks and lasts on average **3–4 months** in the expression areas (it may last longer for sweating and masseter treatment). The degree and duration of the effect vary between individuals. Very deep, established lines may not disappear completely. If needed, a check-up is arranged at around 2 weeks, and where your doctor considers it appropriate a small additional treatment (touch-up) may be given."
+
+alternatives:
+  - "**No treatment:** As this is a cosmetic procedure, you always have the option not to have it."
+  - "**Dermal fillers:** May be more suitable for lines caused by volume loss rather than by movement."
+  - "**Skin care and skin rejuvenation:** Retinoid creams, chemical peels, laser or mesotherapy can improve skin quality but do not reduce the movement of the facial muscles."
+  - "**Surgery:** Operations such as a brow lift or face lift may offer a longer-lasting solution where there is sagging."
+  - "**For medical uses:** A night guard for teeth grinding; antiperspirants and medicines for sweating."
+
+no_treatment:
+  - "If the treatment is not carried out, your current appearance or symptoms will follow their natural course. Expression lines may gradually become more noticeable with age; this poses no danger to your health."
+
+before:
+  - "Treatment is **not given, or is postponed,** in the following situations: pregnancy, breastfeeding, nerve–muscle diseases such as **myasthenia gravis**, ALS or Lambert–Eaton syndrome, active infection in the treatment area, known allergy to the product or, for some products, cow's milk protein allergy. Please tell us if any of these apply to you."
+  - "**Aminoglycoside antibiotics** (e.g. gentamicin) and some muscle relaxants can increase the effect of botulinum toxin; please tell us if you are taking them."
+  - "If you have had botulinum toxin before, tell us when, which product and what the result was."
+  - "To reduce the risk of bruising, if possible and after discussing it with your doctor, pause aspirin and similar medicines for a few days before treatment."
+
+recovery:
+  - when: "First 4 hours"
+    what: "Do not lie down, and do not massage or press the treated area. This helps the product stay where it was placed. Slight redness and small bumps may be seen at the injection points."
+  - when: "First day"
+    what: "Avoid strenuous exercise, saunas, Turkish baths, sunbeds and very hot environments. Make-up can be applied after a few hours. A mild headache may occur; it passes with simple painkillers."
+  - when: "Days 3–14"
+    what: "The effect starts gradually. **If** small bruises occur at the injection points, they fade within a week. Do not have facials, skin treatments or face massage during this period."
+  - when: "Week 2"
+    what: "The effect reaches its peak. A check-up is arranged if needed; if there is asymmetry or an insufficient effect, a small additional treatment may be planned after the doctor's assessment."
+  - when: "Months 3–4 and later"
+    what: "The effect gradually wears off. A gap of at least 3 months between treatments is generally recommended."
+
+risks:
+  expected:
+    - "Mild pain, redness and small bumps at the injection points (settle within minutes to hours)"
+    - "Small bruises; **if** bruising occurs it fades within a few days to a week"
+    - "A slight feeling of heaviness or tightness in the forehead (first 1–2 weeks)"
+  common:
+    - name: "Headache"
+      text: "Particularly after a first treatment, about **1–10 in 100** patients have a mild headache in the first few days; it usually settles within a few days."
+    - name: "Slight asymmetry or insufficient effect"
+      text: "Because muscle strength differs between people, small differences between the two sides may remain or the effect may be less than expected. This is assessed at the 2-week check-up."
+    - name: "Over-raised outer eyebrow (“Spock brow”)"
+      text: "After forehead treatment the outer end of the eyebrow may lift too much; this is usually corrected with a small additional injection."
+  uncommon:
+    - name: "Drooping of the upper eyelid (ptosis)"
+      text: "After treatment between the eyebrows or on the forehead, about **1–5 in 100** patients may develop slight drooping of an upper eyelid. It is **temporary** and usually resolves within 2–6 weeks. During this time, eye drops that temporarily lift the eyelid and improve its appearance may be given."
+    - name: "Drooping of the eyebrow and heaviness of the forehead"
+      text: "Caused by too much relaxation of the forehead muscle; improves as the effect wears off (weeks to a few months)."
+    - name: "Uneven smile, weakness of lip movement, dribbling"
+      text: "May occur with lower-face and masseter treatment if the product affects neighbouring muscles; temporary, but may last several weeks to months."
+    - name: "Dry eye, watering or double vision"
+      text: "Uncommon with treatment around the eyes; temporary. Tell your doctor if you develop double vision."
+    - name: "Difficulty swallowing, neck weakness"
+      text: "May occur with neck treatment; usually mild and temporary."
+    - name: "Reduced chewing strength, hollow-looking cheeks"
+      text: "With masseter treatment, chewing hard foods may feel tiring for a while; very rarely the cheek may look slightly hollow or the smile uneven."
+    - name: "Hand weakness after treatment of the palms"
+      text: "After injections into the palms for sweating, grip strength in the fingers may be temporarily reduced, and the injections themselves can be quite painful. The weakness usually resolves within a few weeks."
+  rare:
+    - name: "Spread of the effect to distant areas"
+      text: "Very rarely, especially at high doses, the effect of the product may spread beyond the treated area, causing general muscle weakness, blurred vision, or **difficulty speaking, swallowing or breathing**. This requires **emergency treatment**; hospital admission and breathing support may be needed. At the doses used for cosmetic treatment this is extremely rare."
+    - name: "Serious allergic reaction"
+      text: "A severe allergic reaction (anaphylaxis) with hives, swelling of the face and lips or shortness of breath is extremely rare; it requires emergency treatment."
+    - name: "Loss of effect (antibody formation)"
+      text: "Very rarely the body forms antibodies to the product and later treatments may not work. Frequent, high-dose treatment increases this risk."
+
+emergency:
+  - "**Difficulty swallowing, speaking or breathing**, or marked muscle weakness"
+  - "**Blurred or double vision**, or being unable to open an eyelid at all"
+  - "Rapidly developing swelling of the face, lips or tongue, hives or shortness of breath (allergic reaction)"
+  - "Increasing pain, redness, warmth or pus at the treatment site"
+
+lifestyle:
+  - "Do not lie down or massage the area for the first 4 hours; avoid strenuous exercise, saunas and Turkish baths on the first day."
+  - "While the effect lasts, if you are going to have botulinum toxin, face massage or skin treatments from another doctor, tell them about this treatment."
+  - "If you are planning a pregnancy during your course of treatment, discuss this with your doctor."
+
+declarations_extra:
+  - "I was asked about conditions that would prevent treatment (pregnancy, breastfeeding, nerve–muscle diseases, medicines) and I gave accurate information."
+  - "I understand that the effect of botulinum toxin is temporary and that treatment must be repeated at regular intervals to maintain it. It has been explained to me that some treatment areas may be outside the product's approved instructions for use."

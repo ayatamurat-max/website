@@ -1,0 +1,149 @@
+{
+ "code": "17",
+ "type": "office",
+ "aesthetic": true,
+ "title": "PRP-Behandlung (plättchenreiches Plasma)",
+ "alt_name": "Injektion von aus Ihrem eigenen Blut gewonnenem Plasma in die Haut oder Kopfhaut",
+ "about": [
+  "PRP (Platelet-Rich Plasma, plättchenreiches Plasma) ist ein **aus Ihrem eigenen Blut** gewonnenes Plasma, das mit Blutplättchen (Thrombozyten) angereichert ist. Blutplättchen enthalten natürliche Wachstumsfaktoren, die an der Gewebereparatur beteiligt sind.",
+  "PRP wird eingesetzt, um Hautqualität, Ausstrahlung und Elastizität zu unterstützen, feine Linien und eine müde wirkende Augenpartie weniger sichtbar zu machen, zur Verbesserung von Aknenarben beizutragen oder bei **Haarausfall** die Haarwurzeln zu unterstützen. Da es aus Ihrem eigenen Blut hergestellt wird, ist weder eine Allergie gegen das Präparat selbst noch eine Abstoßung durch den Körper zu erwarten."
+ ],
+ "procedure_intro": [
+  "Die Behandlung erfolgt in unserer Praxis unter sterilen Bedingungen mit **geschlossenen Einmal-Kits**. Name und LOT-Nummer des verwendeten Kits werden in Ihrer Akte vermerkt."
+ ],
+ "procedure_steps": [
+  "**Blutentnahme:** Aus einer Vene am Arm werden – wie bei einer gewöhnlichen Blutuntersuchung – in der Regel 10–30 mL Blut entnommen.",
+  "**Aufbereitung:** Das Blut wird in einem speziellen Röhrchen mit einem gerinnungshemmenden Zusatz in einer Zentrifuge aufgetrennt, und der plättchenreiche Plasmaanteil wird unter sterilen Bedingungen abgetrennt. In jedem Schritt wird überprüft, dass die Röhrchen Ihnen zugeordnet sind.",
+  "**Vorbereitung des Areals:** Das Behandlungsareal wird gereinigt und desinfiziert; auf Wunsch kann eine betäubende Creme aufgetragen werden.",
+  "**Behandlung:** Das Plasma wird mit einer feinen Nadel oder Kanüle an vielen kleinen Punkten in die Haut oder Kopfhaut injiziert oder manchmal zusammen mit Microneedling auf der Haut verteilt.",
+  "**Abschluss:** Das Areal wird gereinigt, bei Bedarf gekühlt, und Sie erhalten Hinweise zur Pflege nach der Behandlung."
+ ],
+ "procedure_notes": [
+  "In der Regel wird eine Kur aus **3–4 Sitzungen im Abstand von 4–6 Wochen** empfohlen, gefolgt von Auffrischungssitzungen alle 4–6 Monate."
+ ],
+ "anesthesia": "Betäubende Creme (optional)",
+ "duration": "Etwa 45–60 Minuten (einschließlich Aufbereitung)",
+ "stay": "Ambulant; kurze Beobachtung nach der Behandlung",
+ "benefits": [
+  "Eine frischer, strahlender und straffer wirkende Haut mit weniger auffälligen feinen Linien",
+  "Weniger dunkle Schatten und ein weniger müdes Erscheinungsbild unter den Augen",
+  "Bei Haarausfall Unterstützung bei der Verringerung des Haarausfalls und bei der Zunahme der Haardicke",
+  "Da Ihr eigenes Blut verwendet wird, ist keine Allergie gegen das Plasma selbst zu erwarten"
+ ],
+ "success": [
+  "Die Ergebnisse sind von Mensch zu Mensch unterschiedlich. Die wissenschaftliche Datenlage hängt vom Behandlungszweck ab: Für den **androgenetischen (erblich bedingten) Haarausfall** gibt es zahlreiche Studien mit positiven Ergebnissen, während die Datenlage zur Hautverjüngung begrenzter ist. Auch Techniken und Kits unterscheiden sich. Die Wirkung tritt allmählich ein und ist nicht dauerhaft; ein bestimmtes Ergebnis kann nicht garantiert werden."
+ ],
+ "alternatives": [
+  "**Keine Behandlung** oder weiterhin regelmäßige Hautpflege und Sonnenschutz",
+  "**Bei Haarausfall:** Abklärung einer zugrunde liegenden Ursache (Eisen, Schilddrüse, Hormone); Medikamente wie Minoxidil auf ärztliche Empfehlung; Mesotherapie der Kopfhaut; in fortgeschrittenen Fällen eine Haartransplantation",
+  "**Für die Haut:** Äußerlich anzuwendende Präparate, Mesotherapie, Hyaluronsäure-Behandlungen zur Verbesserung der Hautqualität, chemische Peelings, Laser- oder Microneedling-Behandlungen"
+ ],
+ "no_treatment": [
+  "Wird keine PRP-Behandlung durchgeführt, nehmen Haut bzw. Haare ihren natürlichen Verlauf. Je nach Ursache kann ein Haarausfall fortschreiten; andere Behandlungsmöglichkeiten können jederzeit in Betracht gezogen werden. Durch den Verzicht auf PRP entsteht Ihnen kein gesundheitlicher Nachteil."
+ ],
+ "before": [
+  "**Situationen, in denen keine PRP-Behandlung erfolgt:** niedrige Thrombozytenzahl oder Störung der Thrombozytenfunktion, Blutungs- oder Gerinnungsstörungen, ausgeprägte Blutarmut, aktive Infektion oder Fieber, laufende Krebsbehandlung oder Blutkrebs in den letzten Jahren, Schwangerschaft und Stillzeit. Bitte teilen Sie uns unbedingt mit, wenn eine dieser Situationen auf Sie zutrifft.",
+  "Wenn Sie blutverdünnende Medikamente einnehmen (Warfarin, Rivaroxaban, Apixaban, Clopidogrel usw.), informieren Sie Ihren Arzt vor der Behandlung; **setzen Sie diese Medikamente nicht eigenmächtig ab**.",
+  "Setzen Sie nach Möglichkeit 1 Woche vor der Behandlung nach Rücksprache mit Ihrem Arzt Aspirin und entzündungshemmende Schmerzmittel (Ibuprofen, Naproxen usw.) ab; diese Medikamente können die Funktion der Blutplättchen herabsetzen.",
+  "Teilen Sie uns mit, wenn Sie in den letzten 2–3 Wochen Kortison als Tabletten oder Spritzen erhalten haben; dies kann die Wirkung von PRP verringern, und die Behandlung muss eventuell verschoben werden.",
+  "Trinken Sie am Behandlungstag reichlich Wasser und essen Sie vorher eine leichte Mahlzeit; wenn Sie nüchtern kommen, steigt das Risiko eines Schwächegefühls bzw. Schwindels.",
+  "Waschen Sie bei einer Behandlung der Kopfhaut Ihre Haare am Vortag oder am Morgen der Behandlung und verwenden Sie kein Gel, Haarspray oder ähnliche Produkte."
+ ],
+ "recovery": [
+  {
+   "when": "Erste Stunden",
+   "what": "Im behandelten Areal treten Rötung, leichte Schwellung, ein Spannungsgefühl und kleine Erhebungen an den Einstichstellen auf. Die Stelle der Blutentnahme kann leicht druckempfindlich sein."
+  },
+  {
+   "when": "Erste 24 Stunden",
+   "what": "Tragen Sie kein Make-up auf; meiden Sie Sauna, Hamam (türkisches Bad), Solarium, anstrengenden Sport und direkte Sonne. Waschen Sie nach einer Behandlung der Kopfhaut Ihre Haare frühestens am nächsten Tag."
+  },
+  {
+   "when": "Tag 2–7",
+   "what": "Rötung und Schwellung klingen ab. **Falls** Blutergüsse auftreten (besonders unter den Augen), verblassen sie innerhalb von 3–7 Tagen."
+  },
+  {
+   "when": "Während der Kur",
+   "what": "Die Sitzungen werden alle 4–6 Wochen wiederholt. Veränderungen der Haut werden meist nach der 2. oder 3. Sitzung bemerkt, Veränderungen der Haare innerhalb von 3–6 Monaten."
+  },
+  {
+   "when": "Nach der Kur",
+   "what": "Die Wirkung lässt allmählich nach; um sie zu erhalten, können Auffrischungssitzungen alle 4–6 Monate empfohlen werden."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Leichte Schmerzen oder Brennen bei der Blutentnahme und den Injektionen",
+   "Rötung, leichte Schwellung, Druckempfindlichkeit und Spannungsgefühl im behandelten Areal (einige Stunden bis 2 Tage)",
+   "Winzige Blutpunkte an den Einstichstellen"
+  ],
+  "common": [
+   {
+    "name": "Blutergüsse",
+    "text": "Können im behandelten Areal oder an der Stelle der Blutentnahme auftreten; sie verschwinden innerhalb von 3–7 Tagen von selbst."
+   },
+   {
+    "name": "Kopfschmerzen oder Empfindlichkeit der Kopfhaut",
+    "text": "Können nach einer Behandlung der Kopfhaut 1–2 Tage anhalten; sie klingen mit einfachen Schmerzmitteln ab (statt Aspirin wird Paracetamol empfohlen)."
+   },
+   {
+    "name": "Geringere Wirkung als erwartet",
+    "text": "Manche Menschen bemerken keine deutliche Veränderung, oder die Wirkung hält nur kurz an."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Schwächegefühl / Ohnmachtsneigung",
+    "text": "Während der Blutentnahme oder der Injektionen können Schwindel, Schwitzen und eine kurze Ohnmacht auftreten; dies vergeht rasch, wenn Sie sich hinlegen."
+   },
+   {
+    "name": "Vorübergehend verstärkter Haarausfall",
+    "text": "In den ersten Wochen nach einer Behandlung der Kopfhaut kann vorübergehend vermehrt Haar ausfallen; dies normalisiert sich meist von selbst."
+   },
+   {
+    "name": "Länger anhaltende Schwellung",
+    "text": "Eine Schwellung, besonders unter den Augen, kann einige Tage anhalten."
+   },
+   {
+    "name": "Farbveränderung",
+    "text": "Bei dunklerer Haut und bei Sonneneinstrahlung kann es an den Einstichstellen zu einer vorübergehenden Dunkelfärbung kommen."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Infektion",
+    "text": "Bei steriler Technik sehr selten; tritt sie auf, kann eine Antibiotikabehandlung und selten eine Eiterentleerung erforderlich sein."
+   },
+   {
+    "name": "Allergie gegen Bestandteile des Kits",
+    "text": "Eine Allergie gegen das Plasma selbst ist nicht zu erwarten; sehr selten kann jedoch eine allergische Reaktion auf den gerinnungshemmenden Zusatz oder den Aktivator im Kit, auf die betäubende Creme oder auf das Desinfektionsmittel auftreten."
+   },
+   {
+    "name": "Verschluss eines Blutgefäßes (vaskuläre Okklusion)",
+    "text": "Bei tiefen Injektionen im Gesicht kann das Material **äußerst selten** in ein Blutgefäß gelangen oder es zusammendrücken und so eine Durchblutungsstörung der Haut mit Narbenbildung und, noch seltener, Sehstörungen verursachen. Frühzeitiges Erkennen und eine Notfallbehandlung sind sehr wichtig."
+   },
+   {
+    "name": "Nervenreizung",
+    "text": "Wird bei der Blutentnahme oder Injektion ein Nerv berührt, können vorübergehend Taubheitsgefühl oder Kribbeln auftreten; sehr selten kann dies länger anhalten."
+   }
+  ]
+ },
+ "emergency": [
+  "**Plötzliche starke Schmerzen, Weißwerden der Haut oder eine violette, netzartige Verfärbung** während oder nach der Behandlung",
+  "**Verschwommenes Sehen, Sehverlust**, Doppelbilder oder Augenschmerzen",
+  "**Zunehmende Rötung, Überwärmung, Schwellung oder eitriger Ausfluss** im behandelten Areal oder Fieber über 38 °C",
+  "Schwellung von Gesicht, Lippen oder Zunge, **Atemnot** oder ein ausgedehnter juckender Hautausschlag",
+  "Zunehmende Schwellung, Schmerzen oder Taubheitsgefühl im Arm, an dem Blut entnommen wurde"
+ ],
+ "lifestyle": [
+  "Tragen Sie in den ersten 24 Stunden kein Make-up auf; meiden Sie Sauna, Hamam (türkisches Bad), Solarium, intensiven Sport und Schwimmbäder.",
+  "In den 3 Tagen nach der Behandlung wird empfohlen, keine entzündungshemmenden Schmerzmittel (Ibuprofen, Naproxen, Aspirin) einzunehmen; bei Schmerzen können Sie Paracetamol nehmen.",
+  "Verwenden Sie während der Kur täglich einen Sonnenschutz mit hohem Lichtschutzfaktor; warten Sie nach einer Behandlung der Kopfhaut mindestens 3 Tage mit Haarefärben oder Dauerwelle.",
+  "Rauchen verringert die Wirkung der Blutplättchen und beeinträchtigt die Heilung; ein Rauchstopp wird nach Möglichkeit empfohlen."
+ ],
+ "declarations_extra": [
+  "Ich habe verstanden, dass das PRP aus meinem eigenen Blut hergestellt wird, dass die Angaben zum verwendeten Kit in meiner Akte vermerkt werden und dass in jedem Schritt überprüft wird, dass die Röhrchen mir zugeordnet sind.",
+  "Ich habe zu Umständen, die einer PRP-Behandlung entgegenstehen können – Bluterkrankungen, Krebserkrankungen in der Vorgeschichte, Einnahme blutverdünnender Medikamente und Schwangerschaft –, wahrheitsgemäße Angaben gemacht.",
+  "Ich habe verstanden, dass die Wirkung von Mensch zu Mensch unterschiedlich ist, dass mehrere Sitzungen erforderlich sind und dass das Ergebnis nicht dauerhaft ist."
+ ]
+}

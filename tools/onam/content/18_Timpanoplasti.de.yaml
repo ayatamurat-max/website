@@ -1,0 +1,135 @@
+code: "18"
+type: surgical
+aesthetic: false
+title: "Tympanoplastik"
+alt_name: "Wiederherstellung des Trommelfells (bei Bedarf mit Rekonstruktion der Gehörknöchelchen und Mastoidektomie)"
+
+specific_fields:
+  - label: "Seite:"
+    options: ["Rechts", "Links"]
+    blank: false
+  - label: "Darstellung:"
+    options: ["Mikroskopisch", "Endoskopisch", "Wird während der Operation festgelegt"]
+  - label: "Zugang:"
+    options: ["Transkanal (durch den Gehörgang)", "Retroaurikulär (hinter dem Ohr)", "Endaural"]
+  - label: "Transplantat (Graft):"
+    options: ["Muskelhaut (Temporalisfaszie)", "Knorpel / Perichondrium", "Sonstiges"]
+  - label: "Rekonstruktion der Gehörknöchelchen (Ossikuloplastik):"
+    options: ["Nicht geplant", "Geplant", "Bei Bedarf"]
+  - label: "Mastoidektomie:"
+    options: ["Nicht geplant", "Geplant", "Bei Bedarf"]
+  - label: "Datum und Zusammenfassung des präoperativen Hörtests (Audiogramm):"
+
+about:
+  - "Das Trommelfell ist eine dünne Membran, die den Gehörgang vom Mittelohr trennt und die Schallschwingungen an die winzigen Knochen im Mittelohr (Gehörknöchelchen) weiterleitet. Besteht im Trommelfell ein **Loch (Perforation)**, ist das Hörvermögen herabgesetzt, und eindringendes Wasser oder Keime führen zu **wiederkehrendem Ohrenfluss**."
+  - "Trommelfellperforationen entstehen meist durch eine **chronische Mittelohrentzündung**, manchmal auch durch eine Verletzung (Ohrfeige, Wattestäbchen, plötzliche Druckänderung). Kleine, frische Löcher können von selbst verheilen; seit Langem bestehende Löcher schließen sich jedoch in der Regel nicht. Bei manchen Patienten hat die Entzündung zudem die Gehörknöchelchen angegriffen oder sich in die luftgefüllten Zellen des Knochens hinter dem Ohr (Mastoid) ausgebreitet. Liegt im Mittelohr ein **Cholesteatom** vor (eine aus Hautzellen bestehende Gewebetasche, die wächst und den Knochen zerstört), ist dessen Behandlung besonders wichtig."
+  - "Ziel der Tympanoplastik ist es, das Trommelfell zu verschließen, das Mittelohr von der Entzündung zu befreien, um ein **trockenes und sicheres Ohr** zu erreichen, und nach Möglichkeit **das Hörvermögen zu erhalten oder zu verbessern**."
+
+procedure_intro:
+  - "Die Operation erfolgt in Vollnarkose im Operationssaal unter Verwendung eines Mikroskops und/oder eines Endoskops."
+procedure_steps:
+  - "**Zugang:** Ist das Loch klein und günstig gelegen, kann die Operation vollständig durch den Gehörgang erfolgen, ohne dass eine sichtbare Narbe bleibt. Bei größeren Löchern oder wenn eine bessere Übersicht erforderlich ist, wird ein kleiner Schnitt hinter dem Ohr (in der Falte hinter der Ohrmuschel) oder vor dem Ohr gesetzt."
+  - "**Gewinnung des Transplantats:** Zur Wiederherstellung des Trommelfells wird körpereigenes Gewebe verwendet: in der Regel die Hülle des Muskels oberhalb des Ohres (Temporalisfaszie) oder Knorpel der Ohrmuschel mit seiner Knorpelhaut. Diese Gewebe werden über denselben Schnitt oder einen kleinen zusätzlichen Schnitt entnommen."
+  - "**Säuberung des Mittelohrs:** Die Ränder des Lochs werden angefrischt, das Trommelfell wird angehoben und das Mittelohr untersucht; vorhandenes entzündetes Gewebe und Verwachsungen werden entfernt. Die Gehörknöchelchen werden überprüft."
+  - "**Rekonstruktion der Gehörknöchelchen (bei Bedarf):** Ist die Gehörknöchelchenkette angegriffen oder unterbrochen, kann sie mit körpereigenem Knochen/Knorpel oder einer gewebefreundlichen Prothese, z. B. aus Titan, wiederhergestellt werden."
+  - "**Mastoidektomie (bei Bedarf):** Haben sich Entzündung oder Cholesteatom in die luftgefüllten Zellen des Knochens hinter dem Ohr ausgebreitet, werden diese Zellen mit einem speziellen Bohrer eröffnet und ausgeräumt."
+  - "**Einlegen des Transplantats und Wundverschluss:** Das Transplantat wird unter oder auf das Loch gelegt. Mittelohr und Gehörgang werden mit sich auflösenden Schwämmchen gestützt. Ein eventueller Schnitt wird vernäht, und über dem Ohr wird ein Druckverband angelegt."
+procedure_notes:
+  - "Wird ein Cholesteatom festgestellt, kann bei manchen Patienten **6–12 Monate später eine zweite Kontrolloperation (Second-Look-Operation)** geplant werden, um sicherzustellen, dass die Erkrankung vollständig entfernt wurde. Dies wird Ihnen gesondert erläutert."
+anesthesia: "Vollnarkose"
+duration: "Etwa 1,5–3 Stunden (mit Mastoidektomie länger)"
+stay: "In der Regel ambulant oder 1 Nacht"
+
+benefits:
+  - "Verschluss des Lochs im Trommelfell"
+  - "Seltenere oder keine Episoden von Ohrenfluss und Entzündung mehr; ein trockenes und sicheres Ohr"
+  - "Weniger Einschränkungen zum Schutz des Ohres beim Baden, Duschen und Schwimmen"
+  - "Erhalt oder Verbesserung des Hörvermögens bei geeigneten Patienten"
+  - "Bei einem Cholesteatom Entfernung der Erkrankung und Vorbeugung ihrer möglichen schweren Komplikationen"
+success:
+  - "Ein dauerhafter Verschluss des Trommelfells gelingt bei etwa **85–95 %** der Patienten. Eine Verbesserung des Hörvermögens hängt vom Zustand der Gehörknöchelchen, dem Ausmaß der Entzündung und der Gesundheit des Innenohrs ab; das Hörvermögen kann sich deutlich verbessern, gleich bleiben oder sich selten verschlechtern. Wächst das Transplantat nicht an oder entsteht ein neues Loch, kann die Operation wiederholt werden."
+
+alternatives:
+  - "**Beobachtung und Trockenhalten des Ohres:** Bei kleinen, trockenen Löchern können regelmäßige Kontrollen und der Schutz des Ohres vor Wasser eine Möglichkeit sein. Das Loch bleibt offen, und das Entzündungsrisiko besteht weiter."
+  - "**Medikamentöse Behandlung:** Antibiotische Ohrentropfen bringen die Entzündung während Phasen mit Ohrenfluss vorübergehend unter Kontrolle; sie verschließen das Loch nicht."
+  - "**Hörgerät:** Kann den Hörverlust ausgleichen; bei einem laufenden Ohr ist die Nutzung jedoch unter Umständen schwierig, und das Loch wird dadurch nicht verschlossen."
+  - "**Einfache Abdeckung kleiner Löcher:** Bei sehr kleinen Löchern kann ein Verschluss mit einem Papierpflaster oder mit Fettgewebe (Myringoplastik) in Betracht gezogen werden."
+
+no_treatment:
+  - "Ohne Operation bleibt das Loch im Trommelfell in der Regel offen. Ohrenfluss kann bei Wassereintritt ins Ohr oder bei Infekten der oberen Atemwege wiederkehren, und der Hörverlust kann mit der Zeit zunehmen. Ein unbehandeltes Cholesteatom wächst weiter und kann zu schweren Komplikationen wie **dauerhaftem Hörverlust, Schwindel, Gesichtslähmung, Hirnhautentzündung (Meningitis) oder Hirnabszess** führen."
+
+before:
+  - "Vor der Operation wird ein Hörtest (Audiogramm) und bei Bedarf eine Computertomographie (CT) durchgeführt. Sie werden von der Narkoseärztin bzw. dem Narkosearzt untersucht."
+  - "In den **6–8 Stunden** vor der Operation dürfen Sie nichts essen und nichts trinken (bitte halten Sie sich an die Anweisungen der Narkoseärztin bzw. des Narkosearztes)."
+  - "Wenn das Ohr aktiv läuft, werden Sie möglicherweise gebeten, vor der Operation Tropfen anzuwenden, um das Ohr zu trocknen."
+  - "Am Operationstag können die Haare hinter dem Ohr etwas gekürzt werden. Bei einer Grippe oder Atemwegsinfektion kann die Operation verschoben werden."
+
+recovery:
+  - when: "Erste 24–48 Stunden"
+    what: "Sie spüren ein Völlegefühl, leichte Schmerzen und ein Verschlussgefühl im Ohr; die Schmerzen werden mit Schmerzmitteln behandelt. Kurzzeitig können leichter Schwindel und Übelkeit auftreten. Der Druckverband wird in der Regel am 1. Tag entfernt. Vermeiden Sie es, auf dem operierten Ohr zu liegen."
+  - when: "Woche 1–2"
+    what: "Wegen der Schwämmchen im Gehörgang ist das Hörvermögen in dieser Zeit **herabgesetzt**; das ist normal. Es kann etwas blutig tingierte Flüssigkeit aus dem Ohr austreten. Die Fäden werden in der Regel am **7.–10. Tag** gezogen. Die meisten Menschen nehmen innerhalb von 1 Woche eine Schreibtischtätigkeit wieder auf."
+  - when: "Woche 3–6"
+    what: "Die Schwämmchen im Gehörgang werden bei den Kontrollen entfernt oder lösen sich von selbst auf. Es darf kein Wasser ins Ohr gelangen. Anstrengender Sport, schweres Heben und Pressen sollten für etwa **4–6 Wochen** aufgeschoben werden. Flugreisen sind in der Regel **nach 2–4 Wochen** mit ärztlicher Zustimmung möglich."
+  - when: "Monat 2–3"
+    what: "Bei den Kontrollen wird beurteilt, ob das Transplantat angewachsen ist. Ein Hörtest in dieser Phase zeigt, wie sich die Operation auf das Hörvermögen ausgewirkt hat. Schwimmen und Wasserkontakt sind in der Regel nach ärztlicher Freigabe erlaubt."
+  - when: "Monat 6–12"
+    what: "Trommelfell und Mittelohr schließen ihre Heilung ab. Nach einer Cholesteatom-Operation werden regelmäßige Kontrollen und bei Bedarf eine Bildgebung oder eine zweite Kontrolloperation geplant."
+
+risks:
+  expected:
+    - "Völle- und Verschlussgefühl im Ohr sowie in den ersten Wochen ein herabgesetzt wirkendes Hörvermögen (durch die Schwämmchen im Gehörgang)"
+    - "Leichte Ohrenschmerzen, Knistern, Schwappgeräusche oder Rauschen"
+    - "Leicht blutig tingierter Ausfluss aus dem Ohr (erste Tage)"
+    - "Vorübergehendes Taubheitsgefühl an der Ohrmuschel und um den Schnitt; leicht abstehende Ohrmuschel (nach Zugang hinter dem Ohr; bildet sich innerhalb von Wochen zurück)"
+  common:
+    - name: "Geschmacksveränderung"
+      text: "Der Geschmacksnerv (Chorda tympani) verläuft direkt hinter dem Trommelfell und kann während der Operation gedehnt werden oder muss selten durchtrennt werden. Etwa **5–20 von 100** Patienten bemerken auf dieser Seite der Zunge einen metallischen Geschmack oder einen verminderten Geschmack bzw. ein Gefühl von Mundtrockenheit; dies **bessert sich meist innerhalb von Wochen bis Monaten oder wird nicht mehr wahrgenommen**. Selten kann es dauerhaft bestehen bleiben."
+    - name: "Tinnitus (Ohrgeräusch)"
+      text: "Nach der Operation kann ein Ohrgeräusch auftreten, oder ein bestehendes Ohrgeräusch kann sich für eine Weile verstärken; dies ist meist vorübergehend."
+    - name: "Vorübergehender Schwindel"
+      text: "In den ersten Tagen können leichte Gangunsicherheit oder Schwindel auftreten; dies klingt meist innerhalb weniger Tage ab."
+  uncommon:
+    - name: "Nicht-Anwachsen des Transplantats oder erneutes Loch"
+      text: "Bei etwa **5–15 von 100** Patienten verschließt sich das Trommelfell möglicherweise nicht vollständig oder es bildet sich später erneut ein Loch. In diesem Fall kann der Ohrenfluss fortbestehen, und **die Operation muss eventuell wiederholt werden**."
+    - name: "Keine Verbesserung des Hörvermögens"
+      text: "Selbst wenn sich das Trommelfell verschließt, verbessert sich das Hörvermögen aufgrund der Gehörknöchelchen, der Belüftung des Mittelohrs oder des Innenohrs möglicherweise nicht wie erwartet. Nach einer Rekonstruktion der Gehörknöchelchen kann sich die Prothese verschieben oder durch das Trommelfell nach außen gedrückt werden; eine weitere Operation kann erforderlich werden."
+    - name: "Ohrinfektion und Ohrenfluss"
+      text: "Nach der Operation können Ohrenfluss oder eine Wundinfektion auftreten; diese heilen meist mit Tropfen oder Antibiotika ab. Eine Entzündung des Ohrknorpels (Perichondritis) ist selten, kann aber eine Verformung des Knorpels hinterlassen."
+    - name: "Verengung des Gehörgangs oder Lateralisierung des Trommelfells"
+      text: "Narbengewebe kann den Gehörgang verengen, oder das neue Trommelfell kann sich von seiner korrekten Position entfernen; dies kann das Hörvermögen beeinträchtigen und einen Korrektureingriff erfordern."
+    - name: "Wiederauftreten oder Restbefund eines Cholesteatoms"
+      text: "Nach einer Cholesteatom-Operation kann die Erkrankung bei einem Teil der Patienten wiederkehren oder ein kleiner Rest weiterwachsen; daher sind eine langfristige Nachsorge und bei Bedarf **eine erneute Operation** erforderlich."
+    - name: "Wund- und Narbenprobleme"
+      text: "Am Schnitt hinter dem Ohr können eine verdickte Narbe oder ein Keloid und selten eine Flüssigkeitsansammlung hinter dem Ohr auftreten."
+  rare:
+    - name: "Dauerhafter Hörverlust durch Schädigung des Innenohrs"
+      text: "Bei **weniger als 1 von 100** Patienten kann durch eine Beeinträchtigung des Innenohrs eine **dauerhafte Schallempfindungsschwerhörigkeit** entstehen; sehr selten kann das Hörvermögen auf dem operierten Ohr vollständig verloren gehen (Ertaubung). Dies kann ein Hörgerät oder eine weitergehende Hörrehabilitation erforderlich machen. Das Risiko ist bei einem Cholesteatom und bei Erkrankungen in der Nähe des Innenohrs höher."
+    - name: "Länger anhaltender Schwindel und Gleichgewichtsstörungen"
+      text: "Selten kann das Innenohr beeinträchtigt werden, was zu wochenlang anhaltendem Schwindel führt; Gleichgewichtsübungen und Medikamente können erforderlich sein."
+    - name: "Lähmung des Gesichtsnervs (Fazialisparese)"
+      text: "Da der Gesichtsnerv durch das Mittelohr verläuft, kann sehr selten (bei **weit weniger als 1 von 100** Patienten) eine vorübergehende oder dauerhafte Schwäche dieser Gesichtshälfte auftreten. Das Risiko ist bei einem Cholesteatom, bei Wiederholungsoperationen und bei angeboren ungewöhnlichem Nervenverlauf höher. Tritt sie auf, können Medikamente, ein Schutz des Auges und bei Bedarf eine Operation (Druckentlastung oder Wiederherstellung des Nervs) erforderlich sein. Bleibt sie dauerhaft bestehen, können eine Gesichtsasymmetrie und ein unvollständiger Lidschluss zurückbleiben, die einen langfristigen Schutz des Auges und eventuell Operationen zur Wiederherstellung der Gesichtsbewegung (Reanimationschirurgie) erfordern."
+    - name: "Komplikationen im Bereich der Hirnhäute"
+      text: "Insbesondere bei Mastoidektomie und Cholesteatom-Operationen, bei denen der Knochen der Schädelbasis ausgedünnt ist, können sehr selten ein Austritt von Hirnwasser (Liquorleck), eine Hirnhautentzündung (Meningitis) oder eine Verletzung der Hirnhaut auftreten. Dies kann eine weitere Behandlung im Krankenhaus (manchmal auf der Intensivstation) und eine Operation erfordern; eine Meningitis kann selten bleibende Schäden hinterlassen."
+    - name: "Dauerhafte Formveränderung der Ohrmuschel"
+      text: "Infolge des Zugangs hinter dem Ohr oder der Entnahme eines Knorpeltransplantats kann selten eine leichte Veränderung der Stellung oder Form der Ohrmuschel dauerhaft bestehen bleiben."
+
+emergency:
+  - "**Plötzlicher, deutlicher Hörverlust** (eine plötzliche Verschlechterung, die sich vom Verschlussgefühl durch die Schwämmchen unterscheidet)"
+  - "**Starker Schwindel**, Erbrechen und Unfähigkeit zu stehen"
+  - "**Gesichtsschwäche**: herabhängender Mundwinkel, Auge lässt sich nicht schließen"
+  - "**Fieber über 38,5 °C**, zunehmende Ohrenschmerzen, Rötung und Schwellung der Ohrmuschel oder übel riechender, eitriger Ausfluss"
+  - "**Klarer, wässriger Ausfluss** aus dem Ohr, starke Kopfschmerzen oder Nackensteifigkeit"
+  - "**Nicht stillbare Blutung** aus dem Verband oder dem Ohr"
+
+lifestyle:
+  - "Bis Ihr Arzt es erlaubt, **darf auf keinen Fall Wasser in Ihr Ohr gelangen**: Verschließen Sie das Ohr beim Duschen mit Watte, die mit Vaseline bestrichen ist; gehen Sie nicht ins Schwimmbad oder ins Meer."
+  - "In den ersten **4–6 Wochen** gilt: **nicht schnäuzen**; wenn Sie niesen müssen, niesen Sie mit offenem Mund. Halten Sie sich nicht die Nase zu, um zu pressen (kein Valsalva-Manöver)."
+  - "Vermeiden Sie in den ersten Wochen schweres Heben, Pressen, Bücken und anstrengenden Sport. Informieren Sie Ihren Arzt, wenn Sie unter Verstopfung leiden."
+  - "Holen Sie für Flugreisen, Tauchen und Aktivitäten mit Druckänderungen unbedingt die Zustimmung Ihres Arztes ein; für das **Tauchen** ist in der Regel eine längere Wartezeit erforderlich."
+  - "Führen Sie keine Wattestäbchen oder andere Gegenstände in den Gehörgang ein; wenden Sie die Ihnen verordneten Ohrentropfen wie gezeigt an."
+  - "Wenn Sie aus dem Ausland angereist sind, planen Sie Ihre Rückreise gemeinsam mit Ihrem Arzt; Kontrollen und Hörtests nach Ihrer Rückkehr können bei einem HNO-Arzt vor Ort fortgeführt werden."
+
+declarations_extra:
+  - "Ich habe verstanden, dass das Hauptziel der Operation darin besteht, das Trommelfell zu verschließen und ein trockenes, sicheres Ohr zu erreichen; dass eine Verbesserung des Hörvermögens nicht garantiert werden kann und dass sich das Hörvermögen selten verschlechtern kann."
+  - "Mir wurde erklärt, dass je nach Befund während der Operation eine Rekonstruktion der Gehörknöchelchen oder eine Mastoidektomie erforderlich werden kann, und ich willige ein, dass diese Eingriffe wie oben angekreuzt durchgeführt werden."

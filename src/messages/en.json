@@ -10,7 +10,9 @@
     "book": "Book Appointment",
     "rhinoplasty": "Rhinoplasty",
     "international": "International Patients",
-    "blog": "Blog"
+    "blog": "Blog",
+    "documents": "Documents",
+    "consentForms": "Consent Forms"
   },
   "Footer": {
     "description": "Otolaryngology & Head and Neck Surgeon. Modern, evidence-based solutions for aesthetics and health.",
@@ -142,7 +144,13 @@
     "rejuvenationTitle": "Non-Surgical Facial Rejuvenation | Murat Ayata, MD",
     "rejuvenationDesc": "Thread lift, skin boosters and laser lipolysis for tighter, refreshed skin with minimal downtime.",
     "blogTitle": "Blog: Rhinoplasty, Breathing & Facial Aesthetics | Murat Ayata, MD",
-    "blogDesc": "Answers from ENT surgeon Murat Ayata, MD to common questions about rhinoplasty, septoplasty and facial aesthetics."
+    "blogDesc": "Answers from ENT surgeon Murat Ayata, MD to common questions about rhinoplasty, septoplasty and facial aesthetics.",
+    "documentsTitle": "Patient Documents | Murat Ayata, MD",
+    "documentsDesc": "Patient documents from the private clinic of Op. Dr. Murat Ayata: informed consent forms and pre-procedure information. Read, download and print.",
+    "consentTitle": "Informed Consent Forms | Murat Ayata, MD",
+    "consentDesc": "Informed consent forms for rhinoplasty, septoplasty, otoplasty, eyelid surgery, botox, fillers and more. Read them before your procedure, download as PDF and print.",
+    "consentFormTitle": "{title} Consent Form | Murat Ayata, MD",
+    "consentFormDesc": "{title}: how the procedure is done, expected benefits, alternatives, recovery and possible risks. Read before your procedure, download as PDF and print."
   },
   "Rhinoplasty": {
     "tag": "Rhinoplasty",
@@ -666,5 +674,40 @@
     "instagram": "Watch the video on Instagram →",
     "latest": "Latest from the blog",
     "all": "All articles →"
+  },
+  "Documents": {
+    "hubTag": "Documents",
+    "hubTitle": "Patient documents",
+    "hubIntro": "Information you should read before your procedure. You can read every document here, download it as a PDF or print it.",
+    "consentCardTitle": "Informed consent forms",
+    "consentCardDesc": "18 forms for surgical and in-clinic procedures: how each is done, what recovery looks like, possible risks and alternatives.",
+    "privacyCardTitle": "Privacy notice",
+    "privacyCardDesc": "How your personal and health data are processed, and your rights.",
+    "open": "Open →",
+    "formsCount": "{count} forms",
+    "consentTag": "Consent Forms",
+    "consentTitle": "Informed consent forms",
+    "consentIntro": "What you need to know about the procedure recommended to you, in plain language. Take your time reading and bring any questions to your consultation.",
+    "groupSurgical": "Surgical procedures",
+    "groupOffice": "In-clinic procedures",
+    "read": "Read",
+    "downloadPdf": "Download PDF",
+    "print": "Print",
+    "pages": "{count} pages",
+    "noticeTitle": "This form is for reading in advance",
+    "noticeText": "You do not need to sign it now. Your consent is taken in person before the procedure, at the clinic or hospital, after a face-to-face discussion with your doctor, where risks specific to you are also covered. You may print it and bring your questions noted on it.",
+    "backToList": "← All consent forms",
+    "onThisPage": "In this form",
+    "facts": "At a glance",
+    "declarationsIntro": "When giving consent, you will be asked to confirm the following statements:",
+    "photoIntro": "On the form, you tick one of these options for the use of photographs:",
+    "decisionIntro": "At the end of the form, you mark your decision:",
+    "minorTitle": "Patients under 18",
+    "issued": "Issued: {date} · Rev. {rev}",
+    "otherLanguages": "This form in other languages",
+    "procedureConsentTag": "Consent form",
+    "procedureConsentTitle": "Read before your procedure",
+    "procedureConsentDesc": "You can already read, download or print the informed consent form for this procedure.",
+    "riskLegend": "Rates are approximate; your personal risk is assessed at your consultation."
   }
 }

@@ -1,0 +1,128 @@
+code: "07"
+type: surgical
+aesthetic: false
+title: "Parotidectomie"
+alt_name: "Ablation partielle ou totale de la glande salivaire parotide (située devant l'oreille)"
+
+specific_fields:
+  - label: "Côté :"
+    options: ["Droit", "Gauche"]
+    blank: false
+  - label: "Étendue prévue :"
+    options: ["Superficielle", "Partielle / extracapsulaire", "Totale", "À décider pendant l'intervention"]
+  - label: "Monitorage du nerf facial :"
+    options: ["Sera utilisé", "Ne sera pas utilisé"]
+    blank: false
+  - label: "Diagnostic préliminaire (résultat de la cytoponction / de l'imagerie) :"
+  - label: "Décision convenue à l'avance si la tumeur envahit le nerf facial :"
+    options: ["Une branche nerveuse peut être sacrifiée", "Préserver le nerf", "Autre"]
+
+about:
+  - "La glande parotide est la plus grande des glandes salivaires. Il y en a une devant et juste en dessous de chaque oreille. Le **nerf facial**, qui fait bouger les muscles du visage, traverse la glande et s'y divise en plusieurs branches. La chirurgie de la parotide est donc une chirurgie délicate, au cours de laquelle on veille tout particulièrement à protéger ce nerf."
+  - "La parotidectomie est le plus souvent réalisée en raison d'une **grosseur (tumeur)** dans la glande. La grande majorité de ces grosseurs (environ 80 %) sont **bénignes (non cancéreuses)** ; les plus fréquentes sont l'adénome pléomorphe et la tumeur de Warthin. Une grosseur bénigne peut néanmoins grossir avec le temps, et certaines (en particulier l'adénome pléomorphe) peuvent devenir malignes au fil de nombreuses années. Moins souvent, l'intervention est nécessaire en raison d'infections à répétition, de calculs ou d'une tumeur maligne."
+  - "Le but de l'intervention est d'enlever complètement la grosseur ou le tissu glandulaire malade **tout en préservant le nerf facial**, et d'établir le diagnostic définitif par l'examen anatomopathologique."
+
+procedure_intro:
+  - "L'intervention est réalisée sous anesthésie générale, au bloc opératoire. Avant l'opération, la grosseur est évaluée par échographie, IRM et/ou cytoponction (ponction à l'aiguille fine) ; ces examens apportent des informations préliminaires utiles, mais le diagnostic définitif est posé par l'examen anatomopathologique après l'intervention."
+procedure_steps:
+  - "**Incision :** L'incision commence généralement dans le pli naturel situé devant l'oreille, contourne le dessous du lobe de l'oreille et se prolonge dans un pli de la peau du cou. Dans les cas qui s'y prêtent, l'incision peut être plus courte ou dissimulée à la lisière des cheveux."
+  - "**Repérage du nerf facial :** La peau et les tissus recouvrant la glande sont soulevés et le tronc principal du nerf facial est repéré. S'il est utilisé, un appareil de **monitorage nerveux** aide à suivre la position et le fonctionnement du nerf tout au long de l'intervention."
+  - "**Ablation de la grosseur / de la glande :** Le nerf et ses branches sont suivis avec précaution pendant que la grosseur est retirée avec une marge de tissu glandulaire sain. Selon la position et la taille de la grosseur, seule la partie externe de la glande (superficielle), une partie de celle-ci ou la glande entière (totale) peut être retirée."
+  - "**Examen anatomopathologique :** Le tissu retiré est envoyé au laboratoire d'anatomopathologie. Le résultat définitif est généralement disponible dans un délai de 1 à 2 semaines."
+  - "**Fermeture :** Le saignement est contrôlé et un fin **drain** (tuyau) est généralement mis en place pour évacuer le sang ou le liquide qui pourrait s'accumuler. La peau est refermée par des points fins et un pansement légèrement compressif peut être appliqué."
+procedure_notes:
+  - "Si la tumeur entoure le nerf facial ou s'est développée à l'intérieur de celui-ci (ce qui se produit surtout avec les tumeurs malignes), il peut être nécessaire de sacrifier une branche du nerf, ou le nerf entier, afin d'enlever complètement la tumeur. Cette éventualité est **discutée avec vous séparément** avant l'intervention. Le nerf ne sera pas sectionné de manière inattendue sans que cela ait été discuté avec vous ; la conduite à tenir si la tumeur ne peut pas être séparée du nerf est convenue avec vous à l'avance."
+anesthesia: "Anesthésie générale"
+duration: "Environ 2 à 4 heures"
+stay: "Généralement 1 à 2 nuits ; sortie après le retrait du drain"
+
+benefits:
+  - "Ablation de la grosseur et diagnostic définitif"
+  - "Éviter qu'une grosseur bénigne ne grossisse, ne comprime le nerf facial et, à long terme, ne devienne maligne"
+  - "Pour les tumeurs malignes, première et plus importante étape du traitement"
+  - "Fin des douleurs et des gonflements dus aux infections à répétition ou aux calculs"
+success:
+  - "Pour la plupart des tumeurs bénignes, l'intervention permet une guérison définitive. Pour les adénomes pléomorphes retirés selon une technique appropriée, le taux de récidive est **inférieur à 1 à 2 patients sur 100** ; toutefois, une rupture de la capsule de la tumeur ou une intervention antérieure augmente ce taux. Une tumeur de Warthin peut apparaître sous la forme d'un nouveau foyer dans la même glande ou dans la glande opposée. Pour les tumeurs malignes, le résultat dépend du type et du stade de la tumeur, et un traitement complémentaire peut être nécessaire."
+
+alternatives:
+  - "**Surveillance :** Pour certaines petites grosseurs considérées comme bénignes (par exemple une tumeur de Warthin chez des patients âgés ou présentant un risque opératoire élevé), un suivi régulier par échographie/IRM peut être envisagé. La grosseur reste alors en place et peut grossir, et aucun diagnostic définitif ne peut être posé."
+  - "**Traitement médical :** En cas d'infection ou de calculs : antibiotiques, boissons abondantes, massages ; dans les cas qui s'y prêtent, extraction des calculs par endoscopie des canaux salivaires (sialendoscopie). Le traitement médical n'est pas une option pour les tumeurs."
+  - "**Radiothérapie :** Utilisée pour les tumeurs malignes qui ne peuvent pas être opérées, ou en complément de la chirurgie ; ce n'est pas le traitement privilégié des tumeurs bénignes."
+
+no_treatment:
+  - "Sans intervention, la grosseur reste en place et aucun diagnostic définitif ne peut être posé. Les tumeurs bénignes grossissent généralement lentement, mais avec le temps elles peuvent augmenter de volume, rendant l'intervention plus difficile et augmentant le risque pour le nerf facial ; les adénomes pléomorphes peuvent devenir malins au fil de nombreuses années (environ 5 à 10 % au fil des années). Une tumeur maligne non traitée progressera et pourra s'étendre aux tissus voisins et aux ganglions lymphatiques."
+
+before:
+  - "Avant l'intervention, des analyses de sang, une imagerie (échographie/IRM) et, si nécessaire, une cytoponction sont réalisées ; vous serez examiné(e) par le médecin anesthésiste."
+  - "Vous ne devez ni manger ni boire pendant les **6 à 8 heures** précédant l'intervention (veuillez suivre les consignes du médecin anesthésiste)."
+  - "Chez les hommes, la barbe et les poils autour de l'oreille dans la zone d'incision peuvent être raccourcis le jour de l'intervention. Selon l'incision, quelques cheveux derrière l'oreille peuvent être égalisés."
+  - "Les mouvements de votre visage sont examinés et photographiés avant l'intervention afin de consigner leur fonctionnement avant l'opération."
+
+recovery:
+  - when: "Premières 24 à 48 heures"
+    what: "Vous ressentirez une sensation de tiraillement, une douleur légère à modérée et un gonflement dans la zone opérée, soulagés par des antalgiques. Le drain est généralement retiré le 1er ou le 2e jour, lorsque le liquide diminue. Il est recommandé de dormir la tête surélevée. Les mouvements de votre visage seront contrôlés."
+  - when: "1re semaine"
+    what: "Après votre sortie, vous pouvez reprendre vos activités quotidiennes. Les points sont généralement retirés **entre le 5e et le 7e jour**. Un engourdissement du lobe de l'oreille et de la zone située devant l'oreille est nettement perceptible. Le résultat de l'anatomopathologie est généralement disponible pendant cette période ou peu après, et il vous sera communiqué."
+  - when: "2e à 6e semaine"
+    what: "La plupart des personnes reprennent un travail de bureau en 1 à 2 semaines. Le sport intense et les travaux nécessitant de se pencher et de soulever des charges doivent être reportés d'environ **2 à 3 semaines**. En cas de faiblesse faciale temporaire, celle-ci commence généralement à s'améliorer en quelques semaines ; une protection de l'œil et des exercices faciaux sont recommandés."
+  - when: "3e à 12e mois"
+    what: "La cicatrice s'estompe progressivement. L'engourdissement du lobe de l'oreille s'améliore en partie. La plupart des patients ayant présenté une faiblesse nerveuse temporaire récupèrent complètement en 6 à 12 mois. Une transpiration de la joue pendant les repas (syndrome de Frey), si elle survient, peut apparaître au cours de cette période."
+
+risks:
+  expected:
+    - "Douleur, tiraillement et gonflement dans la zone opérée"
+    - "Engourdissement du lobe de l'oreille et de la peau située devant l'oreille"
+    - "Une cicatrice au niveau de l'incision (s'estompe avec le temps)"
+    - "Légère douleur du côté opéré à l'ouverture de la bouche ou à la mastication (premiers jours)"
+  common:
+    - name: "Faiblesse temporaire du nerf facial"
+      text: "Chez environ **10 à 40 patients sur 100** (selon la quantité de tissu retiré et l'emplacement de la grosseur), on observe une faiblesse temporaire au coin de la bouche, à la fermeture de l'œil ou pour lever le sourcil. Elle ne touche généralement qu'une seule branche et **s'améliore en quelques semaines à quelques mois**. Si votre œil ne se ferme pas complètement pendant cette période, vous devrez utiliser des gouttes, un gel et un pansement oculaire la nuit pour éviter la sécheresse de l'œil."
+    - name: "Diminution permanente de la sensibilité du lobe de l'oreille"
+      text: "Le nerf qui assure la sensibilité du lobe de l'oreille (nerf grand auriculaire) est touché lors de la plupart des interventions. L'engourdissement diminue avec le temps chez la plupart des patients, mais une certaine diminution de la sensibilité du lobe de l'oreille et de la zone environnante peut être **permanente**. Cela n'affecte généralement pas la vie quotidienne."
+    - name: "Syndrome de Frey (transpiration pendant les repas)"
+      text: "Transpiration et rougeur de la joue du côté opéré pendant les repas. Bien qu'il soit détecté plus souvent à l'aide de tests, il est perceptible chez environ **10 à 20 patients sur 100** et apparaît généralement plusieurs mois plus tard. S'il est gênant, il peut être traité par des crèmes antitranspirantes ou par des injections de **toxine botulique**."
+    - name: "Creux au niveau de la joue"
+      text: "Selon la quantité de tissu retiré, un léger creux devant l'oreille et une différence entre les deux côtés peuvent apparaître. S'ils sont visibles, ils peuvent être corrigés par de la graisse ou un produit de comblement."
+  uncommon:
+    - name: "Accumulation de liquide (sérome) ou de salive (sialocèle) / fistule salivaire"
+      text: "Chez environ **5 à 10 patients sur 100**, du liquide ou de la salive peut s'accumuler dans la zone opérée ; rarement, il s'écoule à travers la peau (fistule). Cela se résorbe généralement en quelques semaines grâce à une ponction à l'aiguille, un pansement compressif et, si nécessaire, de la toxine botulique."
+    - name: "Saignement et hématome"
+      text: "Chez environ **1 à 3 patients sur 100**, du sang peut s'accumuler sous la peau. S'il est important, il peut être nécessaire de l'évacuer et d'arrêter le saignement au bloc opératoire."
+    - name: "Infection de la plaie"
+      text: "Survient chez **1 à 3 patients sur 100** ; elle guérit généralement avec des antibiotiques et, rarement, un drainage est nécessaire."
+    - name: "Syndrome de la première bouchée"
+      text: "Surtout après une intervention sur le lobe profond, douleur vive à l'angle de la mâchoire durant quelques secondes lors des premières bouchées d'un repas. Elle diminue généralement avec le temps."
+    - name: "Récidive de la grosseur"
+      text: "Bien que peu fréquent pour les tumeurs bénignes, la grosseur peut réapparaître au même endroit, ou un nouveau foyer peut se développer dans le cas d'une tumeur de Warthin ; cela peut nécessiter une nouvelle intervention. Lors des réinterventions, le risque pour le nerf facial est plus élevé."
+    - name: "Cicatrice épaisse ou chéloïde"
+      text: "Selon la prédisposition de chacun, la cicatrice peut s'épaissir ; des injections de corticoïdes ou d'autres traitements des cicatrices peuvent être utilisés."
+  rare:
+    - name: "Paralysie faciale permanente"
+      text: "Pour les tumeurs bénignes opérées pour la première fois, environ **1 à 3 patients sur 100** peuvent garder une faiblesse permanente d'une branche du nerf facial ou, rarement, du nerf entier. Cela peut entraîner un affaissement du coin de la bouche, une fermeture incomplète de l'œil, un sourire asymétrique et une sécheresse oculaire ; si l'œil n'est pas protégé, une lésion de la surface transparente à l'avant de l'œil (cornée) et une perte de la vue peuvent survenir. Le risque est plus élevé en cas de tumeur maligne, de réintervention et de grosseur adhérente au nerf. Si une paralysie permanente s'installe, des traitements complémentaires tels que des médicaments protégeant l'œil, la pose d'un poids dans la paupière, une réparation nerveuse ou une chirurgie de réanimation faciale peuvent être nécessaires."
+    - name: "Résultat anatomopathologique définitif différent du diagnostic préliminaire"
+      text: "Même si les examens préopératoires évoquent une grosseur bénigne, l'examen anatomopathologique définitif peut révéler une tumeur **maligne**. Dans ce cas, une intervention complémentaire (ablation du reste de la glande ou des ganglions lymphatiques du cou), une radiothérapie ou d'autres traitements peuvent être nécessaires."
+    - name: "Hématome important du cou affectant les voies respiratoires"
+      text: "Très rarement, une accumulation de sang qui augmente rapidement peut comprimer le cou et provoquer des difficultés à avaler ou à respirer. Il s'agit d'une urgence : l'hématome doit être évacué immédiatement au bloc opératoire et, rarement, il peut être nécessaire de sécuriser les voies respiratoires (intubation ou trachéotomie)."
+    - name: "Problèmes de vascularisation de la peau"
+      text: "Désunion du bord de la plaie, en particulier sous le lobe de l'oreille, due à une diminution de l'irrigation sanguine de la peau ; plus fréquente chez les fumeurs."
+    - name: "Modification de la forme du lobe de l'oreille ou altération de la sensibilité du pavillon de l'oreille"
+      text: "Rare ; due à l'incision ou à une atteinte nerveuse."
+
+emergency:
+  - "**Gonflement du cou ou de la joue qui augmente rapidement**, surtout s'il s'accompagne de difficultés à avaler ou à respirer (urgence — appelez le 112)"
+  - "**Saignement qui ne s'arrête pas** au niveau du drain ou de la plaie"
+  - "**Fièvre supérieure à 38,5 °C**, rougeur, douleur ou chaleur croissante, ou écoulement de pus au niveau de la plaie"
+  - "**Faiblesse nouvelle ou qui s'aggrave** des mouvements du visage"
+  - "Si vous ne pouvez pas fermer complètement l'œil : **rougeur, sensation de sable, douleur ou vision trouble** de l'œil"
+  - "**Écoulement de liquide clair** par la plaie, ou gonflement mou devant l'oreille qui ne cesse de grossir"
+
+lifestyle:
+  - "Gardez la plaie au sec pendant les 48 premières heures ; ensuite, vous pouvez prendre une courte douche tiède selon les consignes qui vous ont été données."
+  - "Au cours des premières semaines, éviter les aliments très acides et ceux qui stimulent fortement la salivation peut réduire le risque d'accumulation de liquide."
+  - "En cas de faiblesse du nerf facial, utilisez des larmes artificielles en gouttes pendant la journée, ainsi qu'un gel oculaire et un pansement oculaire la nuit ; protégez votre œil du vent et de la poussière."
+  - "Protégez la cicatrice du soleil pendant au moins 6 mois (crème solaire à indice de protection élevé)."
+  - "Veillez à discuter du résultat anatomopathologique et du plan de suivi avec votre médecin ; des contrôles réguliers sont recommandés, même pour les tumeurs bénignes."
+
+declarations_extra:
+  - "Je comprends que la relation entre le nerf facial et la grosseur ne peut être vue avec certitude que pendant l'intervention, que le diagnostic définitif sera posé par l'examen anatomopathologique après l'intervention et qu'un traitement complémentaire pourra être nécessaire en fonction du résultat."
+  - "Avant l'intervention, la conduite à tenir concernant le nerf dans le cas où la tumeur aurait envahi le nerf facial a été discutée avec moi, et ma décision a été consignée dans la rubrique des informations du patient."

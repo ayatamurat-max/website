@@ -2,13 +2,14 @@ import type { MetadataRoute } from 'next';
 import { routing } from '@/i18n/routing';
 import { SITE_URL } from '@/i18n/metadata';
 import { posts, availableLocales } from '@/content/blog';
+import { CONSENT_SLUGS, consentLocales } from '@/content/consent';
 
 // Google'a sitedeki tüm sayfaları bildirir: /sitemap.xml
 const PAGES = [
   '', '/hakkimda', '/international-patients', '/rinoplasti', '/septoplasti', '/kepce-kulak',
   '/goz-kapagi-estetigi', '/boyun-gidi-estetigi', '/cerrahi-islemler', '/medikal-islemler',
   '/botoks', '/dermal-dolgu', '/mezoterapi-prp', '/ameliyatsiz-yuz-genclestirme',
-  '/blog', '/iletisim', '/gizlilik-politikasi',
+  '/blog', '/iletisim', '/gizlilik-politikasi', '/belgeler', '/belgeler/onam-formlari',
 ];
 
 const url = (locale: string, path: string) =>
@@ -30,6 +31,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     const languages = Object.fromEntries(locales.map((l) => [l, url(l, path)]));
     for (const locale of locales) {
       entries.push({ url: url(locale, path), lastModified: post.date, alternates: { languages } });
+    }
+  }
+
+  for (const slug of CONSENT_SLUGS) {
+    const locales = consentLocales(slug);
+    const path = `/belgeler/onam-formlari/${slug}`;
+    const languages = Object.fromEntries(locales.map((l) => [l, url(l, path)]));
+    for (const locale of locales) {
+      entries.push({ url: url(locale, path), alternates: { languages } });
     }
   }
 

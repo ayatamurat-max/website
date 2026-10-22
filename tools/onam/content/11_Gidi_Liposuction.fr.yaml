@@ -1,0 +1,124 @@
+code: "11"
+type: surgical
+aesthetic: true
+title: "Liposuccion sous-mentonnière"
+alt_name: "Retrait de la graisse sous le menton (liposuccion du double menton)"
+
+specific_fields:
+  - label: "Technique prévue :"
+    options: ["Conventionnelle (tumescente)", "Assistée par énergie (laser/RF)", "À décider par le chirurgien"]
+    blank: false
+  - label: "Anesthésie :"
+    options: ["Anesthésie locale", "Anesthésie locale + sédation", "Anesthésie générale"]
+  - label: "Interventions réalisées en même temps :"
+    options: ["Aucune", "Avec un formulaire de consentement distinct :"]
+  - label: "Préoccupations et attentes du patient :"
+
+about:
+  - "La graisse qui s'accumule sous le menton (« double menton ») peut effacer l'angle entre le menton et le cou, donnant à l'ovale du visage un aspect moins net, fatigué ou plus lourd qu'il ne l'est réellement. La graisse dans cette zone est souvent due à une **prédisposition génétique** et peut ne pas disparaître complètement, même avec une perte de poids ou de l'exercice. La perte d'élasticité de la peau avec l'âge la rend également plus visible."
+  - "La liposuccion sous-mentonnière retire la **graisse située sous la peau** par aspiration à l'aide de fines canules. Le but est de dessiner l'ovale du visage et d'obtenir un **angle menton–cou naturel et harmonieux**."
+  - "Le facteur le plus important pour le résultat est la **qualité et l'élasticité de la peau**. Une peau élastique s'adapte au nouveau contour après le retrait de la graisse ; une peau peu élastique peut présenter un relâchement plus marqué. La graisse profonde située sous le muscle du cou (platysma), des glandes salivaires volumineuses, des bandes cervicales marquées et un relâchement cutané important ne peuvent pas être corrigés par la liposuccion ; dans ces cas, d'autres méthodes, comme un lifting cervical profond, peuvent être nécessaires."
+
+procedure_intro:
+  - "Avant l'intervention, votre menton et votre cou sont examinés, l'élasticité de la peau est évaluée, des photographies sont prises et la zone à traiter est marquée alors que vous êtes en position assise."
+procedure_steps:
+  - "**Anesthésie et infiltration de liquide :** Un liquide spécial (solution de tumescence) contenant un anesthésique local et un médicament destiné à réduire le saignement est injecté dans la zone. Ce liquide prévient la douleur et réduit également le saignement et les ecchymoses."
+  - "**Petites incisions :** De petits points d'entrée d'environ **3 à 5 mm** sont réalisés dans le pli naturel sous le menton et, si nécessaire, derrière les lobes des oreilles."
+  - "**Retrait de la graisse :** La graisse est retirée avec soin et de manière homogène par aspiration à l'aide de fines canules (tubes métalliques). Une fine couche de graisse est laissée sous la peau afin de conserver une surface régulière."
+  - "**Traitement assisté par énergie (s'il est prévu) :** Une énergie laser ou de radiofréquence est utilisée pour assouplir la graisse et aider la peau à se retendre dans une certaine mesure. Cela peut contribuer à raffermir la peau, mais ne corrige pas un relâchement important."
+  - "**Fermeture et vêtement de contention :** Les points d'entrée sont refermés par un seul point ou laissés se refermer d'eux-mêmes. À la fin de l'intervention, un **vêtement de compression élastique (mentonnière)** est placé autour du menton et du cou."
+anesthesia: "Anesthésie locale, locale + sédation, ou anesthésie générale"
+duration: "Environ 45 à 90 minutes (lorsqu'elle est réalisée seule)"
+stay: "Généralement sortie le jour même"
+
+benefits:
+  - "Réduction de l'excès de graisse sous le menton"
+  - "Un ovale du visage et un angle menton–cou mieux dessinés ; un profil du visage plus harmonieux"
+  - "Un résultat **durable** tant que votre poids reste stable, car les cellules graisseuses retirées ne se reforment pas (les modifications naturelles de la peau et des tissus liées au vieillissement se poursuivront)"
+success:
+  - "La plupart des patients ayant une bonne élasticité cutanée sont satisfaits du résultat. Le résultat apparaît en **3 à 6 mois**, à mesure que le gonflement diminue. Environ **3 à 5 patients sur 100** peuvent avoir besoin d'une petite retouche en raison d'irrégularités, de graisse résiduelle ou d'une asymétrie. Une prise de poids importante et le vieillissement peuvent modifier le résultat avec le temps."
+
+alternatives:
+  - "**Ne pas réaliser l'intervention :** Comme il s'agit d'une intervention esthétique, vous avez toujours la possibilité de ne pas la faire."
+  - "**Perte de poids et changements du mode de vie :** Réduisent la graisse corporelle globale, mais ne suppriment pas toujours la graisse rebelle sous le menton."
+  - "**Injections lipolytiques (par ex. acide désoxycholique) :** Nécessitent plusieurs séances, peuvent provoquer un gonflement et une douleur marqués, et ont un effet plus limité."
+  - "**Cryolipolyse (destruction de la graisse par le froid) et traitements par appareils :** Non chirurgicaux, mais nécessitent plusieurs séances et ont un effet plus limité."
+  - "**Lifting cervical profond / lifting du cou :** Une option plus adaptée en cas de relâchement cutané important, de bandes cervicales ou de graisse profonde sous le muscle."
+
+no_treatment:
+  - "Si l'intervention n'est pas réalisée, l'aspect sous votre menton restera tel qu'il est et pourra s'accentuer avec l'âge ou une prise de poids. Cela ne représente aucun danger pour votre santé."
+
+before:
+  - "Des analyses de sang sont réalisées avant l'intervention ; si une sédation ou une anesthésie générale est prévue, vous serez examiné(e) par le médecin anesthésiste et devrez être à jeun au préalable."
+  - "Votre poids doit idéalement être stable avant l'intervention ; si vous prévoyez une variation de poids importante dans un avenir proche, parlez-en à votre médecin."
+  - "N'appliquez ni crème ni maquillage sur le visage et le cou le jour de l'intervention ; portez un haut confortable qui s'ouvre sur le devant plutôt qu'un vêtement à col montant."
+  - "Après une sédation ou une anesthésie générale, vous ne devez pas conduire ; veuillez rentrer chez vous accompagné(e)."
+
+recovery:
+  - when: "Premières 48 heures"
+    what: "Vous aurez un gonflement, une sensation de tiraillement et une légère douleur sous le menton, et un peu de liquide rosé peut s'écouler par les points d'entrée ; c'est normal. Les ecchymoses, **si elles apparaissent**, peuvent s'étendre vers le bas du cou et disparaissent en 1 à 2 semaines. Dormez la tête surélevée et portez le vêtement de contention en permanence."
+  - when: "1re semaine"
+    what: "Le vêtement de contention est généralement porté **jour et nuit pendant la première semaine**, puis **la nuit pendant 2 à 3 semaines supplémentaires**. Les éventuels points sont retirés entre le 5e et le 7e jour. La plupart des patients reprennent un travail de bureau et leur vie sociale en 3 à 7 jours."
+  - when: "2e à 6e semaine"
+    what: "Le gonflement diminue en grande partie. Une induration, de petites boules et un engourdissement peuvent être ressentis dans la zone ; ils s'assouplissent avec le temps. Le sport intense peut généralement être repris après **2 à 3 semaines**. Si cela vous est recommandé, massez doucement la zone."
+  - when: "3e à 6e mois"
+    what: "Le gonflement et l'induration résiduels disparaissent, la peau s'adapte au nouveau contour et le résultat devient net."
+
+risks:
+  expected:
+    - "Gonflement, tiraillement et légère douleur sous le menton et dans le cou ; les ecchymoses, **si elles apparaissent**, disparaissent en 1 à 2 semaines"
+    - "Écoulement de liquide rosé par les points d'entrée pendant les 24 à 48 premières heures"
+    - "Engourdissement temporaire et diminution de la sensibilité dans la zone"
+    - "Légère induration et petites boules palpables pendant plusieurs semaines"
+  common:
+    - name: "Induration et boules prolongées (fibrose)"
+      text: "Une induration et des irrégularités sous la peau sont fréquentes pendant la cicatrisation ; la plupart s'assouplissent en quelques mois avec les massages et le temps."
+    - name: "Engourdissement prolongé"
+      text: "La diminution de la sensibilité de la peau sous le menton peut durer de quelques semaines à quelques mois ; très rarement, elle est permanente."
+    - name: "Légère asymétrie"
+      text: "Les deux moitiés du visage n'étant jamais parfaitement symétriques, de petites différences peuvent persister."
+  uncommon:
+    - name: "Irrégularités du contour et capitons"
+      text: "Environ **2 à 5 patients sur 100** peuvent présenter des ondulations, des creux ou des amas de graisse résiduelle. Si trop de graisse est retirée, il peut en résulter un aspect creusé ou « squelettisé » sous le menton et des bandes cervicales plus visibles. La correction peut nécessiter une injection de graisse, une nouvelle liposuccion ou une autre intervention."
+    - name: "Relâchement cutané ou retension insuffisante de la peau"
+      text: "En particulier chez les personnes dont l'élasticité cutanée est diminuée, la peau peut ne pas se retendre suffisamment après le retrait de la graisse et le relâchement peut sembler plus visible. Dans ce cas, un lifting du cou peut être nécessaire à l'avenir."
+    - name: "Asymétrie du sourire (atteinte de la branche nerveuse de la lèvre inférieure)"
+      text: "Une fine branche nerveuse qui longe la mâchoire et fait bouger la lèvre inférieure peut être affectée par le gonflement ou une compression, provoquant une asymétrie de la lèvre inférieure lors du sourire. Cela survient chez environ **1 patient sur 100** et récupère presque toujours spontanément **en quelques semaines à quelques mois** ; une faiblesse permanente est très rare."
+    - name: "Accumulation de sang ou de liquide (hématome, sérome)"
+      text: "Survient chez **moins de 1 patient sur 100**. Les petites collections se résorbent d'elles-mêmes ; les plus importantes peuvent nécessiter une ponction à l'aiguille ou un petit geste."
+    - name: "Infection"
+      text: "Survient chez **moins de 1 patient sur 100** ; elle s'améliore généralement avec des antibiotiques et, rarement, un abcès peut devoir être drainé."
+    - name: "Cicatrice ou modification de la couleur de la peau aux points d'entrée"
+      text: "Les petites cicatrices des points d'entrée deviennent généralement peu visibles ; rarement, un assombrissement, un épaississement ou un petit creux peut persister."
+  rare:
+    - name: "Brûlure cutanée (avec les techniques assistées par énergie)"
+      text: "Lorsqu'un laser ou la radiofréquence est utilisé, malgré les mesures de sécurité, une brûlure de la peau, des cloques et une cicatrice permanente peuvent rarement survenir ; des soins de plaie et un traitement de la cicatrice peuvent être nécessaires."
+    - name: "Lésion de la peau ou perte de tissu"
+      text: "Très rarement, en particulier chez les fumeurs, une altération de l'irrigation sanguine de la peau peut entraîner une plaie et une cicatrice."
+    - name: "Lésion nerveuse permanente"
+      text: "Une faiblesse permanente des mouvements de la lèvre inférieure est exceptionnelle ; si elle survient, un traitement complémentaire peut être nécessaire."
+    - name: "Réaction à l'anesthésique local"
+      text: "Une allergie à l'anesthésique local peut survenir, ou un taux sanguin trop élevé de celui-ci peut provoquer des vertiges, des bourdonnements d'oreilles, un goût métallique dans la bouche et, très rarement, des convulsions ou un trouble du rythme cardiaque. Les doses sont maintenues dans des limites sûres."
+    - name: "Embolie graisseuse et lésion de structures profondes ou des voies respiratoires"
+      text: "Le passage de gouttelettes de graisse dans la circulation sanguine, ou une lésion de structures profondes par la canule, sont **exceptionnels** lors d'une liposuccion sous-mentonnière de petit volume ; s'ils survenaient, un traitement en urgence à l'hôpital et en réanimation pourrait être nécessaire."
+    - name: "Insatisfaction psychologique"
+      text: "Malgré un résultat techniquement réussi, une personne peut avoir du mal à s'adapter à sa nouvelle apparence. Discuter ouvertement des attentes avant l'intervention réduit ce risque."
+
+emergency:
+  - "**Gonflement dur et tendu du cou augmentant rapidement**, surtout d'un seul côté"
+  - "**Difficultés à respirer ou à avaler**, ou modification de votre voix"
+  - "**Fièvre supérieure à 38,5 °C**, douleur, rougeur ou chaleur croissantes, ou écoulement malodorant"
+  - "Peau qui devient blanche, violet foncé ou noire ; cloques remplies de liquide"
+  - "Douleur thoracique, essoufflement ou confusion"
+
+lifestyle:
+  - "Portez le vêtement de contention régulièrement pendant la durée indiquée ; veillez à ce qu'il ne soit ni trop serré ni trop lâche."
+  - "Dormez sur le dos, la tête surélevée, pendant les 1 à 2 premières semaines ; évitez les étirements brusques ou excessifs du cou."
+  - "Évitez le sport intense, le sauna, le hammam et les longues douches chaudes pendant les 2 à 3 premières semaines."
+  - "Protégez la zone du soleil au cours des premiers mois ; cela réduit le risque de cicatrice et de modification de la couleur de la peau."
+  - "Efforcez-vous de garder un poids stable afin de conserver le résultat."
+  - "Si vous venez de l'étranger, prendre l'avion est généralement sans danger à partir du 2e ou 3e jour."
+
+declarations_extra:
+  - "Je comprends que le résultat dépend de l'élasticité de ma peau et que la liposuccion ne corrige pas le relâchement cutané, les bandes cervicales ni la graisse profonde située sous le muscle."
+  - "Je comprends que le port du vêtement de contention et le respect des conseils donnés influenceront directement le résultat."

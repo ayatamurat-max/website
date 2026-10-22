@@ -1,0 +1,124 @@
+code: "06"
+type: surgical
+aesthetic: false
+title: "Ventilasyon Tüpü Uygulaması / Miringotomi"
+alt_name: "Kulak zarına havalandırma tüpü takılması / kulak zarının açılarak sıvının boşaltılması"
+
+specific_fields:
+  - label: "Taraf:"
+    options: ["Sağ", "Sol", "İki taraf"]
+    blank: false
+  - label: "Planlanan işlem:"
+    options: ["Miringotomi + ventilasyon tüpü", "Yalnızca miringotomi (tüp takılmadan)"]
+    blank: false
+  - label: "Tüp tipi:"
+    options: ["Kısa süreli tüp", "Uzun süreli tüp (T-tüp vb.)"]
+  - label: "Aynı seansta yapılacak ek işlemler:"
+    options: ["Adenoidektomi", "Tonsillektomi", "Yok"]
+
+about:
+  - "Orta kulak, kulak zarının arkasında bulunan ve normalde hava ile dolu olan küçük bir boşluktur. Bu boşluk, burnun arkasına açılan **östaki borusu** ile havalanır. Östaki borusu iyi çalışmadığında (özellikle çocuklarda, geniz eti büyüklüğü, alerji veya sık geçirilen soğuk algınlıkları nedeniyle) orta kulakta **sıvı birikir**."
+  - "Bu sıvı **işitme azlığına**, çocuklarda **konuşma ve dil gelişiminde gecikmeye**, dikkat sorunlarına, denge bozukluğuna ve **tekrarlayan kulak iltihaplarına** yol açabilir. Sıvı uzun süre kalırsa kulak zarında incelme, çökme ve kalıcı değişiklikler gelişebilir. Yetişkinlerde de benzer durumlar, uçuş/dalış sonrası basınç sorunları veya burun arkasındaki hastalıklar nedeniyle ortaya çıkabilir."
+  - "Bu işlemin amacı, kulak zarına küçük bir açıklık yaparak sıvıyı boşaltmak ve takılan küçük tüp sayesinde orta kulağın havalanmasını sağlayarak **işitmeyi düzeltmek ve iltihapların sıklığını azaltmaktır.**"
+
+procedure_intro:
+  - "Çocuklarda işlem genellikle kısa süreli genel anestezi altında, yetişkinlerde ise çoğunlukla lokal anestezi ile yapılır. İşlem kulak kanalından, mikroskop altında yapılır; **dışarıda kesi veya iz yoktur.**"
+procedure_steps:
+  - "**Kulak kanalının temizlenmesi:** Mikroskop altında kulak kanalındaki kir temizlenir ve kulak zarı değerlendirilir."
+  - "**Miringotomi:** Kulak zarına, işitmeyi etkilemeyecek bir bölgeden yaklaşık 1–2 mm'lik küçük bir kesi yapılır."
+  - "**Sıvının boşaltılması:** Orta kulaktaki sıvı (berrak, yapışkan veya iltihaplı olabilir) ince bir aspiratör ile çekilir. Gerekirse sıvıdan kültür örneği alınabilir."
+  - "**Tüpün yerleştirilmesi:** Kesiye, birkaç milimetre boyutunda, makara şeklinde küçük bir tüp yerleştirilir. Bu tüp, östaki borusunun görevini geçici olarak üstlenerek orta kulağın havalanmasını sağlar."
+  - "**Bitirme:** Gerekirse kulak damlası uygulanır. Kulağa genellikle tampon konmaz veya yalnızca küçük bir pamuk konur."
+procedure_notes:
+  - "**Kısa süreli tüpler** genellikle **6–18 ay** içinde, kulak zarı iyileşirken kendiliğinden dışarı itilir ve kulak kanalına düşer; çoğu zaman fark edilmez. **Uzun süreli tüpler** ise daha uzun süre yerinde kalır ve bazen ayrı bir işlemle çıkarılması gerekir."
+  - "Yalnızca miringotomi yapıldığında (tüp takılmadan) kulak zarındaki açıklık birkaç gün içinde kapanır ve sıvı tekrar birikebilir."
+anesthesia: "Çocuklarda genel anestezi; yetişkinlerde genellikle lokal anestezi"
+duration: "Her iki kulak için yaklaşık 10–20 dakika"
+stay: "Genellikle aynı gün taburculuk"
+
+benefits:
+  - "İşitmenin genellikle hemen veya kısa sürede düzelmesi"
+  - "Çocuklarda konuşma, dil gelişimi, dikkat ve okul başarısına olumlu katkı"
+  - "Tekrarlayan kulak iltihaplarının sıklığının ve şiddetinin azalması; iltihap olduğunda çoğunlukla ağızdan antibiyotik yerine damla ile tedavi edilebilmesi"
+  - "Kulak zarında kalıcı hasar gelişme riskinin azalması; kulakta basınç ve dolgunluk hissinin geçmesi"
+success:
+  - "Tüp yerinde ve açık olduğu sürece hastaların büyük çoğunluğunda işitme düzelir ve kulak iltihapları azalır. Tüp düştükten sonra östaki borusu yeterince gelişmişse sıvı genellikle tekrar birikmez. Ancak bazı çocuklarda (yaklaşık 100 çocuktan **20–30'unda**) sıvı yeniden birikebilir ve **tekrar tüp takılması** gerekebilir."
+
+alternatives:
+  - "**Bekle-gör (izlem):** Orta kulak sıvısı birçok çocukta 3 ay içinde kendiliğinden geçebilir. İşitme kaybı hafifse ve risk faktörü yoksa düzenli işitme testleriyle izlem yapılabilir."
+  - "**Otoinflasyon:** Özellikle büyük çocuklarda, burundan özel bir balonu şişirerek östaki borusunun açılmasına yardımcı olunabilir."
+  - "**İşitme cihazı:** Ameliyat istemeyen veya uygun olmayan hastalarda sıvı devam ettiği sürece geçici bir çözüm olabilir."
+  - "**İlaç tedavisi:** Alerji veya burun-sinüs hastalığı varsa tedavi edilir; ancak antibiyotik, kortizon veya burun spreylerinin orta kulak sıvısını kalıcı olarak geçirdiğine dair kanıt sınırlıdır."
+  - "**Geniz eti ameliyatı:** Uygun çocuklarda tüp ile birlikte veya tekrar tüp gerektiğinde önerilebilir."
+
+no_treatment:
+  - "İşlem yapılmazsa sıvı bazı hastalarda kendiliğinden geçebilir, ancak devam ederse işitme azlığı, çocuklarda konuşma ve dil gelişiminde gecikme, dikkat ve okul sorunları, denge bozukluğu ve tekrarlayan kulak iltihapları sürebilir. Uzun süre devam eden sıvı, kulak zarında çökme (retraksiyon), kalıcı zar değişiklikleri, kemikçik hasarı ve nadiren **kolesteatom** gibi ameliyat gerektiren daha ciddi kulak hastalıklarına zemin hazırlayabilir."
+
+before:
+  - "İşlemden önce işitme testi (odyometri) ve orta kulak basınç testi (timpanometri) yapılır."
+  - "Genel anestezi uygulanacaksa anestezi uzmanı tarafından değerlendirilirsiniz; ameliyattan önceki **6 saat** boyunca katı gıda ve süt verilmemelidir, berrak sıvılar için anestezi uzmanının vereceği süreye uyunuz."
+  - "İşlemden önceki 2 hafta içinde ateşli hastalık, öksürük veya grip geçirilirse bildiriniz; ameliyat ertelenebilir."
+  - "Kulakta akıntı veya aktif iltihap varsa işlem öncesinde tedavi edilmesi gerekebilir."
+
+recovery:
+  - when: "İşlem günü"
+    what: "Çoğu hasta birkaç saat içinde eve gider. Hafif kulak ağrısı veya dolgunluk hissi olabilir ve basit ağrı kesicilerle geçer. Kulakta birkaç gün süren hafif kanlı veya sulu akıntı olabilir. Çoğu hasta **sesleri hemen daha yüksek duyar**; bu durum ilk günlerde rahatsız edici gelebilir."
+  - when: "İlk 1 hafta"
+    what: "Hekiminiz önerdiyse kulak damlası kullanılır. Çocuklar 1–2 gün içinde okula/kreşe, yetişkinler işlerine dönebilir. Kulağa su kaçmamasına dikkat edilir."
+  - when: "4–8. haftalar"
+    what: "İlk kontrol muayenesi yapılır; tüpün yerinde ve açık olduğu kontrol edilir, işitme testi tekrarlanır."
+  - when: "Tüp yerinde kaldığı süre (6–18 ay)"
+    what: "Yaklaşık **3–6 ayda bir** kontrol önerilir. Kulak iltihabı olursa akıntı şeklinde kendini gösterir ve genellikle kulak damlası ile tedavi edilir. Uçak yolculuğu tüp varken genellikle daha rahattır."
+  - when: "Tüp düştükten sonra"
+    what: "Kulak zarındaki deliğin kapandığı ve orta kulakta sıvı olmadığı kontrol edilir; işitme testi yapılır."
+
+risks:
+  expected:
+    - "Hafif kulak ağrısı ve dolgunluk hissi (1–2 gün)"
+    - "Kulakta birkaç gün süren hafif kanlı veya sulu akıntı"
+    - "Seslerin geçici olarak çok yüksek veya yankılı duyulması"
+    - "Genel anesteziye bağlı geçici bulantı, huzursuzluk"
+  common:
+    - name: "Kulak akıntısı (otore)"
+      text: "Tüp takılı olan hastaların yaklaşık 100'de **10–25'inde** en az bir kez kulak akıntısı olur; genellikle soğuk algınlığı veya kulağa su kaçması sonrasında görülür. Çoğu zaman antibiyotikli kulak damlası ile birkaç günde geçer. Nadiren akıntı inatçı olabilir ve ağızdan ilaç, kulak temizliği veya tüpün çıkarılması gerekebilir."
+    - name: "Kulak zarında beyaz lekeler (timpanoskleroz)"
+      text: "Kulak zarında kireçlenme benzeri beyaz lekeler sık görülür (yaklaşık 100 kulakta **10–30+**). Çoğunlukla işitmeyi etkilemez."
+    - name: "Tüpün erken düşmesi veya tıkanması"
+      text: "Tüp beklenenden önce düşebilir veya kurumuş kan/akıntı ile tıkanabilir. Bu durumda damla ile açılmaya çalışılır; gerekirse tüp yenilenir."
+    - name: "Tekrar tüp takılması gereği"
+      text: "Tüp düştükten sonra sıvı yeniden birikirse, yaklaşık 100 çocuktan **20–30'unda** ikinci bir tüp uygulaması (bazen geniz eti ameliyatıyla birlikte) gerekebilir."
+  uncommon:
+    - name: "Kulak zarında kalıcı delik (perforasyon)"
+      text: "Tüp düştükten sonra kulak zarındaki delik kapanmayabilir: kısa süreli tüplerde 100 hastada yaklaşık **1–3**, uzun süreli tüplerde daha sık (yaklaşık **10–20**). Küçük delikler çoğu zaman şikâyet yapmaz; tekrarlayan akıntı veya işitme kaybına yol açarsa **ayrı bir ameliyatla (timpanoplasti/miringoplasti) kapatılması** gerekebilir."
+    - name: "Kulak zarında incelme veya çökme"
+      text: "Tüpün bulunduğu bölgede zar incelebilir veya içe doğru çökebilir; takip gerekebilir."
+    - name: "Tüpün uzun süre düşmemesi"
+      text: "Tüp beklenen sürede düşmezse (genellikle 2–3 yıldan uzun kalırsa) kısa bir işlemle çıkarılması gerekebilir; çocuklarda bu işlem genellikle genel anestezi altında yapılır."
+    - name: "Kulak kanalında doku üremesi (granülasyon)"
+      text: "Tüpün çevresinde iltihaba bağlı kırmızı doku gelişebilir; kanlı akıntıya neden olabilir ve damla veya küçük bir işlemle tedavi edilir."
+  rare:
+    - name: "Tüpün orta kulağa kaçması"
+      text: "Çok nadiren tüp dışarı düşmek yerine kulak zarının arkasına (orta kulağa) kayabilir; çıkarılması için ayrı bir işlem gerekebilir."
+    - name: "Kolesteatom"
+      text: "Kulak zarının deri tabakasının orta kulağa doğru büyümesiyle oluşan bir kist benzeri hastalıktır. Tüp uygulamasına bağlı olarak **çok nadir** görülür. Gelişirse ameliyatla tedavisi gerekir."
+    - name: "İşitme kaybı, kulak çınlaması veya baş dönmesi"
+      text: "İç kulak veya kemikçiklerin etkilenmesine bağlı kalıcı işitme kaybı, çınlama veya baş dönmesi **son derece nadirdir**."
+    - name: "Kulak kanalı yaralanması ve kanama"
+      text: "Dar kulak kanallarında küçük yaralanmalar olabilir; çok nadiren yüz siniri, iç kulak veya büyük damarların anatomik varyasyonlarına bağlı ciddi yaralanmalar bildirilmiştir."
+
+emergency:
+  - "Damla tedavisine rağmen **3–5 günden uzun süren** veya kötü kokulu, yoğun kulak akıntısı"
+  - "**38,5 °C üzerinde ateş**, şiddetli kulak ağrısı"
+  - "Kulak arkasında kızarıklık, şişlik, kulak kepçesinin öne doğru itilmesi"
+  - "**Ani işitme kaybı**, şiddetli baş dönmesi, dengesizlik veya kusma"
+  - "Yüzde asimetri, ağız kenarında kayma veya gözü kapatamama"
+  - "Kulaktan yoğun kanama"
+
+lifestyle:
+  - "Tüp varken **kulağa kirli su (göl, deniz, havuz, banyo suyu) kaçmasından kaçınınız.** Duş ve banyoda vazelinli pamuk veya kulak tıkacı kullanılabilir. Yüzme hakkında hekiminizin önerisine uyunuz; genellikle kulak tıkacı ve/veya bone ile yüzeyde yüzmeye izin verilir, dalış önerilmez."
+  - "Kulak çubuğu veya pamuklu çubukla kulak kanalının içini temizlemeyiniz."
+  - "Kulak akıntısı olursa önce akıntıyı dışarıdan nazikçe siliniz ve size önerilen damlayı kullanarak hekiminize bilgi veriniz. Kendi kendinize başka kulak damlası kullanmayınız; bazı damlalar orta kulak için uygun değildir."
+  - "Tüp düşse bile kontrol randevularına gelmeye devam ediniz; işitmenin ve kulak zarının durumunun takip edilmesi önemlidir."
+
+declarations_extra:
+  - "Tüpün belirli bir süre sonra kendiliğinden düşeceğini, tekrar sıvı birikirse yeniden tüp takılması gerekebileceğini ve kulak zarında kalıcı delik kalırsa kapatılması için ayrı bir ameliyat gerekebileceğini anladım."

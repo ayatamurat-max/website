@@ -1,0 +1,120 @@
+code: "04"
+type: surgical
+aesthetic: false
+title: "Adenoidektomi"
+alt_name: "Geniz eti (adenoid) ameliyatı"
+
+specific_fields:
+  - label: "Aynı seansta yapılacak ek işlemler:"
+    options: ["Tonsillektomi (bademcik ameliyatı)", "Ventilasyon tüpü", "Yok"]
+  - label: "Ameliyat endikasyonu (hekim tarafından):"
+    options: ["Burun tıkanıklığı / horlama / uyku apnesi", "Orta kulak sıvısı / sık kulak iltihabı", "Tekrarlayan geniz eti iltihabı / sinüzit"]
+  - label: "Diğer / açıklama:"
+
+about:
+  - "Geniz eti (adenoid), burnun arka kısmında, damağın üzerinde bulunan ve vücudun savunma sistemine ait lenf dokusudur. Özellikle 2–7 yaş arasındaki çocuklarda büyüyebilir; ergenlik döneminden itibaren genellikle küçülür."
+  - "Geniz eti büyüdüğünde burun arkasını tıkayarak **ağızdan nefes alma, horlama, uykuda nefes durmaları, burun akıntısı, genizden konuşma ve sık geçirilen enfeksiyonlara** yol açabilir. Kulak ile burun arkasını birbirine bağlayan östaki borusunun ağzını da tıkayabildiği için **orta kulakta sıvı birikimine, işitme azlığına ve tekrarlayan kulak iltihaplarına** neden olabilir. Uzun süren ağızdan solunum yüz ve diş gelişimini de etkileyebilir."
+  - "Adenoidektominin amacı, büyümüş geniz etini alarak burun solunumunu rahatlatmak ve kulak, sinüs ve solunum yolu şikâyetlerini azaltmaktır. Size veya çocuğunuza bu ameliyatın neden önerildiği hekiminiz tarafından ayrıca açıklanacaktır."
+
+procedure_intro:
+  - "Ameliyat genel anestezi altında, ameliyathane koşullarında yapılır. Ağız içinden yapılır; **dışarıda herhangi bir kesi veya iz yoktur.**"
+procedure_steps:
+  - "**Hazırlık:** Anestezi verildikten sonra ağzı açık tutan özel bir alet yerleştirilir ve yumuşak damak hafifçe kaldırılarak burun arkası görülür."
+  - "**Geniz etinin alınması:** Geniz eti, özel bir kazıma aleti (küret), endoskop eşliğinde mikrodebrider, koblasyon veya koter gibi yöntemlerle burun arkasından alınır. Geniz eti tamamen bir organ değil bir doku olduğu için “kökünden” alınamaz; amaç tıkanıklığa yol açan kısmın güvenli bir şekilde çıkarılmasıdır."
+  - "**Kanama kontrolü:** Alınan bölgeye bir süre tampon/gazlı bez ile baskı uygulanır, gerekirse koter ile kanama durdurulur. Ameliyat bitiminde burun arkasında tampon bırakılmaz."
+  - "**Ek işlemler:** Planlandıysa aynı anestezi sırasında bademcik ameliyatı (tonsillektomi) veya kulak zarına ventilasyon tüpü takılması yapılır. Bu işlemler için ayrı onam formları doldurulur."
+  - "**Uyanma:** Ameliyat sonrası hasta, tamamen uyanana kadar derlenme odasında yakından izlenir."
+procedure_notes:
+  - "Alınan doku, hekim gerekli görürse patolojik incelemeye gönderilir."
+anesthesia: "Genel anestezi"
+duration: "Yaklaşık 20–30 dakika (anestezi süresi hariç)"
+stay: "Çoğunlukla aynı gün taburculuk; gerekirse 1 gece gözlem"
+
+benefits:
+  - "Burundan nefes almanın rahatlaması, horlama ve uykuda nefes durmalarının azalması"
+  - "Daha kaliteli uyku; buna bağlı olarak gündüz dikkat, davranış ve okul başarısında iyileşme"
+  - "Orta kulak sıvısı ve kulak iltihaplarının azalması, işitmenin düzelmesine katkı"
+  - "Burun akıntısı, sinüzit ve sık geçirilen üst solunum yolu enfeksiyonlarının azalması"
+success:
+  - "Uygun seçilmiş hastalarda burun tıkanıklığı ve horlama şikâyetleri büyük çoğunlukla belirgin şekilde düzelir. Ancak burun tıkanıklığının alerji, burun eti (konka) büyümesi veya septum eğriliği gibi başka nedenleri de varsa şikâyetler tamamen geçmeyebilir. Kulak sorunlarında başarı, östaki borusunun gelişimine de bağlıdır; bazı çocuklarda ek tedavi veya ventilasyon tüpü gerekebilir."
+
+alternatives:
+  - "**Bekle-gör (izlem):** Şikâyetler hafifse, geniz eti yaşla birlikte küçüleceği için düzenli kontrollerle beklenebilir."
+  - "**İlaç tedavisi:** Kortizonlu burun spreyleri bazı çocuklarda geniz eti şişliğini ve tıkanıklığı geçici olarak azaltabilir; alerji varsa alerji tedavisi yapılır. Etkisi genellikle ilaç kullanıldığı sürece devam eder."
+  - "**Kulak sorunları için yalnızca ventilasyon tüpü:** Bazı durumlarda geniz eti alınmadan yalnızca kulak zarına tüp takılması düşünülebilir."
+  - "**Uyku apnesi için diğer yöntemler:** Çok nadir durumlarda, cerrahinin uygun olmadığı hastalarda uykuda pozitif basınçlı solunum cihazı (CPAP) kullanılabilir."
+
+no_treatment:
+  - "Ameliyat yapılmazsa geniz eti ergenlik döneminde kendiliğinden küçülebilir. Ancak o zamana kadar ağızdan nefes alma, horlama, kalitesiz uyku, tekrarlayan enfeksiyonlar ve kulakta sıvı birikimine bağlı işitme kaybı devam edebilir. Uzun süreli ve ağır uykuda solunum bozukluğu, çocuklarda büyüme-gelişme geriliği, dikkat ve davranış sorunları, nadiren kalp ve akciğer üzerinde yük oluşturabilir. Uzun süre devam eden orta kulak sıvısı, konuşma gelişimini etkileyebilir ve kulak zarında kalıcı değişikliklere yol açabilir."
+
+before:
+  - "Ameliyattan önce kan tahlilleri (özellikle kanama-pıhtılaşma testleri) ve gerekirse diğer tetkikler yapılır; anestezi uzmanı tarafından değerlendirilirsiniz."
+  - "Ailede kolay kanama, morarma veya kanama bozukluğu öyküsü varsa mutlaka bildiriniz."
+  - "Ameliyattan önceki **6 saat** boyunca katı gıda ve süt verilmemelidir; berrak sıvılar için anestezi uzmanının vereceği süreye uyunuz."
+  - "Ameliyattan önceki 2–3 hafta içinde ateşli hastalık, ishal, öksürük veya grip geçirilirse lütfen bildiriniz; ameliyatın ertelenmesi gerekebilir."
+  - "Sallanan süt dişi varsa anestezi sırasında düşme riski olduğundan hekiminize söyleyiniz."
+  - "Çocuğunuzu ameliyata, yaşına uygun ve korkutmayan bir dille hazırlamanız önerilir."
+
+recovery:
+  - when: "Ameliyat günü"
+    what: "Uyandıktan sonra hafif boğaz ağrısı, burunda kanlı-sümüksü akıntı ve ağızdan nefes alma olabilir. Kusma veya hafif ateş görülebilir. Bulantı geçtikten sonra önce su, sonra ılık ve yumuşak gıdalar verilir. Çoğu hasta aynı gün eve gider."
+  - when: "İlk 3–5 gün"
+    what: "Burun tıkanıklığı ve horlama ödem nedeniyle hâlâ devam edebilir; ağız kokusu, hafif ateş, kulak ağrısı ve boyun ağrısı olabilir. Ağrı genellikle hafiftir ve hekiminizin önerdiği ağrı kesicilerle kontrol edilir. Bol sıvı alınması önemlidir."
+  - when: "1. hafta"
+    what: "Çoğu çocuk 3–7 gün içinde okula/kreşe, yetişkinler işlerine dönebilir. Kalabalık ortamlardan ve enfeksiyonlu kişilerden ilk hafta uzak durulması önerilir."
+  - when: "2–4. haftalar"
+    what: "Ödem çözüldükçe burun solunumu belirgin olarak rahatlar. Geçici genizden konuşma (burundan kaçan ses) varsa bu dönemde düzelir. Yüzme ve ağır spor genellikle 2 hafta sonra serbesttir."
+  - when: "1–3. aylar"
+    what: "Kontrol muayenesi yapılır; kulak sorunu nedeniyle ameliyat olunduysa işitme testi ve timpanometri ile kulak durumu değerlendirilir."
+
+risks:
+  expected:
+    - "Hafif boğaz ağrısı, yutkunurken hassasiyet"
+    - "Burunda birkaç gün süren kanlı-sümüksü akıntı ve tıkanıklık"
+    - "Ağız kokusu (iyileşen yara yüzeyine bağlı, 1–2 haftada geçer)"
+    - "Kulağa vuran ağrı (aynı sinirlerden kaynaklanan yansıyan ağrı; kulakta bir hastalık olduğu anlamına gelmez)"
+    - "Hafif ateş (ilk 1–2 gün), anesteziye bağlı bulantı-kusma"
+  common:
+    - name: "Geçici genizden konuşma"
+      text: "Geniz eti alındıktan sonra damağın yeni duruma uyum sağlaması zaman alır; ses birkaç gün–birkaç hafta burundan kaçabilir veya sıvılar nadiren burundan gelebilir. Çoğunlukla 1–2 ay içinde kendiliğinden düzelir."
+    - name: "Boyun ağrısı ve tutukluk"
+      text: "Ameliyat pozisyonuna ve burun arkasındaki iyileşmeye bağlı olarak ilk günlerde boynu hareket ettirirken ağrı olabilir; genellikle birkaç günde geçer."
+    - name: "Şikâyetlerin tamamen geçmemesi"
+      text: "Alerji, konka büyümesi veya septum eğriliği gibi ek nedenler varsa burun tıkanıklığı kısmen devam edebilir; ek tedavi gerekebilir."
+  uncommon:
+    - name: "Kanama"
+      text: "Yaklaşık 100 hastadan **1'inden azında (yaklaşık 0,5–1)** ameliyattan sonra belirgin kanama görülür. Çoğu zaman ilk 24 saatte olur. Kanama durdurulamazsa **tekrar genel anestezi altında ameliyathanede kanamanın durdurulması** gerekebilir. Kan nakli ihtiyacı çok nadirdir."
+    - name: "Diş hasarı"
+      text: "Ağzı açık tutan aletin baskısıyla, özellikle önceden sallanan veya çürük dişlerde, diş kırılması veya düşmesi olabilir."
+    - name: "Dudak, dil veya damakta yaralanma ve şişlik"
+      text: "Aletlerin temasına bağlı küçük yaralar veya geçici şişlik görülebilir; birkaç günde iyileşir."
+    - name: "Enfeksiyon"
+      text: "Ateşin yükselmesi, ağız kokusunun artması ve ağrının artmasıyla kendini gösterebilir; genellikle antibiyotikle düzelir."
+    - name: "Geniz etinin yeniden büyümesi"
+      text: "Adenoid dokusu yeniden büyüyebilir (100 hastadan yaklaşık **1–5'inde**), özellikle çok küçük yaşta ameliyat edilenlerde ve alerjisi olanlarda. Şikâyetler tekrarlarsa nadiren yeniden ameliyat gerekebilir."
+  rare:
+    - name: "Kalıcı genizden konuşma / sıvıların burundan gelmesi (velofaringeal yetmezlik)"
+      text: "Yaklaşık **1.500–3.000 hastada 1** oranında görülür; özellikle damakta gizli yarık (submüköz damak yarığı) olan çocuklarda risk daha yüksektir. Konuşma terapisi ile çoğu zaman düzelir; nadiren düzeltici bir ameliyat gerekebilir. Bu nedenle damak muayenesi ameliyattan önce dikkatle yapılır."
+    - name: "Boyun omurlarında kayma (Grisel sendromu)"
+      text: "Burun arkasındaki iltihabın boyun omurlarının bağlarını etkilemesiyle ortaya çıkan, **çok nadir** bir durumdur. Ameliyattan sonraki günlerde başlayan ve giderek artan boyun ağrısı, başı çevirememe ve başın yana eğik durmasıyla kendini gösterir. Erken fark edilirse ilaç ve boyunluk ile tedavi edilir; geç kalınırsa daha uzun süreli tedavi, nadiren cerrahi tedavi gerekebilir ve kalıcı boyun hareket kısıtlılığı kalabilir. Bu nedenle giderek artan boyun ağrısı mutlaka bildirilmelidir."
+    - name: "Burun arkasında yapışıklık veya daralma"
+      text: "Çok nadiren, özellikle bademcik ameliyatıyla birlikte geniş doku alındığında, yara iyileşmesi sırasında burun arkasında daralma gelişebilir; burun tıkanıklığına yol açabilir ve ek tedavi gerektirebilir."
+    - name: "Ciddi kanama ve sonuçları"
+      text: "Son derece nadir olarak, normal dışı seyreden bir damar veya bilinmeyen bir pıhtılaşma bozukluğu varlığında ciddi kanama gelişebilir. Bu durumda acil ameliyat, kan nakli ve **yoğun bakım** tedavisi gerekebilir; kanın solunum yoluna kaçması solunum sorunlarına yol açabilir."
+
+emergency:
+  - "Ağızdan veya burundan **taze, kırmızı kan** gelmesi, kan tükürme veya kan kusma (birkaç damla dışında her kanama bildirilmelidir)"
+  - "Sık sık yutkunma (çocuklarda kanın yutulduğunu gösteren önemli bir belirti), solgunluk, halsizlik"
+  - "**38,5 °C üzerinde ateş**, ağrı kesicilere rağmen geçmeyen ateş"
+  - "Hiç sıvı içmeme, 6–8 saattir idrar yapmama, aşırı uykuya meyil (sıvı kaybı belirtileri)"
+  - "Giderek artan **boyun ağrısı**, başı çevirememe veya başın yana eğik durması"
+  - "Nefes almada zorluk, uykuda belirgin nefes durması"
+
+lifestyle:
+  - "Ağrı için yalnızca **hekiminizin önerdiği ağrı kesicileri** kullanınız; aspirin ve aspirin içeren ilaçlar kanamayı artırabileceğinden kullanılmamalıdır."
+  - "İlk günlerde ılık-soğuk, yumuşak gıdalar ve **bol sıvı** tüketilmesi önerilir; çok sıcak, sert ve baharatlı yiyeceklerden kaçınılmalıdır."
+  - "İlk 1 hafta burun sert şekilde sümkürülmemelidir."
+  - "Ameliyattan sonraki ilk hafta yurt dışı dönüş uçuşu planlanıyorsa, en erken ne zaman uçulabileceğini hekiminizle konuşunuz; kanama riski nedeniyle ilk günler hekime ulaşılabilecek bir yerde kalınması önerilir."
+
+declarations_extra:
+  - "Ameliyattan sonraki ilk günlerde, özellikle çocuğum için, kanama belirtilerini (sık yutkunma, kan tükürme/kusma) takip etmem ve hekime ulaşmam gerektiği bana anlatıldı."

@@ -1,0 +1,133 @@
+code: "13"
+type: surgical
+aesthetic: true
+title: "Temporal Lift"
+alt_name: "Lifting of the outer brow and eye corner through the temples (lateral brow lift)"
+
+specific_fields:
+  - label: "Side:"
+    options: ["Right", "Left", "Both sides"]
+    blank: false
+  - label: "Incision site:"
+    options: ["Within the scalp (temple)", "At the hairline", "To be decided during surgery"]
+  - label: "Fixation method:"
+    options: ["Permanent stitches", "Absorbable device", "Other"]
+  - label: "Procedures to be performed at the same time:"
+    options: ["Upper blepharoplasty (separate consent)", "Fat injection", "None"]
+  - label: "Patient's concerns and expectations:"
+
+about:
+  - "With age, the tissues of the forehead and temples relax; in particular, the **outer end of the eyebrow** and the **outer corner of the eye** descend. This can give a tired, sad or heavy look, the appearance of excess upper-eyelid skin and wrinkles at the corner of the eye. In some people this shape is also present from birth."
+  - "A temporal lift is an operation that **lifts the outer part of the eyebrow and the corner of the eye upwards and backwards** through small incisions within the hair of the temples. Its aim is to achieve a **fresher, more open look** in harmony with your face. On its own it does not correct the inner part of the brow, the whole forehead or excess eyelid skin; if needed, it is combined with other procedures."
+
+procedure_intro:
+  - "The operation is usually performed under general anaesthesia, or sedation with local anaesthetic, in an operating theatre. Beforehand, the position of your eyebrows and eye corners is assessed with you standing and sitting, photographs are taken, and the direction of lift is marked together with you."
+procedure_steps:
+  - "**Incision:** On each side, incisions of about 3–5 cm are made within the hair of the temple or at the hairline. Hair is not shaved, or only a very narrow strip along the incision is trimmed."
+  - "**Releasing the tissues:** The surgeon works in the deep layer of the temple in a way that protects the forehead branch of the facial nerve. The connective tissues around the outer brow and eye corner are gently released so that they can be moved."
+  - "**Lifting and fixation:** The released tissues are lifted upwards and backwards in the planned direction and secured to the firm tissue layer of the temple with **permanent stitches** or **absorbable fixation devices**. The balance between the two sides is checked."
+  - "**Closure:** If needed, a small amount of excess scalp is removed. The incisions are closed with staples or stitches, sometimes a thin drain is placed, and a light head dressing is applied."
+procedure_notes:
+  - "If upper eyelid surgery (blepharoplasty) or another procedure is to be performed at the same time, a **separate consent form** will be signed for it."
+anesthesia: "General anaesthesia or sedation + local anaesthesia"
+duration: "About 1–2 hours"
+stay: "Usually same day or one night in hospital"
+
+benefits:
+  - "A fresher, more open and younger look as the outer brow and eye corner are lifted"
+  - "Less heaviness and apparent excess skin over the outer upper eyelid"
+  - "No visible facial scar, as the incisions are hidden in the hair"
+success:
+  - "Most suitably selected patients are satisfied with the result. In the first few weeks the brows may look slightly higher than planned; this softens as the tissues settle. The final result is seen within **3–6 months**. The lifted tissues may descend somewhat over time with ageing and gravity; how long the effect lasts varies between individuals and is usually **several years**. About **5–10 in every 100** patients may need a correction because of asymmetry or early loosening."
+
+alternatives:
+  - "**Not having surgery:** As this is a cosmetic procedure, you always have the option not to have it."
+  - "**Brow lift with botulinum toxin:** Can raise the outer brow by a few millimetres, temporarily (3–4 months)."
+  - "**Thread-lift techniques:** Performed with fewer incisions, but the effect is usually more limited and shorter-lasting."
+  - "**Fillers to support the temple/brow:** May give temporary improvement where descent is due to volume loss; they have their own risks, such as blockage of a blood vessel."
+  - "**Other brow-lift operations:** If the whole forehead and the inner brow have also descended, an endoscopic forehead lift or methods using an incision above the brow or at the hairline may be more suitable."
+  - "**Upper blepharoplasty alone:** May be enough if the main problem is excess eyelid skin; it does not correct a low brow."
+
+no_treatment:
+  - "If the operation is not performed, the current appearance of your brows and eye corners will remain and natural ageing will continue. This does not pose a risk to your health."
+
+before:
+  - "Blood tests and, if needed, other investigations are performed before surgery; if general anaesthesia is planned, you will be assessed by the anaesthetist."
+  - "Do not eat or drink anything for **6–8 hours** before surgery (follow the anaesthetist's instructions)."
+  - "Wash your hair the night before or the morning of surgery; do not use hairspray, gel, make-up or contact lenses on the day. Cutting your hair is usually not necessary."
+  - "Tell your doctor if you have had botulinum toxin in the forehead or brow area in the last **3–4 months**; it may affect the planning."
+  - "It is recommended that someone stays with you for the first day after surgery."
+
+recovery:
+  - when: "First 48 hours"
+    what: "You will have tightness, a mild headache and swelling at the temples and forehead; pain is usually mild and controlled with painkillers. Swelling may move down towards the eyes; bruising, **if it occurs**, appears on the eyelids. Sleeping with your head raised and applying cold compresses help to reduce swelling. If a drain was placed, it is usually removed the next day."
+  - when: "Week 1"
+    what: "You can usually wash your hair gently with a mild shampoo from **day 2–3**. The brows and eye corners may look higher and tighter than planned at this stage. Most patients return to daily activities and desk work within 5–7 days."
+  - when: "Days 7–14"
+    what: "Staples or stitches are removed. Numbness, itching and tenderness along the incision at the temples may continue."
+  - when: "Weeks 2–6"
+    what: "Swelling largely settles and the look becomes more natural. Strenuous exercise and tight headbands/helmets that press on the temples should be avoided for at least **3–4 weeks**, and hair colouring and similar chemical treatments for at least **4–6 weeks**; use your hairdryer on a warm setting."
+  - when: "Months 3–6"
+    what: "The tissues settle and the final appearance is seen. Changes in scalp sensation largely recover; the scar fades."
+
+risks:
+  expected:
+    - "Tightness, a feeling of pressure and mild headache at the temples and forehead"
+    - "Swelling of the forehead and around the eyes; bruising, **if it occurs**, settles within 1–2 weeks"
+    - "Brows looking higher than planned, or a surprised look, in the first few weeks"
+    - "Numbness, itching or tingling of the temples and scalp"
+    - "Tenderness and firmness along the incision"
+  common:
+    - name: "Mild asymmetry"
+      text: "Eyebrows are not perfectly symmetrical to begin with; slight differences between the two sides may remain after surgery or appear during healing."
+    - name: "Hair thinning along the incision"
+      text: "Temporary hair shedding around the incision (shock loss) is common, and the hair usually grows back within **2–4 months**. The incision remains as a fine line covered by hair."
+    - name: "Prolonged numbness and itching"
+      text: "Altered sensation of the scalp may last several months; itching during healing is normal."
+    - name: "Partial loosening"
+      text: "Some settling of the lifted tissues is expected in the first months; for this reason a slight overcorrection may be made during surgery."
+  uncommon:
+    - name: "Temporary weakness in raising the brow (forehead branch of the facial nerve)"
+      text: "In about **1–3 in every 100** patients there may be temporary weakness in raising the brow or wrinkling the forehead on one side. This is usually due to stretching of the nerve or swelling and recovers on its own within **a few weeks to a few months**."
+    - name: "Permanent hair loss or a wide scar"
+      text: "A permanent hairless area or widened scar along the incision may rarely develop; scars at the hairline in particular may be more noticeable. If needed, it can be improved with scar revision or hair transplantation."
+    - name: "Haematoma (collection of blood)"
+      text: "In about **1–2 in every 100** patients blood may collect in the temple; it may need to be drained with a needle or a small procedure."
+    - name: "Infection"
+      text: "Occurs in **fewer than 1 in 100** patients. It usually settles with antibiotics; rarely drainage or removal of a fixation stitch is needed."
+    - name: "Overcorrection: a “surprised” or overly slanted (“fox eye”) look"
+      text: "The outer brow or eye corner may appear lifted more than desired. This usually softens as the tissues settle in the first few weeks; if it persists, a correction may be needed."
+    - name: "Early descent or insufficient effect"
+      text: "Because of loosening of the fixation or the nature of the tissues, the brow may descend earlier than expected; a repeat lift may be needed."
+    - name: "Problems related to fixation material"
+      text: "A permanent stitch or device may be felt under the skin, may be tender or may rarely work its way through the skin; in that case it may need to be removed."
+  rare:
+    - name: "Permanent nerve damage"
+      text: "Permanent damage to the nerve branch that moves the brow-raising muscle is **very rare** (far fewer than 1 in 100 patients). In this case the brow on that side does not lift and the forehead does not wrinkle; botulinum toxin to the opposite side or further surgery may be needed to reduce the asymmetry."
+    - name: "Permanent numbness or chronic pain"
+      text: "Permanent loss of scalp sensation, prolonged pain due to nerve entrapment, or headaches may very rarely occur; further treatment may be needed."
+    - name: "Impaired skin blood supply"
+      text: "Especially in smokers, wound-healing problems at the incision edges may occur, leading to a wider scar and hair loss."
+    - name: "Difficulty closing the eyes and dry eye"
+      text: "If upper blepharoplasty was performed in the same session, difficulty closing the eye fully and dry-eye symptoms may rarely occur; most are temporary."
+    - name: "Psychological dissatisfaction"
+      text: "Despite a technically successful result, a person may find it difficult to adjust to their new look. Discussing expectations openly before surgery reduces this risk."
+
+emergency:
+  - "**Rapidly increasing, tense and painful swelling** of the temple or forehead"
+  - "**Bleeding that does not stop** from the incisions"
+  - "**Fever above 38.5 °C**, increasing redness, pain, warmth or pus at the incision sites"
+  - "**Severe headache** not relieved by painkillers, vomiting or neck stiffness"
+  - "**Blurred or double vision**, eye pain or being unable to close the eye"
+  - "Darkening, purple-black discolouration of the skin, or the wound opening up"
+
+lifestyle:
+  - "For the first 1–2 weeks sleep on your back with your head raised; avoid sleeping face down or on your temples."
+  - "For the first 3–4 weeks do not rub your brows or forehead, do not massage the temples, and avoid movements that pull your face downwards."
+  - "Postpone chemical and heat treatments such as hair colouring, perms and hair straighteners for at least **4–6 weeks**. Use your hairdryer on a warm setting."
+  - "Avoid strenuous exercise, bending, lifting, saunas and Turkish baths for the first 3–4 weeks."
+  - "If you have travelled from abroad, flying is usually safe after the first check-up, generally from day 3–5."
+
+declarations_extra:
+  - "I understand that a temporal lift raises the outer part of the brow and the corner of the eye, and that on its own it does not correct the whole forehead, the inner brow or excess eyelid skin."
+  - "I understand that in the first few weeks the brows may look higher and tighter, that the lifted tissues may descend somewhat over time, and that the effect is not permanent."

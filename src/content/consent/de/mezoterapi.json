@@ -1,0 +1,148 @@
+{
+ "code": "16",
+ "type": "office",
+ "aesthetic": true,
+ "title": "Mesotherapie",
+ "alt_name": "Mikroinjektionen von Pflege- und Regenerationspräparaten in die Haut oder Kopfhaut",
+ "about": [
+  "Bei der Mesotherapie werden kleine Mengen von Präparaten mit Inhaltsstoffen wie **Hyaluronsäure, Vitaminen, Mineralstoffen und Aminosäuren** mit sehr feinen Nadeln in die oberflächlichen Schichten der Haut oder Kopfhaut eingebracht. Ziel ist es, die Feuchtigkeit und Vitalität der Haut zu verbessern, feine Linien, einen fahlen Teint und eine müde wirkende Augenpartie weniger sichtbar zu machen oder bei Haarausfall die Pflege der Kopfhaut zu unterstützen.",
+  "Haut- und Haarqualität werden durch Alter, Sonne, Rauchen, Stress, Hormone und Veranlagung beeinflusst. Die Mesotherapie hält diese Prozesse nicht auf; sie ist eine **unterstützende** Behandlung. Welches Präparat und wie viele Sitzungen für Sie geeignet sind, wird nach der Untersuchung gemeinsam festgelegt."
+ ],
+ "procedure_intro": [
+  "Die Behandlung erfolgt in unserer Praxis unter sterilen Bedingungen. Es werden ausschließlich Präparate verwendet, die **in der Türkei zugelassen/registriert, steril und aus der Originalverpackung geöffnet** sind; Produktname und LOT-Nummer werden in Ihrer Akte vermerkt."
+ ],
+ "procedure_steps": [
+  "**Vorbereitung:** Das Areal wird fotografiert, das Make-up entfernt und die Haut mit einer antiseptischen Lösung gereinigt. Auf Wunsch kann für 20–30 Minuten eine betäubende Creme aufgetragen werden.",
+  "**Behandlung:** Das Präparat wird mit einer sehr feinen Nadel von Hand, mit einer Mesotherapie-Injektionspistole oder mit einem Microneedling-Gerät in vielen winzigen Tröpfchen in die oberflächliche Hautschicht eingebracht.",
+  "**Abschluss:** Das Areal wird gereinigt und bei Bedarf kurz gekühlt. Sie erhalten Hinweise zur Pflege nach der Behandlung."
+ ],
+ "procedure_notes": [
+  "Die Wirkung wird in der Regel nicht nach einer einzigen Sitzung, sondern nach **einer Kur aus mehreren Sitzungen** sichtbar. Die meisten Behandlungsprotokolle sehen 3–6 Sitzungen im Abstand von 2–4 Wochen vor, gefolgt von Auffrischungssitzungen alle paar Monate."
+ ],
+ "anesthesia": "Betäubende Creme (optional)",
+ "duration": "Etwa 20–40 Minuten",
+ "stay": "Ambulant; kurze Beobachtung nach der Behandlung",
+ "benefits": [
+  "Eine feuchtigkeitsreicher, strahlender und frischer wirkende Haut; weniger auffällige feine Linien",
+  "Ein weniger müdes Erscheinungsbild der Augenpartie",
+  "Unterstützung der Versorgung der Kopfhaut und der Haarqualität bei Haarausfall"
+ ],
+ "success": [
+  "Die Ergebnisse sind von Mensch zu Mensch sehr unterschiedlich. Wie gut die wissenschaftliche Datenlage zur Mesotherapie ist, hängt vom Präparat und vom Behandlungszweck ab: Behandlungen mit Hyaluronsäure zur Verbesserung der Hautqualität sind gründlicher untersucht, während die Datenlage für manche Präparatemischungen („Cocktails“) begrenzt ist. Die Wirkung ist nicht dauerhaft; um sie zu erhalten, sind regelmäßige Wiederholungen nötig. Ein bestimmtes Ergebnis kann nicht garantiert werden."
+ ],
+ "alternatives": [
+  "**Keine Behandlung** oder ausschließlich regelmäßige Hautpflege, Sonnenschutz und eine gesunde Lebensweise",
+  "**Äußerlich anzuwendende Präparate:** Cremes mit Retinoiden, Vitamin C oder feuchtigkeitsspendenden Inhaltsstoffen; bei Haarausfall auf ärztliche Empfehlung Medikamente wie Minoxidil",
+  "**Andere Behandlungen:** PRP, speziell zur Verbesserung der Hautqualität entwickelte Hyaluronsäure-Behandlungen, chemische Peelings, Laser- oder Microneedling-Behandlungen",
+  "Bei Haarausfall Abklärung und Behandlung einer möglichen zugrunde liegenden Ursache (Eisenmangel, Schilddrüsenstörung, hormonelle Ursachen)"
+ ],
+ "no_treatment": [
+  "Wird keine Mesotherapie durchgeführt, nehmen Haut bzw. Haare ihren natürlichen Verlauf. Da es sich um eine rein ästhetische/unterstützende Behandlung handelt, entsteht Ihnen durch den Verzicht kein gesundheitlicher Nachteil."
+ ],
+ "before": [
+  "Setzen Sie nach Möglichkeit 1 Woche vor der Behandlung nach Rücksprache mit Ihrem Arzt Präparate ab, die Blutergüsse begünstigen können – wie Aspirin, Schmerzmittel (Ibuprofen usw.), Omega-3-Fettsäuren und Vitamin E.",
+  "Bei aktiver Akne, Lippenherpes, Ekzem oder einer Infektion im Behandlungsareal wird die Behandlung verschoben.",
+  "Teilen Sie uns mit, wenn Sie in den letzten 2 Wochen im selben Areal Filler, Botulinumtoxin, eine Laserbehandlung oder ein Peeling erhalten haben.",
+  "Während der Schwangerschaft und Stillzeit wird keine Mesotherapie durchgeführt."
+ ],
+ "recovery": [
+  {
+   "when": "Erste Stunden",
+   "what": "An den Einstichstellen treten kleine Erhebungen (Papeln), Rötung und leichte Schwellung auf; diese klingen meist innerhalb weniger Stunden ab. An den Einstichstellen können winzige Blutpunkte sichtbar sein."
+  },
+  {
+   "when": "Erste 24 Stunden",
+   "what": "Tragen Sie kein Make-up auf und reiben Sie nicht an dem Areal. Vermeiden Sie Sauna, Hamam (türkisches Bad), Solarium, anstrengenden Sport und direkte Sonne. Nach einer Behandlung der Kopfhaut dürfen Sie Ihre Haare am nächsten Tag waschen."
+  },
+  {
+   "when": "Tag 2–7",
+   "what": "**Falls** Blutergüsse auftreten, verblassen sie innerhalb von 3–7 Tagen. Leichte Erhebungen und Druckempfindlichkeit klingen vollständig ab. Verwenden Sie weiterhin Sonnenschutz."
+  },
+  {
+   "when": "Während der Kur",
+   "what": "Die Sitzungen werden in der Regel alle 2–4 Wochen wiederholt. Die Wirkung wird meist nach der 2. oder 3. Sitzung bemerkt."
+  },
+  {
+   "when": "Nach der Kur",
+   "what": "Die Wirkung lässt allmählich nach; um sie zu erhalten, können Auffrischungssitzungen alle paar Monate geplant werden."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Leichte Schmerzen oder Brennen durch die Nadel",
+   "Kleine Erhebungen, Rötung und leichte Schwellung an den Einstichstellen (einige Stunden bis 1 Tag)",
+   "Winzige Blutpunkte und Druckempfindlichkeit an den Einstichstellen"
+  ],
+  "common": [
+   {
+    "name": "Blutergüsse",
+    "text": "Häufig, besonders in Arealen mit dünner Haut wie unter den Augen; sie verschwinden innerhalb von 3–7 Tagen von selbst und lassen sich mit Make-up abdecken."
+   },
+   {
+    "name": "Länger anhaltende Schwellung oder Rötung",
+    "text": "Eine Schwellung unter den Augen kann einige Tage anhalten. Kühlende Umschläge und Schlafen mit erhöhtem Kopf helfen."
+   },
+   {
+    "name": "Geringere Wirkung als erwartet",
+    "text": "Manche Menschen bemerken keine deutliche Veränderung, oder die Wirkung hält nur kurz an."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Vorübergehend verstärkter Haarausfall",
+    "text": "Nach einer Behandlung der Kopfhaut kann in den ersten Wochen vorübergehend vermehrt Haar ausfallen; dies normalisiert sich meist von selbst."
+   },
+   {
+    "name": "Allergische oder entzündliche Reaktion",
+    "text": "Als Reaktion auf einen Inhaltsstoff des Präparats können Juckreiz, Rötung, Nesselsucht oder eine länger anhaltende Schwellung auftreten. Dies wird in der Regel medikamentös behandelt."
+   },
+   {
+    "name": "Dunkelfärbung der Haut (Hyperpigmentierung)",
+    "text": "Besonders bei dunklerer Haut und bei Sonneneinstrahlung können an den Einstichstellen dunkle Flecken entstehen; sie hellen meist im Laufe von Monaten wieder auf."
+   },
+   {
+    "name": "Kleine Knötchen",
+    "text": "Es können kleine tastbare Knötchen entstehen; die meisten verschwinden innerhalb weniger Wochen."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Infektion",
+    "text": "Bakterielle Infektionen sind selten. Eine **Infektion mit atypischen Mykobakterien**, die vor allem im Zusammenhang mit nicht sterilen oder nicht zugelassenen Präparaten berichtet wurde, kann Wochen nach der Behandlung als schmerzhafte, gerötete, nässende Knoten auftreten; sie kann eine langfristige Antibiotikabehandlung und manchmal eine chirurgische Entleerung erfordern und Narben hinterlassen. Um dieses Risiko zu verringern, werden ausschließlich zugelassene, sterile Präparate verwendet."
+   },
+   {
+    "name": "Entzündung des Fettgewebes (Pannikulitis) oder Granulom",
+    "text": "Eine seltene Reaktion mit schmerzhafter Verhärtung oder Rötung im tieferen Gewebe, die lange anhalten und behandlungsbedürftig sein kann."
+   },
+   {
+    "name": "Dauerhafte Narben oder Farbveränderungen",
+    "text": "Sehr selten können nach einer Infektion oder einer schweren Reaktion eine dauerhafte Narbe, eine Delle oder ein Farbunterschied der Haut zurückbleiben."
+   },
+   {
+    "name": "Gefäßverschluss",
+    "text": "Insbesondere bei hyaluronsäurehaltigen Präparaten wurde **äußerst selten** berichtet, dass das Material in ein Blutgefäß gelangt oder auf ein Gefäß drückt, die Durchblutung der Haut stört und eine dauerhafte Narbe hinterlässt. Wenn Sie plötzliche starke Schmerzen, ein Weißwerden der Haut oder eine violette, netzartige Verfärbung bemerken, informieren Sie uns sofort; eine frühzeitige Behandlung ist sehr wichtig."
+   },
+   {
+    "name": "Schwere allergische Reaktion (Anaphylaxie)",
+    "text": "Sehr selten; sie führt zu Atemnot, ausgedehntem Hautausschlag und Blutdruckabfall und erfordert eine Notfallbehandlung."
+   }
+  ]
+ },
+ "emergency": [
+  "**Zunehmende Schmerzen, Rötung, Überwärmung, Schwellung oder eitriger Ausfluss** im behandelten Areal",
+  "**Fieber über 38 °C**",
+  "Schmerzhafte, gerötete oder nässende Knoten, die **Tage oder Wochen nach** der Behandlung auftreten",
+  "Schwellung von Gesicht, Lippen oder Zunge, **Atemnot** oder ein ausgedehnter juckender Hautausschlag",
+  "Weißwerden der Haut, eine violette, netzartige Verfärbung oder starke Schmerzen"
+ ],
+ "lifestyle": [
+  "Tragen Sie in den ersten 24 Stunden kein Make-up auf; meiden Sie Sauna, Hamam (türkisches Bad), Solarium, intensiven Sport und Schwimmbäder.",
+  "Verwenden Sie während der Kur täglich einen Sonnenschutz mit hohem Lichtschutzfaktor.",
+  "Tragen Sie in den ersten 2–3 Tagen keine Peelings, kein Retinol und keine säurehaltigen Produkte auf das Areal auf.",
+  "Wenn Sie später eine weitere Behandlung im selben Areal erhalten (Filler, Laser usw.), teilen Sie dem behandelnden Arzt mit, dass bei Ihnen eine Mesotherapie durchgeführt wurde."
+ ],
+ "declarations_extra": [
+  "Mir wurden Name und Inhaltsstoffe des zu verwendenden Präparats genannt; mir wurde erklärt, dass ausschließlich zugelassene und sterile Präparate verwendet werden und die Produktangaben in meiner Akte vermerkt werden.",
+  "Ich habe verstanden, dass die Wirkung von Mensch zu Mensch unterschiedlich ist, dass mehrere Sitzungen erforderlich sein können und dass das Ergebnis nicht dauerhaft ist."
+ ]
+}

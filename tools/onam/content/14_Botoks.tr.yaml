@@ -1,0 +1,119 @@
+code: "14"
+type: office
+aesthetic: true
+title: "Botulinum Toksin (Botoks) Uygulaması"
+alt_name: "Mimik kırışıklıkları, çene kası (masseter) büyümesi veya aşırı terleme için iğne ile uygulama"
+
+specific_fields:
+  - label: "Ürün adı / marka:"
+  - label: "LOT numarası ve son kullanma tarihi:"
+  - label: "Toplam ünite ve dilüsyon (sulandırma) miktarı:"
+  - label: "Uygulama bölgeleri:"
+    options: ["Alın", "Kaş arası", "Göz kenarı (kaz ayağı)", "Masseter (çene kası)", "Boyun", "Terleme (koltuk altı / el)", "Diğer"]
+  - label: "Uygulamanın amacı:"
+    options: ["Estetik", "Tıbbi (diş sıkma, terleme vb.)"]
+  - label: "Kullanım talimatı dışı (endikasyon dışı) uygulama bölgesi:"
+    options: ["Yok", "Var — bölge:"]
+
+about:
+  - "Botulinum toksin, uygulandığı kasın siniri ile bağlantısını geçici olarak azaltarak o kasın kasılmasını hafifleten, saflaştırılmış bir proteindir. Estetik amaçla alın, kaş arası ve göz kenarındaki **mimik çizgilerini** yumuşatmak için kullanılır. Ayrıca diş sıkma (bruksizm) ve çene kası (masseter) büyümesi, boyun bantları ve **aşırı terleme** (hiperhidroz) gibi durumlarda da tedavi amacıyla uygulanır."
+  - "Mimik çizgileri, yıllar içinde aynı kasların tekrar tekrar kasılması ve cildin esnekliğinin azalmasıyla oluşur. Etki **geçicidir**; kas zamanla eski işlevine kavuşur ve uygulama tekrarlanmazsa görünüm yavaş yavaş başlangıçtaki hâline döner. Amaç, yüz ifadesini dondurmadan **doğal ve dinlenmiş** bir görünüm elde etmektir."
+
+procedure_intro:
+  - "Uygulama muayenehanede, kısa bir görüşme ve muayeneden sonra yapılır. Yüzünüzün mimikleri değerlendirilir, uygulama noktaları belirlenir ve gerekirse işlem öncesi fotoğraf çekilir."
+procedure_steps:
+  - "**Hazırlık:** Makyaj temizlenir, cilt antiseptik bir solüsyonla silinir. Ağrıya hassassanız buz veya anestezik krem uygulanabilir."
+  - "**Uygulama:** Çok ince bir iğneyle, önceden belirlenen noktalara az miktarda ürün enjekte edilir. Her iğne batışı birkaç saniye sürer; hafif bir batma veya yanma hissedilir."
+  - "**Bitiş:** İğne noktalarına hafifçe baskı uygulanır. Küçük kabarcıklar birkaç dakika içinde kaybolur."
+  - "**Kayıt:** Kullanılan ürünün adı, LOT numarası, toplam ünite ve uygulama bölgeleri dosyanıza kaydedilir."
+procedure_notes:
+  - "Bazı uygulama bölgeleri ve amaçları, kullanılan ürünün Türkiye'deki onaylı kullanım talimatında yer almayabilir (**kullanım talimatı dışı / endikasyon dışı kullanım**); örneğin masseter (çene kası) ve diş sıkma, boyun ve avuç içi terlemesi uygulamaları birçok ürünün onaylı kullanım alanları arasında yer almaz. Bu tür kullanım tıbbi literatürde yaygın ve kabul görmüş olsa da, sizin için planlanan bölgenin bu kapsamda olup olmadığı hekiminiz tarafından ayrıca açıklanır ve formdaki ilgili alana kaydedilir."
+anesthesia: "Genellikle gerekmez; istenirse buz veya anestezik krem"
+duration: "Yaklaşık 10–20 dakika"
+stay: "Aynı gün; işlem sonrası 15–30 dk gözlem"
+
+benefits:
+  - "Alın, kaş arası ve göz kenarındaki mimik çizgilerinin yumuşaması, daha dinlenmiş bir görünüm"
+  - "Masseter uygulamasında diş sıkma şikâyetlerinin azalması ve çene hattının incelmesi"
+  - "Terleme uygulamasında terlemenin belirgin şekilde azalması"
+  - "Cerrahi kesi gerektirmeyen, kısa süreli ve günlük yaşama hemen dönülebilen bir işlem olması"
+success:
+  - "Etki genellikle **3–14 gün** içinde başlar, yaklaşık 2. haftada en belirgin hâline ulaşır ve mimik bölgelerinde ortalama **3–4 ay** (terleme ve masseter uygulamalarında daha uzun olabilir) sürer. Etkinin derecesi ve süresi kişiden kişiye değişir. Çok derin, kalıcı çizgiler tamamen kaybolmayabilir. Gerekirse yaklaşık 2. haftada kontrol yapılır ve hekimin uygun gördüğü durumlarda küçük bir ek uygulama (rötuş) yapılabilir."
+
+alternatives:
+  - "**Uygulama yaptırmamak:** Estetik bir işlem olduğu için yaptırmama seçeneğiniz her zaman vardır."
+  - "**Dolgu uygulamaları:** Hareketle değil, hacim kaybıyla oluşan çizgiler için daha uygun olabilir."
+  - "**Cilt bakımı ve cilt yenileme yöntemleri:** Retinoid içeren kremler, kimyasal peeling, lazer, mezoterapi gibi yöntemler cilt kalitesini artırabilir; mimik kaslarının hareketini azaltmaz."
+  - "**Cerrahi yöntemler:** Kaş kaldırma veya yüz germe gibi ameliyatlar sarkma varsa daha kalıcı bir çözüm sunabilir."
+  - "**Tıbbi uygulamalarda:** Diş sıkma için gece plağı, terleme için ter önleyici (antiperspiran) ürünler ve ilaçlar."
+
+no_treatment:
+  - "Uygulama yapılmazsa mevcut görünümünüz veya şikâyetiniz doğal seyrinde devam eder. Mimik çizgileri yaşla birlikte yavaş yavaş belirginleşebilir; bu durum sağlığınız için bir tehlike oluşturmaz."
+
+before:
+  - "Aşağıdaki durumlarda uygulama **yapılmaz veya ertelenir:** hamilelik, emzirme, **myastenia gravis**, ALS, Lambert-Eaton sendromu gibi sinir-kas hastalıkları, uygulama bölgesinde aktif enfeksiyon, ürüne karşı bilinen alerji, bazı ürünler için inek sütü proteini alerjisi. Lütfen bu durumlardan biri varsa mutlaka söyleyiniz."
+  - "**Aminoglikozid grubu antibiyotikler** (ör. gentamisin) ve bazı kas gevşeticiler botulinum toksinin etkisini artırabilir; kullanıyorsanız bildiriniz."
+  - "Daha önce botulinum toksin uygulaması yaptırdıysanız tarihini, ürünü ve sonucunu belirtiniz."
+  - "Morarma riskini azaltmak için mümkünse işlemden birkaç gün önce, hekiminize danışarak, aspirin ve benzeri ilaçlara ara veriniz."
+
+recovery:
+  - when: "İlk 4 saat"
+    what: "Uzanmayınız, uygulama bölgesine masaj yapmayınız veya bastırmayınız. Bu süre ürünün yerinde kalmasına yardımcı olur. İğne noktalarında hafif kızarıklık ve kabarıklık görülebilir."
+  - when: "İlk gün"
+    what: "Ağır egzersiz, sauna, hamam, solaryum ve çok sıcak ortamlardan kaçınınız. Makyaj birkaç saat sonra yapılabilir. Hafif baş ağrısı olabilir; basit ağrı kesicilerle geçer."
+  - when: "3–14. gün"
+    what: "Etki yavaş yavaş başlar. İğne noktalarında küçük morluklar **olursa** 1 hafta içinde kaybolur. Yüz bakımı, cilt işlemleri veya masajı bu dönemde yaptırmayınız."
+  - when: "2. hafta"
+    what: "Etki en belirgin hâline ulaşır. Gerekirse kontrol muayenesi yapılır; asimetri veya yetersiz etki varsa hekim değerlendirmesiyle küçük ek uygulama planlanabilir."
+  - when: "3–4. aylar ve sonrası"
+    what: "Etki yavaş yavaş azalır. Tekrar uygulamalar arasında genellikle en az 3 ay beklenmesi önerilir."
+
+risks:
+  expected:
+    - "İğne noktalarında hafif ağrı, kızarıklık ve kabarıklık (dakikalar–saatler içinde geçer)"
+    - "Küçük morluklar; morarma **olursa** birkaç gün ile 1 hafta içinde kaybolur"
+    - "Alında hafif ağırlık veya gerginlik hissi (ilk 1–2 hafta)"
+  common:
+    - name: "Baş ağrısı"
+      text: "Özellikle ilk uygulamada, 100 hastadan yaklaşık **1–10**'unda ilk günlerde hafif baş ağrısı olabilir; genellikle birkaç gün içinde geçer."
+    - name: "Hafif asimetri veya yetersiz etki"
+      text: "Kasların kişiden kişiye farklı güçte olması nedeniyle iki taraf arasında küçük farklar kalabilir veya etki beklenenden az olabilir. 2. hafta kontrolünde değerlendirilir."
+    - name: "Kaşın dış kenarında aşırı kalkma (“Spock kaşı”)"
+      text: "Alın uygulamasından sonra kaşın dış ucu fazla kalkabilir; genellikle küçük bir ek uygulamayla düzeltilir."
+  uncommon:
+    - name: "Göz kapağı düşüklüğü (pitozis)"
+      text: "Kaş arası veya alın uygulamasından sonra 100 hastadan yaklaşık **1–5**'inde üst göz kapağında hafif düşme olabilir. **Geçicidir**; genellikle 2–6 hafta içinde düzelir. Bu süreçte göz kapağını geçici olarak kaldırıp görünümü düzelten göz damlası verilebilir."
+    - name: "Kaş düşüklüğü ve alında ağırlık"
+      text: "Alın kasının fazla gevşemesine bağlıdır; etki azaldıkça (haftalar–birkaç ay) düzelir."
+    - name: "Gülümsemede asimetri, dudak hareketinde zayıflık, ağızdan sızıntı"
+      text: "Alt yüz ve masseter uygulamalarında ürünün komşu kaslara etkisiyle görülebilir; geçicidir, ancak birkaç hafta–ay sürebilir."
+    - name: "Göz kuruluğu, sulanma veya çift görme"
+      text: "Göz çevresi uygulamalarında seyrek görülür; geçicidir. Çift görme olursa hekiminize haber veriniz."
+    - name: "Yutma güçlüğü, boyunda zayıflık"
+      text: "Boyun uygulamalarında görülebilir; çoğunlukla hafif ve geçicidir."
+    - name: "Çiğneme gücünde azalma, yanakta çökme görünümü"
+      text: "Masseter uygulamasında sert yiyecekleri çiğnerken geçici yorgunluk hissedilebilir; çok nadiren yanakta hafif çökme veya gülerken düzensiz görünüm olabilir."
+    - name: "Avuç içi uygulamasında elde güçsüzlük"
+      text: "Avuç içi terlemesi için yapılan uygulamadan sonra parmaklarda kavrama gücü geçici olarak azalabilir; uygulamanın kendisi de belirgin şekilde ağrılı olabilir. Güçsüzlük genellikle birkaç hafta içinde düzelir."
+  rare:
+    - name: "Etkinin uzak bölgelere yayılması"
+      text: "Çok nadiren, özellikle yüksek dozlarda, ürünün etkisi uygulama bölgesinden uzağa yayılabilir: genel kas güçsüzlüğü, görme bozukluğu, **konuşma, yutma veya nefes alma güçlüğü** görülebilir. Bu durum **acil tedavi** gerektirir; hastanede yatış ve solunum desteği gerekebilir. Estetik amaçlı dozlarda bu tablo son derece nadirdir."
+    - name: "Ciddi alerjik reaksiyon"
+      text: "Kurdeşen, yüzde ve dudakta şişme, nefes darlığı gibi bulgularla seyreden ağır alerjik reaksiyon (anafilaksi) son derece nadirdir; acil müdahale gerektirir."
+    - name: "Etkisizlik (antikor gelişimi)"
+      text: "Çok nadiren vücut ürüne karşı antikor geliştirir ve sonraki uygulamalar etkisiz kalabilir. Sık aralıklarla ve yüksek dozda uygulama riski artırır."
+
+emergency:
+  - "**Yutma, konuşma veya nefes alma güçlüğü**, belirgin kas güçsüzlüğü"
+  - "**Görmede bulanıklık veya çift görme**, göz kapağını hiç açamama"
+  - "Yüzde, dudakta veya dilde hızla gelişen şişlik, kurdeşen, nefes darlığı (alerjik reaksiyon)"
+  - "Uygulama bölgesinde giderek artan ağrı, kızarıklık, sıcaklık veya iltihaplı akıntı"
+
+lifestyle:
+  - "Uygulamadan sonraki ilk 4 saat uzanmayınız ve bölgeye masaj yapmayınız; ilk gün ağır egzersiz, sauna ve hamamdan kaçınınız."
+  - "Etki sürerken başka bir hekimden botulinum toksin, yüz masajı veya cilt işlemi yaptıracaksanız bu uygulamayı yaptırdığınızı belirtiniz."
+  - "Tedavi süresince hamile kalmayı planlıyorsanız hekiminize danışınız."
+
+declarations_extra:
+  - "Uygulama için engel oluşturan durumlar (hamilelik, emzirme, sinir-kas hastalıkları, ilaçlar) bana soruldu; doğru bilgi verdim."
+  - "Botulinum toksinin etkisinin geçici olduğunu ve devam etmesi için uygulamanın düzenli aralıklarla tekrarlanması gerektiğini biliyorum. Bazı uygulama bölgelerinin ürünün kullanım talimatı dışında olabileceği bana açıklandı."
