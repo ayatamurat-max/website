@@ -15,6 +15,7 @@ import Footer from '../components/Footer';
 import WhatsAppButton from '../components/WhatsAppButton';
 import MobileQuickActions from '../components/MobileQuickActions';
 import MetaPixel from '../components/MetaPixel';
+import GoogleAnalytics from '../components/GoogleAnalytics';
 import CookieConsent from '../components/CookieConsent';
 import JsonLd from '../components/JsonLd';
 import { physicianJsonLd } from '@/lib/schema';
@@ -54,6 +55,7 @@ export default async function RootLayout({
           <MobileQuickActions />
           <CookieConsent />
           <MetaPixel />
+          <GoogleAnalytics />
         </NextIntlClientProvider>
       </body>
     </html>
