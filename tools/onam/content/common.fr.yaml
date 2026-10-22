@@ -156,7 +156,7 @@ handwritten_hint: "Nous recommandons au patient d'écrire de sa propre main : «
 
 sign_rows:
   - "Patient"
-  - "Représentant légal (parent / tuteur) — lien de parenté :"
+  - "Représentant légal (parent / tuteur) — lien avec le patient :"
   - "Médecin délivrant l'information et réalisant l'intervention"
   - "Interprète (si nécessaire) — langue :"
   - "Témoin (si nécessaire)"
