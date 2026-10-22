@@ -69,7 +69,7 @@ export default function Home() {
             <Link href="/rinoplasti" className={styles.serviceCard}>
               <div className={styles.cardImage}>
                 <div className={`${styles.cardPlaceholder} ${styles.blueGradient}`}>
-                   <ProcedureIcon name="rhinoplasty" size={52} strokeWidth={1.25} className={styles.cardIcon} />
+                   <ProcedureIcon name="rhinoplasty" size={120} className={styles.cardIcon} />
                 </div>
               </div>
               <div className={styles.cardContent}>
@@ -82,7 +82,7 @@ export default function Home() {
             <Link href="/medikal-islemler" className={styles.serviceCard}>
               <div className={styles.cardImage}>
                 <div className={`${styles.cardPlaceholder} ${styles.tealGradient}`}>
-                   <ProcedureIcon name="medical" size={52} strokeWidth={1.25} className={styles.cardIcon} />
+                   <ProcedureIcon name="medical" size={120} className={styles.cardIcon} />
                 </div>
               </div>
               <div className={styles.cardContent}>
@@ -95,7 +95,7 @@ export default function Home() {
             <Link href="/cerrahi-islemler" className={styles.serviceCard}>
               <div className={styles.cardImage}>
                 <div className={`${styles.cardPlaceholder} ${styles.goldGradient}`}>
-                   <ProcedureIcon name="eyelid" size={52} strokeWidth={1.25} className={styles.cardIcon} />
+                   <ProcedureIcon name="eyelid" size={120} className={styles.cardIcon} />
                 </div>
               </div>
               <div className={styles.cardContent}>
