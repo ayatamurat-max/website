@@ -1,0 +1,320 @@
+.page {
+  padding-top: 110px;
+  padding-bottom: 0;
+}
+
+/* ---------- Giriş ---------- */
+.intro {
+  text-align: center;
+  max-width: 760px;
+  margin: 0 auto 3.5rem;
+}
+
+.intro h1 {
+  margin-bottom: 1rem;
+}
+
+.lead {
+  font-size: 1.15rem;
+  color: var(--color-text-light);
+  line-height: 1.7;
+  margin-bottom: 2rem;
+}
+
+.ctaRow {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* ---------- Ana düzen: yan timeline + hikaye ---------- */
+.layout {
+  display: grid;
+  grid-template-columns: minmax(280px, 360px) 1fr;
+  gap: 4rem;
+  align-items: start;
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.aside {
+  position: sticky;
+  top: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.portrait {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-md);
+}
+
+.nameCard {
+  margin-top: -3.5rem;
+  margin-left: 1.25rem;
+  margin-right: 1.25rem;
+  position: relative;
+  z-index: 1;
+  background: var(--color-surface);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-md);
+  padding: 1rem 1.25rem;
+  text-align: center;
+}
+
+.nameCard strong {
+  display: block;
+  font-family: var(--font-heading);
+  font-size: 1.2rem;
+  color: var(--color-primary);
+}
+
+.nameCard span {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+}
+
+/* ---------- Timeline ---------- */
+.timelineBox {
+  background: var(--color-surface);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  padding: 1.75rem 1.5rem 1.5rem;
+}
+
+.timelineTitle {
+  font-family: var(--font-heading);
+  font-size: 0.8rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--color-secondary);
+  font-weight: 600;
+  margin-bottom: 1.25rem;
+}
+
+.timeline {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  bottom: 6px;
+  width: 2px;
+  background: linear-gradient(var(--color-secondary), var(--color-border));
+}
+
+.timeline li {
+  position: relative;
+  padding-left: 1.9rem;
+  padding-bottom: 1.15rem;
+}
+
+.timeline li:last-child {
+  padding-bottom: 0;
+}
+
+.timeline li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 4px;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--color-surface);
+  border: 3px solid var(--color-secondary);
+}
+
+.timeline li.current::before {
+  background: var(--color-accent);
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 4px rgba(229, 169, 60, 0.2);
+}
+
+.when {
+  display: block;
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--color-primary);
+}
+
+.what {
+  display: block;
+  font-size: 0.9rem;
+  color: var(--color-text-light);
+  line-height: 1.5;
+}
+
+/* ---------- Hikaye ---------- */
+.story h2 {
+  margin-bottom: 1.5rem;
+}
+
+.story p {
+  font-size: 1.08rem;
+  line-height: 1.85;
+  margin-bottom: 1.4rem;
+  color: var(--color-text);
+}
+
+.quote {
+  margin: 2.5rem 0;
+  padding: 2rem 2rem 2rem 2.25rem;
+  border-left: 4px solid var(--color-accent);
+  background: var(--color-surface);
+  border-radius: 0 var(--radius-lg) var(--radius-lg) 0;
+  box-shadow: var(--shadow-sm);
+}
+
+.quote p {
+  font-family: var(--font-heading);
+  font-size: 1.2rem;
+  line-height: 1.7;
+  color: var(--color-primary);
+  margin-bottom: 0.75rem;
+}
+
+.quote p:last-child {
+  margin-bottom: 0;
+}
+
+.subTitle {
+  font-size: 1.25rem;
+  margin: 2.5rem 0 1rem;
+  color: var(--color-primary);
+}
+
+.memberships {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.5rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 0.75rem;
+}
+
+.memberships li {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 0.9rem 1rem 0.9rem 2.6rem;
+  position: relative;
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
+.memberships li::before {
+  content: '✓';
+  position: absolute;
+  left: 1rem;
+  top: 0.85rem;
+  color: var(--color-secondary);
+  font-weight: 700;
+}
+
+.family {
+  font-style: italic;
+  color: var(--color-text-light) !important;
+}
+
+/* ---------- Yetki belgesi ---------- */
+.certificate {
+  margin-top: 6rem;
+  padding: 5rem 0;
+  background: var(--color-surface);
+}
+
+.certInner {
+  display: grid;
+  grid-template-columns: 1fr minmax(280px, 520px);
+  gap: 3.5rem;
+  align-items: center;
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.certInner p {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--color-text-light);
+}
+
+.certImage {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1024 / 721;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  box-shadow: var(--shadow-lg);
+  background: #fff;
+}
+
+/* ---------- Kapanış CTA ---------- */
+.closing {
+  background: var(--color-primary);
+  color: #fff;
+  padding: 4.5rem 0;
+  text-align: center;
+}
+
+.closing h2 {
+  color: #fff;
+  margin-bottom: 0.75rem;
+}
+
+.closing p {
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 2rem;
+  font-size: 1.05rem;
+}
+
+/* ---------- Mobil ---------- */
+@media (max-width: 900px) {
+  .layout,
+  .certInner {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+
+  .aside {
+    position: static;
+  }
+
+  .portrait {
+    max-width: 420px;
+    margin: 0 auto;
+    width: 100%;
+  }
+
+  .nameCard {
+    max-width: 380px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .certImage {
+    max-width: 380px;
+    margin: 0 auto;
+  }
+
+  .quote {
+    padding: 1.5rem;
+  }
+
+  .quote p {
+    font-size: 1.08rem;
+  }
+}
