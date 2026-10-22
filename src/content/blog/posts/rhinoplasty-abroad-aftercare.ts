@@ -4,7 +4,7 @@ import type { Post } from '../types';
 const post: Post = {
   slug: 'rhinoplasty-abroad-stay-travel-follow-up',
   date: '2026-10-22',
-  cover: '/blog/rhinoplasty-abroad-aftercare.svg',
+  cover: '/blog/rhinoplasty-abroad-aftercare.webp',
   shareImage: '/blog/rhinoplasty-abroad-aftercare.jpg',
   procedure: { href: '/international-patients', icon: 'rhinoplasty' },
   translations: {

@@ -4,7 +4,7 @@ import type { Post } from '../types';
 const post: Post = {
   slug: 'why-i-dont-recommend-nose-filler',
   date: '2026-10-22',
-  cover: '/blog/nose-filler.svg',
+  cover: '/blog/nose-filler.webp',
   shareImage: '/blog/nose-filler.jpg',
   procedure: { href: '/rinoplasti', icon: 'rhinoplasty' },
   translations: {

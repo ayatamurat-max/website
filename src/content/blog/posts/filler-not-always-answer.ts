@@ -4,7 +4,7 @@ import type { Post } from '../types';
 const post: Post = {
   slug: 'more-filler-is-not-always-the-answer',
   date: '2026-10-22',
-  cover: '/blog/filler-not-always-answer.svg',
+  cover: '/blog/filler-not-always-answer.webp',
   shareImage: '/blog/filler-not-always-answer.jpg',
   procedure: { href: '/dermal-dolgu', icon: 'filler' },
   translations: {

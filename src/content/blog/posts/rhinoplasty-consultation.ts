@@ -4,7 +4,7 @@ import type { Post } from '../types';
 const post: Post = {
   slug: 'rhinoplasty-consultation-reference-photos-breathing',
   date: '2026-10-22',
-  cover: '/blog/rhinoplasty-consultation.svg',
+  cover: '/blog/rhinoplasty-consultation.webp',
   shareImage: '/blog/rhinoplasty-consultation.jpg',
   procedure: { href: '/rinoplasti', icon: 'rhinoplasty' },
   translations: {
