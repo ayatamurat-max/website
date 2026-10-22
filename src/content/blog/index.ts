@@ -16,9 +16,17 @@ import aiFace from './posts/ai-face';
 import naturalNose from './posts/natural-nose';
 import preventativeBotox from './posts/preventative-botox';
 import faceTaping from './posts/face-taping';
+import noseFiller from './posts/nose-filler';
+import fillerNotAlwaysAnswer from './posts/filler-not-always-answer';
+import rhinoplastyConsultation from './posts/rhinoplasty-consultation';
+import rhinoplastyAbroadAftercare from './posts/rhinoplasty-abroad-aftercare';
 
 // Yeni yazıyı buraya ekleyin.
 const ALL: Post[] = [
+  noseFiller,
+  fillerNotAlwaysAnswer,
+  rhinoplastyConsultation,
+  rhinoplastyAbroadAftercare,
   mouthTaping,
   nasalRinseWater,
   suddenHearingLoss,
