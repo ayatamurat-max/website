@@ -1,0 +1,125 @@
+code: "02"
+type: surgical
+aesthetic: false
+title: "Septoplasty"
+alt_name: "Surgery to straighten the central wall of the nose (nasal septum)"
+
+specific_fields:
+  - label: "Procedures to be performed at the same time:"
+    options: ["Turbinate reduction (radiofrequency / submucosal)", "Endoscopic sinus surgery — FESS (on a separate consent form)", "None"]
+  - label: "Nasal splints / packs:"
+    options: ["Silicone splints", "Packs", "Not needed", "To be decided during surgery"]
+  - label: "Patient's complaint (side of blockage, snoring, headache, etc.):"
+
+about:
+  - "The wall of cartilage and thin bone that divides the nasal cavity into right and left sides is called the **septum**. When the septum is bent to one or both sides, this is called a **septal deviation**. It may be present from birth, develop during growth or follow a blow to the nose."
+  - "A deviated septum can cause nasal blockage, mouth breathing, snoring, poor sleep, a dry mouth, nosebleeds and, in some people, episodes of sinusitis or headache. Because it is a structural problem, it does not improve with medication. The aim of septoplasty is to straighten the bent parts so that you can **breathe comfortably through your nose**. This operation does not aim to change the outer appearance of the nose."
+
+procedure_intro:
+  - "The operation is usually performed under general anaesthesia in an operating theatre, entirely through the nostrils. There is no visible incision or scar on the face."
+procedure_steps:
+  - "**Incision:** A small incision is made inside the nostril, in the lining (mucosa) covering the septum."
+  - "**Lifting the lining:** The lining covering both sides of the septum is gently separated from the cartilage and bone."
+  - "**Correcting the deviation:** The bent pieces of cartilage and bone are removed, straightened or repositioned. The supporting parts that hold the outer shape of the nose (the cartilage framework supporting the bridge and tip) are preserved."
+  - "**Reducing the turbinates (if needed):** If the structures on the side wall of the nose called turbinates are enlarged, they are reduced with radiofrequency or by removing tissue from beneath the lining."
+  - "**Closure:** The lining is laid back in place and held with dissolvable stitches."
+  - "**Splints/packs:** To help the septum heal straight and to prevent bleeding, soft silicone splints with a central airway, or packs, are usually placed inside the nose."
+procedure_notes:
+  - "If the front and outer part of the septum is also bent, or if the outer shape of the nose contributes to the blockage, the operation may be combined with rhinoplasty (septorhinoplasty), provided this is discussed and consented to separately."
+anesthesia: "General anaesthesia (in selected cases local anaesthesia + sedation)"
+duration: "About 45–90 minutes"
+stay: "Same day or one night in hospital"
+
+benefits:
+  - "Easier breathing through the nose and less mouth breathing"
+  - "Better sleep quality and less snoring (snoring may also have other causes)"
+  - "Fewer recurrent nosebleeds caused by the deviation and, in some patients, fewer episodes of sinusitis"
+  - "Better access for sinus or other nasal surgery if needed"
+success:
+  - "Published studies report that about **70–85 out of 100** patients describe a clear improvement in nasal blockage after surgery. If the blockage also has other causes, such as allergy, swelling of the lining, weak nostrils or sinus disease, these may need separate treatment. Rarely, the septum may gradually bend slightly again over time."
+
+alternatives:
+  - "**No surgery / watchful waiting:** If your symptoms are mild, they can simply be monitored."
+  - "**Medical treatment:** Steroid nasal sprays, nasal rinses and allergy medicines can relieve symptoms by reducing swelling of the lining, but they do not correct a structural bend in the bone and cartilage."
+  - "**Nasal strips / nostril dilators:** May give temporary relief."
+  - "**Decongestant sprays:** Suitable only for a few days; long-term use leads to dependence and even worse blockage."
+
+no_treatment:
+  - "If the operation is not performed, the deviation will not straighten by itself; symptoms such as nasal blockage, mouth breathing and snoring will continue and may worsen with age. This is usually not dangerous to life; the decision to operate depends on how much your symptoms affect your quality of life."
+
+before:
+  - "Blood tests and, if necessary, a CT scan of the sinuses and other investigations are carried out before surgery, and you will be assessed by the anaesthetist."
+  - "You must not eat or drink anything for **6–8 hours** before the operation (please follow the anaesthetist's instructions)."
+  - "If you develop a cold, flu or a feverish illness in the days before surgery, please let us know; the operation may be postponed."
+
+recovery:
+  - when: "First 48 hours"
+    what: "Your nose will feel blocked because of the splints, and you can expect a mild blood-stained ooze, headache and a dry throat. Pain is usually mild. Sleeping with your head raised is recommended. The gauze pad under the nose may need changing a few times."
+  - when: "Days 3–7"
+    what: "Silicone splints or packs are usually removed at a follow-up visit between **days 3 and 7**; this causes brief discomfort. Nasal rinsing is started. Most people return to desk work within 5–7 days."
+  - when: "Weeks 2–4"
+    what: "Crusting and dryness inside the nose may occur and settle with regular rinsing. Breathing gradually improves. Strenuous exercise and contact sports should be postponed for about **3–4 weeks**."
+  - when: "Months 1–3"
+    what: "The nasal lining heals completely. The final breathing result is usually assessed during this period."
+
+risks:
+  expected:
+    - "Nasal blockage and mouth breathing until the splints are removed"
+    - "Mild blood-stained ooze in the first few days"
+    - "Temporary numbness of the upper front teeth and upper lip"
+    - "Crusting and dryness inside the nose (in the first few weeks)"
+    - "Temporary reduction in sense of smell"
+  common:
+    - name: "Prolonged crusting and dryness"
+      text: "May last several weeks, especially if turbinate reduction was performed; settles with rinsing and moisturising ointment."
+    - name: "Prolonged numbness of the upper teeth and lip"
+      text: "Usually resolves within a few weeks; rarely it may last a few months."
+    - name: "Blockage not fully resolving"
+      text: "In about **15–30 out of 100** patients, breathing may not improve as much as expected. This is often due to additional factors such as allergy, swelling of the lining or weak nostrils; medical treatment or further surgery may be needed."
+  uncommon:
+    - name: "Nosebleed"
+      text: "In about **1–3 out of 100** patients, bleeding requiring packing may occur. Very rarely, the bleeding may need to be stopped in the operating theatre."
+    - name: "Hole in the septum (perforation)"
+      text: "In about **1–3 out of 100** patients, a hole may form in the septum. It often causes no symptoms; if it causes whistling, crusting or bleeding, rinsing, a septal button or a repair operation may be needed."
+    - name: "Adhesions inside the nose (synechiae)"
+      text: "In about **1–5 out of 100** patients, adhesions may form between the septum and the side wall; if they cause blockage they are separated with a simple procedure at follow-up."
+    - name: "Collection of blood or pus in the septum (haematoma / abscess)"
+      text: "Occurs in **fewer than 1 in 100** patients. It shows as increasing blockage, pain and fever in the days after surgery. It must be **drained urgently** to avoid damage to the nasal cartilage; if untreated, loss of cartilage and collapse of the nasal bridge may occur."
+    - name: "Infection"
+      text: "Rare; it usually settles with antibiotics."
+    - name: "Recurrence of the deviation"
+      text: "Because cartilage has a “memory”, the septum may bend slightly again over time; if this causes symptoms, a second operation may be needed."
+  rare:
+    - name: "Collapse of the nasal bridge (saddle nose)"
+      text: "Occurs in **fewer than 1 in 100** patients. Weakening of the supporting cartilage of the septum, or loss of cartilage after a haematoma/abscess, can cause the bridge of the nose to collapse; this changes the outer appearance of the nose and requires further surgery with a cartilage graft to correct."
+    - name: "Drooping or change in shape of the nasal tip"
+      text: "Very rare; may occur if supporting structures are affected."
+    - name: "Permanent reduction or loss of sense of smell"
+      text: "Very rare."
+    - name: "Cerebrospinal fluid (CSF) leak and meningitis"
+      text: "Because the upper part of the septum is next to the skull base, this is an extremely rare complication occurring in **far fewer than 1 in 10,000** cases. If it occurs, hospital admission, further treatment and a repair operation may be needed."
+    - name: "Empty nose syndrome"
+      text: "If the turbinates are reduced excessively, a feeling of blockage and dryness may develop even though the nose is open. This is very rare; for this reason the turbinates are reduced conservatively. If it develops, it may be long-lasting or permanent and is difficult to treat."
+    - name: "Toxic shock syndrome"
+      text: "A very rare but serious illness linked to the use of nasal packs/splints (sudden high fever, rash, low blood pressure) that needs urgent treatment. It requires hospital treatment, sometimes in intensive care, and can be life-threatening."
+    - name: "Visual disturbance, bleeding around the eye"
+      text: "Extremely rare with septoplasty; the risk is slightly higher when combined with sinus surgery such as FESS and is explained on a separate consent form."
+
+emergency:
+  - "**Nosebleed that does not stop or is very heavy** despite a few minutes of pressure and ice, or blood running continuously into the mouth"
+  - "**Increasing nasal blockage, severe pain and swelling of the nose** in the days after surgery (may be a sign of a septal haematoma/abscess)"
+  - "**Fever above 38.5 °C** or foul-smelling discharge"
+  - "**Sudden high fever, skin rash, dizziness or weakness** while packs/splints are in place"
+  - "**Clear, watery discharge** from the nose, especially if it increases when you lean forward; severe headache or neck stiffness"
+  - "**Blurred or double vision**, or swelling around the eye"
+  - "Shortness of breath or chest pain"
+
+lifestyle:
+  - "Do not blow your nose for the first 2 weeks; keep your mouth open when sneezing."
+  - "Rinse your nose as shown to you and as often as recommended."
+  - "For the first 2 weeks avoid hot baths, saunas, Turkish baths and heavy lifting."
+  - "Protect your nose from knocks for at least 4 weeks."
+  - "If you have travelled from abroad, flying is usually safe once the splints have been removed."
+
+declarations_extra:
+  - "I understand that the aim of this operation is to improve breathing, not to change the outer appearance of the nose, and that further treatment may be needed if the blockage has other causes."

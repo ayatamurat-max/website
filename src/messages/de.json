@@ -10,7 +10,9 @@
     "book": "Termin Buchen",
     "rhinoplasty": "Rhinoplastik",
     "international": "Internationale Patienten",
-    "blog": "Blog"
+    "blog": "Blog",
+    "documents": "Dokumente",
+    "consentForms": "Aufklärungsbögen"
   },
   "Footer": {
     "description": "Facharzt für Hals-Nasen-Ohrenheilkunde und Kopf-Hals-Chirurgie. Moderne, evidenzbasierte Lösungen für Ästhetik und Gesundheit.",
@@ -142,7 +144,13 @@
     "rejuvenationTitle": "Gesichtsverjüngung ohne OP | Op. Dr. Murat Ayata",
     "rejuvenationDesc": "Fadenlifting, Skinbooster und Laserlipolyse für straffere, frischere Haut mit kurzer Ausfallzeit.",
     "blogTitle": "Blog: Rhinoplastik, Atmung & Gesichtsästhetik | Op. Dr. Murat Ayata",
-    "blogDesc": "Antworten des HNO-Chirurgen Op. Dr. Murat Ayata auf häufige Fragen zu Rhinoplastik, Septumplastik und Gesichtsästhetik."
+    "blogDesc": "Antworten des HNO-Chirurgen Op. Dr. Murat Ayata auf häufige Fragen zu Rhinoplastik, Septumplastik und Gesichtsästhetik.",
+    "documentsTitle": "Patientendokumente | Op. Dr. Murat Ayata",
+    "documentsDesc": "Patientendokumente der Privatpraxis Op. Dr. Murat Ayata: Aufklärungs- und Einwilligungsbögen sowie Informationen vor dem Eingriff. Lesen, herunterladen, drucken.",
+    "consentTitle": "Aufklärungs- und Einwilligungsbögen | Op. Dr. Murat Ayata",
+    "consentDesc": "Aufklärungsbögen für Rhinoplastik, Septumplastik, Otoplastik, Lidstraffung, Botox, Filler und weitere Eingriffe. Vor dem Eingriff lesen, als PDF herunterladen und drucken.",
+    "consentFormTitle": "{title}: Aufklärungsbogen | Op. Dr. Murat Ayata",
+    "consentFormDesc": "{title}: Ablauf des Eingriffs, erwarteter Nutzen, Alternativen, Heilungsverlauf und mögliche Risiken. Vor dem Eingriff lesen, als PDF herunterladen und drucken."
   },
   "Rhinoplasty": {
     "tag": "Rhinoplastik",
@@ -666,5 +674,40 @@
     "instagram": "Video auf Instagram ansehen →",
     "latest": "Neu im Blog",
     "all": "Alle Artikel →"
+  },
+  "Documents": {
+    "hubTag": "Dokumente",
+    "hubTitle": "Patientendokumente",
+    "hubIntro": "Informationen, die Sie vor Ihrem Eingriff lesen sollten. Jedes Dokument können Sie hier lesen, als PDF herunterladen oder ausdrucken.",
+    "consentCardTitle": "Aufklärungs- und Einwilligungsbögen",
+    "consentCardDesc": "18 Bögen für operative Eingriffe und Behandlungen in der Praxis: Ablauf, Heilungsverlauf, mögliche Risiken und Alternativen.",
+    "privacyCardTitle": "Datenschutzhinweise",
+    "privacyCardDesc": "Wie Ihre personenbezogenen und Gesundheitsdaten verarbeitet werden und welche Rechte Sie haben.",
+    "open": "Öffnen →",
+    "formsCount": "{count} Bögen",
+    "consentTag": "Aufklärungsbögen",
+    "consentTitle": "Aufklärungs- und Einwilligungsbögen",
+    "consentIntro": "Was Sie über den Ihnen empfohlenen Eingriff wissen sollten, in verständlicher Sprache. Lesen Sie in Ruhe und stellen Sie Ihre Fragen im Beratungsgespräch.",
+    "groupSurgical": "Operative Eingriffe",
+    "groupOffice": "Behandlungen in der Praxis",
+    "read": "Lesen",
+    "downloadPdf": "PDF herunterladen",
+    "print": "Drucken",
+    "pages": "{count} Seiten",
+    "noticeTitle": "Dieser Bogen dient zur Vorab-Information",
+    "noticeText": "Sie müssen ihn jetzt nicht unterschreiben. Ihre Einwilligung wird vor dem Eingriff persönlich in der Praxis oder Klinik eingeholt, nach einem Aufklärungsgespräch mit Ihrem Arzt, in dem auch Ihre persönlichen Risiken besprochen werden. Sie können den Bogen ausdrucken und Ihre Fragen darauf notieren.",
+    "backToList": "← Alle Aufklärungsbögen",
+    "onThisPage": "In diesem Bogen",
+    "facts": "Auf einen Blick",
+    "declarationsIntro": "Mit Ihrer Einwilligung bestätigen Sie die folgenden Aussagen:",
+    "photoIntro": "Im Bogen kreuzen Sie eine dieser Optionen zur Verwendung von Fotos an:",
+    "decisionIntro": "Am Ende des Bogens kreuzen Sie Ihre Entscheidung an:",
+    "minorTitle": "Patienten unter 18 Jahren",
+    "issued": "Ausgabe: {date} · Rev. {rev}",
+    "otherLanguages": "Dieser Bogen in anderen Sprachen",
+    "procedureConsentTag": "Aufklärungsbogen",
+    "procedureConsentTitle": "Vor dem Eingriff lesen",
+    "procedureConsentDesc": "Den Aufklärungsbogen zu diesem Eingriff können Sie schon jetzt lesen, herunterladen oder ausdrucken.",
+    "riskLegend": "Die Angaben sind Näherungswerte; Ihr persönliches Risiko wird im Beratungsgespräch beurteilt."
   }
 }

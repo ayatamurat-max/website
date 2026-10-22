@@ -218,3 +218,108 @@
     height: auto !important;
   }
 }
+
+/* Belgeler: açılır alt menü (masaüstü) / girintili alt bağlantı (mobil) */
+.navGroup {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.navParent {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.caret {
+  transition: transform var(--transition-fast);
+}
+
+.dropdownLink {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--color-text-light);
+  white-space: nowrap;
+}
+
+.dropdownLink:hover {
+  color: var(--color-secondary);
+}
+
+@media (max-width: 1439px) {
+  .nav {
+    overflow-y: auto;
+  }
+
+  .caret {
+    display: none;
+  }
+
+  .dropdown {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.6rem;
+    margin-top: 0.75rem;
+  }
+
+  .dropdownLink::before {
+    content: '↳ ';
+    color: var(--color-secondary);
+  }
+}
+
+@media (min-width: 1440px) {
+  .dropdown {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    min-width: 200px;
+    padding: 0.5rem;
+    margin-top: 0.9rem;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-lg);
+    opacity: 0;
+    visibility: hidden;
+    transform: translate(-50%, 6px);
+    transition: opacity var(--transition-fast), transform var(--transition-fast), visibility var(--transition-fast);
+    z-index: 110;
+  }
+
+  /* Fare ile alt menüye geçerken kapanmasın */
+  .dropdown::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: -1rem;
+    height: 1rem;
+  }
+
+  .navGroup:hover .dropdown,
+  .navGroup:focus-within .dropdown {
+    opacity: 1;
+    visibility: visible;
+    transform: translate(-50%, 0);
+  }
+
+  .navGroup:hover .caret,
+  .navGroup:focus-within .caret {
+    transform: rotate(180deg);
+  }
+
+  .dropdownLink {
+    display: block;
+    padding: 0.6rem 0.9rem;
+    border-radius: var(--radius-sm);
+    font-size: 0.88rem;
+  }
+
+  .dropdownLink:hover {
+    background: #F2F8FA;
+  }
+}

@@ -1,0 +1,120 @@
+code: "08"
+type: surgical
+aesthetic: false
+title: "Entfernung der Unterkieferspeicheldrüse"
+alt_name: "Entfernung der Speicheldrüse unter dem Kiefer (Glandula submandibularis)"
+
+specific_fields:
+  - label: "Seite:"
+    options: ["Rechts", "Links"]
+    blank: false
+  - label: "Grund der Operation:"
+    options: ["Speichelstein / wiederkehrende Entzündung", "Knoten in der Drüse", "Sonstiges"]
+  - label: "Neuromonitoring:"
+    options: ["Wird eingesetzt", "Wird nicht eingesetzt"]
+    blank: false
+  - label: "Ergebnis der Bildgebung / Biopsie:"
+
+about:
+  - "Die Unterkieferspeicheldrüse (Glandula submandibularis) ist eine Speicheldrüse, die auf jeder Seite knapp unterhalb des Unterkiefers liegt und Speichel in den Mund abgibt. Sie bildet einen erheblichen Teil des Speichels; da jedoch die Drüse der Gegenseite sowie die Speicheldrüsen vor den Ohren und unter der Zunge weiterarbeiten, **führt die Entfernung einer Drüse bei den meisten Patienten nicht zu Mundtrockenheit**."
+  - "Diese Operation wird am häufigsten wegen **Speichelsteinen** und der dadurch verursachten **wiederkehrenden Schwellungen und Entzündungen** durchgeführt. Ein Stein behindert den Abfluss des Speichels in den Mund; dadurch kommt es beim Essen zu schmerzhaften Schwellungen unter dem Kiefer und zu wiederholten Infektionen. Seltener macht ein **Knoten (Tumor)** in der Drüse eine Operation erforderlich. Der Anteil bösartiger Tumoren ist bei Knoten der Unterkieferspeicheldrüse höher als bei Knoten der Ohrspeicheldrüse; die Entfernung der Drüse und ihre feingewebliche Untersuchung sind daher für eine endgültige Diagnose wichtig."
+  - "In der Nähe der Drüse verlaufen drei Nerven: der Nervenast, der die Unterlippe bewegt, der Nerv, der die Zunge sensibel versorgt (Gefühl), und der Nerv, der die Zunge bewegt. Ziel der Operation ist es, die Drüse unter Erhalt dieser Nerven vollständig zu entfernen."
+
+procedure_intro:
+  - "Die Operation wird in Vollnarkose im Operationssaal durchgeführt."
+procedure_steps:
+  - "**Hautschnitt:** Etwa 2–3 cm unterhalb des Unterkieferknochens wird parallel zu einer natürlichen Hautfalte des Halses ein meist 4–6 cm langer Schnitt angelegt. Ein ausreichend tief unterhalb des Kiefers gesetzter Schnitt hilft, den Nervenast zu schützen, der die Unterlippe bewegt."
+  - "**Schutz der Nerven:** Die dünne Muskelschicht unter der Haut (Platysma) wird durchtrennt. Der Nervenast, der die Unterlippe bewegt (Ramus marginalis mandibulae), wird geschützt – entweder indem er dargestellt wird oder indem in einer sicheren Gewebeschicht präpariert wird."
+  - "**Entfernung der Drüse:** Die Drüse wird vom umgebenden Gewebe gelöst, und die versorgenden Blutgefäße werden unterbunden. Der Speichelgang wird sorgfältig von dem Nerv getrennt, der die Zunge sensibel versorgt (Nervus lingualis), und anschließend unterbunden und durchtrennt. Der Nerv, der die Zunge bewegt (Nervus hypoglossus), wird geschont. Befindet sich ein Stein im Gang, wird auch der weiter entfernte Teil des Gangs so weit wie möglich mit entfernt."
+  - "**Feingewebliche Untersuchung:** Die entfernte Drüse wird zur Pathologie geschickt; das Ergebnis liegt in der Regel innerhalb von 1–2 Wochen vor."
+  - "**Wundverschluss:** Blutungen werden gestillt, meist wird eine dünne **Drainage** eingelegt, und die Haut wird mit kosmetischen Nähten verschlossen."
+procedure_notes:
+  - "Befindet sich ein Stein im Mund nahe der Mündung des Gangs, kann er manchmal zusätzlich separat vom Mund aus entfernt werden. Dies wird vor der Operation mit Ihnen besprochen."
+anesthesia: "Vollnarkose"
+duration: "Etwa 1–2 Stunden"
+stay: "In der Regel 1 Nacht; Entlassung nach Entfernung der Drainage"
+
+benefits:
+  - "Ende der wiederkehrenden schmerzhaften Schwellungen und Entzündungen durch Steine"
+  - "Keine wiederholten Antibiotikabehandlungen mehr erforderlich"
+  - "Entfernung eines Knotens in der Drüse und Stellung der endgültigen Diagnose"
+success:
+  - "Nach einer Operation wegen Steinen und chronischer Entzündung verschwinden die Beschwerden bei **mehr als 90 %** der Patienten vollständig. Verbleibt ein Stein in dem im Mund belassenen Teil des Gangs oder bildet sich dort ein neuer, kann selten eine Schwellung des Mundbodens fortbestehen. Bei gutartigen Knoten führt die Operation meist zur dauerhaften Heilung; bösartige Tumoren können eine weitere Behandlung erfordern."
+
+alternatives:
+  - "**Medikamentöse und unterstützende Behandlung:** Reichlich Flüssigkeit, saure Geschmacksreize zur Anregung des Speichelflusses, Massage, warme Umschläge und Antibiotika während Entzündungsphasen. Dies kann die Beschwerden lindern, beseitigt den Stein jedoch nicht."
+  - "**Entfernung des Steins vom Mund aus:** Tastbare Steine im mundnahen Teil des Gangs können über einen kleinen Schnitt im Mund entfernt werden; die Drüse bleibt dabei erhalten."
+  - "**Spiegelung des Speichelgangs (Sialendoskopie):** Steine geeigneter Größe und Lage können mit einem feinen Endoskop aus dem Gang entfernt werden; dies wird nicht in jedem Zentrum angeboten und ist nicht für jeden Stein geeignet."
+  - "**Beobachtung:** Bei kleinen Knoten, die für gutartig gehalten werden, kann in seltenen Fällen eine Beobachtung besprochen werden; bei dieser Drüse wird jedoch zur Sicherung der Diagnose in der Regel eine Operation empfohlen."
+
+no_treatment:
+  - "Ohne Operation können Schwellungen und Entzündungen durch Steine immer wieder auftreten; selten kann sich um die Drüse ein Abszess (Eiteransammlung) bilden, der eine Notfallbehandlung erfordert. Besteht ein Knoten in der Drüse, kann keine endgültige Diagnose gestellt werden; ein unbehandelter bösartiger Tumor kann fortschreiten."
+
+before:
+  - "Vor der Operation werden Blutuntersuchungen und eine Bildgebung (Ultraschall, bei Bedarf CT/MRT) durchgeführt; Sie werden von der Narkoseärztin bzw. dem Narkosearzt untersucht."
+  - "In den **6–8 Stunden** vor der Operation dürfen Sie nichts essen und nichts trinken (bitte befolgen Sie die Anweisungen der Narkoseärztin bzw. des Narkosearztes)."
+  - "Ist die Drüse akut entzündet, wird die Operation in der Regel erst nach Behandlung der Entzündung geplant."
+  - "Bei männlichen Patienten kann der Bart im Schnittbereich am Operationstag gekürzt werden."
+
+recovery:
+  - when: "Erste 24–48 Stunden"
+    what: "Unter dem Kiefer bestehen leichte bis mäßige Schmerzen, ein Spannungsgefühl und eine Schwellung, die mit Schmerzmitteln behandelt werden. Das Schlucken kann etwas unangenehm sein. Die Drainage wird meist am 1. Tag entfernt. Es wird empfohlen, mit erhöhtem Kopf zu schlafen. Mit weicher Kost können Sie sofort beginnen."
+  - when: "1. Woche"
+    what: "Sie können Ihren Alltagstätigkeiten wieder nachgehen. Die Fäden werden in der Regel am **5.–7. Tag** gezogen. Ein Taubheitsgefühl oberhalb des Schnitts, entlang des Kieferrands und rund um den Schnitt ist normal. Das Ergebnis der Pathologie wird in diesem Zeitraum oder kurz danach mit Ihnen besprochen."
+  - when: "2.–4. Woche"
+    what: "Die meisten Patienten können innerhalb von 1 Woche wieder einer Bürotätigkeit nachgehen. Anstrengender Sport und schweres Heben sollten etwa **2 Wochen** aufgeschoben werden. Verhärtung und leichte Schwellung im Schnittbereich nehmen allmählich ab."
+  - when: "2.–6. Monat"
+    what: "Die Narbe verblasst allmählich und ist in der Halsfalte oft kaum noch zu sehen. Eine eventuelle vorübergehende Nervenschwäche oder ein vermindertes Gefühl bildet sich meist in diesem Zeitraum zurück."
+
+risks:
+  expected:
+    - "Schmerzen, Spannungsgefühl und Schwellung unter dem Kiefer; leichte Beschwerden beim Schlucken"
+    - "Taubheitsgefühl der Haut um den Schnitt und unterhalb davon"
+    - "Eine Narbe am Hals (verblasst mit der Zeit)"
+  common:
+    - name: "Vorübergehende Schwäche der Unterlippe"
+      text: "Durch Zug an dem Nervenast, der die Unterlippe nach unten zieht (Ramus marginalis mandibulae), während der Operation zeigt sich bei etwa **10–20 von 100** Patienten beim Lächeln oder Sprechen eine leichte Asymmetrie der Unterlippe auf dieser Seite. Es handelt sich um ein kosmetisches Problem, das Essen und Trinken in der Regel nicht beeinträchtigt und sich meist **innerhalb von Wochen bis wenigen Monaten bessert**."
+    - name: "Verhärtung und Taubheitsgefühl im Schnittbereich"
+      text: "Verhärtung und vermindertes Gefühl unterhalb des Schnitts sind in den ersten Wochen häufig und nehmen im Laufe von Monaten ab."
+  uncommon:
+    - name: "Nachblutung und Bluterguss (Hämatom)"
+      text: "Bei etwa **1–3 von 100** Patienten kann sich Blut unter der Haut ansammeln. Ist die Ansammlung groß, muss sie unter Umständen im Operationssaal ausgeräumt und die Blutung gestillt werden."
+    - name: "Wundinfektion"
+      text: "Kann bei **1–3 von 100** Patienten auftreten, besonders wenn die Drüse entzündet war; sie heilt meist mit Antibiotika ab, selten ist eine Eiterentleerung (Drainage) erforderlich."
+    - name: "Vermindertes Gefühl auf einer Zungenseite"
+      text: "Durch eine Beeinträchtigung des Nervs, der die Zunge sensibel versorgt (Nervus lingualis), treten bei etwa **1–3 von 100** Patienten Taubheit oder Kribbeln auf dieser Zungenseite auf. Dies ist meist vorübergehend; selten kann es dauerhaft sein und auch den Geschmackssinn beeinträchtigen."
+    - name: "Flüssigkeitsansammlung (Serom)"
+      text: "Ansammlung von Flüssigkeit unter dem Schnitt; klingt meist durch Punktion mit einer Nadel und einen Druckverband ab."
+    - name: "Im Gang verbliebener Stein"
+      text: "In dem im Mund belassenen Teil des Speichelgangs kann ein Stein verbleiben oder sich neu bilden und eine Schwellung oder Entzündung des Mundbodens verursachen. Bei Bedarf wird er mit einem kleinen Eingriff vom Mund aus entfernt."
+    - name: "Auffällige oder verdickte Narbe"
+      text: "Je nach individueller Veranlagung kann sich die Narbe verdicken oder auffällig bleiben; Narbenbehandlungen können eingesetzt werden."
+    - name: "Einsenkung unter dem Kiefer"
+      text: "An der Stelle der Drüse können eine leichte Mulde und ein Unterschied zwischen beiden Seiten entstehen; dies fällt meist nicht auf."
+  rare:
+    - name: "Dauerhafte Schwäche der Unterlippe"
+      text: "Bei **etwa 1–3 von 100** Patienten oder weniger kann eine dauerhaft eingeschränkte Beweglichkeit der Unterlippe auf dieser Seite und ein asymmetrisches Lächeln zurückbleiben. Fällt dies deutlich auf, können Behandlungen wie Botulinumtoxin zum Ausgleich der Gegenseite eingesetzt werden."
+    - name: "Schwäche der Zungenbeweglichkeit"
+      text: "Eine Verletzung des Nervs, der die Zunge bewegt (Nervus hypoglossus), ist **sehr selten**. Tritt sie auf, kann es zu einer Schwäche dieser Zungenseite sowie zu Schwierigkeiten beim Sprechen und Schlucken kommen; bei einer dauerhaften Schädigung kann eine Sprech- und Schlucktherapie erforderlich sein."
+    - name: "Großer Bluterguss am Hals mit Beeinträchtigung der Atemwege"
+      text: "Sehr selten kann eine sich rasch vergrößernde Blutansammlung auf den Hals drücken und Schluck- oder **Atembeschwerden** verursachen. Dies ist ein Notfall: Sie muss sofort im Operationssaal ausgeräumt werden, und selten muss der Atemweg gesichert werden (Intubation oder Luftröhrenschnitt/Tracheotomie)."
+    - name: "Endgültiger feingeweblicher Befund weicht von der vorläufigen Diagnose ab"
+      text: "Selbst bei einer Drüse, bei der Steine oder eine Entzündung vermutet werden, kann der endgültige feingewebliche Befund einen unerwarteten Tumor zeigen. Wird ein bösartiger Tumor festgestellt, können weitere Behandlungen wie die Entfernung der Halslymphknoten oder eine Strahlentherapie erforderlich sein."
+    - name: "Mundtrockenheit"
+      text: "Die Entfernung einer Drüse bleibt bei den meisten Patienten unbemerkt; bei Patienten, die eine Strahlentherapie erhalten haben, bestimmte rheumatische Erkrankungen haben oder Medikamente einnehmen, die Mundtrockenheit verursachen, kann eine Mundtrockenheit jedoch spürbar werden."
+
+emergency:
+  - "**Rasch zunehmende Schwellung am Hals**, insbesondere mit **Atem- oder Schluckbeschwerden** (Notfall – rufen Sie sofort die 112 an)"
+  - "**Nicht aufhörende Blutung** aus der Drainage oder der Wunde"
+  - "**Fieber über 38,5 °C**, zunehmende Rötung, Schmerzen, Überwärmung oder Eiter aus der Wunde"
+  - "Deutliche Schwellung der Zunge oder des Mundbodens"
+  - "**Neu aufgetretene, deutliche Schwierigkeiten** beim Sprechen oder Schlucken"
+
+lifestyle:
+  - "Halten Sie die Wunde in den ersten 48 Stunden trocken; danach dürfen Sie nach Anweisung kurz duschen."
+  - "Bevorzugen Sie in den ersten Tagen weiche, lauwarme Speisen; achten Sie auf eine gute Mundhygiene und trinken Sie reichlich."
+  - "Schützen Sie die Narbe mindestens 6 Monate lang vor der Sonne (Sonnenschutzmittel mit hohem Lichtschutzfaktor)."
+  - "Besprechen Sie das Ergebnis der Pathologie und den Nachsorgeplan unbedingt mit Ihrer Ärztin bzw. Ihrem Arzt."
+
+declarations_extra:
+  - "Ich habe verstanden, dass die endgültige Diagnose nach der Operation durch die Pathologie gestellt wird und dass je nach Ergebnis eine weitere Behandlung erforderlich sein kann."

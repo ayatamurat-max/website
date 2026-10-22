@@ -1,0 +1,149 @@
+{
+ "code": "17",
+ "type": "office",
+ "aesthetic": true,
+ "title": "PRP (Platelet-Rich Plasma) Treatment",
+ "alt_name": "Injection of plasma prepared from your own blood into the skin or scalp",
+ "about": [
+  "PRP (Platelet-Rich Plasma) is plasma prepared **from your own blood** and enriched with platelets. Platelets contain natural growth factors that play a role in tissue repair.",
+  "PRP is used to support skin quality, radiance and elasticity, to reduce the appearance of fine lines and tired-looking under-eye areas, to help improve acne scars, or to support hair follicles in **hair loss**. Because it is prepared from your own blood, an allergy to the product itself or rejection by the body is not expected."
+ ],
+ "procedure_intro": [
+  "The treatment is carried out in our clinic under sterile conditions using **single-use, closed-system kits**. The name and LOT number of the kit are recorded in your file."
+ ],
+ "procedure_steps": [
+  "**Blood draw:** Usually 10–30 mL of blood is taken from a vein in your arm, just like a routine blood test.",
+  "**Preparation:** The blood is separated in a centrifuge in a special tube containing an anti-clotting agent, and the platelet-rich plasma fraction is removed under sterile conditions. At every stage it is checked that the tubes belong to you.",
+  "**Preparing the area:** The treatment area is cleaned with antiseptic; numbing cream can be applied if you wish.",
+  "**Treatment:** The plasma is injected into the skin or scalp at many small points using a fine needle or cannula, or sometimes spread over the skin together with microneedling.",
+  "**Finishing:** The area is cleaned, a cold compress is applied if needed and aftercare advice is given."
+ ],
+ "procedure_notes": [
+  "A course of **3–4 sessions, 4–6 weeks apart**, is usually recommended, followed by maintenance sessions every 4–6 months."
+ ],
+ "anesthesia": "Numbing cream (optional)",
+ "duration": "About 45–60 minutes (including preparation)",
+ "stay": "Same day; short observation after treatment",
+ "benefits": [
+  "Skin that looks fresher, more radiant and firmer, with less noticeable fine lines",
+  "Less darkness and a less tired appearance under the eyes",
+  "In hair loss, support in reducing shedding and increasing hair thickness",
+  "No allergy to the plasma itself is expected, as your own blood is used"
+ ],
+ "success": [
+  "Results vary from person to person. The scientific evidence differs by purpose: there are many studies reporting positive results in **androgenetic (hereditary) hair loss**, whereas the evidence for skin rejuvenation is more limited. Techniques and kits also differ. The effect appears gradually and is not permanent; no specific result can be guaranteed."
+ ],
+ "alternatives": [
+  "**No treatment**, or continuing with regular skin care and sun protection",
+  "**For hair loss:** investigation of an underlying cause (iron, thyroid, hormones); medicines such as minoxidil on medical advice; scalp mesotherapy; hair transplantation in advanced cases",
+  "**For the skin:** topical products, mesotherapy, hyaluronic acid treatments for skin quality, chemical peels, laser or microneedling treatments"
+ ],
+ "no_treatment": [
+  "If PRP is not performed, your skin or hair will continue on its natural course. Depending on its cause, hair loss may progress; other treatment options can always be considered. Choosing not to have PRP carries no risk to your health."
+ ],
+ "before": [
+  "**Situations in which PRP is not given:** low platelet count or platelet dysfunction, bleeding or clotting disorders, significant anaemia, active infection or fever, active cancer treatment or a history of blood cancer in recent years, pregnancy and breastfeeding. Please tell us if any of these apply to you.",
+  "If you take blood thinners (warfarin, rivaroxaban, apixaban, clopidogrel, etc.), tell your doctor before the treatment; **do not stop these medicines on your own**.",
+  "If possible, stop aspirin and anti-inflammatory painkillers (ibuprofen, naproxen, etc.) 1 week before treatment, after checking with your doctor; these medicines can reduce platelet function.",
+  "Tell us if you have taken steroid (cortisone) tablets or injections in the last 2–3 weeks; they may reduce the effect of PRP and the treatment may need to be postponed.",
+  "On the day of treatment, drink plenty of water and have a light meal; coming on an empty stomach increases the risk of feeling faint.",
+  "For scalp treatment, wash your hair the day before or on the morning of treatment and do not use gel, spray or similar products."
+ ],
+ "recovery": [
+  {
+   "when": "First few hours",
+   "what": "Redness, mild swelling, a feeling of tightness and small bumps at the needle points appear in the treated area. The blood-draw site may be slightly tender."
+  },
+  {
+   "when": "First 24 hours",
+   "what": "Do not wear make-up; avoid saunas, Turkish baths, sunbeds, strenuous exercise and direct sun. After scalp treatment, wash your hair no earlier than the next day."
+  },
+  {
+   "when": "Days 2–7",
+   "what": "Redness and swelling settle. If bruising **occurs** (especially under the eyes), it fades within 3–7 days."
+  },
+  {
+   "when": "During the course",
+   "what": "Sessions are repeated every 4–6 weeks. Changes in the skin are usually noticed after the 2nd or 3rd session; changes in the hair within 3–6 months."
+  },
+  {
+   "when": "After the course",
+   "what": "The effect gradually wears off; maintenance sessions every 4–6 months may be recommended to preserve it."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Mild pain or stinging during the blood draw and injections",
+   "Redness, mild swelling, tenderness and tightness in the treated area (a few hours to 2 days)",
+   "Tiny spots of blood at the needle points"
+  ],
+  "common": [
+   {
+    "name": "Bruising",
+    "text": "May appear in the treated area or at the blood-draw site; it fades on its own within 3–7 days."
+   },
+   {
+    "name": "Headache or scalp tenderness",
+    "text": "May last 1–2 days after scalp treatment; it settles with simple painkillers (paracetamol is recommended rather than aspirin)."
+   },
+   {
+    "name": "Less effect than expected",
+    "text": "Some people may notice no clear change, or the effect may be short-lived."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Feeling faint",
+    "text": "Dizziness, sweating and brief fainting may occur during the blood draw or injections; it passes quickly if you lie down."
+   },
+   {
+    "name": "Temporary increase in hair shedding",
+    "text": "A temporary increase in shedding may occur in the first few weeks after scalp treatment; it usually settles on its own."
+   },
+   {
+    "name": "Prolonged swelling",
+    "text": "Swelling, particularly under the eyes, may last a few days."
+   },
+   {
+    "name": "Colour change",
+    "text": "Temporary darkening at the needle points may occur in darker skin and with sun exposure."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Infection",
+    "text": "Very rare with sterile technique; if it occurs, antibiotic treatment and, rarely, drainage may be needed."
+   },
+   {
+    "name": "Allergy to substances in the kit",
+    "text": "An allergy to the plasma itself is not expected; however, very rarely an allergic reaction may develop to the anti-clotting agent or activator in the kit, the numbing cream or the antiseptic."
+   },
+   {
+    "name": "Blocked blood vessel (vascular occlusion)",
+    "text": "With deep injections in the face, **extremely rarely** the material may enter or compress a blood vessel, causing impaired skin blood supply and scarring and, even more rarely, visual disturbance. Early recognition and emergency treatment are very important."
+   },
+   {
+    "name": "Nerve irritation",
+    "text": "If a nerve is touched during the blood draw or injection, temporary numbness or tingling may occur; very rarely it may last longer."
+   }
+  ]
+ },
+ "emergency": [
+  "**Sudden severe pain, whitening of the skin or a purplish, net-like discolouration** during or after treatment",
+  "**Blurred vision, loss of vision**, double vision or eye pain",
+  "**Increasing redness, warmth, swelling or pus-like discharge** in the treated area, or a fever above 38 °C",
+  "Swelling of the face, lips or tongue, **shortness of breath**, or a widespread itchy rash",
+  "Increasing swelling, pain or numbness in the arm where blood was taken"
+ ],
+ "lifestyle": [
+  "Do not wear make-up for the first 24 hours; avoid saunas, Turkish baths, sunbeds, intense exercise and swimming pools.",
+  "For 3 days after treatment you are advised not to take anti-inflammatory painkillers (ibuprofen, naproxen, aspirin); if you have pain, you may take paracetamol.",
+  "Use a high-factor sunscreen every day during the course; after scalp treatment wait at least 3 days before hair colouring or perming.",
+  "Smoking reduces the effect of platelets and impairs healing; stopping is recommended if possible."
+ ],
+ "declarations_extra": [
+  "I understand that the PRP will be prepared from my own blood, that the details of the kit used will be recorded in my file and that it will be checked at every stage that the tubes belong to me.",
+  "I have given accurate information about conditions that could prevent PRP treatment: blood disorders, any history of cancer, use of blood thinners and pregnancy.",
+  "I understand that the effect varies from person to person, that several sessions are needed and that the result is not permanent."
+ ]
+}

@@ -1,0 +1,182 @@
+{
+ "code": "01",
+ "type": "surgical",
+ "aesthetic": true,
+ "title": "Rhinoplastie",
+ "alt_name": "Chirurgie esthétique du nez (associée, si nécessaire, à une correction des voies respiratoires nasales)",
+ "about": [
+  "La rhinoplastie est une opération qui vise à remodeler l'apparence extérieure du nez (le dos du nez, une bosse, la pointe, la largeur du nez, les narines et son harmonie avec le visage). Si vous présentez une déviation de la paroi centrale du nez gênant la respiration (déviation de la cloison nasale), un affaissement des parois latérales du nez (ailes du nez) ou des cornets hypertrophiés, ceux-ci peuvent être corrigés au cours de la même opération.",
+  "La forme du nez résulte de caractéristiques héréditaires, de modifications survenues pendant la croissance ou de traumatismes antérieurs (coup, fracture). Ces structures ne se modifient pas d'elles-mêmes. Le but de l'opération est d'atteindre les **objectifs réalistes** que nous définissons ensemble et d'obtenir un nez **naturel, en harmonie avec votre visage et permettant de respirer confortablement**."
+ ],
+ "procedure_intro": [
+  "L'opération est réalisée sous anesthésie générale, au bloc opératoire. Avant l'intervention, votre nez est examiné et photographié, et un plan est établi avec vous."
+ ],
+ "procedure_steps": [
+  "**Incision :** Avec la technique fermée, toutes les incisions se trouvent à l'intérieur du nez et aucune cicatrice n'est visible de l'extérieur. Avec la technique ouverte, une petite incision d'environ 4–5 mm est également pratiquée sur le fin pont de peau situé entre les narines (la columelle) ; cette cicatrice devient généralement à peine perceptible avec le temps.",
+  "**Remodelage de la charpente du nez :** La peau et les tissus mous sont délicatement décollés. S'il existe une bosse, elle est réduite aux dépens de l'os et du cartilage, ou corrigée par des techniques de préservation du dos du nez. Les cartilages de la pointe sont remodelés à l'aide de points de suture.",
+  "**Rétrécissement/redressement des os (ostéotomie) :** S'il faut rétrécir ou redresser des os du nez larges ou déviés, des coupes osseuses contrôlées sont réalisées. Cette étape peut augmenter le risque d'ecchymoses et de gonflement.",
+  "**Soutien et greffons :** Pour aider le nez à garder sa forme à long terme et maintenir les voies respiratoires ouvertes, des soutiens cartilagineux (greffons) sont utilisés si nécessaire. Le cartilage est prélevé en priorité à l'intérieur du nez (sur la cloison) ; s'il ne suffit pas, du cartilage d'oreille ou de côte peut être utilisé. Ce point sera discuté avec vous avant l'opération.",
+  "**Correction fonctionnelle :** Si nécessaire, la paroi centrale du nez (cloison nasale) est redressée et les cornets sont réduits.",
+  "**Fermeture et attelle :** Les incisions sont refermées par de fins points de suture. Une attelle de protection est placée sur le dos du nez ; si nécessaire, des attelles souples en silicone ou des mèches permettant de respirer sont placées à l'intérieur du nez."
+ ],
+ "anesthesia": "Anesthésie générale",
+ "duration": "Environ 2–4 heures",
+ "stay": "Généralement une nuit d'hospitalisation",
+ "benefits": [
+  "Une forme du nez plus naturelle, plus équilibrée et en harmonie avec votre visage",
+  "La disparition de l'obstruction nasale, si elle existe, et une respiration plus facile",
+  "Une contribution à un meilleur bien-être personnel"
+ ],
+ "success": [
+  "La plupart des patients sont satisfaits du résultat. Cependant, le nez se trouve au centre du visage et sa cicatrisation est longue ; le résultat définitif apparaît en **12–18 mois**. Les publications indiquent qu'environ **5–15 %** des patients peuvent avoir besoin d'une opération de correction, mineure ou plus importante (rhinoplastie secondaire ou « révision »). Le résultat est plus difficile à prévoir pour les nez à peau épaisse, déjà opérés ou ayant subi un traumatisme important."
+ ],
+ "alternatives": [
+  "**Ne pas se faire opérer :** S'agissant d'une intervention esthétique, vous avez toujours la possibilité de ne pas la faire.",
+  "**Remodelage du nez par injections de produit de comblement (« rhinoplastie médicale ») :** Peut camoufler temporairement une petite bosse ou un petit creux ; elle ne réduit pas la taille du nez, n'améliore pas la respiration et comporte ses propres risques, comme l'obstruction d'un vaisseau sanguin.",
+  "**Chirurgie fonctionnelle seule (septoplastie/réduction des cornets) :** Si le seul problème est respiratoire, elle peut être réalisée sans modifier la forme extérieure du nez.",
+  "**Traitement médicamenteux :** Les sprays nasaux peuvent soulager une obstruction due à une allergie ou à un gonflement de la muqueuse ; ils ne corrigent pas les déformations structurelles."
+ ],
+ "no_treatment": [
+  "Si l'opération n'est pas réalisée, la forme actuelle de votre nez restera inchangée. Si vous avez des troubles respiratoires d'origine structurelle (déviation, affaissement des ailes du nez), ils ne s'amélioreront pas d'eux-mêmes, mais ils ne représentent généralement pas un danger urgent pour votre santé."
+ ],
+ "before": [
+  "Si vous avez pris de l'**isotrétinoïne** (médicament contre l'acné, par ex. Roaccutane) au cours des 6–12 derniers mois, signalez-le-nous impérativement ; elle peut affecter la cicatrisation de la peau et la date de l'opération pourra être planifiée en conséquence.",
+  "Des analyses de sang et, si nécessaire, d'autres examens sont réalisés avant l'opération, et vous serez examiné(e) par le médecin anesthésiste.",
+  "Vous ne devez rien manger ni boire pendant les **6–8 heures** précédant l'opération (veuillez suivre les consignes du médecin anesthésiste).",
+  "Le jour de l'opération, ne portez ni maquillage, ni vernis à ongles, ni bijoux, ni lentilles de contact. Il est conseillé qu'un proche vous accompagne pendant la première journée après l'opération.",
+  "L'opération peut être reportée en cas d'acné active ou d'infection cutanée du visage, de grippe ou d'infection des voies respiratoires supérieures."
+ ],
+ "recovery": [
+  {
+   "when": "48 premières heures",
+   "what": "Une obstruction nasale, un léger suintement, des maux de tête et un gonflement du visage sont normaux. La douleur est généralement légère à modérée et soulagée par des antalgiques. Dormir la tête surélevée et appliquer du froid aident à réduire le gonflement. **Si** des ecchymoses (bleus) apparaissent, elles se situent autour des yeux et disparaissent en 7–10 jours."
+  },
+  {
+   "when": "1re semaine",
+   "what": "Les éventuelles attelles en silicone/mèches placées à l'intérieur du nez sont généralement retirées entre le 2e et le 5e jour, et l'attelle externe et les fils vers le **7e jour**. Il vous sera demandé de rincer l'intérieur du nez au sérum physiologique. La plupart des patients reprennent un travail de bureau et une vie sociale en 7–10 jours."
+  },
+  {
+   "when": "2e–6e semaine",
+   "what": "La plus grande partie du gonflement disparaît, mais la pointe du nez peut rester ferme et légèrement engourdie. Les efforts physiques intenses, les sports de contact et la natation doivent être reportés d'environ **4–6 semaines**. Les lunettes ne doivent pas être portées pendant au moins **6 semaines**, sauf si elles sont maintenues par un sparadrap de façon à ne pas appuyer sur le dos du nez."
+  },
+  {
+   "when": "3e–12e mois",
+   "what": "Le gonflement résiduel, en particulier au niveau de la pointe, diminue progressivement. La forme du nez continue d'évoluer pendant cette période ; les petites irrégularités visibles au début disparaissent généralement."
+  },
+  {
+   "when": "12e–18e mois",
+   "what": "Le résultat définitif apparaît. Si une retouche (révision) est jugée nécessaire, elle est généralement réalisée après un délai d'au moins 12 mois."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Obstruction nasale, léger suintement et écoulement teinté de sang (les premiers jours)",
+   "Gonflement du visage et autour des yeux ; **si** des ecchymoses apparaissent, elles disparaissent en 1–2 semaines",
+   "Engourdissement temporaire de la pointe du nez et des dents de devant ; pointe du nez ferme",
+   "Diminution temporaire de l'odorat (s'améliore à mesure que le gonflement diminue)",
+   "Évolution de la forme du nez au fil des mois"
+  ],
+  "common": [
+   {
+    "name": "Gonflement prolongé",
+    "text": "En particulier en cas de peau épaisse, le gonflement de la pointe peut durer un an ou plus. Il peut être atténué si nécessaire par des injections de corticoïdes."
+   },
+   {
+    "name": "Légère asymétrie et petites irrégularités",
+    "text": "Le visage lui-même n'étant pas parfaitement symétrique, de légères différences peuvent persister au niveau du nez ; de petites saillies osseuses ou cartilagineuses peuvent être perçues au toucher, mais ne sont généralement pas visibles."
+   },
+   {
+    "name": "Nécessité d'une révision (correction)",
+    "text": "Chez environ **5–15 patients sur 100**, une intervention de correction, allant d'une petite retouche à une opération plus importante, peut être nécessaire."
+   },
+   {
+    "name": "Croûtes et sécheresse à l'intérieur du nez",
+    "text": "Fréquentes les premières semaines ; disparaissent avec des lavages réguliers et une hydratation."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Saignement de nez (épistaxis)",
+    "text": "Chez environ **1–3 patients sur 100**, un saignement nécessitant un méchage ou une intervention peut survenir. Très rarement, il peut être nécessaire d'arrêter le saignement au bloc opératoire."
+   },
+   {
+    "name": "Infection",
+    "text": "Survient chez **moins de 1 à 3 patients sur 100**. Elle guérit généralement sous antibiotiques ; rarement, il peut être nécessaire de drainer l'infection ou de retirer un greffon."
+   },
+   {
+    "name": "Respiration moins améliorée que prévu",
+    "text": "Votre obstruction nasale peut ne pas disparaître complètement ou, rarement, s'aggraver ; un traitement ou une opération complémentaire peut être nécessaire."
+   },
+   {
+    "name": "Trou dans la cloison (perforation septale)",
+    "text": "Un trou dans la paroi centrale du nez survient chez environ **1 patient sur 100**. Il ne provoque souvent aucun symptôme ; s'il entraîne un sifflement, des croûtes ou des saignements, un traitement peut être nécessaire."
+   },
+   {
+    "name": "Collection de sang ou de pus dans la cloison (hématome / abcès de cloison)",
+    "text": "Lorsque la cloison est opérée, cette complication survient chez **moins de 1 patient sur 100**. Elle se manifeste par une obstruction croissante, des douleurs et de la fièvre dans les jours suivant l'opération. La collection doit être **drainée en urgence** pour éviter d'endommager le cartilage du nez ; en l'absence de traitement, une perte de cartilage et un affaissement du dos du nez (nez en selle) peuvent survenir, et une opération supplémentaire peut être nécessaire pour les corriger."
+   },
+   {
+    "name": "Adhérences à l'intérieur du nez (synéchies)",
+    "text": "Accolement des tissus à l'intérieur du nez ; s'ils provoquent une obstruction, ils peuvent être séparés par un geste simple."
+   },
+   {
+    "name": "Cicatrice visible",
+    "text": "Avec la technique ouverte, la cicatrice de la columelle peut rarement rester visible ; si les narines sont réduites, une fine cicatrice se forme dans le pli de l'aile du nez."
+   },
+   {
+    "name": "Engourdissement prolongé",
+    "text": "La diminution de la sensibilité de la pointe du nez ou des dents de devant peut durer plusieurs mois ; rarement, elle peut être définitive."
+   },
+   {
+    "name": "Problèmes liés aux greffons",
+    "text": "Avec le temps, les greffons cartilagineux peuvent se déplacer, se courber, se résorber partiellement ou devenir visibles sous la peau. Si du cartilage est prélevé sur l'oreille ou sur une côte, il existe un risque de douleur, de cicatrice et de saignement au niveau du site de prélèvement et, pour la côte, très rarement, de blessure de l'enveloppe du poumon (pneumothorax)."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Problèmes cutanés",
+    "text": "Amincissement de la peau, rougeur, petits vaisseaux visibles (télangiectasies) ou augmentation du tissu cicatriciel en cas de peau épaisse. Très rarement, en particulier chez les fumeurs et sur les nez déjà opérés, une mauvaise vascularisation de la peau peut entraîner une plaie et une perte de tissu. Des soins de plaie prolongés et une chirurgie réparatrice peuvent alors être nécessaires, et une cicatrice ou une déformation définitive peut persister."
+   },
+   {
+    "name": "Diminution ou perte définitive de l'odorat",
+    "text": "Très rare."
+   },
+   {
+    "name": "Problèmes des voies lacrymales et saignement autour de l'œil",
+    "text": "Très rarement, les coupes osseuses peuvent entraîner un larmoiement ou un saignement autour de l'œil."
+   },
+   {
+    "name": "Fuite de liquide cérébrospinal (LCS), méningite, perte de la vue",
+    "text": "Complications extrêmement rares, survenant dans **bien moins de 1 cas sur 10 000**, dues à une lésion des fines parois osseuses qui séparent le nez de la base du crâne et de l'œil. Si elles surviennent, un traitement hospitalier complémentaire (parfois en réanimation) et une opération peuvent être nécessaires ; une perte de la vue, si elle survient, peut être définitive."
+   },
+   {
+    "name": "Syndrome du choc toxique",
+    "text": "Maladie infectieuse très rare mais grave, liée à l'utilisation de mèches nasales (forte fièvre soudaine, éruption cutanée, chute de la tension artérielle), qui nécessite un traitement urgent. Elle impose une prise en charge hospitalière, parfois en réanimation, et peut mettre la vie en danger."
+   },
+   {
+    "name": "Insatisfaction psychologique",
+    "text": "Malgré un résultat techniquement réussi, une personne peut avoir du mal à s'habituer à sa nouvelle apparence. Discuter ouvertement des attentes avant l'opération réduit ce risque."
+   }
+  ]
+ },
+ "emergency": [
+  "**Saignement de nez qui ne s'arrête pas ou très abondant** malgré quelques minutes de compression et l'application de glace",
+  "**Obstruction nasale croissante, douleur intense et gonflement du nez** dans les jours suivant l'opération (peut être le signe d'un hématome/abcès de la cloison)",
+  "**Fièvre supérieure à 38,5 °C**, douleur croissante, rougeur ou écoulement nasal malodorant",
+  "**Forte fièvre soudaine, éruption cutanée, vertiges ou grande fatigue** alors que les mèches sont en place",
+  "**Écoulement clair et aqueux** par le nez, en particulier s'il augmente lorsque vous vous penchez en avant ; ou maux de tête intenses et raideur de la nuque",
+  "**Vision trouble ou double**, ou gonflement et douleur autour de l'œil augmentant rapidement",
+  "Un coup sur le nez ou une modification soudaine de sa forme",
+  "Essoufflement ou douleur thoracique"
+ ],
+ "lifestyle": [
+  "Ne vous mouchez pas pendant les 2 premières semaines ; si vous devez éternuer, éternuez la bouche ouverte.",
+  "Nettoyez l'intérieur de votre nez comme on vous l'a montré et aussi souvent que recommandé.",
+  "Pendant au moins 6 semaines, évitez les chocs sur le nez, le port de lunettes reposant sur le dos du nez et le sommeil sur le ventre.",
+  "Protégez la peau de votre nez du soleil pendant au moins 3 mois (crème solaire à indice élevé, chapeau).",
+  "Si vous êtes venu(e) de l'étranger, le voyage en avion est généralement sans danger après le retrait de l'attelle (vers le 7e jour)."
+ ],
+ "declarations_extra": [
+  "Je comprends que la comparaison de mes photographies avant et après l'opération fait partie de l'évaluation du résultat, et que les simulations informatiques ou les photos d'exemple ne servent qu'à donner une idée et ne garantissent pas le résultat."
+ ]
+}

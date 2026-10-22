@@ -1,0 +1,166 @@
+{
+ "code": "10",
+ "type": "surgical",
+ "aesthetic": true,
+ "title": "Üst / Alt Blefaroplasti",
+ "alt_name": "Göz kapağı estetiği ameliyatı",
+ "about": [
+  "Yaş ilerledikçe göz kapağı derisi esneklik kaybeder, göz çevresindeki kas gevşer ve göz yuvasındaki yağ dokusu öne doğru çıkabilir. Bunun sonucunda üst kapakta **deri fazlalığı ve sarkma**, alt kapakta ise **torbalanma ve göz altı çukurlukları** oluşur. Genetik yatkınlık, güneş, sigara ve kilo değişimleri bu süreci hızlandırabilir.",
+  "Blefaroplasti, fazla deri, kas ve yağ dokusunun alınması veya yağın yeniden yerleştirilmesiyle göz çevresine **daha dinç, dinlenmiş ve doğal** bir görünüm kazandırmayı amaçlar. Üst kapak sarkması bazen görme alanının üst kısmını daraltacak kadar belirgin olabilir; bu durumda ameliyatın **görme alanını genişletme** gibi işlevsel bir amacı da vardır.",
+  "Blefaroplasti kaş düşüklüğünü, göz kapağını kaldıran kasın zayıflığına bağlı kapak düşüklüğünü (pitozis), ince kırışıklıkları (kaz ayağı) ve göz altı koyu halkalarını tek başına düzeltmez; bu durumlar için farklı tedaviler gerekebilir."
+ ],
+ "procedure_intro": [
+  "Ameliyattan önce gözleriniz muayene edilir, görme, gözyaşı ve kapak fonksiyonu değerlendirilir, fotoğraflanır. Gerekli görülürse göz hastalıkları uzmanının değerlendirmesi istenir."
+ ],
+ "procedure_steps": [
+  "**İşaretleme:** Alınacak deri miktarı, oturur pozisyonda ve gözler açık–kapalıyken dikkatle çizilerek belirlenir.",
+  "**Üst kapak:** Kesi, gözü açtığınızda katlantının içinde kalacak şekilde doğal kapak çizgisine yapılır. Fazla deri, gerekirse ince bir şerit kas ve öne çıkan yağ dokusu alınır.",
+  "**Alt kapak – transkonjonktival teknik:** Kesi göz kapağının iç yüzünden yapılır, dışarıda iz kalmaz. Torbalanmaya yol açan yağ alınır veya göz altı çukurluğunu doldurmak üzere yeniden yerleştirilir.",
+  "**Alt kapak – subsiliyer teknik:** Deri fazlalığı da varsa kesi kirpiklerin hemen altından yapılır; fazla deri ve kas alınır. İz zamanla genellikle belirsizleşir.",
+  "**Kapak desteği (kantopeksi/kantoplasti):** Alt kapağın gevşek olduğu durumlarda, ameliyattan sonra kapağın aşağı çekilmesini önlemek için dış göz köşesine destek dikişleri konur.",
+  "**Kapatma:** Kesiler çok ince dikişlerle kapatılır; dikişler genellikle **5–7. günde** alınır. Göze koruyucu merhem uygulanır."
+ ],
+ "anesthesia": "Lokal anestezi (± sedasyon) veya genel anestezi",
+ "duration": "Yaklaşık 1–3 saat",
+ "stay": "Genellikle aynı gün taburculuk; genel anestezide 1 gece kalınabilir",
+ "benefits": [
+  "Göz çevresinin daha dinç, dinlenmiş ve genç görünmesi",
+  "Üst kapakta ağırlık hissinin azalması; sarkma görme alanını daraltıyorsa görüşün rahatlaması",
+  "Alt kapakta torbalanmanın azalması, göz altı geçişinin yumuşaması"
+ ],
+ "success": [
+  "Hastaların büyük çoğunluğu sonuçtan memnun kalır ve etki genellikle uzun yıllar sürer; ancak yaşlanma süreci devam ettiği için deri yıllar içinde yeniden gevşeyebilir. Yaklaşık 100 hastadan **2–5'inde** asimetri, yetersiz düzeltme veya iz nedeniyle küçük bir düzeltme işlemi gerekebilir. Son sonuç genellikle **3–6 ay** içinde ortaya çıkar."
+ ],
+ "alternatives": [
+  "**Ameliyat olmamak:** Estetik bir işlem olduğu için yaptırmama seçeneğiniz her zaman vardır.",
+  "**Göz altı dolgusu:** Hafif göz altı çukurluğunda geçici olarak kamufle edebilir; torbalanmayı ve deri fazlalığını düzeltmez, kendine özgü riskleri vardır.",
+  "**Botoks ile kaş kaldırma:** Hafif durumlarda kaşı birkaç milimetre kaldırarak üst kapağı bir miktar açabilir; etkisi geçicidir.",
+  "**Kaş kaldırma (temporal lift / alın germe):** Sorunun kaynağı kaş düşüklüğü ise, blefaroplasti yerine veya birlikte daha uygun olabilir.",
+  "**Cilt yenileme uygulamaları (lazer, kimyasal peeling, radyofrekans):** İnce kırışıklıkları ve cilt kalitesini iyileştirebilir; belirgin deri fazlalığı ve torbaları gidermez."
+ ],
+ "no_treatment": [
+  "Ameliyat yapılmazsa göz kapaklarınızın mevcut görünümü korunur ve yaşla birlikte yavaşça artabilir. Üst kapak sarkması görme alanını daraltıyorsa bu durum zamanla artabilir; ancak genellikle göz sağlığı için acil bir tehlike oluşturmaz."
+ ],
+ "before": [
+  "Ameliyattan önce kan tahlilleri yapılır; genel anestezi veya sedasyon planlanıyorsa anestezi uzmanı tarafından değerlendirilirsiniz ve önceden aç kalmanız gerekir.",
+  "**Göz kuruluğu, glokom (göz tansiyonu), tiroid hastalığı, daha önce geçirilmiş göz ameliyatları (ör. lazerle miyopi tedavisi)** varsa mutlaka bildiriniz.",
+  "Kontakt lens kullanıyorsanız ameliyat günü takmayınız; ameliyat sonrası gözlük kullanmanız gerekecektir.",
+  "Ameliyat günü göz makyajı, kirpik uzatma ve yüz kremi kullanmayınız. Sedasyon veya genel anestezi sonrası eve araç kullanmadan, bir yakınınızla dönmeniz gerekir."
+ ],
+ "recovery": [
+  {
+   "when": "İlk 48 saat",
+   "what": "Göz çevresinde şişlik, gerginlik, hafif sızıntı ve morarma olabilir. Ağrı genellikle hafiftir. Başınızı yüksekte tutarak yatmanız ve **soğuk kompres** uygulamanız şişliği azaltır. Gözlerde sulanma, ışığa hassasiyet ve geçici bulanık görme (merhem nedeniyle) olabilir."
+  },
+  {
+   "when": "1. hafta",
+   "what": "Dikişler genellikle **5–7. günde** alınır. Morarma ve şişlik belirgin şekilde azalır. Göz damlası/merhem önerildiği şekilde kullanılır. Çoğu hasta 7–10 gün içinde masa başı işine ve sosyal hayata döner; morarmalar makyajla kapatılabilir."
+  },
+  {
+   "when": "2–4. haftalar",
+   "what": "Kalan şişlik azalır. Kontakt lens genellikle **2 hafta** sonra kullanılabilir. Ağır egzersiz ve eğilerek yapılan işler yaklaşık 2–3 hafta ertelenir. Yüzme ve göz makyajı için hekiminizin onayını bekleyiniz."
+  },
+  {
+   "when": "1–6. aylar",
+   "what": "İz kızarıklığı yavaş yavaş solar ve kapak çizgisinde belirsizleşir. Kapakların son şekli ve simetrisi genellikle **3–6 ay** içinde oturur."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Göz çevresinde şişlik ve gerginlik; morarma **olursa** 1–2 hafta içinde geçer",
+   "Gözlerde sulanma, kuruluk hissi, batma, ışığa hassasiyet (ilk günler)",
+   "Gözü tam kapatmada ilk günlerde hafif zorlanma",
+   "Kesi hattında kızarıklık, hafif sertlik ve uyuşukluk"
+  ],
+  "common": [
+   {
+    "name": "Kuru göz",
+    "text": "Yaklaşık 100 hastadan **10–25'inde** batma, yanma veya kuruluk hissi olur; genellikle göz damlalarıyla birkaç hafta–birkaç ay içinde düzelir. Önceden göz kuruluğu olanlarda daha belirgin ve uzun sürebilir."
+   },
+   {
+    "name": "Gözün beyazında şişlik (kemozis)",
+    "text": "Göz akını örten zarın sıvı ile şişmesidir; özellikle alt kapak ameliyatından sonra görülür. Genellikle damla ve kompresle birkaç hafta içinde geçer."
+   },
+   {
+    "name": "Gözü tam kapatamama (lagoftalmi)",
+    "text": "Üst kapak ameliyatından sonra ilk haftalarda uykuda gözün tam kapanmaması sık görülür ve genellikle kendiliğinden düzelir. Bu dönemde gözün korunması için gece merhemi önerilir. Kalıcı olması nadirdir (100 hastada **1'den az**)."
+   },
+   {
+    "name": "Küçük kistler (milia) ve dikiş izleri",
+    "text": "Kesi hattında küçük beyaz kabarcıklar oluşabilir; kendiliğinden geçer veya basit bir işlemle temizlenir."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Alt kapağın aşağı çekilmesi veya dışa dönmesi (kapak retraksiyonu, ektropiyon)",
+    "text": "Alt kapak ameliyatından sonra yaklaşık 100 hastadan **1–5'inde** (subsiliyer teknikte daha sık) alt kapak aşağı çekilebilir, göz akı altta daha fazla görünebilir veya kapak dışa dönebilir. Çoğu masaj ve bantlama ile düzelir; kalıcı olursa gözde kuruluk ve sulanmaya yol açabilir ve **düzeltme ameliyatı** gerekebilir."
+   },
+   {
+    "name": "Asimetri ve yetersiz/aşırı düzeltme",
+    "text": "İki göz kapağı arasında kıvrım yüksekliği veya şekil farkı kalabilir; fazla deri alınırsa gözü kapatmada zorluk, fazla yağ alınırsa göz çukurunda çökük görünüm oluşabilir. Düzeltme işlemi gerekebilir."
+   },
+   {
+    "name": "Göz köşesinin şeklinde değişiklik",
+    "text": "Kapak desteği (kantopeksi/kantoplasti) uygulanan hastalarda dış göz köşesi bir süre gergin, yukarı çekik veya yuvarlak görünebilir ya da iki taraf arasında fark olabilir. Çoğu şişlik geçtikçe birkaç hafta–ay içinde yumuşar; nadiren düzeltme gerekir."
+   },
+   {
+    "name": "Kapak düşüklüğünün (pitozis) ortaya çıkması",
+    "text": "Önceden fazla deri nedeniyle fark edilmeyen kapak kaldırıcı kas zayıflığı ameliyattan sonra belirginleşebilir; ayrı bir ameliyatla düzeltilmesi gerekebilir."
+   },
+   {
+    "name": "Belirgin iz veya iz kalınlaşması",
+    "text": "Göz kapağı derisi genellikle çok iyi iyileşir; nadiren iz belirgin kalabilir, iç köşede ince bir perde (webbing) oluşabilir."
+   },
+   {
+    "name": "Kanama ve kan toplanması (hematom)",
+    "text": "Deri altında kan toplanması 100 hastada yaklaşık **1** oranındadır; genellikle kendiliğinden çekilir, büyükse boşaltılması gerekebilir."
+   },
+   {
+    "name": "Enfeksiyon",
+    "text": "Göz kapağının kanlanması çok iyi olduğundan enfeksiyon nadirdir (100 hastada **1'den az**); gelişirse antibiyotikle tedavi edilir."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Göz arkasında kanama ve görme kaybı",
+    "text": "En ciddi ancak çok nadir komplikasyondur. Göz arkasında kanama yaklaşık **2.000 hastada 1** görülür ve göz siniri üzerine baskı yapabilir. Hızla fark edilip acil müdahale edilmezse (dikişlerin açılması, kanın boşaltılması, ilaç tedavisi, acil ameliyat) **kalıcı görme kaybına** yol açabilir. Kalıcı görme kaybı yaklaşık **10.000–40.000 hastada 1** veya daha az bildirilmiştir. Bu nedenle ilk 48 saatteki uyarı belirtileri çok önemlidir."
+   },
+   {
+    "name": "Çift görme",
+    "text": "Alt kapak ameliyatında gözü hareket ettiren küçük bir kasın (alt oblik kas) etkilenmesine bağlıdır; çoğu zaman geçicidir, çok nadiren kalıcı olur ve ek tedavi/ameliyat gerektirebilir."
+   },
+   {
+    "name": "Kornea çiziği veya yarası",
+    "text": "Gözün saydam tabakasında çizik oluşabilir; ağrı, batma ve sulanma yapar, genellikle damla ile birkaç günde iyileşir. Çok nadiren uzun süreli göz tedavisi gerekebilir."
+   },
+   {
+    "name": "Gözyaşı yollarında sorun",
+    "text": "Gözyaşı kanalının etkilenmesine bağlı sulanma çok nadirdir."
+   },
+   {
+    "name": "Psikolojik memnuniyetsizlik",
+    "text": "Teknik olarak başarılı bir sonuca rağmen kişi yeni görünümüne uyum sağlamakta zorlanabilir. Beklentilerin ameliyat öncesi açıkça konuşulması bu riski azaltır."
+   }
+  ]
+ },
+ "emergency": [
+  "**Gözde şiddetli, giderek artan ağrı**, özellikle tek tarafta",
+  "**Gözün öne doğru fırlaması**, göz kapaklarında hızla artan, gergin şişlik ve morarma",
+  "**Görmede azalma**, görmenin kararması, çift görme veya göz hareketlerinde kısıtlılık",
+  "Bulantı-kusma ile birlikte göz ağrısı",
+  "**38,5 °C üzerinde ateş**, kesi yerinde artan kızarıklık, akıntı veya ağrı",
+  "Gözde ışığa aşırı hassasiyet ve geçmeyen batma",
+  "**İlk 48 saatte bu belirtilerden biri olursa dakikalar önemlidir; hemen arayınız veya en yakın acil servise gidiniz.**"
+ ],
+ "lifestyle": [
+  "İlk 48 saat düzenli aralıklarla soğuk kompres uygulayınız; başınızı yüksekte tutarak sırtüstü yatınız.",
+  "Gözlerinizi ovuşturmayınız. İlk günlerde ağır kaldırmak, eğilmek, ıkınmak ve kanama riskini artıran aktivitelerden kaçınınız.",
+  "Size verilen göz damlası ve merhemleri önerilen sıklıkta kullanınız; gözler tam kapanmıyorsa gece merhemi mutlaka sürünüz.",
+  "Kontakt lensleri genellikle 2 hafta, göz makyajını 1–2 hafta kullanmayınız. Dışarıda güneş gözlüğü takınız; ekran başında sık ara veriniz.",
+  "Yurt dışından geldiyseniz uçak yolculuğu genellikle dikişler alındıktan sonra (5–7. gün) güvenlidir."
+ ],
+ "declarations_extra": [
+  "Blefaroplastinin kaş düşüklüğünü, kapak kaldırıcı kas zayıflığına bağlı kapak düşüklüğünü, ince kırışıklıkları ve göz altı renk koyuluğunu tek başına düzeltmediğini anladım.",
+  "Ameliyattan sonraki ilk 48 saatte gözde şiddetli ağrı, şişlik veya görmede azalma olursa **hemen** başvurmam gerektiğini biliyorum."
+ ]
+}

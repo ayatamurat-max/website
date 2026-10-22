@@ -1,0 +1,135 @@
+code: "18"
+type: surgical
+aesthetic: false
+title: "Tympanoplasty"
+alt_name: "Repair of the eardrum (with middle-ear bone repair and mastoidectomy if needed)"
+
+specific_fields:
+  - label: "Side:"
+    options: ["Right", "Left"]
+    blank: false
+  - label: "Visualisation:"
+    options: ["Microscopic", "Endoscopic", "To be decided during surgery"]
+  - label: "Approach:"
+    options: ["Transcanal", "Postauricular", "Endaural"]
+  - label: "Graft source:"
+    options: ["Muscle sheath (temporalis fascia)", "Cartilage / perichondrium", "Other"]
+  - label: "Ossicular repair (ossiculoplasty):"
+    options: ["Not planned", "Planned", "If needed"]
+  - label: "Mastoidectomy:"
+    options: ["Not planned", "Planned", "If needed"]
+  - label: "Date and summary of pre-operative hearing test (audiogram):"
+
+about:
+  - "The eardrum is a thin membrane that separates the ear canal from the middle ear and passes sound vibrations to the tiny bones (ossicles) in the middle ear. When there is a **hole (perforation)** in the eardrum, hearing is reduced and water or germs entering the ear cause **recurrent ear discharge**."
+  - "Eardrum perforations are mostly caused by **chronic middle-ear infection**, and sometimes by injury (a slap, a cotton bud, a sudden pressure change). Small, recent holes may heal on their own; however, long-standing holes usually do not close. In some patients the infection may also have worn away the middle-ear bones or spread into the air cells in the bone behind the ear (mastoid). If there is a **cholesteatoma** in the middle ear (a sac of skin cells that grows and erodes bone), its treatment is particularly important."
+  - "The aim of tympanoplasty is to close the eardrum, clear the middle ear of infection to achieve a **dry and safe ear**, and, where possible, to **preserve or improve hearing**."
+
+procedure_intro:
+  - "The operation is performed under general anaesthesia in an operating theatre, using a microscope and/or an endoscope."
+procedure_steps:
+  - "**Approach:** If the hole is small and well placed, the operation can be done entirely through the ear canal, leaving no visible scar. For larger holes or when a wider view is needed, a small incision is made behind the ear (in the crease behind the ear) or in front of the ear."
+  - "**Taking the graft:** The patient's own tissue is used to repair the eardrum: usually the sheath of the muscle above the ear (temporalis fascia) or the cartilage and its lining from the ear. These tissues are taken through the same incision or a small additional one."
+  - "**Clearing the middle ear:** The edges of the hole are freshened, the eardrum is lifted and the middle ear is inspected; any infected tissue and adhesions are cleared. The ossicles are checked."
+  - "**Ossicular repair (if needed):** If the chain of ossicles is eroded or broken, it may be reconstructed using the patient's own bone/cartilage or a tissue-friendly prosthesis such as titanium."
+  - "**Mastoidectomy (if needed):** If infection or cholesteatoma has spread into the air cells of the bone behind the ear, these cells are opened and cleared with a special drill."
+  - "**Placing the graft and closure:** The graft is placed under or over the hole. The middle ear and ear canal are supported with dissolvable sponges. Any incision is closed with stitches and a pressure dressing is applied over the ear."
+procedure_notes:
+  - "If cholesteatoma is found, in some patients a **second-look operation 6–12 months later** may be planned to make sure the disease has been completely removed. This will be explained to you separately."
+anesthesia: "General anaesthesia"
+duration: "About 1.5–3 hours (longer with mastoidectomy)"
+stay: "Usually same day or 1 night"
+
+benefits:
+  - "Closure of the hole in the eardrum"
+  - "Fewer or no more episodes of ear discharge and infection; a dry and safe ear"
+  - "Fewer restrictions needed to protect the ear when bathing, showering and swimming"
+  - "Preservation or improvement of hearing in suitable patients"
+  - "If cholesteatoma is present, removal of the disease and prevention of its possible serious complications"
+success:
+  - "Permanent closure of the eardrum is achieved in about **85–95%** of patients. Improvement in hearing depends on the condition of the ossicles, the extent of infection and the health of the inner ear; hearing may improve significantly, stay the same or, rarely, get worse. If the graft does not take or a new hole forms, the operation can be repeated."
+
+alternatives:
+  - "**Observation and keeping the ear dry:** For small, dry holes, regular check-ups and protecting the ear from water may be an option. The hole stays open and the risk of infection continues."
+  - "**Medical treatment:** Antibiotic ear drops control infection temporarily during episodes of discharge; they do not close the hole."
+  - "**Hearing aid:** Can compensate for hearing loss; however, it may be difficult to use in a discharging ear and does not close the hole."
+  - "**Simple patching for small holes:** For very small holes, closure with a paper patch or fat (myringoplasty) may be considered."
+
+no_treatment:
+  - "Without surgery, the hole in the eardrum usually stays open. Discharge may recur when water gets into the ear or with colds, and hearing loss may increase over time. If cholesteatoma is present and left untreated, it continues to grow and can lead to serious complications such as **permanent hearing loss, dizziness, facial paralysis, meningitis or brain abscess**."
+
+before:
+  - "A hearing test (audiogram) is done before surgery and, if necessary, a CT scan. You will be assessed by the anaesthetist."
+  - "You must not eat or drink anything for **6–8 hours** before the operation (please follow the anaesthetist's instructions)."
+  - "If the ear is actively discharging, you may be asked to use drops before surgery to dry the ear."
+  - "On the day of surgery, a little hair behind the ear may be trimmed. If you have flu or a respiratory infection, surgery may be postponed."
+
+recovery:
+  - when: "First 24–48 hours"
+    what: "You will have a feeling of fullness, mild pain and blockage in the ear; the pain is controlled with painkillers. Brief mild dizziness and nausea may occur. The pressure dressing is usually removed on day 1. Avoid lying on the operated ear."
+  - when: "Weeks 1–2"
+    what: "Because of the sponges in the ear canal, hearing will feel **reduced** during this period; this is normal. There may be slight blood-stained discharge from the ear. Stitches are usually removed on **days 7–10**. Most people return to desk work within 1 week."
+  - when: "Weeks 3–6"
+    what: "The sponges in the ear canal are cleaned out at check-ups or dissolve on their own. Water must not get into the ear. Strenuous exercise, heavy lifting and straining should be postponed for about **4–6 weeks**. Air travel is usually possible **after 2–4 weeks**, with your doctor's approval."
+  - when: "Months 2–3"
+    what: "Whether the graft has taken is assessed at check-ups. A hearing test at this stage shows the effect of the operation on hearing. Swimming and water exposure are usually allowed after your doctor's approval."
+  - when: "Months 6–12"
+    what: "The eardrum and middle ear complete their healing. After cholesteatoma surgery, regular check-ups and, if necessary, imaging or a second-look operation are planned."
+
+risks:
+  expected:
+    - "A feeling of fullness and blockage in the ear, and hearing feeling reduced in the first few weeks (due to the sponges in the ear canal)"
+    - "Mild ear pain, crackling, sloshing or buzzing sounds"
+    - "Slight blood-stained discharge from the ear (first few days)"
+    - "Temporary numbness of the ear and around the incision; the ear sticking out slightly (after the behind-the-ear approach; this settles within weeks)"
+  common:
+    - name: "Change in taste"
+      text: "The taste nerve (chorda tympani) runs just behind the eardrum and may be stretched during surgery or, rarely, have to be cut. About **5–20 in 100** patients notice a metallic taste, reduced taste or a dry feeling on that side of the tongue; this usually **improves or becomes unnoticeable within weeks to months**. Rarely it may be permanent."
+    - name: "Tinnitus (ringing in the ear)"
+      text: "Ringing in the ear may occur after surgery, or existing ringing may increase for a while; it is usually temporary."
+    - name: "Temporary dizziness"
+      text: "Mild unsteadiness or dizziness may occur in the first few days; it usually settles within a few days."
+  uncommon:
+    - name: "Graft failure or a new hole"
+      text: "In about **5–15 in 100** patients the eardrum may not close completely or a hole may form again later. In this case discharge may continue and the **operation may need to be repeated**."
+    - name: "Hearing does not improve"
+      text: "Even if the eardrum closes, hearing may not improve as expected because of the ossicles, middle-ear ventilation or the inner ear. After ossicular repair, the prosthesis may move or be pushed out through the eardrum; a further operation may be needed."
+    - name: "Ear infection and discharge"
+      text: "Ear discharge or wound infection may occur after surgery; it usually settles with drops or antibiotics. Infection of the ear cartilage (perichondritis) is rare but can leave a deformity of the cartilage."
+    - name: "Narrowing of the ear canal or lateralisation of the eardrum"
+      text: "Scar tissue may narrow the ear canal, or the new eardrum may move away from its correct position; this may affect hearing and require a corrective procedure."
+    - name: "Recurrent or residual cholesteatoma"
+      text: "After cholesteatoma surgery, the disease may recur or a small residue may grow in some patients; long-term follow-up and, if necessary, **further surgery** are therefore required."
+    - name: "Wound and scar problems"
+      text: "A thickened scar or keloid at the behind-the-ear incision, and rarely a fluid collection behind the ear, may occur."
+  rare:
+    - name: "Permanent hearing loss due to inner-ear damage"
+      text: "In **fewer than 1 in 100** patients, **permanent sensorineural hearing loss** may develop because the inner ear has been affected; very rarely hearing in the operated ear may be lost completely (dead ear). This may require a hearing aid or further hearing rehabilitation. The risk is higher with cholesteatoma and disease close to the inner ear."
+    - name: "Prolonged dizziness and imbalance"
+      text: "Rarely, the inner ear may be affected, causing dizziness that lasts for weeks; balance exercises and medication may be needed."
+    - name: "Facial nerve paralysis"
+      text: "Because the facial nerve passes through the middle ear, very rarely (**far fewer than 1 in 100** patients) temporary or permanent weakness may develop on that side of the face. The risk is higher with cholesteatoma, repeat operations and nerves with an unusual course from birth. If it occurs, medication, eye protection and, if necessary, surgery (decompression or repair of the nerve) may be needed. If it is permanent, facial asymmetry and incomplete eye closure may remain, requiring long-term eye protection and possibly facial reanimation surgery."
+    - name: "Complications involving the brain lining"
+      text: "Especially in mastoidectomy and cholesteatoma surgery where the bone of the skull base has become thin, very rarely cerebrospinal fluid (CSF) leak, meningitis or injury to the brain lining may occur. This may require further treatment in hospital (sometimes in intensive care) and surgery; meningitis can rarely cause lasting harm."
+    - name: "Permanent change in the shape of the ear"
+      text: "As a result of the behind-the-ear approach or the taking of a cartilage graft, a slight change in the position or shape of the ear may rarely be permanent."
+
+emergency:
+  - "**Sudden, marked hearing loss** (a sudden worsening, different from the blockage caused by the sponges)"
+  - "**Severe dizziness**, vomiting and being unable to stand"
+  - "**Facial weakness**: drooping at the corner of the mouth, inability to close the eye"
+  - "**Fever above 38.5 °C**, increasing ear pain, redness and swelling of the ear, or foul-smelling, pus-like discharge"
+  - "**Clear, watery discharge** from the ear, severe headache or neck stiffness"
+  - "**Bleeding that does not stop** from the dressing or the ear"
+
+lifestyle:
+  - "Until your doctor allows it, **do not let any water into your ear**: when showering, plug the ear with cotton wool coated in petroleum jelly; do not go into a pool or the sea."
+  - "**Do not blow your nose** for the first **4–6 weeks**; if you need to sneeze, sneeze with your mouth open. Do not pinch your nose and strain (do not perform the Valsalva manoeuvre)."
+  - "Avoid heavy lifting, straining, bending and strenuous exercise in the first few weeks. Tell your doctor if you are constipated."
+  - "Always get your doctor's approval for air travel, diving and activities involving pressure changes; **diving** usually requires a longer wait."
+  - "Do not put cotton buds or any other object into the ear canal; use the ear drops given to you as shown."
+  - "If you have travelled from abroad, plan your return journey with your doctor; check-ups and hearing tests after your return can continue with a local ENT doctor."
+
+declarations_extra:
+  - "I understand that the main aim of the operation is to close the eardrum and achieve a dry, safe ear; that improvement in hearing cannot be guaranteed and that, rarely, hearing may get worse."
+  - "It has been explained to me that, depending on what is found during surgery, ossicular repair or mastoidectomy may be needed, and I consent to these procedures being performed as marked above."

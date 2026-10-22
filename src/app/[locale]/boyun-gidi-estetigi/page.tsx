@@ -16,6 +16,7 @@ const config: ProcedureConfig = {
     { key: 'filler', icon: 'filler', href: '/dermal-dolgu' },
     { key: 'rejuvenation', icon: 'rejuvenation', href: '/ameliyatsiz-yuz-genclestirme' },
   ],
+  consent: ['gidi-liposuction', 'derin-boyun-germe'],
 };
 
 export default function Page() {

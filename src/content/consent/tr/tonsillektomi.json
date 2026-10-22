@@ -1,0 +1,171 @@
+{
+ "code": "05",
+ "type": "surgical",
+ "aesthetic": false,
+ "title": "Tonsillektomi",
+ "alt_name": "Bademcik ameliyatı (tamamen veya kısmen alınması)",
+ "about": [
+  "Bademcikler (tonsiller), boğazın iki yanında, dil kökünün üzerinde yer alan ve vücudun savunma sistemine ait lenf dokusudur. Bademcikler alındığında vücudun savunma sistemi, ağız ve boğazdaki diğer lenf dokuları sayesinde çalışmaya devam eder; ameliyatın bağışıklığı zayıflattığı gösterilmemiştir.",
+  "Bademcik ameliyatı en sık şu nedenlerle önerilir: yılda birçok kez tekrarlayan ve okul/iş kaybına neden olan **bademcik iltihapları**; bademciklerin büyüyerek **horlama ve uykuda nefes durmalarına** yol açması; **bademcik çevresinde apse** gelişmesi; bademcikte tek taraflı büyüme veya şüpheli bir doku değişikliği olması. Bazı hastalarda ağız kokusu ve bademcik taşları da nedenler arasında olabilir.",
+  "Ameliyatın amacı bu şikâyetleri ortadan kaldırmak veya azaltmaktır. Size veya çocuğunuza ameliyatın neden önerildiği, hekiminiz tarafından ayrıca açıklanacaktır."
+ ],
+ "procedure_intro": [
+  "Ameliyat genel anestezi altında, ameliyathane koşullarında, ağız içinden yapılır; **dışarıda kesi veya iz yoktur.**"
+ ],
+ "procedure_steps": [
+  "**Hazırlık:** Anestezi verildikten sonra ağzı açık tutan ve dili koruyan özel bir alet yerleştirilir.",
+  "**Bademciklerin çıkarılması:** Bademcik, çevresindeki kapsülle birlikte altındaki kas tabakasından ayrılarak çıkarılır. Bu işlem planlanan tekniğe göre makas ve diseksiyon aletleri (soğuk diseksiyon), elektrokoter veya radyofrekans/koblasyon cihazları ile yapılır.",
+  "**Kısmi alma (tonsillotomi):** Uygun hastalarda, özellikle uyku sırasında solunum sorunu yaşayan küçük çocuklarda, bademciğin yalnızca büyümüş kısmı alınıp ince bir tabaka bırakılabilir. Bu yöntemde ağrı ve kanama riski daha düşük olabilir; ancak kalan dokunun yeniden büyümesi veya iltihaplanması mümkündür.",
+  "**Kanama kontrolü:** Bademcik yatağındaki kanamalar dikiş, bağlama veya koter ile dikkatle durdurulur. Bademcik yatağı genellikle açık bırakılır ve kendiliğinden iyileşir.",
+  "**Ek işlemler:** Planlandıysa aynı anestezi sırasında geniz eti ameliyatı (adenoidektomi) veya kulak tüpü uygulaması yapılır; bu işlemler için ayrı onam formları doldurulur.",
+  "**Uyanma ve gözlem:** Ameliyat sonrası hasta derlenme odasında, ardından serviste kanama, solunum ve sıvı alımı açısından izlenir."
+ ],
+ "procedure_notes": [
+  "Çıkarılan bademcikler, hekim gerekli görürse patolojik incelemeye gönderilir."
+ ],
+ "anesthesia": "Genel anestezi",
+ "duration": "Yaklaşık 30–45 dakika (anestezi süresi hariç)",
+ "stay": "Genellikle 1 gece hastanede gözlem",
+ "benefits": [
+  "Tekrarlayan bademcik iltihaplarının, buna bağlı ateş, boğaz ağrısı, antibiyotik kullanımı ve okul/iş kaybının belirgin şekilde azalması",
+  "Horlama ve uykuda nefes durmalarının azalması; daha kaliteli uyku, gündüz dikkat ve davranışta düzelme",
+  "Bademcik çevresi apsesinin tekrarlamasının önlenmesi",
+  "Gerekli durumlarda dokunun patolojik incelemesiyle kesin tanı konulması"
+ ],
+ "success": [
+  "Uygun seçilmiş hastalarda tekrarlayan boğaz enfeksiyonları ve uykuda solunum bozuklukları büyük oranda düzelir. Ameliyattan sonra da zaman zaman boğaz enfeksiyonu (farenjit) geçirilebilir, ancak bunlar genellikle daha seyrek ve daha hafiftir. Uyku apnesinin kilo fazlalığı, yüz yapısı veya burun tıkanıklığı gibi başka nedenleri de varsa şikâyetler tamamen geçmeyebilir ve ek tedavi gerekebilir."
+ ],
+ "alternatives": [
+  "**Bekle-gör (izlem):** İltihap sıklığı ameliyat ölçütlerini karşılamıyorsa veya şikâyetler hafifse, düzenli kontrolle beklemek uygun olabilir. Çocuklarda bademcik iltihaplarının sıklığı yaşla azalabilir.",
+  "**Antibiyotik ve destek tedavisi:** Her enfeksiyon atağında ilaçla tedavi edilmeye devam edilir; enfeksiyonların tekrarlamasını önlemez.",
+  "**Kısmi alma (tonsillotomi):** Uygun hastalarda tam alma yerine düşünülebilir (yukarıda açıklanmıştır).",
+  "**Uyku apnesinde diğer seçenekler:** Kilo verme, burun tıkanıklığının tedavisi, kortizonlu burun spreyleri veya uyku sırasında pozitif basınçlı solunum cihazı (CPAP) kullanımı."
+ ],
+ "no_treatment": [
+  "Ameliyat yapılmazsa tekrarlayan bademcik iltihapları, ateş, antibiyotik kullanımı ve okul/iş kaybı devam edebilir. Nadiren bademcik çevresinde apse gelişebilir veya iltihap boyun dokularına yayılabilir. Bademcik büyüklüğüne bağlı uyku apnesi tedavi edilmezse, özellikle çocuklarda büyüme-gelişme geriliği, dikkat ve davranış sorunları, gece altını ıslatma ve uzun dönemde kalp-akciğer üzerinde yük oluşabilir. Tek taraflı büyüme gibi şüpheli durumlarda ameliyatın yapılmaması kesin tanının gecikmesine neden olabilir."
+ ],
+ "before": [
+  "Ameliyattan önce kan tahlilleri (özellikle kanama-pıhtılaşma testleri) ve gerekirse diğer tetkikler yapılır; anestezi uzmanı tarafından değerlendirilirsiniz.",
+  "Sizde veya ailenizde kolay kanama, sık burun kanaması, uzun süren adet kanaması, diş çekiminden sonra durmayan kanama veya bilinen bir kanama bozukluğu varsa mutlaka bildiriniz.",
+  "Ameliyattan önceki **6 saat** boyunca katı gıda ve süt alınmamalıdır; berrak sıvılar için anestezi uzmanının vereceği süreye uyunuz.",
+  "Ameliyattan önceki 2–3 hafta içinde aktif bademcik iltihabı, ateşli hastalık veya grip geçirilirse bildiriniz; ameliyatın ertelenmesi gerekebilir.",
+  "Sallanan diş veya diş protezi varsa hekiminize söyleyiniz.",
+  "Yurt dışından geliyorsanız, ameliyat sonrası **en az 10–14 gün** hekime ve hastaneye ulaşılabilecek bir yerde kalmanızı öneririz (geç kanama riski nedeniyle)."
+ ],
+ "recovery": [
+  {
+   "when": "Ameliyat günü",
+   "what": "Uyandıktan sonra boğaz ağrısı olur ve ağrı kesicilerle kontrol edilir. Bulantı geçtikten sonra su, ardından soğuk-ılık sıvılar ve yumuşak gıdalar verilir. Gece hastanede kanama, solunum ve sıvı alımı açısından izlenirsiniz."
+  },
+  {
+   "when": "1–4. günler",
+   "what": "Boğaz ağrısı ve kulağa vuran ağrı belirgindir. Bademcik yataklarında **beyaz-sarımsı bir tabaka** oluşur; bu iyileşmenin normal parçasıdır, iltihap değildir. Ağız kokusu ve hafif ateş olabilir. **Düzenli ağrı kesici kullanmak ve bol sıvı içmek** en önemli noktadır."
+  },
+  {
+   "when": "5–10. günler",
+   "what": "Beyaz tabaka dökülmeye başlar. Ağrı bazen bu dönemde yeniden artabilir. **Geç kanama riskinin en yüksek olduğu dönemdir**; bu nedenle ağır egzersiz, sıcak banyo/sauna ve sert gıdalardan kaçınılmalı, kanama belirtilerinde hemen başvurulmalıdır."
+  },
+  {
+   "when": "10–14. günler",
+   "what": "Ağrı belirgin şekilde azalır, normal beslenmeye geçilir. Çoğu çocuk okula, yetişkinler işe 10–14 gün içinde dönebilir. Spor ve ağır fiziksel aktivite yaklaşık 2–3 hafta sonra serbesttir."
+  },
+  {
+   "when": "3–6. haftalar",
+   "what": "Bademcik yatakları tamamen iyileşir. Kontrol muayenesi yapılır; patolojik inceleme yapıldıysa sonucu değerlendirilir."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Boğaz ağrısı (genellikle 7–14 gün sürer; yetişkinlerde çocuklara göre daha fazladır)",
+   "Kulağa vuran ağrı (yansıyan ağrı; kulakta bir hastalık olduğu anlamına gelmez)",
+   "Yutkunma güçlüğü ve iştahsızlık; ilk günlerde kilo kaybı",
+   "Bademcik yataklarında beyaz-sarı iyileşme tabakası ve ağız kokusu",
+   "Hafif ateş (ilk günler), anesteziye bağlı bulantı-kusma",
+   "Dil ve küçük dilde (uvula) geçici şişlik"
+  ],
+  "common": [
+   {
+    "name": "Ameliyat sonrası kanama (geç kanama)",
+    "text": "Yaklaşık 100 hastadan **2–5'inde** görülür; çoğunlukla **ameliyattan sonraki 5–10. günlerde**, iyileşme tabakası dökülürken ortaya çıkar. Yetişkinlerde çocuklara göre biraz daha sıktır. Kanamaların çoğu küçüktür ve gözlem, buz, ağız içi tedavi veya basit müdahaleyle durur."
+   },
+   {
+    "name": "Kanama nedeniyle yeniden ameliyat",
+    "text": "Yaklaşık 100 hastadan **1–3'ünde** kanamanın durdurulması için **yeniden genel anestezi altında ameliyathaneye** girilmesi gerekebilir. Hastanede yatış süresi uzayabilir."
+   },
+   {
+    "name": "Sıvı alamama ve sıvı kaybı (dehidratasyon)",
+    "text": "Ağrı nedeniyle yeterli sıvı alınmazsa, özellikle küçük çocuklarda halsizlik ve idrar azalması olabilir; bazen damar yoluyla serum verilmesi için hastaneye yatış gerekebilir."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Kan nakli",
+    "text": "Kanama sırasında kan kaybı fazlaysa kan nakli gerekebilir; bu durum **100 hastada 1'den çok daha azdır**."
+   },
+   {
+    "name": "Tat değişikliği ve dilde uyuşukluk",
+    "text": "Ameliyat sırasında dilin aletle baskı altında kalmasına bağlı olarak tat almada değişiklik veya dilde uyuşma olabilir; genellikle birkaç hafta içinde düzelir, nadiren aylarca sürebilir veya kalıcı olabilir."
+   },
+   {
+    "name": "Diş, dudak ve dil yaralanmaları",
+    "text": "Ağzı açık tutan aletin baskısıyla dişte kırılma (özellikle sallanan veya çürük dişlerde), dudakta veya dilde küçük yanık, yara ya da şişlik oluşabilir."
+   },
+   {
+    "name": "Enfeksiyon",
+    "text": "Bademcik yatağında veya boyunda enfeksiyon gelişebilir; genellikle antibiyotikle tedavi edilir."
+   },
+   {
+    "name": "Geçici genizden konuşma",
+    "text": "Damağın hareketinin ağrı nedeniyle kısıtlanmasına bağlı olarak ses geçici olarak burundan kaçabilir; genellikle birkaç haftada düzelir."
+   },
+   {
+    "name": "Tonsillotomi sonrası yeniden büyüme",
+    "text": "Kısmi alma yapıldıysa kalan bademcik dokusu yeniden büyüyebilir veya iltihaplanabilir (100 hastada yaklaşık **1–6**); nadiren tam alma ameliyatı gerekebilir."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Ciddi kanama ve sonuçları",
+    "text": "Nadiren kanama ağır ve hızlı olabilir. Bu durumda **acil ameliyat, kan nakli** ve çok nadiren boyundaki damarlara yönelik ek girişimler gerekebilir. Ağır kan kaybı ya da kanın solunum yoluna kaçması **solunum yetmezliği, yoğun bakımda tedavi ihtiyacı** ve buna bağlı kalıcı hasar gibi ciddi sonuçlara yol açabilir."
+   },
+   {
+    "name": "Hayatı tehdit eden komplikasyonlar ve ölüm",
+    "text": "Bademcik ameliyatına bağlı ölüm son derece nadirdir; bilimsel kaynaklarda yaklaşık **15.000–35.000 ameliyatta 1** olarak bildirilmektedir. En sık nedenleri ağır kanama ve solunum sorunlarıdır. Ağır uyku apnesi olan küçük çocuklarda ameliyat sonrası solunum sorunları riski daha yüksektir; bu nedenle bu hastalar daha yakından izlenir."
+   },
+   {
+    "name": "Kalıcı genizden konuşma / sıvıların burundan gelmesi (velofaringeal yetmezlik)",
+    "text": "Çok nadirdir; daha çok gizli damak yarığı olanlarda görülür. Konuşma terapisi veya nadiren düzeltici ameliyat gerekebilir."
+   },
+   {
+    "name": "Boyun omurlarında kayma (Grisel sendromu), boyun ve göğüs boşluğuna yayılan enfeksiyon",
+    "text": "Çok nadir görülen, erken fark edildiğinde tedavi edilebilen durumlardır. Giderek artan boyun ağrısı, başı çevirememe, yüksek ateş ve yutkunamama ile kendini gösterebilir. Gelişirse hastanede yatış, damar yoluyla antibiyotik ve gerekirse cerrahi drenaj gerekir; tedavi gecikirse kalıcı boyun sorunları gelişebilir veya yayılan enfeksiyon hayatı tehdit edebilir."
+   },
+   {
+    "name": "Yutak ve damakta yara izi, daralma",
+    "text": "Çok nadiren iyileşme sırasında aşırı iz dokusu gelişerek yutak veya damakta daralmaya, yutma ve konuşma güçlüğüne yol açabilir."
+   },
+   {
+    "name": "Çene ekleminde ağrı veya çıkık",
+    "text": "Ağzın uzun süre açık tutulmasına bağlı olarak çok nadiren görülür."
+   }
+  ]
+ },
+ "emergency": [
+  "Ağızdan **taze, kırmızı kan** gelmesi, kan tükürme veya kan kusma — **birkaç damla bile olsa** bekletmeden başvurunuz. Kanama varsa başınızı öne eğerek kanı yutmayınız, tükürünüz; soğuk su ile gargara yapabilirsiniz.",
+  "Çocuklarda **sık sık yutkunma**, solukluk, halsizlik, uykudan uyanmakta güçlük (yutulan kanın işareti olabilir)",
+  "**Nefes almada zorluk**, uykuda belirgin nefes durması, hırıltılı solunum",
+  "**38,5 °C üzerinde ateş**, ağrı kesicilere rağmen geçmeyen veya giderek artan ağrı",
+  "Hiç sıvı içmeme, 8 saattir idrar yapmama, aşırı uykuya meyil (sıvı kaybı belirtileri)",
+  "Giderek artan boyun ağrısı, başı çevirememe, boyunda şişlik"
+ ],
+ "lifestyle": [
+  "Ağrı için yalnızca **hekiminizin önerdiği ağrı kesicileri**, önerilen doz ve aralıklarla, **düzenli olarak** kullanınız. Aspirin ve hekiminizin önermediği diğer ağrı kesiciler kanama riskini artırabilir; kendi kendinize ilaç eklemeyiniz.",
+  "**Bol sıvı tüketmek** en önemli kuraldır. Soğuk-ılık su, ayran, komposto, dondurma, muhallebi, yoğurt, püre gibi yumuşak gıdalar uygundur. Çok sıcak, asitli, baharatlı ve sert/kıtır gıdalardan (cips, kraker, kızarmış ekmek) yaklaşık **2 hafta** kaçınınız.",
+  "İlk 2 hafta ağır egzersiz, sıcak banyo, sauna ve güneşte uzun süre kalmaktan kaçınınız.",
+  "Diş fırçalamaya devam edebilirsiniz; boğaz bölgesine sert temas etmeyiniz.",
+  "Yurt dışına dönüş uçuşunu, geç kanama riski geçene kadar (genellikle **ameliyat sonrası 10–14. gün**) ertelemeniz önerilir. Bu süreden önce uçmanız gerekirse riskleri hekiminizle konuşunuz."
+ ],
+ "declarations_extra": [
+  "Ameliyattan sonraki ilk 2 hafta içinde, özellikle 5–10. günlerde **geç kanama olabileceği**, bu durumda bekletmeden hekime veya en yakın acil servise başvurmam gerektiği ve kanamanın yeniden ameliyat, kan nakli ve nadiren yoğun bakım tedavisi gerektirebileceği bana açıkça anlatıldı."
+ ]
+}

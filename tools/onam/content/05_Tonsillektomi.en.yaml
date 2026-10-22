@@ -1,0 +1,132 @@
+code: "05"
+type: surgical
+aesthetic: false
+title: "Tonsillectomy"
+alt_name: "Removal of the tonsils (complete or partial)"
+
+specific_fields:
+  - label: "Planned technique:"
+    options: ["Cold-steel dissection", "Diathermy (electrocautery)", "Radiofrequency / coblation", "Tonsillotomy (partial removal)"]
+    blank: false
+  - label: "Additional procedures in the same session:"
+    options: ["Adenoidectomy", "Ventilation tube(s)", "None"]
+  - label: "Reason for surgery (completed by the doctor):"
+    options: ["Recurrent tonsillitis", "Sleep-disordered breathing / snoring", "Peritonsillar abscess (quinsy)", "One-sided enlargement / tissue diagnosis"]
+  - label: "Other / comments:"
+
+about:
+  - "The tonsils are lymphatic tissue, part of the body's immune system, located on both sides of the throat above the base of the tongue. After the tonsils are removed, the immune system continues to work through the other lymphatic tissues of the mouth and throat; the operation has not been shown to weaken immunity."
+  - "Tonsillectomy is most often recommended for: **tonsillitis** that recurs several times a year and causes time off school or work; enlarged tonsils causing **snoring and pauses in breathing during sleep**; an **abscess around the tonsil (quinsy)**; or one-sided enlargement of a tonsil or a suspicious change in the tissue. In some patients, bad breath and tonsil stones may also be reasons."
+  - "The aim of the operation is to eliminate or reduce these problems. Your doctor will explain separately why the operation has been recommended for you or your child."
+
+procedure_intro:
+  - "The operation is performed under general anaesthesia in an operating theatre, through the mouth; **there are no cuts or scars on the outside.**"
+procedure_steps:
+  - "**Preparation:** After the anaesthetic has been given, a special instrument is placed to keep the mouth open and protect the tongue."
+  - "**Removing the tonsils:** Each tonsil is separated, together with its surrounding capsule, from the muscle layer beneath and removed. Depending on the planned technique this is done with scissors and dissecting instruments (cold-steel dissection), electrocautery or radiofrequency/coblation devices."
+  - "**Partial removal (tonsillotomy):** In suitable patients, especially young children with breathing problems during sleep, only the enlarged part of the tonsil may be removed, leaving a thin layer behind. This method may cause less pain and a lower risk of bleeding; however, the remaining tissue can regrow or become infected."
+  - "**Controlling bleeding:** Any bleeding in the tonsil beds is carefully stopped with stitches, ties or cautery. The tonsil beds are usually left open and heal by themselves."
+  - "**Additional procedures:** If planned, removal of the adenoids (adenoidectomy) or insertion of ventilation tubes (grommets) is carried out under the same anaesthetic; separate consent forms are completed for these procedures."
+  - "**Waking up and observation:** After the operation the patient is monitored in the recovery room and then on the ward for bleeding, breathing and fluid intake."
+procedure_notes:
+  - "If the doctor considers it necessary, the removed tonsils are sent for pathological examination."
+anesthesia: "General anaesthesia"
+duration: "About 30–45 minutes (excluding anaesthesia time)"
+stay: "Usually one night in hospital for observation"
+
+benefits:
+  - "A marked reduction in recurrent tonsillitis and the associated fever, sore throat, antibiotic use and time off school or work"
+  - "Less snoring and fewer pauses in breathing during sleep; better-quality sleep and improved daytime attention and behaviour"
+  - "Prevention of recurrent peritonsillar abscess"
+  - "Where needed, a definite diagnosis through pathological examination of the tissue"
+success:
+  - "In carefully selected patients, recurrent throat infections and sleep-disordered breathing improve to a large extent. Occasional throat infections (pharyngitis) can still occur after the operation, but they are generally less frequent and milder. If sleep apnoea has other causes as well — such as excess weight, facial structure or nasal blockage — symptoms may not resolve completely and further treatment may be needed."
+
+alternatives:
+  - "**Watchful waiting:** If the frequency of infections does not meet the criteria for surgery or symptoms are mild, waiting with regular check-ups may be appropriate. In children, tonsillitis may become less frequent with age."
+  - "**Antibiotics and supportive treatment:** Each episode of infection continues to be treated with medicines; this does not prevent further episodes."
+  - "**Partial removal (tonsillotomy):** May be considered instead of complete removal in suitable patients (explained above)."
+  - "**Other options for sleep apnoea:** Weight loss, treatment of nasal blockage, steroid nasal sprays or a positive airway pressure device (CPAP) during sleep."
+
+no_treatment:
+  - "Without surgery, recurrent tonsillitis, fever, antibiotic use and time off school or work may continue. Rarely, an abscess may develop around the tonsil or infection may spread into the tissues of the neck. If sleep apnoea due to enlarged tonsils is left untreated, it can — especially in children — lead to slower growth and development, attention and behaviour problems, bedwetting and, in the long term, strain on the heart and lungs. In suspicious situations such as one-sided enlargement, not operating may delay a definite diagnosis."
+
+before:
+  - "Blood tests (particularly bleeding and clotting tests) and any other necessary investigations are carried out before the operation, and you will be assessed by the anaesthetist."
+  - "Please tell us if you or anyone in your family has a tendency to bleed easily, frequent nosebleeds, heavy or prolonged periods, bleeding that would not stop after a tooth extraction, or a known bleeding disorder."
+  - "No solid food or milk should be taken for **6 hours** before the operation; for clear fluids, follow the time given by the anaesthetist."
+  - "Please let us know about any active tonsillitis, feverish illness or flu in the 2–3 weeks before the operation; it may be necessary to postpone it."
+  - "Tell your doctor about any loose teeth or dentures."
+  - "If you are travelling from abroad, we recommend staying within reach of your doctor and hospital for **at least 10–14 days** after the operation (because of the risk of delayed bleeding)."
+
+recovery:
+  - when: "Day of surgery"
+    what: "You will have a sore throat when you wake up; this is controlled with painkillers. Once any nausea has passed, water is given, then cool or lukewarm drinks and soft foods. You will stay in hospital overnight to be monitored for bleeding, breathing and fluid intake."
+  - when: "Days 1–4"
+    what: "Throat pain and pain spreading to the ears are noticeable. A **white-yellowish layer** forms on the tonsil beds; this is a normal part of healing, not an infection. Bad breath and a slight temperature may occur. **Taking painkillers regularly and drinking plenty of fluids** are the most important things."
+  - when: "Days 5–10"
+    what: "The white layer begins to come away. Pain can sometimes increase again during this period. **This is when the risk of delayed bleeding is highest**; avoid strenuous exercise, hot baths/saunas and hard foods, and seek help immediately if there are any signs of bleeding."
+  - when: "Days 10–14"
+    what: "Pain decreases noticeably and a normal diet is resumed. Most children return to school, and adults to work, within 10–14 days. Sport and heavy physical activity are generally allowed after about 2–3 weeks."
+  - when: "Weeks 3–6"
+    what: "The tonsil beds heal completely. A follow-up examination is carried out; if a pathological examination was done, the result is reviewed."
+
+risks:
+  expected:
+    - "Sore throat (usually lasts 7–14 days; more marked in adults than in children)"
+    - "Pain spreading to the ears (referred pain; it does not mean there is a problem in the ear)"
+    - "Difficulty swallowing and loss of appetite; some weight loss in the first few days"
+    - "White-yellow healing layer on the tonsil beds and bad breath"
+    - "Slight temperature (first few days), nausea and vomiting from the anaesthetic"
+    - "Temporary swelling of the tongue and uvula"
+  common:
+    - name: "Bleeding after the operation (delayed bleeding)"
+      text: "Occurs in about **2–5 in 100** patients, most often **5–10 days after surgery**, when the healing layer comes away. It is somewhat more common in adults than in children. Most bleeds are minor and stop with observation, ice, treatment inside the mouth or a simple intervention."
+    - name: "Return to theatre for bleeding"
+      text: "In about **1–3 in 100** patients, a **return to the operating theatre under general anaesthesia** may be needed to stop the bleeding. The hospital stay may be longer."
+    - name: "Not drinking enough and dehydration"
+      text: "If not enough fluid is taken because of pain, weakness and reduced urine may occur, especially in young children; sometimes admission to hospital for intravenous fluids is needed."
+  uncommon:
+    - name: "Blood transfusion"
+      text: "If a lot of blood is lost during a bleed, a blood transfusion may be needed; this happens in **far fewer than 1 in 100** patients."
+    - name: "Taste disturbance and numbness of the tongue"
+      text: "Because the tongue is held under pressure by the instrument during the operation, there may be a change in taste or numbness of the tongue; this usually improves within a few weeks, but rarely may last for months or be permanent."
+    - name: "Injury to the teeth, lips and tongue"
+      text: "Pressure from the instrument used to keep the mouth open may chip a tooth (particularly a loose or decayed one), or cause a small burn, sore or swelling on the lips or tongue."
+    - name: "Infection"
+      text: "Infection may develop in the tonsil beds or in the neck; it is usually treated with antibiotics."
+    - name: "Temporary nasal-sounding voice"
+      text: "Because movement of the palate is limited by pain, air may temporarily escape through the nose when speaking; this usually settles within a few weeks."
+    - name: "Regrowth after tonsillotomy"
+      text: "If partial removal was performed, the remaining tonsil tissue may regrow or become infected (about **1–6 in 100**); rarely, a complete tonsillectomy may then be needed."
+  rare:
+    - name: "Severe bleeding and its consequences"
+      text: "Rarely, bleeding may be heavy and rapid. In this case **emergency surgery, blood transfusion** and, very rarely, additional procedures on the blood vessels of the neck may be needed. Heavy blood loss or blood entering the airway can lead to serious consequences such as **breathing failure, the need for treatment in intensive care** and resulting permanent harm."
+    - name: "Life-threatening complications and death"
+      text: "Death related to tonsillectomy is extremely rare; it is reported in the medical literature as about **1 in 15,000–35,000 operations**. The most common causes are severe bleeding and breathing problems. Young children with severe sleep apnoea have a higher risk of breathing problems after surgery, so these patients are monitored more closely."
+    - name: "Permanent nasal speech / fluids coming back through the nose (velopharyngeal insufficiency)"
+      text: "Very rare; seen mainly in those with a hidden cleft of the palate. Speech therapy or, rarely, a corrective operation may be needed."
+    - name: "Slipping of the neck vertebrae (Grisel syndrome), infection spreading into the neck or chest"
+      text: "Very rare conditions that can be treated if recognised early. They may show as steadily worsening neck pain, inability to turn the head, high fever and inability to swallow. If they occur, hospital admission, intravenous antibiotics and, if necessary, surgical drainage are needed; if treatment is delayed, lasting neck problems may develop or a spreading infection can become life-threatening."
+    - name: "Scarring and narrowing of the throat and palate"
+      text: "Very rarely, excessive scar tissue may form during healing, narrowing the throat or palate and causing difficulty swallowing or speaking."
+    - name: "Jaw joint pain or dislocation"
+      text: "Very rarely occurs as a result of the mouth being held open for a long time."
+
+emergency:
+  - "**Fresh, red blood** from the mouth, spitting or vomiting blood — **even a few drops** — seek help without delay. If bleeding occurs, lean your head forward and spit the blood out rather than swallowing it; you may gargle with cold water."
+  - "In children: **frequent swallowing**, paleness, weakness, difficulty waking (may be a sign of swallowed blood)"
+  - "**Difficulty breathing**, marked pauses in breathing during sleep, noisy breathing"
+  - "**Fever above 38.5 °C**, or pain that does not settle with painkillers or keeps getting worse"
+  - "Not drinking at all, no urine for 8 hours, unusual drowsiness (signs of dehydration)"
+  - "Steadily worsening neck pain, inability to turn the head, swelling in the neck"
+
+lifestyle:
+  - "For pain, use only **the painkillers recommended by your doctor**, at the recommended dose and intervals, and **take them regularly**. Aspirin and other painkillers not recommended by your doctor may increase the risk of bleeding; do not add any medicine on your own."
+  - "**Drinking plenty of fluids** is the most important rule. Cool or lukewarm water, ayran (yoghurt drink), stewed fruit, ice cream, milk pudding, yoghurt and purées are suitable. Avoid very hot, acidic, spicy and hard/crunchy foods (crisps, crackers, toast) for about **2 weeks**."
+  - "For the first 2 weeks, avoid strenuous exercise, hot baths, saunas and long periods in the sun."
+  - "You may continue to brush your teeth; avoid any hard contact with the throat."
+  - "We recommend postponing your return flight abroad until the risk of delayed bleeding has passed (usually **10–14 days after surgery**). If you need to fly earlier, discuss the risks with your doctor."
+
+declarations_extra:
+  - "It has been clearly explained to me that **delayed bleeding may occur** within the first 2 weeks after surgery, especially on days 5–10; that in that case I must contact the doctor or go to the nearest emergency department without delay; and that bleeding may require a further operation, a blood transfusion and, rarely, treatment in intensive care."

@@ -1,0 +1,118 @@
+code: "15"
+type: office
+aesthetic: true
+title: "Dolgu (Hyalüronik Asit) Uygulaması"
+alt_name: "Yüzde hacim kaybı, kontur ve çizgiler için hyalüronik asit enjeksiyonu"
+
+specific_fields:
+  - label: "Ürün adı / marka:"
+  - label: "LOT numarası ve son kullanma tarihi:"
+  - label: "Toplam miktar (mL):"
+  - label: "Uygulama bölgeleri:"
+    options: ["Dudak", "Nazolabial çizgi", "Yanak / elmacık", "Çene ucu", "Çene hattı", "Göz altı", "Burun", "Diğer"]
+  - label: "Uygulama aracı:"
+    options: ["İğne", "Kanül", "İkisi birlikte"]
+
+about:
+  - "Hyalüronik asit, cildimizde doğal olarak bulunan, su tutan ve dokulara dolgunluk veren bir maddedir. Dolgu ürünleri bu maddenin laboratuvarda üretilmiş, jel kıvamındaki hâlidir. Yaşla birlikte azalan **hacmi yerine koymak**, dudak, yanak, çene ve çene hattının **konturunu belirginleştirmek** veya **çizgi ve çukurlukları** yumuşatmak için kullanılır."
+  - "Yüzdeki hacim kaybı ve çizgiler; yaşlanma, kemik ve yağ dokusundaki değişiklikler, kilo kaybı, güneş ve genetik özelliklere bağlı olarak gelişir. Hyalüronik asit dolgunun etkisi **geçicidir**; vücut tarafından yavaş yavaş emilir. Muayenehanemizde **kalıcı dolgu ürünleri kullanılmamaktadır.**"
+
+procedure_intro:
+  - "Uygulama muayenehanede yapılır. Önce yüzünüz değerlendirilir, beklentileriniz konuşulur, uygulama planı yapılır ve işlem öncesi fotoğraf çekilir."
+procedure_steps:
+  - "**Hazırlık:** Makyaj temizlenir, cilt antiseptik solüsyonla temizlenir. Konforunuz için anestezik krem uygulanabilir; çoğu dolgu ürünü içinde de lokal anestezik (lidokain) bulunur."
+  - "**Uygulama:** Jel, ince bir iğne veya ucu künt, esnek bir kanül ile planlanan derinliğe ve bölgeye yavaş ve küçük miktarlarda verilir. Damar içine kaçış riskini azaltmak için güvenli teknikler kullanılır."
+  - "**Şekillendirme:** Gerekirse ürün parmakla nazikçe şekillendirilir; sonuç sizinle birlikte aynada değerlendirilir."
+  - "**Kayıt:** Kullanılan ürünün adı, LOT numarası, miktarı ve uygulama bölgeleri dosyanıza kaydedilir. Size ürün bilgisini içeren bir kart/etiket verilebilir; saklamanızı öneririz."
+procedure_notes:
+  - "Hyalüronik asit dolgunun önemli bir güvenlik avantajı, gerektiğinde **hiyalüronidaz** adlı bir enzimle eritilebilmesidir. Muayenehanemizde bu ilaç ve acil müdahale malzemeleri her zaman hazır bulundurulur."
+anesthesia: "Anestezik krem ve/veya üründe bulunan lokal anestezik"
+duration: "Yaklaşık 20–45 dakika"
+stay: "Aynı gün; işlem sonrası 15–30 dk gözlem"
+
+benefits:
+  - "Kaybedilen hacmin yerine konması, yüzün daha dinç ve dengeli görünmesi"
+  - "Dudak, yanak, çene ve çene hattında daha belirgin ve uyumlu kontur"
+  - "Çizgi ve çukurlukların yumuşaması"
+  - "Sonucun hemen görülmesi ve günlük yaşama kısa sürede dönülmesi"
+success:
+  - "Sonuç uygulamadan hemen sonra görülür; şişlik geçtikten sonra, yaklaşık **2. haftada** daha net değerlendirilir. Etki süresi ürünün türüne, bölgeye ve kişinin metabolizmasına göre genellikle **6–18 ay** arasında değişir (dudakta daha kısa, yanak ve çenede daha uzun). Kalıcı sonuç için uygulamanın belirli aralıklarla tekrarlanması gerekir. Cilt sarkması belirginse dolgu ile beklenen düzelme sınırlı olabilir."
+
+alternatives:
+  - "**Uygulama yaptırmamak:** Estetik bir işlem olduğu için yaptırmama seçeneğiniz her zaman vardır."
+  - "**Botulinum toksin:** Hacim kaybından değil, mimik hareketinden kaynaklanan çizgiler için daha uygundur."
+  - "**Cilt yenileme yöntemleri:** Mezoterapi, PRP, peeling, lazer gibi yöntemler cilt kalitesini artırabilir; hacim kazandırmaz."
+  - "**Kendi yağınızın aktarılması (yağ enjeksiyonu):** Daha uzun süreli olabilir; küçük bir cerrahi işlem gerektirir."
+  - "**Cerrahi yöntemler:** Yüz germe, göz kapağı ameliyatı, çene implantı veya rinoplasti gibi seçenekler daha belirgin veya kalıcı değişiklik sağlayabilir."
+
+no_treatment:
+  - "Uygulama yapılmazsa yüzünüzdeki mevcut görünüm doğal yaşlanma seyrinde devam eder. Bu durum sağlığınız için bir tehlike oluşturmaz."
+
+before:
+  - "Aşağıdaki durumlarda uygulama **yapılmaz veya ertelenir:** hamilelik, emzirme, uygulama bölgesinde aktif sivilce, uçuk veya enfeksiyon, ürüne veya lidokaine karşı bilinen alerji, ciddi alerjik reaksiyon (anafilaksi) öyküsü, kontrolsüz otoimmün hastalık. Lütfen bu durumlardan biri varsa mutlaka söyleyiniz."
+  - "Daha önce aynı bölgeye **herhangi bir dolgu** (özellikle kalıcı veya kalıcılığı bilinmeyen ürünler), iplik veya implant uygulandıysa bildiriniz."
+  - "Mümkünse uygulamadan **2 hafta önce ve 2 hafta sonra** diş tedavisi, aşı veya planlı başka bir cerrahi işlem yaptırmamaya özen gösteriniz; bu durumlar gecikmiş iltihabi reaksiyon riskini artırabilir. Yaptıracaksanız bize haber veriniz."
+  - "Önemli bir sosyal etkinliğiniz varsa olası şişlik ve morarma nedeniyle uygulamayı en az 2 hafta öncesine planlayınız."
+
+recovery:
+  - when: "İlk 24 saat"
+    what: "Bölgede şişlik, hassasiyet ve kızarıklık olur; soğuk uygulama rahatlatır. Bölgeye masaj yapmayınız ve bastırmayınız. Makyaj, sauna, ağır egzersiz ve alkolden kaçınınız. Dudak dolgusunda şişlik daha belirgindir."
+  - when: "2.–7. gün"
+    what: "Şişlik büyük ölçüde azalır. Morluk **olursa** 5–10 gün içinde kaybolur. Elle küçük sertlikler hissedilebilir; çoğu kendiliğinden yumuşar. Yüzüstü yatmaktan ve yüz masajından kaçınınız."
+  - when: "2. hafta"
+    what: "Sonuç oturur. Gerekirse kontrol muayenesi yapılır; asimetri veya eksiklik varsa hekim değerlendirmesiyle küçük ek uygulama planlanabilir."
+  - when: "6–18. ay"
+    what: "Ürün yavaş yavaş emilir. Tekrar uygulama zamanı sizinle birlikte planlanır."
+
+risks:
+  expected:
+    - "İğne noktalarında hafif ağrı, kızarıklık ve hassasiyet"
+    - "Şişlik (özellikle dudak ve göz altında birkaç gün belirgin olabilir)"
+    - "Morluk; **olursa** 1–2 hafta içinde kaybolur"
+    - "Elle hissedilen küçük sertlikler (genellikle birkaç hafta içinde yumuşar)"
+  common:
+    - name: "Hafif asimetri veya beklenenden az/fazla dolgunluk"
+      text: "Yüzün iki yarısı doğal olarak farklıdır; küçük farklar kalabilir. Kontrolde ek uygulama veya hiyalüronidaz ile düzeltilebilir."
+    - name: "Uzun süren şişlik"
+      text: "Özellikle göz altında, bazı kişilerde şişlik haftalarca sürebilir."
+  uncommon:
+    - name: "Kalıcı sertlik veya nodül (yumru)"
+      text: "Ürünün bir bölgede toplanmasıyla oluşabilir. Masaj, hiyalüronidaz veya başka tedavilerle giderilebilir."
+    - name: "Mavimsi renk değişikliği (Tyndall etkisi)"
+      text: "Ürün cilde çok yakın uygulandığında, özellikle göz altında ince ciltte görülebilir; hiyalüronidaz ile düzeltilebilir."
+    - name: "Ürünün yer değiştirmesi (migrasyon)"
+      text: "Zamanla ürün komşu bölgeye kayabilir (ör. dudak kenarının üstüne); gerekirse eritilir."
+    - name: "Enfeksiyon ve biyofilm"
+      text: "Nadiren uygulama bölgesinde kızarıklık, sıcaklık, ağrı veya apse gelişebilir. Antibiyotik, gerekirse dolgunun eritilmesi ve drenaj gerekebilir. Ürün çevresinde bakteri tabakası (biyofilm) oluşursa iltihap tekrarlayabilir ve tedavisi uzun sürebilir."
+    - name: "Gecikmiş iltihabi reaksiyon"
+      text: "Uygulamadan **haftalar hatta aylar sonra**, çoğunlukla grip, diş tedavisi veya aşı gibi bir bağışıklık uyarısından sonra, dolgu bölgesinde ağrılı şişlik ve kızarıklık gelişebilir (yaklaşık 100 hastada **1'den az**). İlaç tedavisiyle ve gerekirse dolgunun eritilmesiyle düzelir."
+    - name: "Uçuk aktivasyonu"
+      text: "Özellikle dudak uygulamasından sonra görülebilir; daha önce uçuk geçirdiyseniz koruyucu ilaç verilebilir."
+  rare:
+    - name: "Damar tıkanıklığı (vasküler oklüzyon)"
+      text: "Dolgunun en önemli riskidir. Ürünün bir damarın içine girmesi veya damara dışarıdan bası yapması sonucu o bölgenin kanlanması bozulabilir. Yayınlarda yaklaşık **1.000 ile 10.000 uygulamada 1** oranında bildirilmektedir; risk **burun, kaş arası ve burun-dudak çizgisi** bölgelerinde daha yüksektir. Belirtileri: uygulama sırasında veya sonrasında **şiddetli ağrı**, ciltte **beyazlama**, ardından **morumsu-ağsı renk değişikliği** ve soğukluk. Erken fark edilip hemen tedavi edilmezse **ciltte yara ve doku kaybı (nekroz)**, kalıcı iz ve şekil bozukluğu gelişebilir."
+    - name: "Acil tedavi: hiyalüronidaz"
+      text: "Damar tıkanıklığından şüphelenildiğinde işlem hemen durdurulur ve dolguyu eritmek için yüksek doz **hiyalüronidaz** enjekte edilir; ayrıca sıcak uygulama, masaj ve ilaç tedavisi verilir. Bu tedavi çoğu zaman etkilidir, ancak hasarı her zaman **tamamen geri döndüremeyebilir**. Hiyalüronidazın kendisi de çok nadiren alerjik reaksiyona neden olabilir. Gerekirse hastaneye sevk ve yara bakımı, uzun süreli tedavi veya ileride düzeltme işlemleri gerekebilir."
+    - name: "Görme kaybı ve inme"
+      text: "Son derece nadir olmakla birlikte, ürünün göze veya beyne giden damarlara ulaşması **kısmi veya tam, kalıcı görme kaybına** ya da **inmeye** yol açabilir. En sık burun ve kaş arası uygulamalarıyla ilişkilidir. Bu durumda **dakikalar önemlidir**; acil göz ve nöroloji değerlendirmesi için hastaneye sevk edilirsiniz."
+    - name: "Ciddi alerjik reaksiyon"
+      text: "Hyalüronik asit veya lidokaine karşı ağır alerjik reaksiyon (anafilaksi) son derece nadirdir; acil müdahale gerektirir."
+    - name: "Granülom"
+      text: "Vücudun ürüne karşı sert, iltihabi yumrular oluşturmasıdır; çok nadirdir ve uzun süreli tedavi gerektirebilir."
+
+emergency:
+  - "Uygulamadan sonra geçmeyen veya giderek artan **şiddetli ağrı**"
+  - "Ciltte **beyazlama, morumsu-ağsı (mermer görünümlü) renk değişikliği**, soğukluk, kabarcık veya yara"
+  - "**Görmede bulanıklık, görme kaybı**, göz ağrısı, çift görme — **dakikalar önemlidir**; hemen arayınız veya en yakın acil servise başvurunuz"
+  - "Ani **şiddetli baş ağrısı, konuşma bozukluğu, yüzde veya kol-bacakta güçsüzlük** (inme belirtileri) — hemen 112'yi arayınız"
+  - "Yüzde, dudakta veya dilde hızla gelişen şişlik, kurdeşen, nefes darlığı"
+  - "Ateş, kızarıklık, sıcaklık ve giderek artan sertlik/şişlik (haftalar sonra bile)"
+
+lifestyle:
+  - "İlk 24 saat makyaj, sauna, hamam, ağır egzersiz ve alkolden; ilk 2 hafta bölgeye masaj, yüz bakımı ve yüzüstü yatmaktan kaçınınız."
+  - "İlk 2 hafta güneşten, solaryumdan ve çok soğuk ortamlardan bölgeyi koruyunuz."
+  - "İleride başka bir hekim size yüz bölgesine işlem uygulayacaksa (dolgu, lazer, ameliyat, diş tedavisi) dolgu yaptırdığınızı ve ürünün adını söyleyiniz."
+
+declarations_extra:
+  - "Damar tıkanıklığı, buna bağlı cilt hasarı ve çok nadir de olsa görme kaybı ve inme riski; bu durumda uygulanacak acil tedavi (hiyalüronidaz) ve bu tedavinin her zaman tam sonuç vermeyebileceği bana açıklandı."
+  - "Dolgunun etkisinin geçici olduğunu, muayenehanede kalıcı dolgu kullanılmadığını ve daha önce yaptırdığım dolgu/implant uygulamalarını eksiksiz bildirdiğimi beyan ederim."

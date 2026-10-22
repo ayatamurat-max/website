@@ -1,0 +1,155 @@
+{
+ "code": "06",
+ "type": "surgical",
+ "aesthetic": false,
+ "title": "Ventilation Tube Insertion / Myringotomy",
+ "alt_name": "Insertion of grommets into the eardrum / opening the eardrum to drain fluid",
+ "about": [
+  "The middle ear is a small space behind the eardrum that is normally filled with air. It is ventilated through the **Eustachian tube**, which opens into the back of the nose. When the Eustachian tube does not work well (especially in children, because of enlarged adenoids, allergy or frequent colds), **fluid collects** in the middle ear (“glue ear”).",
+  "This fluid can cause **reduced hearing**, and in children **delayed speech and language development**, attention problems, poor balance and **repeated ear infections**. If the fluid persists for a long time, the eardrum may become thin, retracted and permanently changed. Similar problems can occur in adults, for example after flights or diving, or because of conditions at the back of the nose.",
+  "The aim of this procedure is to make a small opening in the eardrum to drain the fluid and, with a small tube placed in it, to keep the middle ear ventilated — **improving hearing and reducing the frequency of infections.**"
+ ],
+ "procedure_intro": [
+  "In children the procedure is usually performed under a short general anaesthetic; in adults it is mostly done under local anaesthesia. It is carried out through the ear canal under a microscope; **there are no cuts or scars on the outside.**"
+ ],
+ "procedure_steps": [
+  "**Cleaning the ear canal:** Under the microscope, any wax in the ear canal is removed and the eardrum is examined.",
+  "**Myringotomy:** A small cut of about 1–2 mm is made in a part of the eardrum where it will not affect hearing.",
+  "**Draining the fluid:** The fluid in the middle ear (which may be clear, sticky or infected) is removed with fine suction. If needed, a sample may be taken for culture.",
+  "**Placing the tube:** A tiny, spool-shaped tube a few millimetres in size is placed in the opening. This tube temporarily takes over the job of the Eustachian tube and keeps the middle ear ventilated.",
+  "**Finishing:** Ear drops are applied if needed. Usually no packing is placed in the ear, or only a small piece of cotton wool."
+ ],
+ "procedure_notes": [
+  "**Short-term tubes** are usually pushed out naturally within **6–18 months** as the eardrum heals, and fall into the ear canal; this often goes unnoticed. **Long-term tubes** stay in place for longer and sometimes need to be removed in a separate procedure.",
+  "When only a myringotomy is performed (without a tube), the opening in the eardrum closes within a few days and fluid may collect again."
+ ],
+ "anesthesia": "General anaesthesia in children; usually local anaesthesia in adults",
+ "duration": "About 10–20 minutes for both ears",
+ "stay": "Usually home the same day",
+ "benefits": [
+  "Hearing usually improves immediately or within a short time",
+  "In children, a positive effect on speech, language development, attention and school performance",
+  "Fewer and milder ear infections; when an infection does occur, it can usually be treated with ear drops instead of antibiotics by mouth",
+  "Lower risk of permanent damage to the eardrum; relief of pressure and fullness in the ear"
+ ],
+ "success": [
+  "As long as the tube is in place and open, hearing improves and ear infections become less frequent in the great majority of patients. If the Eustachian tube has matured sufficiently by the time the tube comes out, fluid usually does not return. However, in some children (about **20–30 in 100**) fluid collects again and **further tubes** may be needed."
+ ],
+ "alternatives": [
+  "**Watchful waiting:** Middle-ear fluid clears by itself within 3 months in many children. If the hearing loss is mild and there are no risk factors, monitoring with regular hearing tests is possible.",
+  "**Autoinflation:** Especially in older children, blowing up a special balloon through the nose can help open the Eustachian tube.",
+  "**Hearing aids:** For patients who do not want, or are not suitable for, surgery, these can be a temporary solution while the fluid persists.",
+  "**Medicines:** Allergy or nose and sinus disease is treated if present; however, there is limited evidence that antibiotics, steroids or nasal sprays clear middle-ear fluid permanently.",
+  "**Adenoidectomy:** In suitable children it may be recommended together with tubes or when further tubes are needed."
+ ],
+ "no_treatment": [
+  "Without the procedure, the fluid may clear by itself in some patients; if it persists, however, reduced hearing, delayed speech and language development in children, attention and school problems, poor balance and repeated ear infections may continue. Fluid that persists for a long time can lead to retraction of the eardrum, permanent eardrum changes, damage to the small hearing bones and, rarely, more serious ear disease requiring surgery, such as **cholesteatoma**."
+ ],
+ "before": [
+  "A hearing test (audiometry) and a middle-ear pressure test (tympanometry) are carried out before the procedure.",
+  "If a general anaesthetic is planned, you will be assessed by the anaesthetist; no solid food or milk should be given for **6 hours** before the operation, and for clear fluids follow the time given by the anaesthetist.",
+  "Please let us know about any fever, cough or flu in the 2 weeks before the procedure; it may be postponed.",
+  "If there is discharge from the ear or an active infection, it may need to be treated before the procedure."
+ ],
+ "recovery": [
+  {
+   "when": "Day of the procedure",
+   "what": "Most patients go home within a few hours. There may be mild earache or a feeling of fullness, which settles with simple painkillers. A slightly blood-stained or watery discharge may come from the ear for a few days. Most patients **hear sounds louder straight away**; this can feel uncomfortable at first."
+  },
+  {
+   "when": "First week",
+   "what": "Ear drops are used if your doctor has recommended them. Children can return to school or nursery, and adults to work, within 1–2 days. Take care to keep water out of the ears."
+  },
+  {
+   "when": "Weeks 4–8",
+   "what": "The first follow-up examination is carried out; we check that the tube is in place and open, and the hearing test is repeated."
+  },
+  {
+   "when": "While the tube is in (6–18 months)",
+   "what": "Check-ups are recommended about **every 3–6 months**. An ear infection shows up as discharge and is usually treated with ear drops. Flying is generally more comfortable while a tube is in place."
+  },
+  {
+   "when": "After the tube comes out",
+   "what": "The eardrum is checked to make sure the hole has closed and there is no fluid in the middle ear; a hearing test is carried out."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Mild earache and a feeling of fullness (1–2 days)",
+   "Slightly blood-stained or watery discharge from the ear for a few days",
+   "Sounds temporarily seeming very loud or echoing",
+   "Temporary nausea or restlessness after a general anaesthetic"
+  ],
+  "common": [
+   {
+    "name": "Ear discharge (otorrhoea)",
+    "text": "About **10–25 in 100** patients with tubes have at least one episode of ear discharge, usually after a cold or water getting into the ear. It mostly clears within a few days with antibiotic ear drops. Rarely, the discharge may be persistent and require medicine by mouth, ear cleaning or removal of the tube."
+   },
+   {
+    "name": "White patches on the eardrum (tympanosclerosis)",
+    "text": "Chalk-like white patches on the eardrum are common (about **10–30+ in 100** ears). In most cases they do not affect hearing."
+   },
+   {
+    "name": "Early extrusion or blockage of the tube",
+    "text": "The tube may come out earlier than expected or become blocked with dried blood or discharge. Drops are used to try to clear it; if necessary, the tube is replaced."
+   },
+   {
+    "name": "Need for further tubes",
+    "text": "If fluid collects again after the tube comes out, about **20–30 in 100** children may need a second set of tubes (sometimes together with removal of the adenoids)."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Permanent hole in the eardrum (perforation)",
+    "text": "After the tube comes out, the hole in the eardrum may not close: in about **1–3 in 100** patients with short-term tubes and more often with long-term tubes (about **10–20 in 100**). Small holes often cause no problems; if they lead to recurrent discharge or hearing loss, **closure by a separate operation (tympanoplasty/myringoplasty)** may be needed."
+   },
+   {
+    "name": "Thinning or retraction of the eardrum",
+    "text": "The eardrum may become thin or retract inwards where the tube was; follow-up may be needed."
+   },
+   {
+    "name": "Tube not coming out",
+    "text": "If the tube does not come out in the expected time (usually if it stays in longer than 2–3 years), it may need to be removed in a short procedure; in children this is usually done under general anaesthesia."
+   },
+   {
+    "name": "Tissue overgrowth in the ear canal (granulation)",
+    "text": "Red, inflamed tissue may form around the tube; it can cause blood-stained discharge and is treated with drops or a minor procedure."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Tube moving into the middle ear",
+    "text": "Very rarely, instead of falling out, the tube may slip behind the eardrum into the middle ear; a separate procedure may be needed to remove it."
+   },
+   {
+    "name": "Cholesteatoma",
+    "text": "A cyst-like condition caused by the skin layer of the eardrum growing into the middle ear. It is **very rarely** associated with tube insertion. If it develops, surgical treatment is required."
+   },
+   {
+    "name": "Hearing loss, ringing in the ear (tinnitus) or dizziness",
+    "text": "Permanent hearing loss, tinnitus or dizziness due to involvement of the inner ear or hearing bones is **extremely rare**."
+   },
+   {
+    "name": "Injury to the ear canal and bleeding",
+    "text": "Small injuries can occur in narrow ear canals; very rarely, serious injuries related to anatomical variations of the facial nerve, inner ear or major blood vessels have been reported."
+   }
+  ]
+ },
+ "emergency": [
+  "Heavy or foul-smelling ear discharge lasting **more than 3–5 days** despite drops",
+  "**Fever above 38.5 °C**, severe earache",
+  "Redness or swelling behind the ear, or the ear being pushed forwards",
+  "**Sudden hearing loss**, severe dizziness, unsteadiness or vomiting",
+  "Facial asymmetry, drooping at the corner of the mouth or inability to close the eye",
+  "Heavy bleeding from the ear"
+ ],
+ "lifestyle": [
+  "While the tube is in place, **avoid dirty water (lakes, sea, swimming pools, bath water) getting into the ear.** Cotton wool with petroleum jelly or earplugs can be used in the shower and bath. Follow your doctor's advice about swimming; surface swimming with earplugs and/or a swimming cap is usually allowed, but diving is not recommended.",
+  "Do not clean inside the ear canal with cotton buds.",
+  "If ear discharge occurs, gently wipe it away from the outside, use the drops recommended for you and let your doctor know. Do not use other ear drops on your own; some drops are not suitable for the middle ear.",
+  "Keep attending follow-up appointments even after the tube has come out; it is important to monitor hearing and the condition of the eardrum."
+ ],
+ "declarations_extra": [
+  "I understand that the tube will come out by itself after a certain time, that further tubes may be needed if fluid collects again, and that if a permanent hole remains in the eardrum, a separate operation may be needed to close it."
+ ]
+}

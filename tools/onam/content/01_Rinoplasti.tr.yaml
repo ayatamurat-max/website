@@ -1,0 +1,136 @@
+code: "01"
+type: surgical
+aesthetic: true
+title: "Rinoplasti"
+alt_name: "Burun estetiği ameliyatı (gerekiyorsa nefes yolu düzeltmesiyle birlikte)"
+
+specific_fields:
+  - label: "Planlanan teknik:"
+    options: ["Açık teknik", "Kapalı teknik", "Hekim tarafından ameliyatta belirlenecek"]
+    blank: false
+  - label: "Birlikte yapılacak işlemler:"
+    options: ["Septoplasti", "Konka küçültme", "Yok"]
+  - label: "Kıkırdak grefti kaynağı:"
+    options: ["Burun içi (septum)", "Kulak", "Kaburga", "Gerek görülmüyor"]
+  - label: "Hastanın şikâyeti ve beklentisi:"
+
+about:
+  - "Rinoplasti, burnun dış görünümünü (burun sırtı, kemerli yapı, burun ucu, burun genişliği, burun delikleri, yüzle uyumu) yeniden şekillendirmek için yapılan bir ameliyattır. Burnunuzda nefes almayı zorlaştıran bir eğrilik (septum deviasyonu), burun kanatlarında çökme veya konka büyümesi varsa bunlar da aynı ameliyatta düzeltilebilir."
+  - "Burnun şekli doğuştan gelen özellikler, büyüme sırasındaki değişiklikler veya geçirilmiş travmalar (darbe, kırık) nedeniyle oluşur. Bu yapılar kendiliğinden değişmez. Ameliyatın amacı, sizinle birlikte belirlediğimiz **gerçekçi hedeflere** ulaşmak ve **doğal, yüzünüzle uyumlu ve rahat nefes alan** bir burun elde etmektir."
+
+procedure_intro:
+  - "Ameliyat genel anestezi altında, ameliyathane koşullarında yapılır. Ameliyattan önce burnunuz muayene edilir, fotoğraflanır ve sizinle birlikte plan yapılır."
+procedure_steps:
+  - "**Kesi:** Kapalı teknikte tüm kesiler burnun içindedir ve dışarıdan iz kalmaz. Açık teknikte ek olarak burun delikleri arasındaki ince köprüye (kolumella) yaklaşık 4–5 mm'lik küçük bir kesi yapılır; bu iz zamanla genellikle belirsizleşir."
+  - "**Burun iskeletinin şekillendirilmesi:** Cilt ve yumuşak dokular nazikçe kaldırılır. Kemer varsa kemik ve kıkırdaktan alınır veya kemer koruyucu tekniklerle düzeltilir. Burun ucu kıkırdakları dikişlerle yeniden şekillendirilir."
+  - "**Kemiklerin daraltılması/düzeltilmesi (osteotomi):** Geniş veya eğri burun kemiklerini daraltmak ve düzeltmek gerekiyorsa kontrollü kemik kesileri yapılır. Bu adım morarma ve şişlik ihtimalini artırabilir."
+  - "**Destek ve greftler:** Burnun uzun vadede şeklini koruması ve nefes yolunun açık kalması için gerekirse kıkırdak destekleri (greft) kullanılır. Kıkırdak öncelikle burun içinden (septumdan) alınır; yetmezse kulak veya kaburga kıkırdağı kullanılabilir. Bu durum ameliyattan önce sizinle konuşulur."
+  - "**Fonksiyonel düzeltme:** Gerekliyse burun orta bölmesi (septum) düzeltilir ve konkalar küçültülür."
+  - "**Kapatma ve atel:** Kesiler ince dikişlerle kapatılır. Burun sırtına koruyucu bir atel (splint) uygulanır; burun içine gerekirse yumuşak silikon atel veya nefes almanıza izin veren tamponlar konur."
+anesthesia: "Genel anestezi"
+duration: "Yaklaşık 2–4 saat"
+stay: "Genellikle 1 gece hastanede kalış"
+
+benefits:
+  - "Burun şeklinin yüzünüzle daha uyumlu, doğal ve dengeli hâle gelmesi"
+  - "Varsa burun tıkanıklığının giderilmesi ve nefes almanın rahatlaması"
+  - "Kendinizi daha iyi hissetmenize katkı"
+success:
+  - "Hastaların büyük çoğunluğu sonuçtan memnun kalır. Ancak burun, yüzün ortasında yer alan ve iyileşmesi uzun süren bir organdır; nihai sonuç **12–18 ay** içinde ortaya çıkar. Yayınlarda hastaların yaklaşık **%5–15'inde** küçük ya da büyük bir düzeltme ameliyatına (revizyon) ihtiyaç duyulabildiği bildirilmektedir. Kalın ciltli, daha önce ameliyat olmuş veya ciddi travma geçirmiş burunlarda sonucu öngörmek daha zordur."
+
+alternatives:
+  - "**Ameliyat olmamak:** Estetik bir işlem olduğu için yaptırmama seçeneğiniz her zaman vardır."
+  - "**Dolgu ile burun şekillendirme (“sıvı rinoplasti”):** Küçük kemer veya çukurlukları geçici olarak kamufle edebilir; burnu küçültmez, nefes almayı düzeltmez ve damar tıkanıklığı gibi kendine özgü riskleri vardır."
+  - "**Yalnızca fonksiyonel cerrahi (septoplasti/konka küçültme):** Tek sorun nefes almaksa burnun dış şekline dokunmadan yapılabilir."
+  - "**İlaç tedavisi:** Alerjiye veya mukoza şişliğine bağlı tıkanıklıkta burun spreyleri fayda sağlayabilir; yapısal eğrilikleri düzeltmez."
+
+no_treatment:
+  - "Ameliyat yapılmazsa burnunuzun mevcut şekli değişmeden kalır. Nefes alma sorununuz varsa ve nedeni yapısal ise (eğrilik, kanat çökmesi), bu şikâyetler kendiliğinden düzelmez ancak sağlığınız için genellikle acil bir tehlike oluşturmaz."
+
+before:
+  - "Son 6–12 ay içinde **izotretinoin** (akne ilacı, ör. Roaccutane) kullandıysanız mutlaka bildiriniz; cilt iyileşmesini etkileyebileceği için ameliyat zamanlaması buna göre planlanabilir."
+  - "Ameliyattan önce kan tahlilleri ve gerekirse diğer tetkikler yapılır; anestezi uzmanı tarafından değerlendirilirsiniz."
+  - "Ameliyattan önceki **6–8 saat** boyunca hiçbir şey yememeniz ve içmemeniz gerekir (anestezi uzmanının vereceği talimatlara uyunuz)."
+  - "Ameliyat günü makyaj, oje, takı ve lens kullanmayınız. Ameliyattan sonraki ilk gün size eşlik edecek bir yakınınızın olması önerilir."
+  - "Yüzde aktif sivilce, cilt enfeksiyonu, grip veya üst solunum yolu enfeksiyonu varsa ameliyat ertelenebilir."
+
+recovery:
+  - when: "İlk 48 saat"
+    what: "Burunda tıkanıklık, hafif sızıntı, baş ağrısı ve yüzde şişlik olur. Ağrı genellikle hafif–orta düzeydedir ve ağrı kesicilerle kontrol edilir. Başınızı yüksekte tutarak yatmanız ve soğuk uygulama şişliği azaltır. Morarma **olursa** göz çevresinde görülür ve 7–10 günde çekilir."
+  - when: "1. hafta"
+    what: "Burun içi silikon atel/tamponlar varsa genellikle 2–5. günlerde, burun dışındaki atel ve dikişler yaklaşık **7. günde** çıkarılır. Burun içini serum fizyolojik ile temizlemeniz istenir. Çoğu hasta 7–10 gün içinde masa başı işine ve sosyal hayata döner."
+  - when: "2–6. haftalar"
+    what: "Şişliğin büyük kısmı geçer, ancak burun ucu sertliği ve hafif uyuşukluk devam edebilir. Ağır egzersiz, temas sporları ve yüzme yaklaşık **4–6 hafta** ertelenmelidir. Gözlük, burun sırtına baskı yapmayacak şekilde en az **6 hafta** takılmamalı veya bantla askıya alınmalıdır."
+  - when: "3–12. aylar"
+    what: "Kalan şişlik, özellikle burun ucunda, yavaş yavaş azalır. Bu dönemde burnun şekli değişmeye devam eder; erken dönemde görülen küçük düzensizlikler genellikle kaybolur."
+  - when: "12–18. aylar"
+    what: "Nihai sonuç ortaya çıkar. Gerekli görülürse düzeltme (revizyon) işlemi için genellikle en az 12 ay beklenir."
+
+risks:
+  expected:
+    - "Burun tıkanıklığı, burunda hafif sızıntı ve kanlı akıntı (ilk günler)"
+    - "Yüzde ve göz çevresinde şişlik; morarma **olursa** 1–2 hafta içinde geçer"
+    - "Burun ucunda ve ön dişlerde geçici uyuşukluk, burun ucunda sertlik"
+    - "Koku almada geçici azalma (şişlik geçtikçe düzelir)"
+    - "Burnun şeklinin aylar boyunca değişmeye devam etmesi"
+  common:
+    - name: "Uzun süren şişlik"
+      text: "Özellikle kalın ciltlerde burun ucundaki şişlik 1 yıl veya daha uzun sürebilir. Gerekirse kortizonlu iğne ile desteklenebilir."
+    - name: "Hafif asimetri ve küçük düzensizlikler"
+      text: "Yüzün kendisi tam simetrik olmadığından burunda hafif farklılıklar kalabilir; elle hissedilen ama genellikle görünmeyen küçük kemik/kıkırdak çıkıntıları olabilir."
+    - name: "Revizyon (düzeltme) ihtiyacı"
+      text: "Yaklaşık 100 hastadan **5–15'inde**, küçük bir dokunuştan daha kapsamlı bir ameliyata kadar değişen düzeltme işlemi gerekebilir."
+    - name: "Burun içinde kabuklanma ve kuruluk"
+      text: "İlk haftalarda sıktır; düzenli yıkama ve nemlendirici ile geçer."
+  uncommon:
+    - name: "Burun kanaması"
+      text: "Yaklaşık 100 hastadan **1–3'ünde** tamponlama veya müdahale gerektiren kanama olabilir. Çok nadiren ameliyathanede kanamanın durdurulması gerekebilir."
+    - name: "Enfeksiyon"
+      text: "100 hastada **1'den az–3** oranında görülür. Genellikle antibiyotikle düzelir; nadiren iltihabın boşaltılması veya greftin çıkarılması gerekebilir."
+    - name: "Nefes almada beklenen düzelmenin olmaması"
+      text: "Burun tıkanıklığınız tamamen geçmeyebilir veya nadiren artabilir; ek tedavi veya ameliyat gerekebilir."
+    - name: "Septum delinmesi (perforasyon)"
+      text: "Burun orta bölmesinde delik oluşması yaklaşık 100 hastada **1** civarındadır. Çoğu zaman şikâyet yapmaz; ıslık sesi, kabuklanma veya kanamaya neden olursa tedavi gerekebilir."
+    - name: "Septumda kan veya iltihap toplanması (hematom / apse)"
+      text: "Septum üzerinde işlem yapıldığında 100 hastada **1'den az** görülür. Ameliyattan sonraki günlerde artan tıkanıklık, ağrı ve ateşle belirti verir. Burun kıkırdağına zarar vermemesi için **acilen boşaltılması** gerekir; tedavi edilmezse kıkırdak kaybı ve burun sırtında çökme (semer burun) gelişebilir ve düzeltilmesi için ek ameliyat gerekebilir."
+    - name: "Burun içi yapışıklık (sineşi)"
+      text: "Burun içi dokuların birbirine yapışmasıdır; tıkanıklığa yol açarsa basit bir işlemle ayrılır."
+    - name: "Belirgin iz"
+      text: "Açık teknikte kolumelladaki iz nadiren belirgin kalabilir; kanat daraltma yapılırsa burun kanadı kıvrımında ince iz oluşur."
+    - name: "Uzun süren uyuşukluk"
+      text: "Burun ucunda veya ön dişlerde his azalması birkaç ay sürebilir; nadiren kalıcı olabilir."
+    - name: "Greftle ilgili sorunlar"
+      text: "Kullanılan kıkırdak zamanla yer değiştirebilir, eğrilebilir, erime gösterebilir veya ciltten belli olabilir. Kulak veya kaburgadan kıkırdak alınırsa o bölgede ağrı, iz, kanama ve kaburga için çok nadiren akciğer zarı yaralanması (pnömotoraks) riski vardır."
+  rare:
+    - name: "Cilt sorunları"
+      text: "Cilt incelmesi, kızarıklık, küçük kılcal damarlar veya kalın ciltte iz dokusu artışı. Çok nadiren, özellikle sigara içenlerde ve daha önce ameliyat olmuş burunlarda, cilt beslenmesinin bozulmasına bağlı yara ve doku kaybı görülebilir. Bu durumda uzun süreli yara bakımı ve onarıcı ameliyat gerekebilir; kalıcı iz veya şekil bozukluğu kalabilir."
+    - name: "Koku almanın kalıcı azalması veya kaybı"
+      text: "Çok nadirdir."
+    - name: "Gözyaşı kanalı sorunları ve göz çevresi kanaması"
+      text: "Kemik kesilerine bağlı olarak çok nadiren sulanma veya göz çevresinde kanama görülebilir."
+    - name: "Beyin-omurilik sıvısı (BOS) sızıntısı, menenjit, görme kaybı"
+      text: "Burun ile kafa tabanı ve göz arasındaki ince kemiklerin etkilenmesine bağlı, **10.000'de 1'den çok daha az** görülen son derece nadir komplikasyonlardır. Gelişirse hastanede, gerekirse yoğun bakımda ek tedavi ve ameliyat gerekebilir; görme kaybı gelişirse kalıcı olabilir."
+    - name: "Toksik şok sendromu"
+      text: "Burun içi tampon kullanımına bağlı, çok nadir ancak acil tedavi gerektiren ciddi bir enfeksiyon tablosudur (ani yüksek ateş, döküntü, tansiyon düşüklüğü). Hastanede, gerekirse yoğun bakımda tedavi gerektirir ve hayatı tehdit edebilir."
+    - name: "Psikolojik memnuniyetsizlik"
+      text: "Teknik olarak başarılı bir sonuca rağmen kişi yeni görünümüne uyum sağlamakta zorlanabilir. Beklentilerin ameliyat öncesi açıkça konuşulması bu riski azaltır."
+
+emergency:
+  - "Birkaç dakikalık baskıya ve buz uygulamasına rağmen **durmayan veya çok yoğun burun kanaması**"
+  - "Ameliyattan sonraki günlerde **artan burun tıkanıklığı, burunda şiddetli ağrı ve şişlik** (septum hematomu/apsesi belirtisi olabilir)"
+  - "**38,5 °C üzerinde ateş**, burunda giderek artan ağrı, kızarıklık veya kötü kokulu akıntı"
+  - "Tampon varken **ani yüksek ateş, ciltte döküntü, baş dönmesi veya halsizlik**"
+  - "Burundan, özellikle öne eğilince artan **berrak, sulu akıntı** veya şiddetli baş ağrısı, ense sertliği"
+  - "**Görmede bulanıklık, çift görme** veya göz çevresinde hızla artan şişlik ve ağrı"
+  - "Burna darbe alınması veya burnun şeklinde ani değişiklik"
+  - "Nefes darlığı veya göğüs ağrısı"
+
+lifestyle:
+  - "İlk 2 hafta burnunuzu sümkürmeyiniz; hapşırmanız gerekirse ağzınız açık hapşırınız."
+  - "Burun içi temizliğini size gösterildiği şekilde ve önerilen sıklıkta yapınız."
+  - "En az 6 hafta burnunuza darbe gelmesinden, gözlüğün burun sırtına oturmasından ve yüzüstü yatmaktan kaçınınız."
+  - "Burun cildini en az 3 ay güneşten koruyunuz (yüksek faktörlü güneş kremi, şapka)."
+  - "Yurt dışından geldiyseniz uçak yolculuğu genellikle atel çıkarıldıktan sonra (7. gün civarı) güvenlidir."
+
+declarations_extra:
+  - "Ameliyattan önceki ve sonraki fotoğraflarımın karşılaştırılmasının sonucu değerlendirmenin bir parçası olduğunu; bilgisayar simülasyonu veya örnek fotoğrafların yalnızca fikir vermek amaçlı olup sonuç garantisi olmadığını biliyorum."

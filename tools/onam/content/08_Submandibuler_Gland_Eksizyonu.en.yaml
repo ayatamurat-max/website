@@ -1,0 +1,120 @@
+code: "08"
+type: surgical
+aesthetic: false
+title: "Submandibular Gland Excision"
+alt_name: "Removal of the salivary gland under the jaw"
+
+specific_fields:
+  - label: "Side:"
+    options: ["Right", "Left"]
+    blank: false
+  - label: "Reason for surgery:"
+    options: ["Salivary stone / recurrent infection", "Lump in the gland", "Other"]
+  - label: "Nerve monitoring:"
+    options: ["Will be used", "Will not be used"]
+    blank: false
+  - label: "Imaging / biopsy result:"
+
+about:
+  - "The submandibular gland is a salivary gland located just below the lower jaw on each side, which releases saliva into the mouth. It produces a significant share of the saliva; however, because the gland on the other side and the salivary glands in front of the ears and under the tongue continue to work, **removing one gland does not cause a dry mouth in most patients**."
+  - "This operation is most often performed because of **salivary gland stones** and the **recurrent swelling and infections** they cause. A stone blocks the flow of saliva into the mouth, leading to painful swelling under the jaw when eating and repeated infections. Less often, a **lump (tumour)** in the gland requires surgery. The proportion of malignant tumours is higher in submandibular gland lumps than in parotid lumps; removing the gland and examining it under the microscope is therefore important for a definitive diagnosis."
+  - "Three nerves run close to the gland: the nerve branch that moves the lower lip, the nerve that gives sensation to the tongue and the nerve that moves the tongue. The aim of the operation is to remove the gland completely while preserving these nerves."
+
+procedure_intro:
+  - "The operation is performed under general anaesthesia in an operating theatre."
+procedure_steps:
+  - "**Incision:** An incision, usually 4–6 cm long, is made about 2–3 cm below the jawbone, parallel to a natural skin crease of the neck. Placing the incision well below the jaw helps to protect the nerve branch that moves the lower lip."
+  - "**Protecting the nerves:** The thin muscle layer under the skin (platysma) is opened. The nerve branch that moves the lower lip (marginal mandibular nerve) is protected, either by seeing it or by staying in a safe tissue layer."
+  - "**Removing the gland:** The gland is separated from the surrounding tissues and the vessels supplying it are tied. The salivary duct is carefully separated from the nerve that gives sensation to the tongue (lingual nerve), then tied and divided. The nerve that moves the tongue (hypoglossal nerve) is preserved. If there is a stone in the duct, as much of the far part of the duct as possible is also removed."
+  - "**Pathological examination:** The removed gland is sent to pathology; the result is usually available within 1–2 weeks."
+  - "**Closure:** Bleeding is controlled, a thin **drain** is usually placed and the skin is closed with cosmetic stitches."
+procedure_notes:
+  - "If there is a stone inside the mouth close to where the duct opens, it may sometimes also be removed separately from inside the mouth. This will be discussed with you before surgery."
+anesthesia: "General anaesthesia"
+duration: "About 1–2 hours"
+stay: "Usually 1 night; discharge once the drain is removed"
+
+benefits:
+  - "An end to recurrent painful swelling and infections caused by stones"
+  - "No more need for repeated courses of antibiotics"
+  - "Removal of a lump in the gland and a definitive diagnosis"
+success:
+  - "After surgery for stones and chronic infection, symptoms resolve completely in **more than 90%** of patients. If a stone remains in, or re-forms in, the part of the duct left in the mouth, swelling of the floor of the mouth may rarely continue. For benign lumps, surgery is usually a permanent cure; malignant tumours may need further treatment."
+
+alternatives:
+  - "**Medical and supportive treatment:** Plenty of fluids, sour tastes to stimulate saliva, massage, warm compresses and antibiotics during infections. This may ease symptoms but does not remove the stone."
+  - "**Removing the stone through the mouth:** Stones in the part of the duct near the mouth that can be felt may be removed through a small incision inside the mouth, preserving the gland."
+  - "**Salivary duct endoscopy (sialendoscopy):** Stones of suitable size and position can be removed from inside the duct with a fine endoscope; this is not available in every centre or suitable for every stone."
+  - "**Observation:** For small lumps thought to be benign, observation may rarely be discussed; however, surgery is usually recommended for a definitive diagnosis in this gland."
+
+no_treatment:
+  - "Without surgery, swelling and infections due to stones may continue to recur; rarely an abscess (collection of pus) may develop around the gland, requiring emergency treatment. If there is a lump in the gland, a definitive diagnosis cannot be made; an untreated malignant tumour may progress."
+
+before:
+  - "Before surgery, blood tests and imaging (ultrasound and, if necessary, CT/MRI) are carried out; you will be assessed by the anaesthetist."
+  - "You must not eat or drink anything for **6–8 hours** before the operation (please follow the anaesthetist's instructions)."
+  - "If the gland is actively infected, surgery is usually planned once the infection has been treated."
+  - "For male patients, the beard in the incision area may be trimmed on the day of surgery."
+
+recovery:
+  - when: "First 24–48 hours"
+    what: "There will be mild to moderate pain, tightness and swelling under the jaw, controlled with painkillers. Swallowing may be slightly uncomfortable. The drain is usually removed on day 1. Sleeping with your head raised is recommended. You can start eating soft foods straight away."
+  - when: "Week 1"
+    what: "You can return to daily activities. Stitches are usually removed on **days 5–7**. Numbness above the incision, along the jawline and around the incision is normal. The pathology result will be shared with you during this period or shortly afterwards."
+  - when: "Weeks 2–4"
+    what: "Most people return to desk work within 1 week. Strenuous exercise and heavy lifting should be postponed for about **2 weeks**. Firmness and slight swelling at the incision gradually decrease."
+  - when: "Months 2–6"
+    what: "The scar gradually fades and often becomes inconspicuous in the neck crease. Any temporary nerve weakness or reduced sensation usually recovers during this period."
+
+risks:
+  expected:
+    - "Pain, tightness and swelling under the jaw; slight discomfort when swallowing"
+    - "Numbness of the skin around and below the incision"
+    - "A scar in the neck (fades over time)"
+  common:
+    - name: "Temporary weakness of the lower lip"
+      text: "Due to stretching of the nerve branch that pulls the lower lip down (marginal mandibular nerve) during surgery, about **10–20 in 100** patients have slight asymmetry of the lower lip on that side when smiling or talking. It is a cosmetic issue, usually does not affect eating or drinking, and mostly **improves within weeks to a few months**."
+    - name: "Firmness and numbness at the incision"
+      text: "Firmness and reduced sensation below the incision are common in the first few weeks and lessen over months."
+  uncommon:
+    - name: "Bleeding and haematoma"
+      text: "In about **1–3 in 100** patients, blood may collect under the skin. If large, it may need to be drained and the bleeding stopped in the operating theatre."
+    - name: "Wound infection"
+      text: "Can occur in **1–3 in 100** patients, especially if the gland was infected; it usually settles with antibiotics, and rarely drainage is needed."
+    - name: "Reduced sensation on one side of the tongue"
+      text: "Due to involvement of the nerve that gives sensation to the tongue (lingual nerve), numbness or tingling on that side of the tongue occurs in about **1–3 in 100** patients. It is mostly temporary; rarely it may be permanent and may also affect taste."
+    - name: "Fluid collection (seroma)"
+      text: "Fluid collecting under the incision; usually settles with needle drainage and a pressure dressing."
+    - name: "Stone remaining in the duct"
+      text: "A stone may remain in, or re-form in, the part of the salivary duct left in the mouth and cause swelling or infection of the floor of the mouth. If necessary, it is removed through the mouth with a small procedure."
+    - name: "Noticeable or thick scar"
+      text: "Depending on individual tendency, the scar may thicken or remain noticeable; scar treatments can be used."
+    - name: "Hollowing under the jaw"
+      text: "A slight hollow where the gland was and a difference between the two sides may develop; it is usually not noticeable."
+  rare:
+    - name: "Permanent weakness of the lower lip"
+      text: "In **about 1–3 in 100** patients or fewer, permanent reduced movement of the lower lip on that side and an asymmetric smile may remain. If noticeable, treatments such as botulinum toxin to balance the other side can be used."
+    - name: "Weakness of tongue movement"
+      text: "Injury to the nerve that moves the tongue (hypoglossal nerve) is **very rare**. If it occurs, there may be weakness of that side of the tongue and difficulty with speech and swallowing; in case of permanent damage, speech and swallowing therapy may be needed."
+    - name: "Large neck haematoma affecting the airway"
+      text: "Very rarely, a rapidly enlarging collection of blood can press on the neck and cause difficulty swallowing or **breathing**. This is an emergency: it must be drained in the operating theatre immediately, and rarely the airway may need to be secured (intubation or tracheostomy)."
+    - name: "Final pathology different from the preliminary diagnosis"
+      text: "Even in a gland thought to have stones or infection, the final pathology may show an unexpected tumour. If a malignant tumour is found, further treatment such as removal of the neck lymph nodes or radiotherapy may be needed."
+    - name: "Dry mouth"
+      text: "Removal of one gland goes unnoticed in most patients; however, a dry mouth may become noticeable in patients who have had radiotherapy, have certain rheumatic diseases or take medicines that cause a dry mouth."
+
+emergency:
+  - "**Rapidly increasing swelling of the neck**, especially with **difficulty breathing or swallowing** (emergency — call 112 immediately)"
+  - "**Bleeding that does not stop** from the drain or wound"
+  - "**Fever above 38.5 °C**, increasing redness, pain, warmth or pus from the wound"
+  - "Marked swelling of the tongue or floor of the mouth"
+  - "**New, marked difficulty** with speaking or swallowing"
+
+lifestyle:
+  - "Keep the wound dry for the first 48 hours; after that you may take a short shower as instructed."
+  - "In the first few days choose soft, lukewarm foods; pay attention to oral hygiene and drink plenty of fluids."
+  - "Protect the scar from the sun for at least 6 months (high-factor sunscreen)."
+  - "Make sure to discuss the pathology result and the follow-up plan with your doctor."
+
+declarations_extra:
+  - "I understand that the definitive diagnosis will be made by pathology after surgery and that further treatment may be needed depending on the result."

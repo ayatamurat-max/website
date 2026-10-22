@@ -1,0 +1,120 @@
+code: "08"
+type: surgical
+aesthetic: false
+title: "Exérèse de la glande sous-mandibulaire"
+alt_name: "Ablation de la glande salivaire située sous la mâchoire"
+
+specific_fields:
+  - label: "Côté :"
+    options: ["Droit", "Gauche"]
+    blank: false
+  - label: "Motif de l'intervention :"
+    options: ["Calcul salivaire / infections à répétition", "Grosseur dans la glande", "Autre"]
+  - label: "Monitorage nerveux :"
+    options: ["Sera utilisé", "Ne sera pas utilisé"]
+    blank: false
+  - label: "Résultat de l'imagerie / de la biopsie :"
+
+about:
+  - "La glande sous-mandibulaire est une glande salivaire située juste sous la mâchoire inférieure, de chaque côté, qui libère de la salive dans la bouche. Elle produit une part importante de la salive ; toutefois, comme la glande du côté opposé ainsi que les glandes salivaires situées devant les oreilles et sous la langue continuent de fonctionner, **l'ablation d'une seule glande ne provoque pas de sécheresse de la bouche chez la plupart des patients**."
+  - "Cette intervention est le plus souvent réalisée en raison de **calculs des glandes salivaires** et des **gonflements et infections à répétition** qu'ils provoquent. Un calcul bloque l'écoulement de la salive vers la bouche, ce qui entraîne un gonflement douloureux sous la mâchoire pendant les repas et des infections répétées. Moins souvent, une **grosseur (tumeur)** dans la glande nécessite une intervention. La proportion de tumeurs malignes est plus élevée parmi les grosseurs de la glande sous-mandibulaire que parmi celles de la parotide ; il est donc important de retirer la glande et de l'examiner au microscope pour établir un diagnostic définitif."
+  - "Trois nerfs passent à proximité de la glande : la branche nerveuse qui fait bouger la lèvre inférieure, le nerf qui assure la sensibilité de la langue et le nerf qui fait bouger la langue. Le but de l'intervention est d'enlever complètement la glande tout en préservant ces nerfs."
+
+procedure_intro:
+  - "L'intervention est réalisée sous anesthésie générale, au bloc opératoire."
+procedure_steps:
+  - "**Incision :** Une incision, généralement de 4 à 6 cm de long, est pratiquée environ 2 à 3 cm sous l'os de la mâchoire, parallèlement à un pli naturel de la peau du cou. Placer l'incision suffisamment bas sous la mâchoire aide à protéger la branche nerveuse qui fait bouger la lèvre inférieure."
+  - "**Protection des nerfs :** La fine couche musculaire située sous la peau (platysma) est ouverte. La branche nerveuse qui fait bouger la lèvre inférieure (rameau marginal de la mandibule) est protégée, soit en la visualisant, soit en restant dans un plan tissulaire sûr."
+  - "**Ablation de la glande :** La glande est séparée des tissus environnants et les vaisseaux qui l'irriguent sont ligaturés. Le canal salivaire est séparé avec précaution du nerf qui assure la sensibilité de la langue (nerf lingual), puis ligaturé et sectionné. Le nerf qui fait bouger la langue (nerf hypoglosse) est préservé. S'il y a un calcul dans le canal, la partie éloignée du canal est également retirée autant que possible."
+  - "**Examen anatomopathologique :** La glande retirée est envoyée au laboratoire d'anatomopathologie ; le résultat est généralement disponible dans un délai de 1 à 2 semaines."
+  - "**Fermeture :** Le saignement est contrôlé, un fin **drain** est généralement mis en place et la peau est refermée par des points esthétiques."
+procedure_notes:
+  - "S'il y a un calcul dans la bouche, près de l'endroit où le canal s'ouvre, il peut parfois aussi être retiré séparément par voie endobuccale (par l'intérieur de la bouche). Cela sera discuté avec vous avant l'intervention."
+anesthesia: "Anesthésie générale"
+duration: "Environ 1 à 2 heures"
+stay: "Généralement 1 nuit ; sortie après le retrait du drain"
+
+benefits:
+  - "Fin des gonflements douloureux et des infections à répétition dus aux calculs"
+  - "Plus besoin de cures d'antibiotiques répétées"
+  - "Ablation d'une grosseur de la glande et diagnostic définitif"
+success:
+  - "Après une intervention pour calculs et infection chronique, les symptômes disparaissent complètement chez **plus de 90 %** des patients. Si un calcul reste ou se reforme dans la partie du canal laissée dans la bouche, un gonflement du plancher buccal peut rarement persister. Pour les grosseurs bénignes, l'intervention permet généralement une guérison définitive ; les tumeurs malignes peuvent nécessiter un traitement complémentaire."
+
+alternatives:
+  - "**Traitement médical et mesures de soutien :** Boissons abondantes, aliments acides pour stimuler la salivation, massages, compresses chaudes et antibiotiques pendant les infections. Cela peut soulager les symptômes mais ne supprime pas le calcul."
+  - "**Extraction du calcul par la bouche :** Les calculs situés dans la partie du canal proche de la bouche et palpables peuvent être retirés par une petite incision à l'intérieur de la bouche, en conservant la glande."
+  - "**Endoscopie des canaux salivaires (sialendoscopie) :** Les calculs de taille et de position adaptées peuvent être retirés de l'intérieur du canal à l'aide d'un fin endoscope ; cette technique n'est pas disponible dans tous les centres et ne convient pas à tous les calculs."
+  - "**Surveillance :** Pour les petites grosseurs considérées comme bénignes, une surveillance peut rarement être envisagée ; toutefois, pour cette glande, une intervention est généralement recommandée afin d'établir un diagnostic définitif."
+
+no_treatment:
+  - "Sans intervention, les gonflements et les infections dus aux calculs peuvent continuer à se répéter ; rarement, un abcès (collection de pus) peut se former autour de la glande et nécessiter un traitement en urgence. En cas de grosseur dans la glande, aucun diagnostic définitif ne peut être posé ; une tumeur maligne non traitée peut progresser."
+
+before:
+  - "Avant l'intervention, des analyses de sang et une imagerie (échographie et, si nécessaire, scanner/IRM) sont réalisées ; vous serez examiné(e) par le médecin anesthésiste."
+  - "Vous ne devez ni manger ni boire pendant les **6 à 8 heures** précédant l'intervention (veuillez suivre les consignes du médecin anesthésiste)."
+  - "Si la glande est le siège d'une infection active, l'intervention est généralement programmée une fois l'infection traitée."
+  - "Chez les hommes, la barbe dans la zone d'incision peut être raccourcie le jour de l'intervention."
+
+recovery:
+  - when: "Premières 24 à 48 heures"
+    what: "Vous ressentirez une douleur légère à modérée, une sensation de tiraillement et un gonflement sous la mâchoire, soulagés par des antalgiques. Avaler peut être légèrement inconfortable. Le drain est généralement retiré le 1er jour. Il est recommandé de dormir la tête surélevée. Vous pouvez commencer à manger des aliments mous immédiatement."
+  - when: "1re semaine"
+    what: "Vous pouvez reprendre vos activités quotidiennes. Les points sont généralement retirés **entre le 5e et le 7e jour**. Un engourdissement au-dessus de l'incision, le long de la mâchoire et autour de l'incision est normal. Le résultat de l'anatomopathologie vous sera communiqué pendant cette période ou peu après."
+  - when: "2e à 4e semaine"
+    what: "La plupart des personnes reprennent un travail de bureau en 1 semaine. Le sport intense et le port de charges lourdes doivent être reportés d'environ **2 semaines**. L'induration et le léger gonflement au niveau de l'incision diminuent progressivement."
+  - when: "2e à 6e mois"
+    what: "La cicatrice s'estompe progressivement et devient souvent peu visible dans le pli du cou. Une éventuelle faiblesse nerveuse ou diminution de sensibilité temporaire récupère généralement au cours de cette période."
+
+risks:
+  expected:
+    - "Douleur, tiraillement et gonflement sous la mâchoire ; léger inconfort en avalant"
+    - "Engourdissement de la peau autour et en dessous de l'incision"
+    - "Une cicatrice dans le cou (s'estompe avec le temps)"
+  common:
+    - name: "Faiblesse temporaire de la lèvre inférieure"
+      text: "En raison de l'étirement, pendant l'intervention, de la branche nerveuse qui abaisse la lèvre inférieure (rameau marginal de la mandibule), environ **10 à 20 patients sur 100** présentent une légère asymétrie de la lèvre inférieure de ce côté en souriant ou en parlant. Il s'agit d'un problème esthétique, qui n'affecte généralement pas le fait de manger ou de boire et qui, le plus souvent, **s'améliore en quelques semaines à quelques mois**."
+    - name: "Induration et engourdissement au niveau de l'incision"
+      text: "Une induration et une diminution de la sensibilité sous l'incision sont fréquentes au cours des premières semaines et diminuent au fil des mois."
+  uncommon:
+    - name: "Saignement et hématome"
+      text: "Chez environ **1 à 3 patients sur 100**, du sang peut s'accumuler sous la peau. S'il est important, il peut être nécessaire de l'évacuer et d'arrêter le saignement au bloc opératoire."
+    - name: "Infection de la plaie"
+      text: "Peut survenir chez **1 à 3 patients sur 100**, en particulier si la glande était infectée ; elle guérit généralement avec des antibiotiques et, rarement, un drainage est nécessaire."
+    - name: "Diminution de la sensibilité d'un côté de la langue"
+      text: "En raison d'une atteinte du nerf qui assure la sensibilité de la langue (nerf lingual), un engourdissement ou des fourmillements de ce côté de la langue surviennent chez environ **1 à 3 patients sur 100**. Ils sont le plus souvent temporaires ; rarement, ils peuvent être permanents et peuvent aussi affecter le goût."
+    - name: "Accumulation de liquide (sérome)"
+      text: "Liquide s'accumulant sous l'incision ; se résorbe généralement grâce à une ponction à l'aiguille et un pansement compressif."
+    - name: "Calcul restant dans le canal"
+      text: "Un calcul peut rester ou se reformer dans la partie du canal salivaire laissée dans la bouche et provoquer un gonflement ou une infection du plancher buccal. Si nécessaire, il est retiré par la bouche au moyen d'un petit geste."
+    - name: "Cicatrice visible ou épaisse"
+      text: "Selon la prédisposition de chacun, la cicatrice peut s'épaissir ou rester visible ; des traitements des cicatrices peuvent être utilisés."
+    - name: "Creux sous la mâchoire"
+      text: "Un léger creux à l'emplacement de la glande et une différence entre les deux côtés peuvent apparaître ; ils ne sont généralement pas visibles."
+  rare:
+    - name: "Faiblesse permanente de la lèvre inférieure"
+      text: "Chez **environ 1 à 3 patients sur 100** ou moins, une diminution permanente de la mobilité de la lèvre inférieure de ce côté et un sourire asymétrique peuvent persister. Si cela est visible, des traitements tels que la toxine botulique pour équilibrer l'autre côté peuvent être utilisés."
+    - name: "Faiblesse des mouvements de la langue"
+      text: "Une lésion du nerf qui fait bouger la langue (nerf hypoglosse) est **très rare**. Si elle survient, il peut y avoir une faiblesse de ce côté de la langue et des difficultés pour parler et avaler ; en cas d'atteinte permanente, une rééducation de la parole et de la déglutition peut être nécessaire."
+    - name: "Hématome important du cou affectant les voies respiratoires"
+      text: "Très rarement, une accumulation de sang qui augmente rapidement peut comprimer le cou et provoquer des difficultés à avaler ou à **respirer**. Il s'agit d'une urgence : l'hématome doit être évacué immédiatement au bloc opératoire et, rarement, il peut être nécessaire de sécuriser les voies respiratoires (intubation ou trachéotomie)."
+    - name: "Résultat anatomopathologique définitif différent du diagnostic préliminaire"
+      text: "Même dans une glande que l'on pense atteinte de calculs ou d'infection, l'examen anatomopathologique définitif peut révéler une tumeur inattendue. Si une tumeur maligne est découverte, des traitements complémentaires tels que l'ablation des ganglions lymphatiques du cou ou une radiothérapie peuvent être nécessaires."
+    - name: "Sécheresse de la bouche"
+      text: "L'ablation d'une seule glande passe inaperçue chez la plupart des patients ; toutefois, une sécheresse de la bouche peut devenir perceptible chez les patients ayant reçu une radiothérapie, atteints de certaines maladies rhumatismales ou prenant des médicaments qui assèchent la bouche."
+
+emergency:
+  - "**Gonflement du cou qui augmente rapidement**, surtout s'il s'accompagne de **difficultés à respirer ou à avaler** (urgence — appelez immédiatement le 112)"
+  - "**Saignement qui ne s'arrête pas** au niveau du drain ou de la plaie"
+  - "**Fièvre supérieure à 38,5 °C**, rougeur, douleur ou chaleur croissante, ou écoulement de pus au niveau de la plaie"
+  - "Gonflement marqué de la langue ou du plancher buccal"
+  - "**Difficulté nouvelle et marquée** pour parler ou avaler"
+
+lifestyle:
+  - "Gardez la plaie au sec pendant les 48 premières heures ; ensuite, vous pouvez prendre une courte douche selon les consignes qui vous ont été données."
+  - "Les premiers jours, privilégiez des aliments mous et tièdes ; veillez à votre hygiène bucco-dentaire et buvez abondamment."
+  - "Protégez la cicatrice du soleil pendant au moins 6 mois (crème solaire à indice de protection élevé)."
+  - "Veillez à discuter du résultat anatomopathologique et du plan de suivi avec votre médecin."
+
+declarations_extra:
+  - "Je comprends que le diagnostic définitif sera posé par l'examen anatomopathologique après l'intervention et qu'un traitement complémentaire pourra être nécessaire en fonction du résultat."

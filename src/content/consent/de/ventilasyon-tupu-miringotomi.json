@@ -1,0 +1,155 @@
+{
+ "code": "06",
+ "type": "surgical",
+ "aesthetic": false,
+ "title": "Paukenröhrchen-Einlage / Parazentese",
+ "alt_name": "Einsetzen von Paukenröhrchen in das Trommelfell / Eröffnung des Trommelfells zum Absaugen von Flüssigkeit",
+ "about": [
+  "Das Mittelohr ist ein kleiner Raum hinter dem Trommelfell, der normalerweise mit Luft gefüllt ist. Es wird über die **Ohrtrompete (Tuba Eustachii)** belüftet, die in den hinteren Nasenraum mündet. Funktioniert die Ohrtrompete nicht gut (besonders bei Kindern, etwa wegen einer vergrößerten Rachenmandel, einer Allergie oder häufiger Erkältungen), **sammelt sich Flüssigkeit** im Mittelohr an („Paukenerguss“).",
+  "Diese Flüssigkeit kann zu **Schwerhörigkeit**, bei Kindern zu einer **verzögerten Sprech- und Sprachentwicklung**, zu Aufmerksamkeitsproblemen, Gleichgewichtsstörungen und **wiederholten Mittelohrentzündungen** führen. Bleibt die Flüssigkeit lange bestehen, kann das Trommelfell dünn werden, sich einziehen und sich dauerhaft verändern. Ähnliche Probleme können auch bei Erwachsenen auftreten, zum Beispiel durch Druckprobleme nach Flügen oder Tauchgängen oder wegen Erkrankungen im hinteren Nasenraum.",
+  "Ziel dieses Eingriffs ist es, eine kleine Öffnung im Trommelfell anzulegen, um die Flüssigkeit abzulassen, und mit einem darin eingesetzten kleinen Röhrchen die Belüftung des Mittelohrs aufrechtzuerhalten – **um das Hören zu verbessern und die Häufigkeit von Entzündungen zu verringern.**"
+ ],
+ "procedure_intro": [
+  "Bei Kindern wird der Eingriff in der Regel in einer kurzen Vollnarkose durchgeführt, bei Erwachsenen meist in örtlicher Betäubung. Er erfolgt durch den Gehörgang unter dem Mikroskop; **es gibt keine Schnitte oder Narben von außen.**"
+ ],
+ "procedure_steps": [
+  "**Reinigung des Gehörgangs:** Unter dem Mikroskop wird eventuell vorhandenes Ohrenschmalz aus dem Gehörgang entfernt und das Trommelfell untersucht.",
+  "**Parazentese:** In einen Bereich des Trommelfells, in dem das Hören nicht beeinträchtigt wird, wird ein kleiner Schnitt von etwa 1–2 mm gesetzt.",
+  "**Absaugen der Flüssigkeit:** Die Flüssigkeit im Mittelohr (sie kann klar, zäh oder eitrig sein) wird mit einem feinen Sauger entfernt. Bei Bedarf kann eine Probe für eine Kultur (Erregernachweis) entnommen werden.",
+  "**Einsetzen des Röhrchens:** Ein winziges, garnrollenförmiges Röhrchen von wenigen Millimetern Größe wird in die Öffnung eingesetzt. Dieses Röhrchen übernimmt vorübergehend die Aufgabe der Ohrtrompete und hält das Mittelohr belüftet.",
+  "**Abschluss:** Bei Bedarf werden Ohrentropfen gegeben. In der Regel wird keine Tamponade in das Ohr gelegt, allenfalls ein kleines Stück Watte."
+ ],
+ "procedure_notes": [
+  "**Kurzzeit-Röhrchen** werden in der Regel innerhalb von **6–18 Monaten** im Zuge der Heilung des Trommelfells von selbst abgestoßen und fallen in den Gehörgang; dies bleibt oft unbemerkt. **Langzeit-Röhrchen** verbleiben länger und müssen manchmal in einem gesonderten Eingriff entfernt werden.",
+  "Wird nur eine Parazentese durchgeführt (ohne Röhrchen), schließt sich die Öffnung im Trommelfell innerhalb weniger Tage, und es kann sich erneut Flüssigkeit ansammeln."
+ ],
+ "anesthesia": "Bei Kindern Vollnarkose; bei Erwachsenen meist örtliche Betäubung",
+ "duration": "Etwa 10–20 Minuten für beide Ohren",
+ "stay": "In der Regel Entlassung am selben Tag",
+ "benefits": [
+  "Das Hören verbessert sich meist sofort oder innerhalb kurzer Zeit",
+  "Bei Kindern ein positiver Einfluss auf Sprechen, Sprachentwicklung, Aufmerksamkeit und Schulleistungen",
+  "Weniger und mildere Mittelohrentzündungen; tritt doch eine Entzündung auf, kann sie meist mit Ohrentropfen statt mit Antibiotika zum Einnehmen behandelt werden",
+  "Geringeres Risiko bleibender Schäden am Trommelfell; Linderung von Druck- und Völlegefühl im Ohr"
+ ],
+ "success": [
+  "Solange das Röhrchen sitzt und durchgängig ist, verbessert sich bei der großen Mehrzahl der Patientinnen und Patienten das Hören, und Mittelohrentzündungen werden seltener. Ist die Ohrtrompete bis zum Herausfallen des Röhrchens ausreichend ausgereift, kehrt die Flüssigkeit meist nicht zurück. Bei manchen Kindern (etwa **20–30 von 100**) sammelt sich jedoch erneut Flüssigkeit an, und **weitere Röhrchen** können notwendig werden."
+ ],
+ "alternatives": [
+  "**Abwartendes Beobachten:** Bei vielen Kindern verschwindet die Flüssigkeit im Mittelohr innerhalb von 3 Monaten von selbst. Ist die Schwerhörigkeit gering und bestehen keine Risikofaktoren, ist eine Beobachtung mit regelmäßigen Hörtests möglich.",
+  "**Autoinflation:** Besonders bei älteren Kindern kann das Aufblasen eines speziellen Ballons über die Nase helfen, die Ohrtrompete zu öffnen.",
+  "**Hörgeräte:** Für Patientinnen und Patienten, die keine Operation wünschen oder für die sie nicht geeignet ist, können sie eine vorübergehende Lösung sein, solange die Flüssigkeit besteht.",
+  "**Medikamente:** Eine Allergie oder eine Erkrankung von Nase und Nasennebenhöhlen wird, falls vorhanden, behandelt; es gibt jedoch nur begrenzte Belege dafür, dass Antibiotika, Kortison oder Nasensprays die Flüssigkeit im Mittelohr dauerhaft beseitigen.",
+  "**Adenotomie:** Kann bei geeigneten Kindern zusammen mit den Röhrchen oder dann empfohlen werden, wenn weitere Röhrchen notwendig werden."
+ ],
+ "no_treatment": [
+  "Ohne den Eingriff kann die Flüssigkeit bei manchen Patientinnen und Patienten von selbst verschwinden; bleibt sie jedoch bestehen, können Schwerhörigkeit, bei Kindern eine verzögerte Sprech- und Sprachentwicklung, Aufmerksamkeits- und Schulprobleme, Gleichgewichtsstörungen und wiederholte Mittelohrentzündungen fortbestehen. Eine lange bestehende Flüssigkeitsansammlung kann zu einer Einziehung des Trommelfells (Retraktion), bleibenden Trommelfellveränderungen, Schäden an den Gehörknöchelchen und selten zu schwereren, operationsbedürftigen Ohrerkrankungen wie einem **Cholesteatom** führen."
+ ],
+ "before": [
+  "Vor dem Eingriff werden ein Hörtest (Audiometrie) und eine Messung des Mittelohrdrucks (Tympanometrie) durchgeführt.",
+  "Ist eine Vollnarkose geplant, werden Sie vom Narkosearzt untersucht; **6 Stunden** vor der Operation dürfen keine feste Nahrung und keine Milch gegeben werden, und für klare Flüssigkeiten gilt die vom Narkosearzt angegebene Zeit.",
+  "Bitte teilen Sie uns Fieber, Husten oder eine Grippe in den 2 Wochen vor dem Eingriff mit; er kann dann verschoben werden.",
+  "Bestehen Ohrenausfluss oder eine akute Entzündung, müssen diese möglicherweise vor dem Eingriff behandelt werden."
+ ],
+ "recovery": [
+  {
+   "when": "Tag des Eingriffs",
+   "what": "Die meisten Patientinnen und Patienten gehen innerhalb weniger Stunden nach Hause. Leichte Ohrenschmerzen oder ein Druckgefühl können auftreten und klingen mit einfachen Schmerzmitteln ab. Einige Tage lang kann leicht blutige oder wässrige Flüssigkeit aus dem Ohr austreten. Die meisten Patientinnen und Patienten **hören Geräusche sofort lauter**; dies kann anfangs unangenehm sein."
+  },
+  {
+   "when": "Erste Woche",
+   "what": "Falls Ihr Arzt es empfohlen hat, werden Ohrentropfen angewendet. Kinder können innerhalb von 1–2 Tagen wieder in die Schule oder den Kindergarten gehen, Erwachsene wieder arbeiten. Achten Sie darauf, dass kein Wasser in die Ohren gelangt."
+  },
+  {
+   "when": "4.–8. Woche",
+   "what": "Es erfolgt die erste Kontrolluntersuchung; wir prüfen, ob das Röhrchen richtig sitzt und durchgängig ist, und der Hörtest wird wiederholt."
+  },
+  {
+   "when": "Solange das Röhrchen liegt (6–18 Monate)",
+   "what": "Kontrollen werden etwa **alle 3–6 Monate** empfohlen. Eine Mittelohrentzündung zeigt sich durch Ausfluss und wird meist mit Ohrentropfen behandelt. Fliegen ist mit liegendem Röhrchen in der Regel angenehmer."
+  },
+  {
+   "when": "Nach dem Herausfallen des Röhrchens",
+   "what": "Das Trommelfell wird kontrolliert, um sicherzustellen, dass sich das Loch geschlossen hat und keine Flüssigkeit im Mittelohr ist; es wird ein Hörtest durchgeführt."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Leichte Ohrenschmerzen und Druckgefühl (1–2 Tage)",
+   "Einige Tage lang leicht blutige oder wässrige Absonderung aus dem Ohr",
+   "Geräusche erscheinen vorübergehend sehr laut oder hallend",
+   "Vorübergehende Übelkeit oder Unruhe nach einer Vollnarkose"
+  ],
+  "common": [
+   {
+    "name": "Ohrenausfluss (Otorrhö)",
+    "text": "Etwa **10–25 von 100** Patientinnen und Patienten mit Röhrchen haben mindestens einmal Ohrenausfluss, meist nach einer Erkältung oder wenn Wasser ins Ohr gelangt ist. Er klingt meist innerhalb weniger Tage mit antibiotischen Ohrentropfen ab. Selten kann der Ausfluss hartnäckig sein und Medikamente zum Einnehmen, eine Reinigung des Ohres oder die Entfernung des Röhrchens erfordern."
+   },
+   {
+    "name": "Weiße Flecken auf dem Trommelfell (Tympanosklerose)",
+    "text": "Kalkartige weiße Flecken auf dem Trommelfell sind häufig (etwa **10–30+ von 100** Ohren). In den meisten Fällen beeinträchtigen sie das Hören nicht."
+   },
+   {
+    "name": "Vorzeitiges Herausfallen oder Verstopfen des Röhrchens",
+    "text": "Das Röhrchen kann früher als erwartet herausfallen oder durch eingetrocknetes Blut oder Sekret verstopfen. Es wird versucht, es mit Tropfen wieder durchgängig zu machen; falls nötig, wird das Röhrchen ersetzt."
+   },
+   {
+    "name": "Notwendigkeit weiterer Röhrchen",
+    "text": "Sammelt sich nach dem Herausfallen des Röhrchens erneut Flüssigkeit an, benötigen etwa **20–30 von 100** Kindern ein zweites Paar Röhrchen (manchmal zusammen mit einer Entfernung der Rachenmandel)."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Bleibendes Loch im Trommelfell (Perforation)",
+    "text": "Nach dem Herausfallen des Röhrchens kann sich das Loch im Trommelfell nicht schließen: bei Kurzzeit-Röhrchen bei etwa **1–3 von 100** Patientinnen und Patienten, bei Langzeit-Röhrchen häufiger (bei etwa **10–20 von 100**). Kleine Löcher verursachen oft keine Beschwerden; führen sie zu wiederkehrendem Ausfluss oder Schwerhörigkeit, kann **ein Verschluss durch eine gesonderte Operation (Tympanoplastik/Myringoplastik)** notwendig werden."
+   },
+   {
+    "name": "Ausdünnung oder Einziehung des Trommelfells",
+    "text": "Das Trommelfell kann an der Stelle, an der das Röhrchen saß, dünn werden oder sich nach innen einziehen; Kontrollen können notwendig sein."
+   },
+   {
+    "name": "Röhrchen fällt nicht heraus",
+    "text": "Fällt das Röhrchen nicht in der erwarteten Zeit heraus (meist, wenn es länger als 2–3 Jahre liegt), muss es möglicherweise in einem kurzen Eingriff entfernt werden; bei Kindern geschieht dies in der Regel in Vollnarkose."
+   },
+   {
+    "name": "Gewebewucherung im Gehörgang (Granulation)",
+    "text": "Um das Röhrchen kann sich rotes, entzündetes Gewebe bilden; es kann blutigen Ausfluss verursachen und wird mit Tropfen oder einem kleinen Eingriff behandelt."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Röhrchen gelangt ins Mittelohr",
+    "text": "Sehr selten kann das Röhrchen, statt herauszufallen, hinter das Trommelfell ins Mittelohr rutschen; zur Entfernung kann ein gesonderter Eingriff notwendig sein."
+   },
+   {
+    "name": "Cholesteatom",
+    "text": "Eine zystenartige Erkrankung, die entsteht, wenn die Hautschicht des Trommelfells in das Mittelohr hineinwächst. Sie steht **sehr selten** im Zusammenhang mit einer Röhrcheneinlage. Tritt sie auf, ist eine operative Behandlung erforderlich."
+   },
+   {
+    "name": "Hörverlust, Ohrgeräusche (Tinnitus) oder Schwindel",
+    "text": "Ein bleibender Hörverlust, Tinnitus oder Schwindel durch eine Beteiligung des Innenohrs oder der Gehörknöchelchen ist **äußerst selten**."
+   },
+   {
+    "name": "Verletzung des Gehörgangs und Blutung",
+    "text": "In engen Gehörgängen können kleine Verletzungen auftreten; sehr selten wurden schwere Verletzungen im Zusammenhang mit anatomischen Varianten des Gesichtsnervs, des Innenohrs oder großer Blutgefäße berichtet."
+   }
+  ]
+ },
+ "emergency": [
+  "Starker oder übel riechender Ohrenausfluss, der trotz Tropfen **länger als 3–5 Tage** anhält",
+  "**Fieber über 38,5 °C**, starke Ohrenschmerzen",
+  "Rötung oder Schwellung hinter dem Ohr oder ein nach vorne abstehendes Ohr",
+  "**Plötzlicher Hörverlust**, starker Schwindel, Gangunsicherheit oder Erbrechen",
+  "Asymmetrie des Gesichts, herabhängender Mundwinkel oder Unfähigkeit, das Auge zu schließen",
+  "Starke Blutung aus dem Ohr"
+ ],
+ "lifestyle": [
+  "Solange das Röhrchen liegt, **vermeiden Sie, dass verschmutztes Wasser (Seen, Meer, Schwimmbad, Badewasser) ins Ohr gelangt.** Beim Duschen und Baden können mit Vaseline getränkte Watte oder Ohrstöpsel verwendet werden. Befolgen Sie beim Schwimmen den Rat Ihres Arztes; Schwimmen an der Wasseroberfläche mit Ohrstöpseln und/oder Badekappe ist in der Regel erlaubt, Tauchen wird jedoch nicht empfohlen.",
+  "Reinigen Sie den Gehörgang nicht von innen mit Wattestäbchen.",
+  "Tritt Ohrenausfluss auf, wischen Sie ihn von außen vorsichtig ab, verwenden Sie die Ihnen empfohlenen Tropfen und informieren Sie Ihren Arzt. Verwenden Sie keine anderen Ohrentropfen eigenmächtig; manche Tropfen sind für das Mittelohr nicht geeignet.",
+  "Nehmen Sie die Kontrolltermine auch nach dem Herausfallen des Röhrchens weiterhin wahr; es ist wichtig, das Hören und den Zustand des Trommelfells zu überwachen."
+ ],
+ "declarations_extra": [
+  "Mir ist bewusst, dass das Röhrchen nach einer gewissen Zeit von selbst herausfällt, dass weitere Röhrchen notwendig werden können, wenn sich erneut Flüssigkeit ansammelt, und dass, falls ein bleibendes Loch im Trommelfell zurückbleibt, eine gesonderte Operation zu dessen Verschluss notwendig werden kann."
+ ]
+}

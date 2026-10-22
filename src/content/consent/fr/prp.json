@@ -1,0 +1,149 @@
+{
+ "code": "17",
+ "type": "office",
+ "aesthetic": true,
+ "title": "Traitement par PRP (plasma riche en plaquettes)",
+ "alt_name": "Injection dans la peau ou le cuir chevelu d'un plasma préparé à partir de votre propre sang",
+ "about": [
+  "Le PRP (Platelet-Rich Plasma, ou plasma riche en plaquettes) est un plasma préparé **à partir de votre propre sang** et enrichi en plaquettes. Les plaquettes contiennent des facteurs de croissance naturels qui jouent un rôle dans la réparation des tissus.",
+  "Le PRP est utilisé pour améliorer la qualité, l'éclat et l'élasticité de la peau, pour atténuer l'aspect des ridules et des cernes d'aspect fatigué, pour contribuer à l'amélioration des cicatrices d'acné, ou pour soutenir les follicules pileux en cas de **chute de cheveux**. Comme il est préparé à partir de votre propre sang, une allergie au produit lui-même ou un rejet par l'organisme ne sont pas attendus."
+ ],
+ "procedure_intro": [
+  "Le traitement est réalisé dans notre cabinet, dans des conditions stériles, à l'aide de **kits à usage unique en système clos**. Le nom et le numéro de LOT du kit sont consignés dans votre dossier."
+ ],
+ "procedure_steps": [
+  "**Prélèvement sanguin :** généralement 10–30 mL de sang sont prélevés dans une veine du bras, comme pour une prise de sang habituelle.",
+  "**Préparation :** le sang est séparé par centrifugation dans un tube spécial contenant un anticoagulant, et la fraction de plasma riche en plaquettes est recueillie dans des conditions stériles. À chaque étape, on vérifie que les tubes sont bien les vôtres.",
+  "**Préparation de la zone :** la zone à traiter est nettoyée avec un antiseptique ; une crème anesthésiante peut être appliquée si vous le souhaitez.",
+  "**Traitement :** le plasma est injecté dans la peau ou le cuir chevelu en de nombreux petits points à l'aide d'une aiguille fine ou d'une canule, ou parfois étalé sur la peau en association avec un microneedling.",
+  "**Fin du soin :** la zone est nettoyée, une compresse froide est appliquée si nécessaire et des conseils de soins vous sont donnés."
+ ],
+ "procedure_notes": [
+  "Une cure de **3–4 séances, espacées de 4–6 semaines**, est généralement recommandée, suivie de séances d'entretien tous les 4–6 mois."
+ ],
+ "anesthesia": "Crème anesthésiante (facultative)",
+ "duration": "Environ 45–60 minutes (préparation comprise)",
+ "stay": "Le jour même ; courte surveillance après le traitement",
+ "benefits": [
+  "Une peau d'aspect plus frais, plus lumineux et plus ferme, avec des ridules moins visibles",
+  "Des cernes moins foncés et un aspect moins fatigué sous les yeux",
+  "En cas de chute de cheveux, une aide pour réduire la chute et augmenter l'épaisseur des cheveux",
+  "Aucune allergie au plasma lui-même n'est attendue, puisque votre propre sang est utilisé"
+ ],
+ "success": [
+  "Les résultats varient d'une personne à l'autre. Les preuves scientifiques diffèrent selon l'objectif : de nombreuses études rapportent des résultats positifs dans la **chute de cheveux androgénétique (héréditaire)**, tandis que les données concernant le rajeunissement cutané sont plus limitées. Les techniques et les kits diffèrent également. L'effet apparaît progressivement et n'est pas permanent ; aucun résultat précis ne peut être garanti."
+ ],
+ "alternatives": [
+  "**Absence de traitement**, ou poursuite de soins réguliers de la peau et d'une protection solaire",
+  "**En cas de chute de cheveux :** recherche d'une cause sous-jacente (fer, thyroïde, hormones) ; médicaments tels que le minoxidil sur avis médical ; mésothérapie du cuir chevelu ; greffe de cheveux dans les cas avancés",
+  "**Pour la peau :** produits topiques, mésothérapie, traitements à l'acide hyaluronique visant la qualité de la peau, peelings chimiques, laser ou microneedling"
+ ],
+ "no_treatment": [
+  "Si le PRP n'est pas réalisé, votre peau ou vos cheveux poursuivront leur évolution naturelle. Selon sa cause, la chute de cheveux peut progresser ; d'autres options de traitement peuvent toujours être envisagées. Le fait de ne pas réaliser de PRP ne comporte aucun risque pour votre santé."
+ ],
+ "before": [
+  "**Situations dans lesquelles le PRP n'est pas réalisé :** nombre de plaquettes bas ou dysfonctionnement plaquettaire, troubles de la coagulation ou maladies hémorragiques, anémie importante, infection active ou fièvre, traitement anticancéreux en cours ou antécédent de cancer du sang au cours des dernières années, grossesse et allaitement. Veuillez nous signaler si l'une de ces situations vous concerne.",
+  "Si vous prenez des anticoagulants ou antiagrégants (warfarine, rivaroxaban, apixaban, clopidogrel, etc.), informez-en votre médecin avant le traitement ; **n'arrêtez pas ces médicaments de vous-même**.",
+  "Si possible, arrêtez l'aspirine et les anti-inflammatoires (ibuprofène, naproxène, etc.) 1 semaine avant le traitement, après en avoir parlé avec votre médecin ; ces médicaments peuvent diminuer la fonction des plaquettes.",
+  "Signalez-nous si vous avez pris des corticoïdes (cortisone) en comprimés ou en injections au cours des 2–3 dernières semaines ; ils peuvent diminuer l'effet du PRP et le traitement peut devoir être reporté.",
+  "Le jour du traitement, buvez beaucoup d'eau et prenez un repas léger ; venir à jeun augmente le risque d'étourdissement.",
+  "Pour un traitement du cuir chevelu, lavez-vous les cheveux la veille ou le matin du traitement et n'utilisez ni gel, ni laque, ni produits similaires."
+ ],
+ "recovery": [
+  {
+   "when": "Premières heures",
+   "what": "Une rougeur, un léger gonflement, une sensation de tension et de petites élevures aux points de piqûre apparaissent dans la zone traitée. Le point de prélèvement sanguin peut être légèrement sensible."
+  },
+  {
+   "when": "Premières 24 heures",
+   "what": "Ne vous maquillez pas ; évitez le sauna, le hammam, les cabines de bronzage (UV), le sport intense et l'exposition directe au soleil. Après un traitement du cuir chevelu, attendez au moins le lendemain pour vous laver les cheveux."
+  },
+  {
+   "when": "Jours 2–7",
+   "what": "La rougeur et le gonflement disparaissent. Si des ecchymoses **apparaissent** (en particulier sous les yeux), elles s'estompent en 3–7 jours."
+  },
+  {
+   "when": "Pendant la cure",
+   "what": "Les séances sont renouvelées toutes les 4–6 semaines. Les changements de la peau sont généralement remarqués après la 2e ou la 3e séance ; ceux des cheveux en 3–6 mois."
+  },
+  {
+   "when": "Après la cure",
+   "what": "L'effet s'estompe progressivement ; des séances d'entretien tous les 4–6 mois peuvent être recommandées pour le maintenir."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Légère douleur ou sensation de brûlure lors du prélèvement sanguin et des injections",
+   "Rougeur, léger gonflement, sensibilité et tension dans la zone traitée (quelques heures à 2 jours)",
+   "Minuscules points de sang aux points de piqûre"
+  ],
+  "common": [
+   {
+    "name": "Ecchymoses",
+    "text": "Peuvent apparaître dans la zone traitée ou au point de prélèvement sanguin ; elles disparaissent d'elles-mêmes en 3–7 jours."
+   },
+   {
+    "name": "Maux de tête ou sensibilité du cuir chevelu",
+    "text": "Peuvent durer 1–2 jours après un traitement du cuir chevelu ; ils passent avec des antalgiques simples (le paracétamol est recommandé plutôt que l'aspirine)."
+   },
+   {
+    "name": "Effet moindre que prévu",
+    "text": "Certaines personnes peuvent ne constater aucun changement net, ou l'effet peut être de courte durée."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Sensation de malaise",
+    "text": "Des vertiges, des sueurs et un bref évanouissement peuvent survenir pendant le prélèvement sanguin ou les injections ; cela passe rapidement en position allongée."
+   },
+   {
+    "name": "Augmentation temporaire de la chute des cheveux",
+    "text": "Une augmentation temporaire de la chute peut survenir au cours des premières semaines après un traitement du cuir chevelu ; elle disparaît généralement d'elle-même."
+   },
+   {
+    "name": "Gonflement prolongé",
+    "text": "Le gonflement, en particulier sous les yeux, peut durer quelques jours."
+   },
+   {
+    "name": "Modification de couleur",
+    "text": "Un assombrissement temporaire aux points de piqûre peut survenir sur les peaux mates à foncées et en cas d'exposition au soleil."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Infection",
+    "text": "Très rare avec une technique stérile ; si elle survient, un traitement antibiotique et, rarement, un drainage du pus peuvent être nécessaires."
+   },
+   {
+    "name": "Allergie aux substances contenues dans le kit",
+    "text": "Une allergie au plasma lui-même n'est pas attendue ; cependant, très rarement, une réaction allergique peut survenir à l'anticoagulant ou à l'activateur contenus dans le kit, à la crème anesthésiante ou à l'antiseptique."
+   },
+   {
+    "name": "Obstruction d'un vaisseau sanguin (occlusion vasculaire)",
+    "text": "Lors d'injections profondes au niveau du visage, de manière **extrêmement rare**, le produit peut pénétrer dans un vaisseau sanguin ou le comprimer, entraînant une altération de la vascularisation de la peau et une cicatrice et, encore plus rarement, des troubles de la vision. Une reconnaissance précoce et un traitement en urgence sont très importants."
+   },
+   {
+    "name": "Irritation d'un nerf",
+    "text": "Si un nerf est touché lors du prélèvement sanguin ou de l'injection, un engourdissement ou des fourmillements temporaires peuvent survenir ; très rarement, ils peuvent durer plus longtemps."
+   }
+  ]
+ },
+ "emergency": [
+  "**Douleur intense et soudaine, blanchiment de la peau ou coloration violacée en réseau** pendant ou après le traitement",
+  "**Vision floue, perte de la vue**, vision double ou douleur oculaire",
+  "**Rougeur, chaleur, gonflement ou écoulement d'aspect purulent croissants** dans la zone traitée, ou fièvre supérieure à 38 °C",
+  "Gonflement du visage, des lèvres ou de la langue, **essoufflement**, ou éruption cutanée généralisée avec démangeaisons",
+  "Gonflement, douleur ou engourdissement croissants du bras où le sang a été prélevé"
+ ],
+ "lifestyle": [
+  "Ne vous maquillez pas pendant les 24 premières heures ; évitez le sauna, le hammam, les cabines de bronzage (UV), le sport intense et les piscines.",
+  "Pendant les 3 jours qui suivent le traitement, il vous est conseillé de ne pas prendre d'anti-inflammatoires (ibuprofène, naproxène, aspirine) ; en cas de douleur, vous pouvez prendre du paracétamol.",
+  "Utilisez chaque jour une crème solaire à indice de protection élevé pendant la cure ; après un traitement du cuir chevelu, attendez au moins 3 jours avant une coloration ou une permanente.",
+  "Le tabac diminue l'effet des plaquettes et nuit à la cicatrisation ; il est recommandé d'arrêter de fumer si possible."
+ ],
+ "declarations_extra": [
+  "Je comprends que le PRP sera préparé à partir de mon propre sang, que les informations relatives au kit utilisé seront consignées dans mon dossier et qu'il sera vérifié à chaque étape que les tubes sont bien les miens.",
+  "J'ai donné des informations exactes sur les situations pouvant contre-indiquer le traitement par PRP : maladies du sang, antécédents de cancer, prise d'anticoagulants/antiagrégants et grossesse.",
+  "Je comprends que l'effet varie d'une personne à l'autre, que plusieurs séances sont nécessaires et que le résultat n'est pas permanent."
+ ]
+}

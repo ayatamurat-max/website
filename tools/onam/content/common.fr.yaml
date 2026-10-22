@@ -1,0 +1,179 @@
+meta:
+  date: "22.10.2026"
+  rev: "00"
+
+clinic:
+  brand: "Op. Dr. Murat Ayata"
+  title: "Spécialiste en oto-rhino-laryngologie et chirurgie cervico-faciale"
+  name: "Cabinet médical privé Op. Dr. Murat Ayata"
+  doctor: "Op. Dr. Murat Ayata"
+  address: "Karacaibrahim Mah. Dereüstü Sk., Merkez, Kırklareli, Turquie"
+  tel: "+90 288 502 50 20"
+  whatsapp: "+90 555 333 21 20"
+  email: "info@muratayata.com"
+  web: "www.muratayata.com"
+
+labels:
+  doc_title: "Formulaire de consentement éclairé"
+  tel: "Tél."
+  doc_no: "N° doc."
+  pub_date: "Date d'édition"
+  rev: "Rév."
+  page: "Page"
+  initials_patient: "Paraphe du patient / représentant"
+  initials_doctor: "Paraphe du médecin"
+  patient_info: "Informations sur le patient et l'intervention"
+  performing_doctor: "Médecin réalisant l'intervention et délivrant l'information"
+  place: "Établissement de santé où sera réalisée l'intervention :"
+  place_office: "Lieu de réalisation de l'acte :"
+  anesthesia: "Anesthésie"
+  duration: "Durée approximative"
+  stay: "Hospitalisation / sortie"
+  name: "Nom et prénom"
+  signature: "Signature"
+  datetime: "Date / Heure"
+  minor_title: "Pour les patients de moins de 18 ans ou dont la capacité de décision est limitée"
+  child_opinion: "L'enfant a été informé de manière adaptée à son âge ; avis de l'enfant :"
+  withdraw_title: "Retrait du consentement (à remplir uniquement si vous changez d'avis)"
+  withdraw_sign: "Nom, signature, date et heure du patient / représentant qui retire son consentement :"
+
+sections:
+  about: "Votre état de santé et le but de l'intervention"
+  procedure: "Comment se déroule l'intervention ?"
+  benefits: "Bénéfices attendus et chances de succès"
+  alternatives: "Autres options thérapeutiques"
+  no_treatment: "Que se passe-t-il si l'intervention n'est pas réalisée ?"
+  before: "Préparation à l'intervention"
+  recovery: "Convalescence : à quoi vous attendre"
+  risks: "Risques et complications possibles"
+  emergency: "Quand nous contacter immédiatement"
+  lifestyle: "Conseils concernant les médicaments et la vie quotidienne"
+  intraop: "Situations imprévues pendant l'intervention, prélèvements de tissus et produits sanguins"
+  photo: "Photographies, enregistrements d'images et vos données personnelles"
+  individual: "Informations et remarques vous concernant personnellement (à remplir par le médecin)"
+  declaration: "Déclaration du patient"
+  signatures: "Signatures"
+
+intro:
+  - "Chère patiente, cher patient, ce formulaire a été conçu pour vous expliquer, dans un **langage simple et clair**, ce que vous devez savoir sur l'intervention qui vous est proposée. Son objectif n'est pas de vous effrayer, mais de vous aider à prendre votre décision **librement et en connaissance de cause**."
+  - "Veuillez lire ce formulaire sans vous presser. Interrogez votre médecin sur tout ce que vous ne comprenez pas. Votre médecin vous expliquera également oralement les risques propres à votre situation. Donner ou non votre consentement est entièrement votre droit."
+
+patient_fields:
+  - "Nom et prénom :"
+  - "Date de naissance :"
+  - "N° de passeport / pièce d'identité :"
+  - "N° de dossier / protocole :"
+  - "Téléphone :"
+  - "Date de l'information :"
+  - "Date prévue de l'intervention :"
+  - "Formulaire remis pour la première fois au patient (date / e-mail, WhatsApp, en main propre) :"
+
+refusal_right:
+  - "Vous avez le droit de refuser l'intervention proposée, de la reporter ou de demander l'avis d'un autre médecin. Cette décision n'aura aucune incidence sur les autres soins qui vous sont proposés. Vous pouvez retirer votre consentement à tout moment avant le début de l'intervention ; sachez toutefois qu'une fois l'intervention commencée, il peut exister des étapes auxquelles l'interrompre serait médicalement risqué."
+
+before_common:
+  - "Informez votre médecin de **tous les médicaments** que vous prenez (y compris les médicaments qui fluidifient le sang, l'aspirine, les antalgiques, les médicaments amaigrissants et hormonaux) ainsi que des **produits à base de plantes et compléments alimentaires** (oméga-3, vitamine E, ginkgo, ail, ginseng, huile de poisson, etc.). N'arrêtez aucun médicament de vous-même sans l'avis de votre médecin."
+  - "Signalez-nous impérativement vos **allergies**, tout problème de saignement ou de coagulation, toute maladie cardiaque ou pulmonaire, un diabète, une hypertension artérielle ou une maladie de la thyroïde, vos opérations antérieures et tout problème rencontré lors d'une anesthésie."
+  - "S'il existe une possibilité que vous soyez enceinte, ou si vous allaitez, dites-le-nous avant l'intervention."
+  - "Le tabac et les produits à base de nicotine altèrent nettement la cicatrisation. Si possible, arrêtez au moins 2–4 semaines avant l'intervention et ne fumez pas pendant la convalescence."
+
+risk_intro:
+  - "Comme tout acte médical, cette intervention comporte certains risques. Ci-dessous, les **effets temporaires attendus** et les **complications** sont présentés séparément et regroupés selon leur fréquence. Les chiffres indiqués sont des valeurs **approximatives** issues de la littérature médicale ; votre risque personnel peut être plus faible ou plus élevé selon votre âge, votre état de santé général, votre tabagisme et vos opérations antérieures."
+  - "La grande majorité des complications sont **temporaires** et s'améliorent avec un traitement adapté. Des événements très rares mais graves sont également mentionnés ; leur présence dans cette liste ne signifie pas qu'ils vous arriveront, mais vous devez les connaître pour prendre une décision éclairée."
+
+risk_tiers:
+  expected: "Effets temporaires attendus (ce ne sont pas des complications — ils font normalement partie de la guérison)"
+  common: "Situations fréquentes (la plupart sont temporaires ou disparaissent avec un traitement)"
+  uncommon: "Situations peu fréquentes"
+  rare: "Situations rares ou très rares, mais potentiellement graves"
+  general: "Risques généraux propres à toute intervention chirurgicale / médicale"
+
+general_risks_surgical:
+  - "**Risques liés à l'anesthésie :** Si une anesthésie générale ou une sédation est utilisée, ses risques (nausées, maux de gorge, lésion dentaire, réaction allergique et, très rarement, problèmes cardiaques ou pulmonaires) vous seront expliqués séparément par le médecin anesthésiste, et votre consentement sera recueilli sur un **formulaire de consentement à l'anesthésie distinct**."
+  - "**Saignement et transfusion sanguine :** Le recours à une transfusion sanguine est très rare dans ces interventions. En cas de saignement important, du sang ou des produits sanguins peuvent être nécessaires ; ils comportent leurs propres risques, très rares (allergie ou infection, par exemple)."
+  - "**Infection :** Une infection de la plaie après l'opération est généralement traitée par antibiotiques ; rarement, un drainage (évacuation du pus) peut être nécessaire."
+  - "**Caillots de sang dans les veines des jambes (thrombose veineuse profonde, TVP) et dans les poumons (embolie pulmonaire) :** Très rares lors des interventions courtes de la tête et du cou. Se lever et marcher tôt réduit le risque. Les traitements hormonaux, le tabac, l'obésité et des antécédents de caillots augmentent le risque."
+  - "**Allergie médicamenteuse :** Une réaction allergique peut survenir aux médicaments, antiseptiques, sparadraps ou fils de suture utilisés."
+  - "**Cicatrices et troubles de la cicatrisation :** L'aspect des cicatrices varie d'une personne à l'autre ; très rarement, une cicatrice épaisse (hypertrophique) ou une chéloïde peut se former."
+  - "**Risque vital :** Le décès lors d'une chirurgie programmée de la tête et du cou est aujourd'hui extrêmement rare ; cependant, aucune intervention chirurgicale n'est totalement dénuée de risque. Une complication grave peut nécessiter une prise en charge en réanimation et entraîner un handicap permanent."
+
+general_risks_office:
+  - "**Malaise (réaction vasovagale) :** Des vertiges, des sueurs et un bref évanouissement peuvent survenir pendant une injection ou une prise de sang ; ils passent rapidement en position allongée."
+  - "**Infection :** Grâce à la désinfection de la peau et au matériel stérile, le risque est très faible ; si elle survient, elle est généralement traitée par antibiotiques."
+  - "**Réaction allergique :** Au produit, à l'anesthésique local ou à l'antiseptique utilisé — allant d'une légère rougeur à, très rarement, une réaction allergique grave (anaphylaxie). Notre cabinet dispose du matériel et des médicaments d'urgence."
+  - "**Réactivation d'un bouton de fièvre (herpès) :** Si vous avez déjà eu des boutons de fièvre, ils peuvent réapparaître dans la zone traitée ; merci de nous le signaler."
+  - "**Résultat ne répondant pas aux attentes :** L'intensité et la durée de l'effet varient d'une personne à l'autre ; des séances supplémentaires ou une retouche peuvent être nécessaires."
+
+risk_outro:
+  - "Cette liste ne comprend pas toutes les complications possibles ; d'autres événements imprévisibles et très rares peuvent survenir. Si une complication apparaît, votre médecin planifiera le traitement et le suivi nécessaires ; cela peut nécessiter un traitement supplémentaire, des médicaments, des actes complémentaires ou une nouvelle opération."
+
+emergency_call: "Si l'un de ces signes apparaît, appelez votre médecin sans attendre : +90 288 502 50 20 · WhatsApp +90 555 333 21 20. Si vous ne parvenez pas à nous joindre, rendez-vous au service d'urgences le plus proche ou appelez le 112 (numéro d'urgence en Turquie et dans toute l'Europe)."
+
+lifestyle_common:
+  - "Prenez les médicaments qui vous ont été prescrits (antibiotiques, antalgiques, etc.) à la dose et pendant la durée recommandées. Ne prenez pas d'aspirine ni de médicaments similaires susceptibles d'augmenter le saignement sans avoir consulté votre médecin."
+  - "Lors d'un vol ou d'un trajet de plus de 4 heures après l'opération, buvez beaucoup d'eau, bougez régulièrement et portez des bas de contention si cela vous a été conseillé ; cela réduit le risque de caillots dans les jambes."
+  - "Pendant la convalescence, il est conseillé de ne pas boire d'alcool et d'éviter le tabac et les produits à base de nicotine."
+  - "Veuillez vous présenter à tous les rendez-vous de suivi. Si vous êtes venu(e) de l'étranger, le suivi après votre retour peut se poursuivre par consultation en ligne et photos/vidéos ; si vous devez consulter un médecin sur place, un compte rendu opératoire écrit et nos recommandations vous seront remis."
+
+intraop:
+  - "Si une situation imprévue survient pendant l'intervention, votre médecin restera dans le cadre de l'intervention à laquelle vous avez consenti dans ce formulaire. **Sauf en cas de danger vital ou de risque d'atteinte grave d'un organe**, aucun acte supplémentaire auquel vous n'avez pas consenti ne sera réalisé ; dans ce cas, l'intervention sera terminée à un stade sûr et vous serez informé(e) ensuite afin que la décision soit prise avec vous. Si votre vie est en danger, les soins d'urgence nécessaires pour protéger votre vie ou l'organe seront réalisés."
+  - "Les tissus retirés pendant l'intervention seront, si nécessaire, envoyés pour **examen anatomopathologique** afin de confirmer le diagnostic. Selon le résultat, un traitement ou un suivi complémentaire peut être nécessaire."
+  - "Une transfusion sanguine est très rarement nécessaire dans ces interventions et ne sera réalisée qu'en cas de nécessité vitale. Si vous n'acceptez pas le sang ou les produits sanguins (par exemple pour des raisons religieuses), vous devez nous le signaler avant l'intervention ; les conséquences possibles de cette décision seront discutées séparément avec vous et consignées dans la rubrique « Informations vous concernant personnellement »."
+
+photo_intro:
+  - "Des **photographies/vidéos** peuvent être réalisées avant et après l'intervention pour la planification, le suivi et l'évaluation du résultat. Ces enregistrements font partie de votre dossier médical et restent confidentiels. Vos images ne seront **jamais utilisées à des fins publicitaires, promotionnelles ou sur les réseaux sociaux.**"
+  - "Vos images ne peuvent être utilisées à d'autres fins **qu'avec votre autorisation distincte et explicite**. Un refus n'aura aucune incidence sur votre traitement, et vous pouvez retirer votre autorisation à tout moment :"
+
+photo_options:
+  - "J'accepte que mes images soient utilisées **uniquement pour le dossier médical et le suivi du traitement**."
+  - "J'autorise l'utilisation de mes images pour des publications scientifiques et l'enseignement médical **d'une manière qui ne permet pas de m'identifier** (visage/zone des yeux masqués)."
+  - "J'autorise l'utilisation de mes images pour des publications scientifiques et l'enseignement médical **d'une manière qui peut permettre de m'identifier**."
+  - "Je **n'autorise pas** l'utilisation à des fins scientifiques/pédagogiques."
+
+kvkk:
+  - "Vos données personnelles et de santé sont traitées conformément à la loi turque n° 6698 relative à la protection des données personnelles (KVKK) et à la législation sanitaire applicable, à des fins de diagnostic, de traitement et d'obligations légales, par des personnes soumises au secret professionnel. Pour plus de détails, vous pouvez consulter notre notice d'information sur la protection des données."
+
+individual_hint: "Risques supplémentaires propres au patient (maladies associées, médicaments, opérations antérieures), détails du plan, attentes du patient, questions posées et réponses apportées. S'il n'y a rien à ajouter, inscrire « néant »."
+
+declarations:
+  - "J'ai lu et compris ce formulaire dans ma langue. On m'a laissé suffisamment de temps de réflexion ; j'ai eu la possibilité de poser des questions et j'ai reçu des réponses satisfaisantes."
+  - "Mon état de santé, le but de l'intervention proposée, la manière dont elle sera réalisée, par qui et où, sa durée approximative, les bénéfices attendus, les chances de succès, les alternatives et ce qui peut se passer si elle n'est pas réalisée m'ont été expliqués oralement et par écrit."
+  - "Les risques fréquents et potentiellement graves, ainsi que les conséquences possibles de ces complications (y compris la nécessité éventuelle d'un traitement complémentaire ou d'une nouvelle intervention/opération), m'ont été expliqués. Je comprends que le résultat d'aucun acte médical **ne peut être garanti à 100 %**."
+  - "J'ai fourni des informations exactes et complètes sur mon état de santé, les médicaments que je prends, mes allergies et mes maladies antérieures. Je comprends que des informations incomplètes ou inexactes peuvent augmenter les risques."
+  - "Je comprends que le respect des consignes données avant et après l'intervention contribue au résultat et qu'il est important de me présenter aux rendez-vous de suivi."
+  - "Je sais que je peux retirer mon consentement à tout moment avant le début de l'intervention. Je comprends que la signature de ce formulaire ne décharge pas le médecin de son devoir de prudence et de diligence."
+  - "Je prends cette décision de mon plein gré, sans aucune pression de quiconque."
+
+declarations_aesthetic:
+  - "Je comprends que cette intervention est **à visée esthétique**, qu'elle n'est pas médicalement nécessaire et que j'ai toujours la possibilité de ne pas la faire. J'ai discuté de mes attentes avec mon médecin, et le résultat réaliste pouvant être obtenu m'a été expliqué."
+  - "Je comprends qu'une symétrie parfaite ou la reproduction exacte de l'apparence d'une photographie ne peuvent être garanties, que le résultat final dépend de la cicatrisation de mes tissus et que, dans certains cas, une intervention de correction peut être nécessaire."
+
+decision_options:
+  - "Je **DONNE MON CONSENTEMENT** à l'intervention décrite ci-dessus."
+  - "Je **N'ACCEPTE PAS** l'intervention décrite ci-dessus. Les conséquences possibles d'un refus m'ont été expliquées."
+
+handwritten_hint: "Nous recommandons au patient d'écrire de sa propre main : « J'ai lu et compris ce formulaire et je donne mon consentement. »"
+
+sign_rows:
+  - "Patient"
+  - "Représentant légal (parent / tuteur) — lien avec le patient :"
+  - "Médecin délivrant l'information et réalisant l'intervention"
+  - "Interprète (si nécessaire) — langue :"
+  - "Témoin (si nécessaire)"
+
+interpreter_text: "Déclaration de l'interprète : J'ai traduit intégralement et fidèlement ce formulaire ainsi que les explications orales du médecin au patient / représentant légal, dans une langue qu'il comprend."
+
+minor_text:
+  - "Pour les patients de moins de 18 ans, le consentement est donné par un **parent ou le tuteur légal**. L'enfant est informé de manière adaptée à son âge et à sa maturité, et son avis est recherché. Pour les patients dont la capacité juridique est limitée, le consentement est donné par le représentant légal."
+
+minor_checks:
+  - "Si nous exerçons conjointement l'autorité parentale, je déclare que l'autre parent est informé de cette intervention et y consent."
+  - "Je déclare qu'il n'existe aucune décision de justice ni aucun litige concernant l'autorité parentale / la tutelle (le cas échéant, le document correspondant a été présenté au médecin)."
+
+copies:
+  - "Ce formulaire est établi en deux exemplaires : l'un est conservé dans le dossier du patient, l'autre est remis au patient / représentant légal."
+
+withdraw_text:
+  - "Je retire le consentement que j'ai donné ci-dessus. Les conséquences possibles de ce retrait m'ont été expliquées."
+
+final_note: "Ce formulaire a été établi conformément au Règlement turc sur les droits des patients et aux principes de l'Association médicale turque en matière de consentement éclairé. Il complète, sans la remplacer, l'information orale donnée par votre médecin."

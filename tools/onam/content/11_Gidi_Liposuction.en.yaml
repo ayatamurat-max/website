@@ -1,0 +1,124 @@
+code: "11"
+type: surgical
+aesthetic: true
+title: "Submental Liposuction"
+alt_name: "Removal of fat under the chin (double-chin liposuction)"
+
+specific_fields:
+  - label: "Planned technique:"
+    options: ["Conventional (tumescent)", "Energy-assisted (laser/RF)", "To be decided by the surgeon"]
+    blank: false
+  - label: "Anaesthesia:"
+    options: ["Local anaesthesia", "Local anaesthesia + sedation", "General anaesthesia"]
+  - label: "Procedures performed at the same time:"
+    options: ["None", "With a separate consent form:"]
+  - label: "Patient's concerns and expectations:"
+
+about:
+  - "Fat collecting under the chin (a “double chin”) can blur the angle between the chin and neck, making the jawline look less defined, tired or heavier than it really is. Fat in this area is often due to a **genetic tendency** and may not disappear completely even with weight loss or exercise. The loss of skin elasticity with age also makes it more noticeable."
+  - "Submental liposuction removes the **fat beneath the skin** by suction through fine cannulas. The aim is to define the jawline and achieve a **natural, balanced chin–neck angle**."
+  - "The most important factor determining the result is **skin quality and elasticity**. Elastic skin adapts to the new contour after fat removal; skin with little elasticity may show more laxity. Deep fat beneath the neck muscle (platysma), large salivary glands, prominent neck bands and severe skin laxity cannot be corrected with liposuction; in these cases other methods, such as a deep neck lift, may be needed."
+
+procedure_intro:
+  - "Before surgery your chin and neck are examined, skin elasticity is assessed, photographs are taken and the area to be treated is marked with you sitting upright."
+procedure_steps:
+  - "**Numbing and fluid infiltration:** A special fluid (tumescent solution) containing local anaesthetic and a medicine to reduce bleeding is injected into the area. This fluid prevents pain and also reduces bleeding and bruising."
+  - "**Small incisions:** Small entry points of about **3–5 mm** are made in the natural crease under the chin and, if needed, behind the earlobes."
+  - "**Fat removal:** The fat is carefully and evenly removed by suction through fine cannulas (metal tubes). A thin layer of fat is left under the skin to keep the surface smooth."
+  - "**Energy-assisted treatment (if planned):** Laser or radiofrequency energy is used to soften the fat and help the skin tighten to some degree. This may contribute to skin tightening, but it does not correct significant laxity."
+  - "**Closure and garment:** The entry points are closed with a single stitch or left to close on their own. At the end of the operation an **elastic compression garment (chin strap)** is placed around the chin and neck."
+anesthesia: "Local anaesthesia, local + sedation, or general anaesthesia"
+duration: "About 45–90 minutes (when done on its own)"
+stay: "Usually same-day discharge"
+
+benefits:
+  - "Reduction of excess fat under the chin"
+  - "A more defined jawline and chin–neck angle; a more balanced facial profile"
+  - "A **long-lasting** result as long as your weight remains stable, because the fat cells removed do not grow back (natural ageing changes in the skin and tissues will continue)"
+success:
+  - "Most patients with good skin elasticity are satisfied with the result. The result becomes apparent within **3–6 months** as swelling settles. About **3–5 in 100** patients may need a small touch-up procedure because of irregularity, residual fat or asymmetry. Significant weight gain and ageing can affect the result over time."
+
+alternatives:
+  - "**Not having the procedure:** As this is a cosmetic procedure, you always have the option not to have it."
+  - "**Weight loss and lifestyle changes:** Reduce overall body fat but do not always remove stubborn fat under the chin."
+  - "**Fat-dissolving injections (e.g. deoxycholic acid):** Require several sessions, can cause marked swelling and pain, and have a more limited effect."
+  - "**Fat freezing (cryolipolysis) and device treatments:** Non-surgical, but require several sessions and have a more limited effect."
+  - "**Deep neck lift / neck lift surgery:** A more suitable option if there is significant skin laxity, neck bands or deep fat beneath the muscle."
+
+no_treatment:
+  - "If the procedure is not performed, the appearance under your chin will remain as it is and may increase with age or weight gain. This poses no danger to your health."
+
+before:
+  - "Blood tests are carried out before surgery; if sedation or general anaesthesia is planned, you will be assessed by the anaesthetist and will need to fast beforehand."
+  - "Your weight should ideally be stable before the procedure; if you plan significant weight change in the near future, discuss this with your doctor."
+  - "Do not apply cream or make-up to your face and neck on the day of surgery; wear a comfortable top that opens at the front rather than a high-necked one."
+  - "After sedation or general anaesthesia you must not drive; please go home with a companion."
+
+recovery:
+  - when: "First 48 hours"
+    what: "There will be swelling, tightness and mild pain under the chin, and some pinkish fluid may leak from the entry points; this is normal. Bruising, **if it occurs**, may spread down the neck and settles within 1–2 weeks. Sleep with your head raised and wear the garment continuously."
+  - when: "Week 1"
+    what: "The garment is usually worn **day and night for the first week** and then **at night for a further 2–3 weeks**. Any stitches are removed on day 5–7. Most patients return to desk work and social life within 3–7 days."
+  - when: "Weeks 2–6"
+    what: "Swelling largely subsides. Firmness, small lumps and numbness may be felt in the area; these soften with time. Strenuous exercise can usually be resumed after **2–3 weeks**. If recommended, gently massage the area."
+  - when: "Months 3–6"
+    what: "Remaining swelling and firmness resolve, the skin adapts to the new contour and the result becomes clear."
+
+risks:
+  expected:
+    - "Swelling, tightness and mild pain under the chin and in the neck; bruising, **if it occurs**, settles within 1–2 weeks"
+    - "Pinkish fluid leaking from the entry points for the first 24–48 hours"
+    - "Temporary numbness and reduced sensation in the area"
+    - "Mild firmness and small palpable lumps lasting several weeks"
+  common:
+    - name: "Prolonged firmness and lumps (fibrosis)"
+      text: "Firmness and lumpiness under the skin are common during healing; most soften within a few months with massage and time."
+    - name: "Prolonged numbness"
+      text: "Reduced sensation of the skin under the chin may last a few weeks to a few months; very rarely it is permanent."
+    - name: "Mild asymmetry"
+      text: "Because the two halves of the face are never perfectly symmetrical, small differences may remain."
+  uncommon:
+    - name: "Contour irregularity and dimpling"
+      text: "About **2–5 in 100** patients may have rippling, dents or residual fat deposits. If too much fat is removed, a hollow or “skeletonised” appearance under the chin and more visible neck bands may result. Correction may require fat injection, further liposuction or another procedure."
+    - name: "Skin laxity or insufficient tightening"
+      text: "Particularly in people with reduced skin elasticity, the skin may not tighten enough after fat removal and laxity may look more noticeable. In this case a neck lift may be needed in the future."
+    - name: "Asymmetry of the smile (effect on the nerve branch to the lower lip)"
+      text: "A fine nerve branch running along the jawline that moves the lower lip may be affected by swelling or pressure, causing asymmetry of the lower lip when smiling. This occurs in about **1 in 100** patients and almost always recovers on its own **within a few weeks to a few months**; permanent weakness is very rare."
+    - name: "Collection of blood or fluid (haematoma, seroma)"
+      text: "Occurs in **fewer than 1 in 100** patients. Small collections resolve on their own; larger ones may need drainage with a needle or a small procedure."
+    - name: "Infection"
+      text: "Occurs in **fewer than 1 in 100** patients; it usually improves with antibiotics, and rarely an abscess may need to be drained."
+    - name: "Scarring or discolouration at the entry points"
+      text: "The small entry scars usually become inconspicuous; rarely darkening, thickening or a small dent may remain."
+  rare:
+    - name: "Skin burn (with energy-assisted techniques)"
+      text: "When laser or radiofrequency is used, despite safety measures, a skin burn, blistering and permanent scarring may rarely occur; wound care and scar treatment may be needed."
+    - name: "Skin damage or tissue loss"
+      text: "Very rarely, particularly in smokers, impaired blood supply to the skin may lead to a wound and scarring."
+    - name: "Permanent nerve damage"
+      text: "Permanent weakness of lower lip movement is extremely rare; if it occurs, further treatment may be needed."
+    - name: "Reaction to the local anaesthetic"
+      text: "An allergy to the local anaesthetic may occur, or a high blood level of it may cause dizziness, ringing in the ears, a metallic taste in the mouth and, very rarely, seizures or a heart rhythm disturbance. Doses are kept within safe limits."
+    - name: "Fat embolism and injury to deeper structures or the airway"
+      text: "Fat droplets entering the circulation, or the cannula damaging deeper structures, are **extremely rare** in small-volume submental liposuction; if they occurred, emergency hospital and intensive care treatment could be required."
+    - name: "Psychological dissatisfaction"
+      text: "Despite a technically successful result, a person may find it hard to adjust to their new appearance. Discussing expectations openly before surgery reduces this risk."
+
+emergency:
+  - "**Rapidly increasing, hard, tense swelling** of the neck, especially on one side"
+  - "**Difficulty breathing or swallowing**, or a change in your voice"
+  - "**Fever above 38.5 °C**, increasing pain, redness, warmth or foul-smelling discharge"
+  - "Skin turning white, dark purple or black; fluid-filled blisters"
+  - "Chest pain, shortness of breath or confusion"
+
+lifestyle:
+  - "Wear the garment regularly for the period advised; make sure it is neither too tight nor too loose."
+  - "Sleep on your back with your head raised for the first 1–2 weeks; avoid sudden or excessive stretching of the neck."
+  - "Avoid strenuous exercise, saunas, Turkish baths and long hot showers for the first 2–3 weeks."
+  - "Protect the area from the sun in the first months; this reduces the risk of scarring and discolouration."
+  - "Try to keep your weight stable to maintain the result."
+  - "If you have travelled from abroad, flying is usually safe from day 2–3 onwards."
+
+declarations_extra:
+  - "I understand that the result depends on my skin elasticity, and that liposuction does not correct skin laxity, neck bands or deep fat beneath the muscle."
+  - "I understand that wearing the garment and following the advice given will directly affect the result."

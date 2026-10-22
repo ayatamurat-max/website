@@ -1,0 +1,147 @@
+{
+ "meta": {
+  "date": "22.10.2026",
+  "rev": "00"
+ },
+ "clinic": {
+  "brand": "Op. Dr. Murat Ayata",
+  "title": "Otolaryngology Head and Neck Surgery Specialist",
+  "name": "Op. Dr. Murat Ayata Private Clinic",
+  "doctor": "Op. Dr. Murat Ayata",
+  "address": "Karacaibrahim Mah. Dereüstü Sk., Merkez, Kırklareli, Türkiye",
+  "tel": "+90 288 502 50 20",
+  "whatsapp": "+90 555 333 21 20",
+  "email": "info@muratayata.com",
+  "web": "www.muratayata.com"
+ },
+ "labels": {
+  "doc_title": "Informed Consent Form",
+  "tel": "Tel",
+  "doc_no": "Doc. No",
+  "pub_date": "Issue date",
+  "rev": "Rev.",
+  "page": "Page",
+  "initials_patient": "Patient/Representative initials",
+  "initials_doctor": "Doctor initials",
+  "patient_info": "Patient and procedure details",
+  "performing_doctor": "Doctor performing the procedure and providing information",
+  "place": "Hospital / facility where the procedure will be performed:",
+  "place_office": "Place of treatment:",
+  "anesthesia": "Anaesthesia",
+  "duration": "Approximate duration",
+  "stay": "Hospital stay / discharge",
+  "name": "Full name",
+  "signature": "Signature",
+  "datetime": "Date / Time",
+  "minor_title": "For patients under 18 or with limited decision-making capacity",
+  "child_opinion": "The child was informed in an age-appropriate way; the child's view:",
+  "withdraw_title": "Withdrawal of consent (complete only if you change your mind)",
+  "withdraw_sign": "Name, signature, date and time of patient/representative withdrawing consent:"
+ },
+ "sections": {
+  "about": "Your condition and the aim of the procedure",
+  "procedure": "How is the procedure performed?",
+  "benefits": "Expected benefits and likelihood of success",
+  "alternatives": "Other treatment options",
+  "no_treatment": "What happens if the procedure is not performed?",
+  "before": "Preparing for the procedure",
+  "recovery": "Recovery: what to expect",
+  "risks": "Possible risks and complications",
+  "emergency": "When to contact us immediately",
+  "lifestyle": "Medication and everyday-life advice",
+  "intraop": "Unexpected findings during the procedure, tissue samples and blood products",
+  "photo": "Photographs, image records and your personal data",
+  "individual": "Information and notes specific to you (completed by the doctor)",
+  "declaration": "Patient declaration",
+  "signatures": "Signatures"
+ },
+ "intro": [
+  "Dear patient, this form has been prepared to explain, in **plain and clear language**, what you need to know about the procedure recommended to you. Its purpose is not to frighten you, but to help you make your decision **freely and on the basis of good information**.",
+  "Please read this form without rushing. Ask your doctor about anything you do not understand. Your doctor will also explain verbally any risks that are particular to your situation. Whether or not you give consent is entirely your right."
+ ],
+ "refusal_right": [
+  "You have the right to decline the recommended procedure, to postpone it, or to seek a second medical opinion. This decision will not affect any other healthcare offered to you in any way. You may withdraw your consent at any time before the procedure begins; please be aware, however, that once a procedure has started there may be stages at which stopping would be medically unsafe."
+ ],
+ "before_common": [
+  "Tell your doctor about **all medicines** you take (including blood thinners, aspirin, painkillers, weight-loss and hormone medicines) and any **herbal products and supplements** (such as omega-3, vitamin E, ginkgo, garlic, ginseng, fish oil). Do not stop any medicine on your own without your doctor's advice.",
+  "Be sure to tell us about any **allergies**, bleeding or clotting problems, heart, lung, diabetes, blood pressure or thyroid conditions, previous operations and any problems you have had with anaesthesia.",
+  "If there is any chance you may be pregnant, or if you are breastfeeding, tell us before the procedure.",
+  "Smoking and nicotine products significantly impair wound healing. If possible, stop at least 2–4 weeks before the procedure and do not smoke during recovery."
+ ],
+ "risk_intro": [
+  "As with any medical procedure, this procedure carries some risks. Below, **expected temporary effects** and **complications** are listed separately and grouped by how often they occur. The figures given are **approximate** values based on the medical literature; your personal risk may be lower or higher depending on your age, general health, smoking and previous operations.",
+  "The great majority of complications are **temporary** and improve with appropriate treatment. Very rare but serious events are also included; being on this list does not mean they will happen to you, but you need to know about them to make an informed decision."
+ ],
+ "risk_tiers": {
+  "expected": "Expected, temporary effects (not complications — a normal part of healing)",
+  "common": "Common conditions (most are temporary or resolve with treatment)",
+  "uncommon": "Uncommon conditions",
+  "rare": "Rare or very rare, but potentially serious conditions",
+  "general": "General risks that apply to any surgical / medical procedure"
+ },
+ "general_risks_surgical": [
+  "**Anaesthesia risks:** If general anaesthesia or sedation is used, its risks (nausea, sore throat, dental damage, allergic reaction and, very rarely, heart or lung problems) will be explained separately by the anaesthetist, and your consent will be obtained on a **separate anaesthesia consent form**.",
+  "**Bleeding and blood transfusion:** The need for a blood transfusion in these procedures is very rare. In the event of serious bleeding, blood or blood products may be needed; these carry their own very rare risks (such as allergy or infection).",
+  "**Infection:** A wound infection after surgery is usually treated with antibiotics; rarely, drainage (letting the pus out) may be needed.",
+  "**Blood clots in the leg veins (DVT) and in the lungs (pulmonary embolism):** Very rare in short head and neck operations. Walking early reduces the risk. Hormone medicines, smoking, obesity and a previous history of clots increase the risk.",
+  "**Drug allergy:** An allergic reaction may develop to the medicines, antiseptics, tapes or suture materials used.",
+  "**Scarring and healing problems:** How scars form varies from person to person; very rarely a thick (hypertrophic) scar or keloid may form.",
+  "**Risk to life:** Death in planned head and neck surgery is extremely rare today; however, no surgical procedure is entirely free of risk. A serious complication may require treatment in intensive care and may result in permanent disability."
+ ],
+ "general_risks_office": [
+  "**Feeling faint (vasovagal reaction):** Dizziness, sweating and brief fainting may occur during an injection or blood draw; it passes quickly if you lie down.",
+  "**Infection:** With skin disinfection and sterile materials the risk is very low; if it occurs it is usually treated with antibiotics.",
+  "**Allergic reaction:** To the product, local anaesthetic or antiseptic used — ranging from mild redness to, very rarely, a severe allergic reaction (anaphylaxis). Our clinic is equipped with emergency equipment and medicines.",
+  "**Cold sore (herpes) reactivation:** If you have had cold sores before, they may reappear in the treated area; please let us know.",
+  "**Result not meeting expectations:** The degree and duration of the effect vary between individuals; additional sessions or touch-up treatment may be needed."
+ ],
+ "risk_outro": [
+  "This list does not include every possible complication; other unforeseeable and very rare events may occur. If a complication develops, your doctor will plan the necessary treatment and follow-up; this may require additional treatment, medication, procedures or a further operation."
+ ],
+ "emergency_call": "If any of these occur, call your doctor without delay: +90 288 502 50 20 · WhatsApp +90 555 333 21 20. If you cannot reach us, go to the nearest emergency department or call 112 (the emergency number in Türkiye and across Europe).",
+ "lifestyle_common": [
+  "Take the medicines prescribed for you (antibiotics, painkillers, etc.) at the recommended dose and for the recommended time. Do not take aspirin or similar medicines that may increase bleeding without asking your doctor.",
+  "On flights or journeys longer than 4 hours after surgery, drink plenty of water, move around regularly and wear compression stockings if advised; this reduces the risk of leg clots.",
+  "During recovery you are advised not to drink alcohol and to avoid smoking and nicotine products.",
+  "Please attend all follow-up appointments. If you have travelled from abroad, follow-up after your return can continue by online consultation and photos/videos; if you need to see a local doctor, you will be given a written operation report and our recommendations."
+ ],
+ "intraop": [
+  "If an unforeseen situation arises during the procedure, your doctor will stay within the scope of the procedure you have consented to on this form. **Unless there is a risk to life or of serious harm to an organ**, no additional procedure that you have not consented to will be performed; in such a case the procedure will be brought to a close at a safe point, and you will be informed afterwards so that the decision can be made together with you. If your life is in danger, the emergency treatment needed to protect your life or the organ will be carried out.",
+  "Tissues removed during the procedure will be sent for **pathological examination** where necessary to confirm the diagnosis. Additional treatment or follow-up may be needed depending on the result.",
+  "Blood transfusion is very rarely needed in these procedures and will only be given when it is vital. If you do not accept blood or blood products (for example for religious reasons), you must tell us before the procedure; the possible consequences of this decision will be discussed with you separately and recorded under “Information specific to you”."
+ ],
+ "photo_intro": [
+  "**Photographs/videos** may be taken before and after the procedure for planning, follow-up and assessment of the result. These records form part of your medical file and are kept confidential. Your images will **never be used for advertising, promotion or social media.**",
+  "Your images may be used for any other purpose **only with your separate and explicit permission**. Declining will not affect your treatment in any way, and you may withdraw your permission at any time:"
+ ],
+ "photo_options": [
+  "I agree that my images are used **only for medical records and treatment follow-up**.",
+  "I permit my images to be used for scientific publication and medical education **in a way that does not identify me** (face/eye area covered).",
+  "I permit my images to be used for scientific publication and medical education **in a way that may identify me**.",
+  "I **do not permit** scientific/educational use."
+ ],
+ "kvkk": [
+  "Your personal and health data are processed under the Turkish Personal Data Protection Law No. 6698 (KVKK) and the relevant health legislation, for the purposes of diagnosis, treatment and legal obligations, by persons bound by professional confidentiality. You may consult our Data Protection Information Notice for details."
+ ],
+ "declarations": [
+  "I have read and understood this form in my own language. I was given enough time to think; I had the opportunity to ask questions and received satisfactory answers.",
+  "My condition, the aim of the recommended procedure, how it will be done, by whom and where, its approximate duration, expected benefits, likelihood of success, alternatives and what may happen if it is not done have been explained to me verbally and in writing.",
+  "The common and potentially serious risks, and the possible consequences of these complications (including that further treatment or a repeat procedure/operation may be needed), have been explained to me. I understand that the outcome of any medical procedure **cannot be 100% guaranteed**.",
+  "I have given accurate and complete information about my health, the medicines I take, my allergies and past illnesses. I understand that incomplete or incorrect information may increase the risks.",
+  "I understand that following the instructions given before and after the procedure plays a part in the result, and that attending follow-up appointments is important.",
+  "I know that I can withdraw my consent at any time before the procedure begins. I understand that signing this form does not remove the doctor's duty of care.",
+  "I am making this decision of my own free will, without pressure from anyone."
+ ],
+ "declarations_aesthetic": [
+  "I understand that this procedure is **cosmetic**, that it is not medically necessary and that I always have the option not to have it. I have discussed my expectations with my doctor, and the realistic result that can be achieved has been explained to me.",
+  "I understand that perfect symmetry or an exact copy of the appearance in a photograph cannot be guaranteed, that the final result depends on how my tissues heal, and that in some cases a correction procedure may be needed."
+ ],
+ "decision_options": [
+  "I **GIVE MY CONSENT** to the procedure described above.",
+  "I **DO NOT ACCEPT** the procedure described above. The possible consequences of refusing have been explained to me."
+ ],
+ "minor_text": [
+  "For patients under 18, consent is given by a **parent or legal guardian**. The child is informed in a way appropriate to their age and maturity and their view is sought. For patients lacking capacity, consent is given by the legal representative."
+ ],
+ "final_note": "This form has been prepared in accordance with the Turkish Patient Rights Regulation and the informed consent principles of the Turkish Medical Association. It complements, but does not replace, the verbal explanation given by your doctor."
+}

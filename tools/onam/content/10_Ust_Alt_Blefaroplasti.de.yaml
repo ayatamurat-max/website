@@ -1,0 +1,130 @@
+code: "10"
+type: surgical
+aesthetic: true
+title: "Ober- / Unterlidstraffung (Blepharoplastik)"
+alt_name: "Lidchirurgie"
+
+specific_fields:
+  - label: "Geplanter Bereich:"
+    options: ["Oberlider", "Unterlider", "Ober- und Unterlider"]
+    blank: false
+  - label: "Technik am Unterlid:"
+    options: ["Transkonjunktival", "Subziliar (unterhalb der Wimpern)", "Nicht zutreffend"]
+  - label: "Zusätzliche Eingriffe:"
+    options: ["Fettumverlagerung", "Kanthopexie / Kanthoplastik (Lidstützung)", "Keine"]
+  - label: "Indikation:"
+    options: ["Ästhetisch", "Funktionell (eingeschränktes Gesichtsfeld)", "Beides"]
+  - label: "Anliegen und Erwartungen der Patientin/des Patienten:"
+
+about:
+  - "Mit zunehmendem Alter verliert die Lidhaut an Elastizität, der Ringmuskel um das Auge erschlafft, und das Fettgewebe der Augenhöhle kann sich nach vorne wölben. Dadurch entsteht an den Oberlidern **überschüssige, herabhängende Haut** und unter den Augen bilden sich **Tränensäcke und Augenringe (Vertiefungen)**. Erbliche Veranlagung, Sonneneinstrahlung, Rauchen und Gewichtsschwankungen können diesen Prozess beschleunigen."
+  - "Die Blepharoplastik zielt darauf ab, der Augenpartie durch Entfernung überschüssiger Haut, Muskulatur und Fettgewebe oder durch Umverlagerung von Fett ein **frischeres, erholteres und natürliches** Aussehen zu verleihen. Ein Überhang der Oberlider kann manchmal so ausgeprägt sein, dass er den oberen Teil des Gesichtsfeldes einschränkt; in diesem Fall hat die Operation zusätzlich den funktionellen Zweck, **das Gesichtsfeld zu erweitern**."
+  - "Eine Blepharoplastik allein korrigiert keine tief stehenden Augenbrauen, kein herabhängendes Oberlid infolge einer Schwäche des Lidhebermuskels (Ptosis), keine feinen Fältchen (Krähenfüße) und keine dunklen Augenringe; hierfür können andere Behandlungen erforderlich sein."
+
+procedure_intro:
+  - "Vor der Operation werden Ihre Augen untersucht – Sehvermögen, Tränenproduktion und Lidfunktion werden beurteilt – und es werden Fotos angefertigt. Falls erforderlich, wird eine augenärztliche Untersuchung veranlasst."
+procedure_steps:
+  - "**Anzeichnen:** Die zu entfernende Hautmenge wird im Sitzen bei geöffneten und geschlossenen Augen sorgfältig angezeichnet."
+  - "**Oberlid:** Der Schnitt wird in die natürliche Lidfalte gelegt, sodass er bei geöffneten Augen verborgen in der Falte liegt. Überschüssige Haut sowie bei Bedarf ein schmaler Muskelstreifen und vorgewölbtes Fettgewebe werden entfernt."
+  - "**Unterlid – transkonjunktivale Technik:** Der Schnitt wird an der Innenseite des Augenlids gesetzt, sodass außen keine Narbe sichtbar ist. Das Fett, das die Tränensäcke verursacht, wird entfernt oder so umverlagert, dass es die Vertiefung unter dem Auge auffüllt."
+  - "**Unterlid – subziliare Technik:** Besteht zusätzlich überschüssige Haut, wird der Schnitt direkt unterhalb der Wimpern gesetzt, und überschüssige Haut und Muskulatur werden entfernt. Die Narbe wird mit der Zeit meist unauffällig."
+  - "**Lidstützung (Kanthopexie/Kanthoplastik):** Ist das Unterlid erschlafft, werden am äußeren Augenwinkel Stütznähte gesetzt, um zu verhindern, dass das Lid nach der Operation nach unten gezogen wird."
+  - "**Wundverschluss:** Die Schnitte werden mit sehr feinen Nähten verschlossen, die in der Regel am **5.–7. Tag** gezogen werden. Auf das Auge wird eine schützende Salbe aufgetragen."
+anesthesia: "Örtliche Betäubung (± Dämmerschlaf/Sedierung) oder Vollnarkose"
+duration: "Etwa 1–3 Stunden"
+stay: "In der Regel Entlassung am selben Tag; nach Vollnarkose kann eine Nacht erforderlich sein"
+
+benefits:
+  - "Eine frischere, erholtere und jünger wirkende Augenpartie"
+  - "Weniger Schweregefühl der Oberlider; leichteres Sehen, wenn der Überhang das Gesichtsfeld einschränkt"
+  - "Kleinere Tränensäcke und ein glatterer Übergang unter dem Auge"
+success:
+  - "Die meisten Patienten sind mit dem Ergebnis zufrieden, und die Wirkung hält in der Regel viele Jahre an; da der Alterungsprozess jedoch weitergeht, kann die Haut mit der Zeit wieder erschlaffen. Bei etwa **2–5 von 100** Patienten kann wegen Asymmetrie, Unterkorrektur oder Narbenbildung ein kleiner Korrektureingriff erforderlich sein. Das endgültige Ergebnis zeigt sich in der Regel innerhalb von **3–6 Monaten**."
+
+alternatives:
+  - "**Verzicht auf die Operation:** Da es sich um einen ästhetischen Eingriff handelt, haben Sie immer die Möglichkeit, ihn nicht durchführen zu lassen."
+  - "**Filler für die Tränenrinne:** Kann eine leichte Vertiefung unter dem Auge vorübergehend kaschieren; Tränensäcke oder überschüssige Haut werden dadurch nicht korrigiert, und die Behandlung hat eigene spezifische Risiken."
+  - "**Augenbrauenanhebung mit Botulinumtoxin:** In leichten Fällen kann das Anheben der Augenbraue um einige Millimeter das Oberlid etwas öffnen; die Wirkung ist vorübergehend."
+  - "**Brauenlift (Schläfenlift / Stirnlift):** Liegt die eigentliche Ursache in einer tief stehenden Augenbraue, kann dies anstelle einer oder zusätzlich zur Blepharoplastik besser geeignet sein."
+  - "**Hauterneuernde Behandlungen (Laser, chemisches Peeling, Radiofrequenz):** Können feine Fältchen und die Hautqualität verbessern; deutlich überschüssige Haut oder Tränensäcke werden dadurch nicht beseitigt."
+
+no_treatment:
+  - "Ohne Operation bleibt das derzeitige Aussehen Ihrer Augenlider bestehen und kann mit dem Alter langsam zunehmen. Wenn ein Überhang der Oberlider Ihr Gesichtsfeld einschränkt, kann dies mit der Zeit zunehmen; in der Regel besteht jedoch keine akute Gefahr für die Gesundheit der Augen."
+
+before:
+  - "Vor der Operation werden Blutuntersuchungen durchgeführt; ist eine Vollnarkose oder Sedierung geplant, werden Sie von der Narkoseärztin bzw. dem Narkosearzt untersucht und müssen vorher nüchtern bleiben."
+  - "Teilen Sie uns unbedingt mit, wenn Sie **trockene Augen, ein Glaukom (grüner Star), eine Schilddrüsenerkrankung oder frühere Augenoperationen (z. B. Augenlaser zur Korrektur einer Fehlsichtigkeit)** haben."
+  - "Wenn Sie Kontaktlinsen tragen, setzen Sie diese am Operationstag nicht ein; nach der Operation müssen Sie eine Brille tragen."
+  - "Tragen Sie am Operationstag kein Augen-Make-up, keine Wimpernverlängerung und keine Gesichtscreme. Nach Sedierung oder Vollnarkose dürfen Sie nicht selbst Auto fahren; bitte lassen Sie sich von einer Begleitperson nach Hause bringen."
+
+recovery:
+  - when: "Erste 48 Stunden"
+    what: "Um die Augen können Schwellung, Spannungsgefühl, leichtes Nässen und Blutergüsse auftreten. Die Schmerzen sind meist gering. Schlafen mit erhöhtem Kopf und **kalte Kompressen** helfen, die Schwellung zu verringern. Tränende Augen, Lichtempfindlichkeit und vorübergehend verschwommenes Sehen (durch die Salbe) können auftreten."
+  - when: "1. Woche"
+    what: "Die Fäden werden in der Regel am **5.–7. Tag** gezogen. Blutergüsse und Schwellung gehen deutlich zurück. Augentropfen/-salbe werden nach Anweisung angewendet. Die meisten Patienten kehren innerhalb von 7–10 Tagen zur Bürotätigkeit und ins gesellschaftliche Leben zurück; Blutergüsse können mit Make-up abgedeckt werden."
+  - when: "2.–4. Woche"
+    what: "Die verbleibende Schwellung geht zurück. Kontaktlinsen können in der Regel nach **2 Wochen** wieder getragen werden. Anstrengender Sport und Tätigkeiten mit Bücken sollten etwa 2–3 Wochen aufgeschoben werden. Warten Sie vor dem Schwimmen oder dem Tragen von Augen-Make-up die Freigabe durch Ihre Ärztin bzw. Ihren Arzt ab."
+  - when: "1.–6. Monat"
+    what: "Die Rötung der Narbe verblasst allmählich, und die Narbe ist in der Lidfalte kaum noch zu sehen. Die endgültige Form und Symmetrie der Lider stellen sich in der Regel innerhalb von **3–6 Monaten** ein."
+
+risks:
+  expected:
+    - "Schwellung und Spannungsgefühl um die Augen; Blutergüsse klingen, **falls sie auftreten**, innerhalb von 1–2 Wochen ab"
+    - "Tränende Augen, Trockenheits- oder Fremdkörpergefühl, Stechen und Lichtempfindlichkeit (erste Tage)"
+    - "Leichte Schwierigkeiten, die Augen in den ersten Tagen vollständig zu schließen"
+    - "Rötung, leichte Verhärtung und Taubheitsgefühl entlang des Schnitts"
+  common:
+    - name: "Trockenes Auge"
+      text: "Etwa **10–25 von 100** Patienten haben ein stechendes, brennendes oder trockenes Gefühl; es bessert sich meist mit Augentropfen innerhalb weniger Wochen bis einiger Monate. Bei Menschen, die bereits trockene Augen haben, kann es ausgeprägter sein und länger anhalten."
+    - name: "Schwellung der Bindehaut über dem Augenweiß (Chemosis)"
+      text: "Flüssigkeitsbedingte Schwellung der Haut, die das Weiße des Auges bedeckt; tritt vor allem nach Unterlidoperationen auf. Sie bildet sich in der Regel mit Tropfen und Kompressen innerhalb weniger Wochen zurück."
+    - name: "Unvollständiger Lidschluss (Lagophthalmus)"
+      text: "Ein unvollständiger Lidschluss im Schlaf ist in den ersten Wochen nach einer Oberlidoperation häufig und bildet sich meist von selbst zurück. In dieser Zeit wird zum Schutz des Auges eine Salbe für die Nacht empfohlen. Selten bleibt er dauerhaft bestehen (**weniger als 1 von 100**)."
+    - name: "Kleine Zysten (Milien) und Stichkanalnarben"
+      text: "Entlang des Schnitts können sich kleine weiße Pünktchen bilden; sie verschwinden von selbst oder werden mit einem einfachen Eingriff entfernt."
+  uncommon:
+    - name: "Herabgezogenes oder nach außen gedrehtes Unterlid (Lidretraktion, Ektropium)"
+      text: "Nach einer Unterlidoperation kann bei etwa **1–5 von 100** Patienten (häufiger bei der subziliaren Technik) das Unterlid nach unten gezogen sein, unterhalb der Iris mehr vom Weißen des Auges sichtbar werden oder sich das Lid nach außen drehen. Die meisten Fälle bessern sich mit Massage und Tape-Verbänden; bleibt der Zustand bestehen, kann er zu trockenen und tränenden Augen führen, und eine **Korrekturoperation** kann erforderlich sein."
+    - name: "Asymmetrie sowie Unter- oder Überkorrektur"
+      text: "Zwischen beiden Augenlidern können Unterschiede in Höhe oder Form der Lidfalte bestehen bleiben; wird zu viel Haut entfernt, kann der Lidschluss erschwert sein, und wird zu viel Fett entfernt, kann ein eingefallenes Aussehen entstehen. Ein Korrektureingriff kann erforderlich sein."
+    - name: "Veränderung der Form des Augenwinkels"
+      text: "Wenn eine Lidstützung (Kanthopexie/Kanthoplastik) durchgeführt wird, kann der äußere Augenwinkel eine Zeit lang straff, nach oben gezogen oder abgerundet wirken oder sich zwischen beiden Seiten unterscheiden. Meist gleicht sich dies im Laufe einiger Wochen bis Monate mit dem Abklingen der Schwellung aus; selten ist eine Korrektur nötig."
+    - name: "Sichtbarwerden eines hängenden Oberlids (Ptosis)"
+      text: "Eine Schwäche des Lidhebermuskels, die zuvor durch die überschüssige Haut verdeckt war, kann nach der Operation sichtbar werden; sie muss gegebenenfalls in einer gesonderten Operation korrigiert werden."
+    - name: "Auffällige oder verdickte Narbe"
+      text: "Lidhaut heilt in der Regel sehr gut; selten kann die Narbe sichtbar bleiben oder sich am inneren Augenwinkel eine feine Hautfalte (Narbensegel, „Webbing“) bilden."
+    - name: "Nachblutung und Blutansammlung (Hämatom)"
+      text: "Eine Blutansammlung unter der Haut tritt bei etwa **1 von 100** Patienten auf; sie bildet sich meist von selbst zurück, muss aber bei größerem Ausmaß unter Umständen entleert werden."
+    - name: "Infektion"
+      text: "Da die Augenlider sehr gut durchblutet sind, sind Infektionen selten (**weniger als 1 von 100**); tritt eine Infektion auf, wird sie mit Antibiotika behandelt."
+  rare:
+    - name: "Blutung hinter dem Auge und Sehverlust"
+      text: "Dies ist die schwerwiegendste, aber sehr seltene Komplikation. Eine Blutung hinter dem Auge tritt bei etwa **1 von 2.000** Patienten auf und kann auf den Sehnerv drücken. Wird sie nicht rasch erkannt und als Notfall behandelt (Öffnen der Nähte, Entleeren des Blutes, Medikamente, Notoperation), kann sie zu einem **dauerhaften Sehverlust** führen. Ein dauerhafter Sehverlust wurde bei etwa **1 von 10.000–40.000** Patienten oder seltener beschrieben. Deshalb sind die Warnzeichen in den ersten 48 Stunden so wichtig."
+    - name: "Doppelbilder"
+      text: "Entstehen durch eine Beeinträchtigung eines kleinen Augenmuskels (Musculus obliquus inferior) bei einer Unterlidoperation; sie sind meist vorübergehend, sehr selten dauerhaft und können eine weitere Behandlung oder Operation erfordern."
+    - name: "Hornhautkratzer oder Hornhautgeschwür"
+      text: "Auf der durchsichtigen vorderen Augenoberfläche kann ein Kratzer entstehen, der Schmerzen, ein Fremdkörpergefühl und Tränen verursacht; er heilt meist mit Tropfen innerhalb weniger Tage ab. Sehr selten kann eine längerfristige augenärztliche Behandlung erforderlich sein."
+    - name: "Störungen des Tränenabflusses"
+      text: "Tränende Augen infolge einer Beeinträchtigung der Tränenwege sind sehr selten."
+    - name: "Psychische Unzufriedenheit"
+      text: "Trotz eines technisch erfolgreichen Ergebnisses kann es einem Menschen schwerfallen, sich an sein neues Aussehen zu gewöhnen. Ein offenes Gespräch über die Erwartungen vor der Operation verringert dieses Risiko."
+
+emergency:
+  - "**Starke, zunehmende Schmerzen im Auge**, besonders auf einer Seite"
+  - "**Hervortreten des Auges** oder rasch zunehmende, pralle Schwellung und Blutergüsse der Augenlider"
+  - "**Nachlassendes Sehvermögen**, Verdunkelung des Sehens, Doppelbilder oder eingeschränkte Augenbeweglichkeit"
+  - "Augenschmerzen zusammen mit Übelkeit oder Erbrechen"
+  - "**Fieber über 38,5 °C**, zunehmende Rötung, Absonderung oder Schmerzen am Schnitt"
+  - "Ausgeprägte Lichtempfindlichkeit und ein Fremdkörpergefühl, das nicht vergeht"
+  - "**Wenn eines dieser Zeichen in den ersten 48 Stunden auftritt, zählt jede Minute: Rufen Sie sofort an oder suchen Sie die nächstgelegene Notaufnahme auf.**"
+
+lifestyle:
+  - "Legen Sie in den ersten 48 Stunden in regelmäßigen Abständen kalte Kompressen auf; schlafen Sie auf dem Rücken mit erhöhtem Kopf."
+  - "Reiben Sie sich nicht die Augen. Vermeiden Sie in den ersten Tagen schweres Heben, Bücken, Pressen und Aktivitäten, die das Blutungsrisiko erhöhen."
+  - "Wenden Sie die Ihnen gegebenen Augentropfen und Salben so oft wie empfohlen an; wenn sich Ihre Augen nicht vollständig schließen, tragen Sie die Salbe für die Nacht unbedingt auf."
+  - "In der Regel sollten Sie 2 Wochen lang keine Kontaktlinsen und 1–2 Wochen lang kein Augen-Make-up tragen. Tragen Sie im Freien eine Sonnenbrille und legen Sie bei der Bildschirmarbeit häufig Pausen ein."
+  - "Wenn Sie aus dem Ausland angereist sind, ist eine Flugreise in der Regel nach dem Ziehen der Fäden (5.–7. Tag) unbedenklich."
+
+declarations_extra:
+  - "Ich habe verstanden, dass eine Blepharoplastik allein keine tief stehenden Augenbrauen, kein herabhängendes Oberlid infolge einer Schwäche des Lidhebermuskels, keine feinen Fältchen und keine dunkle Verfärbung unter den Augen korrigiert."
+  - "Ich habe verstanden, dass ich **sofort** ärztliche Hilfe in Anspruch nehmen muss, wenn in den ersten 48 Stunden nach der Operation starke Augenschmerzen, eine Schwellung oder ein nachlassendes Sehvermögen auftreten."

@@ -4,6 +4,7 @@ import { buildMetadata } from '@/i18n/metadata';
 import { breadcrumbJsonLd, faqJsonLd } from '@/lib/schema';
 import JsonLd from '../../components/JsonLd';
 import ProcedureIcon from '../../components/ProcedureIcon';
+import ConsentBand from '../../components/ConsentBand';
 import styles from './rinoplasti.module.css';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
@@ -172,6 +173,8 @@ export default function Rinoplasti() {
       </section>
 
       {/* Final CTA */}
+      <ConsentBand slugs={['rinoplasti']} />
+
       <section className={styles.finalCta}>
         <div className={`container ${styles.finalInner}`}>
           <h2>{t('finalTitle')}</h2>

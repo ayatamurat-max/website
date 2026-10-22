@@ -1,0 +1,114 @@
+code: "16"
+type: office
+aesthetic: true
+title: "Mezoterapi"
+alt_name: "Cilde veya saçlı deriye mikro enjeksiyonlarla bakım/onarım ürünü uygulanması"
+
+specific_fields:
+  - label: "Ürün adı / içeriği:"
+  - label: "LOT no / son kullanma tarihi:"
+  - label: "Uygulama bölgesi:"
+    options: ["Yüz", "Boyun", "Saçlı deri", "Göz altı", "Diğer"]
+  - label: "Teknik:"
+    options: ["Manuel (iğne ile)", "Mezoterapi tabancası", "Dermaroller / mikroiğne"]
+  - label: "Seans no / planlanan seans sayısı:"
+
+about:
+  - "Mezoterapi, cildin veya saçlı derinin yüzeysel tabakalarına çok ince iğnelerle, küçük miktarlarda **hyalüronik asit, vitamin, mineral, amino asit** gibi içerikler veren ürünlerin uygulanmasıdır. Amaç, cildin nem ve canlılığını artırmak, ince çizgilerin, matlığın, göz altı yorgunluğunun görünümünü azaltmak veya saç dökülmesinde saçlı derinin bakımını desteklemektir."
+  - "Cilt ve saç kalitesi yaş, güneş, sigara, stres, hormonlar ve genetik yapıdan etkilenir. Mezoterapi bu süreçleri durdurmaz; **destekleyici** bir bakım yöntemidir. Sizin için hangi ürünün ve kaç seansın uygun olduğu muayene sonrası birlikte belirlenir."
+
+procedure_intro:
+  - "İşlem muayenehanede, steril koşullarda yapılır. Yalnızca **Türkiye'de ruhsatlı/kayıtlı, steril ve orijinal ambalajında** açılan ürünler kullanılır; kullanılan ürünün adı ve LOT numarası dosyanıza kaydedilir."
+procedure_steps:
+  - "**Hazırlık:** Bölge fotoğraflanır, makyaj temizlenir ve cilt antiseptik solüsyonla silinir. İsteğe bağlı olarak 20–30 dakika uyuşturucu krem uygulanabilir."
+  - "**Uygulama:** Ürün çok ince iğneyle, elle, mezoterapi tabancasıyla veya mikroiğne cihazıyla cildin yüzeyel tabakasına çok sayıda küçük nokta hâlinde verilir."
+  - "**Bitiş:** Bölge temizlenir; gerekirse kısa süre soğuk uygulama yapılır. Size işlem sonrası bakım önerileri verilir."
+procedure_notes:
+  - "Etki genellikle tek seansla değil, **birkaç seanslık bir kür** sonrasında belirginleşir. Çoğu protokolde 2–4 hafta arayla 3–6 seans, ardından birkaç ayda bir idame seansı önerilir."
+anesthesia: "Uyuşturucu krem (isteğe bağlı)"
+duration: "Yaklaşık 20–40 dakika"
+stay: "Aynı gün; işlem sonrası kısa gözlem"
+
+benefits:
+  - "Cildin daha nemli, parlak ve canlı görünmesi; ince çizgilerin daha az belirgin olması"
+  - "Göz altında yorgun görünümün hafiflemesi"
+  - "Saç dökülmesinde saçlı derinin beslenmesine ve saç kalitesine destek"
+success:
+  - "Sonuçlar kişiden kişiye belirgin şekilde değişir. Mezoterapinin bilimsel kanıt düzeyi kullanılan ürüne ve uygulama amacına göre farklıdır: hyalüronik asit içerikli cilt kalitesi uygulamaları daha iyi incelenmişken, bazı kokteyller için veriler sınırlıdır. Etki kalıcı değildir; sürdürmek için düzenli tekrar gerekir. Belirli bir sonuç garanti edilemez."
+
+alternatives:
+  - "**Hiçbir işlem yaptırmamak** veya yalnızca düzenli cilt bakımı, güneşten korunma ve sağlıklı yaşam önerileriyle devam etmek"
+  - "**Topikal ürünler:** Retinoid, C vitamini, nemlendirici içerikli kremler; saç dökülmesinde hekim önerisiyle minoksidil gibi ilaçlar"
+  - "**Diğer işlemler:** PRP, cilt kalitesi için tasarlanmış hyalüronik asit uygulamaları, kimyasal peeling, lazer veya mikroiğne tedavileri"
+  - "Saç dökülmesinde altta yatan nedenin (demir/tiroid eksikliği, hormonal nedenler) araştırılması ve tedavisi"
+
+no_treatment:
+  - "Mezoterapi yapılmazsa cildiniz veya saçınız doğal seyrini sürdürür. Bu tamamen estetik/destekleyici bir uygulama olduğundan yaptırmamanın sağlığınız açısından bir zararı yoktur."
+
+before:
+  - "İşlemden önceki 1 hafta içinde mümkünse aspirin, ağrı kesici (ibuprofen vb.), omega-3, E vitamini gibi morarmayı artırabilecek ürünleri hekiminize danışarak bırakınız."
+  - "İşlem bölgesinde aktif sivilce, uçuk, egzama veya enfeksiyon varsa işlem ertelenir."
+  - "Son 2 hafta içinde aynı bölgeye dolgu, botoks, lazer veya peeling yapıldıysa bildiriniz."
+  - "Hamilelik ve emzirme döneminde mezoterapi uygulanmaz."
+
+recovery:
+  - when: "İlk saatler"
+    what: "Uygulama noktalarında küçük kabarcıklar (papül), kızarıklık ve hafif ödem olur; genellikle birkaç saat içinde azalır. İğne noktalarında küçük kanama izleri görülebilir."
+  - when: "İlk 24 saat"
+    what: "Makyaj yapmayınız, bölgeye ovalayarak dokunmayınız. Sauna, hamam, solaryum, yoğun egzersiz ve doğrudan güneşten kaçınınız. Saçlı deri uygulamasında saçınızı ertesi gün yıkayabilirsiniz."
+  - when: "2–7. günler"
+    what: "Morarma **olursa** 3–7 günde çekilir. Hafif kabarıklıklar ve hassasiyet tamamen geçer. Güneş koruyucu kullanmaya devam ediniz."
+  - when: "Kür süresince"
+    what: "Seanslar genellikle 2–4 hafta arayla tekrarlanır. Etki çoğunlukla 2.–3. seanstan sonra fark edilir."
+  - when: "Kür sonrası"
+    what: "Elde edilen etki zamanla azalır; korumak için birkaç ayda bir idame seansı planlanabilir."
+
+risks:
+  expected:
+    - "İğne batışına bağlı hafif ağrı veya yanma"
+    - "Uygulama noktalarında küçük kabarcıklar, kızarıklık ve hafif şişlik (birkaç saat–1 gün)"
+    - "İğne noktalarında küçük kanama izleri ve hassasiyet"
+  common:
+    - name: "Morarma"
+      text: "Özellikle göz altı gibi ince ciltli bölgelerde sıktır; 3–7 günde kendiliğinden geçer, makyajla kapatılabilir."
+    - name: "Uzayan şişlik veya kızarıklık"
+      text: "Göz altında şişlik birkaç gün sürebilir. Soğuk uygulama ve başı yüksekte tutarak yatmak yardımcı olur."
+    - name: "Beklenen etkinin az olması"
+      text: "Bazı kişilerde fark edilir bir değişiklik olmayabilir veya etki kısa sürebilir."
+  uncommon:
+    - name: "Geçici saç dökülmesi artışı"
+      text: "Saçlı deri uygulamalarından sonra ilk haftalarda geçici bir dökülme artışı görülebilir; genellikle kendiliğinden düzelir."
+    - name: "Alerjik veya iltihabi reaksiyon"
+      text: "Üründeki bir içeriğe karşı kaşıntı, kızarıklık, kurdeşen veya uzun süren şişlik gelişebilir. Genellikle ilaçla tedavi edilir."
+    - name: "Renk değişikliği (hiperpigmentasyon)"
+      text: "Özellikle esmer ciltlerde ve güneşe maruz kalınırsa iğne noktalarında koyulaşma görülebilir; genellikle aylar içinde açılır."
+    - name: "Küçük sertlikler (nodül)"
+      text: "Elle hissedilen küçük sertlikler oluşabilir; çoğu birkaç hafta içinde kaybolur."
+  rare:
+    - name: "Enfeksiyon"
+      text: "Bakteriyel enfeksiyon nadirdir. Özellikle steril olmayan veya ruhsatsız ürünlerle ilişkili olarak bildirilen **atipik mikobakteri enfeksiyonu**, işlemden haftalar sonra ağrılı, kızarık, akıntılı sertlikler şeklinde ortaya çıkabilir; uzun süreli antibiyotik tedavisi ve bazen cerrahi boşaltma gerektirebilir ve iz bırakabilir. Bu riski azaltmak için yalnızca ruhsatlı, steril ürünler kullanılır."
+    - name: "Yağ dokusu iltihabı (pannikülit) veya granülom"
+      text: "Derin dokuda ağrılı sertlik veya kızarıklıkla seyreden, uzun süren ve tedavi gerektiren nadir bir reaksiyondur."
+    - name: "Kalıcı iz veya renk değişikliği"
+      text: "Enfeksiyon veya ciddi reaksiyon sonrasında çok nadiren kalıcı iz, çukurluk veya renk farkı kalabilir."
+    - name: "Damar tıkanıklığı"
+      text: "Özellikle hyalüronik asit içeren ürünlerde, maddenin bir damarın içine girmesi veya damara bası yapmasıyla **son derece nadir** olarak ciltte beslenme bozukluğu ve kalıcı iz bildirilmiştir. Ani şiddetli ağrı, ciltte beyazlaşma veya morumsu ağsı renk değişikliği olursa hemen haber veriniz; erken tedavi çok önemlidir."
+    - name: "Ciddi alerjik reaksiyon (anafilaksi)"
+      text: "Çok nadirdir; nefes darlığı, yaygın döküntü ve tansiyon düşüklüğüyle seyreder ve acil tedavi gerektirir."
+
+emergency:
+  - "Uygulama bölgesinde **giderek artan ağrı, kızarıklık, sıcaklık, şişlik veya iltihaplı akıntı**"
+  - "**38 °C üzerinde ateş**"
+  - "İşlemden **günler veya haftalar sonra** ortaya çıkan ağrılı, kızarık veya akıntılı sertlikler"
+  - "Yüzde, dudakta veya dilde şişme, **nefes darlığı**, yaygın kaşıntılı döküntü"
+  - "Ciltte beyazlaşma, morumsu ağsı renk değişikliği veya şiddetli ağrı"
+
+lifestyle:
+  - "İlk 24 saat makyaj yapmayınız; sauna, hamam, solaryum, yoğun spor ve havuzdan uzak durunuz."
+  - "Kür süresince her gün yüksek faktörlü güneş koruyucu kullanınız."
+  - "İlk 2–3 gün bölgeye peeling, retinol veya asit içeren ürünler uygulamayınız."
+  - "Daha sonra aynı bölgeye başka bir işlem (dolgu, lazer vb.) yaptıracaksanız, uygulayan hekime mezoterapi olduğunuzu bildiriniz."
+
+declarations_extra:
+  - "Kullanılacak ürünün adı ve içeriği bana söylendi; yalnızca ruhsatlı ve steril ürün kullanılacağı ve ürün bilgisinin dosyama kaydedileceği bana açıklandı."
+  - "Etkinin kişiden kişiye değiştiğini, birkaç seans gerekebileceğini ve sonucun kalıcı olmadığını anladım."

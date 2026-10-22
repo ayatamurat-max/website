@@ -1,0 +1,179 @@
+meta:
+  date: "22.10.2026"
+  rev: "00"
+
+clinic:
+  brand: "Op. Dr. Murat Ayata"
+  title: "Kulak Burun Boğaz ve Baş Boyun Cerrahisi Uzmanı"
+  name: "Op. Dr. Murat Ayata Muayenehanesi"
+  doctor: "Op. Dr. Murat Ayata"
+  address: "Karacaibrahim Mah. Dereüstü Sk., Merkez / Kırklareli"
+  tel: "0288 502 50 20"
+  whatsapp: "0555 333 21 20"
+  email: "info@muratayata.com"
+  web: "www.muratayata.com"
+
+labels:
+  doc_title: "Aydınlatılmış Onam Formu"
+  tel: "Tel"
+  doc_no: "Doküman No"
+  pub_date: "Yayın Tarihi"
+  rev: "Rev."
+  page: "Sayfa"
+  initials_patient: "Hasta/Temsilci paraf"
+  initials_doctor: "Hekim paraf"
+  patient_info: "Hasta ve işlem bilgileri"
+  performing_doctor: "İşlemi yapacak ve bilgilendiren hekim"
+  place: "İşlemin yapılacağı sağlık kuruluşu:"
+  place_office: "Uygulama yeri:"
+  anesthesia: "Anestezi"
+  duration: "Tahmini süre"
+  stay: "Hastanede kalış / taburculuk"
+  name: "Adı Soyadı"
+  signature: "İmza"
+  datetime: "Tarih / Saat"
+  minor_title: "18 yaşından küçük veya karar verme yetisi kısıtlı hastalar için"
+  child_opinion: "Çocuğun yaşına uygun şekilde bilgilendirildiği ve görüşü:"
+  withdraw_title: "Onamın geri alınması (yalnızca vazgeçilmesi hâlinde doldurulur)"
+  withdraw_sign: "Vazgeçen hasta/temsilci adı soyadı, imza, tarih, saat:"
+
+sections:
+  about: "Durumunuz ve işlemin amacı"
+  procedure: "İşlem nasıl yapılır?"
+  benefits: "Beklenen faydalar ve başarı şansı"
+  alternatives: "Diğer tedavi seçenekleri"
+  no_treatment: "İşlem yapılmazsa ne olur?"
+  before: "İşlem öncesi hazırlık"
+  recovery: "İyileşme süreci: sizi neler bekliyor?"
+  risks: "Olası riskler ve komplikasyonlar"
+  emergency: "Hemen bize ulaşmanız gereken durumlar"
+  lifestyle: "İlaçlar ve günlük yaşam ile ilgili öneriler"
+  intraop: "İşlem sırasında beklenmeyen durumlar, doku örnekleri ve kan ürünleri"
+  photo: "Fotoğraf, görüntü kayıtları ve kişisel verileriniz"
+  individual: "Size özel bilgiler ve notlar (hekim tarafından doldurulur)"
+  declaration: "Hasta beyanı"
+  signatures: "İmzalar"
+
+intro:
+  - "Değerli hastamız, bu form size önerilen işlem hakkında bilmeniz gerekenleri **sade ve anlaşılır** bir dille anlatmak için hazırlanmıştır. Amacı sizi korkutmak değil, kararınızı **bilgiye dayanarak ve özgürce** vermenize yardımcı olmaktır."
+  - "Formu acele etmeden okuyunuz. Anlamadığınız her noktayı hekiminize sorunuz. Hekiminiz sizin durumunuza özel riskleri ayrıca sözlü olarak da açıklayacaktır. Onay vermek ya da vermemek tamamen sizin hakkınızdır."
+
+patient_fields:
+  - "Adı Soyadı:"
+  - "Doğum tarihi:"
+  - "T.C. Kimlik / Pasaport:"
+  - "Dosya / Protokol No:"
+  - "Telefon:"
+  - "Bilgilendirme tarihi:"
+  - "Planlanan işlem tarihi:"
+  - "Form hastaya ilk iletildi (tarih / e-posta, WhatsApp, elden):"
+
+refusal_right:
+  - "Önerilen işlemi kabul etmeme, ertelemek isteme veya ikinci bir hekim görüşü alma hakkınız vardır. Bu kararınız, size sunulan diğer sağlık hizmetlerini hiçbir şekilde olumsuz etkilemez. Verdiğiniz onayı, işlem başlamadan önce istediğiniz zaman geri alabilirsiniz; ancak işlem başladıktan sonra tıbben durdurulması sakıncalı olabilecek aşamalar olabileceğini de bilmenizi isteriz."
+
+before_common:
+  - "Kullandığınız **tüm ilaçları** (kan sulandırıcılar, aspirin, ağrı kesiciler, kilo verme ilaçları, hormon ilaçları dahil), **bitkisel ürünleri ve takviyeleri** (omega-3, E vitamini, ginkgo, sarımsak, ginseng, balık yağı gibi) hekiminize bildiriniz. Hekiminizin onayı olmadan kendi kendinize hiçbir ilacı kesmeyiniz."
+  - "Bilinen **alerjilerinizi**, kanama veya pıhtılaşma sorunlarınızı, kalp, akciğer, şeker, tansiyon, tiroid gibi hastalıklarınızı, daha önce geçirdiğiniz ameliyatları ve anesteziyle ilgili sorunları mutlaka belirtiniz."
+  - "Hamilelik ihtimaliniz varsa veya emziriyorsanız işlemden önce mutlaka söyleyiniz."
+  - "Sigara ve nikotin ürünleri yara iyileşmesini belirgin şekilde bozar. Mümkünse işlemden en az 2–4 hafta önce bırakmanız ve iyileşme süresince içmemeniz önerilir."
+
+risk_intro:
+  - "Her tıbbi işlemde olduğu gibi bu işlemin de bazı riskleri vardır. Aşağıda **beklenen geçici etkiler** ile **komplikasyonlar** ayrı ayrı ve görülme sıklıklarına göre gruplandırılmıştır. Verilen oranlar bilimsel yayınlara dayanan **yaklaşık** değerlerdir; sizin kişisel riskiniz yaşınıza, genel sağlığınıza, sigara kullanımına ve daha önce geçirdiğiniz ameliyatlara göre daha düşük ya da daha yüksek olabilir."
+  - "Komplikasyonların büyük çoğunluğu **geçicidir** ve uygun tedaviyle düzelir. Listede çok nadir görülen ciddi durumlara da yer verilmiştir; bunların yazılmış olması sizde görüleceği anlamına gelmez, ancak bilgilenmiş karar verebilmeniz için bilmeniz gerekir."
+
+risk_tiers:
+  expected: "Beklenen, geçici etkiler (komplikasyon sayılmaz; iyileşmenin doğal parçasıdır)"
+  common: "Sık görülen durumlar (çoğu geçicidir veya tedaviyle düzelir)"
+  uncommon: "Seyrek görülen durumlar"
+  rare: "Nadir veya çok nadir, ancak ciddi olabilecek durumlar"
+  general: "Her cerrahi / tıbbi girişim için geçerli genel riskler"
+
+general_risks_surgical:
+  - "**Anestezi riskleri:** Genel anestezi veya sedasyon uygulanacaksa riskleri (bulantı, boğaz ağrısı, diş hasarı, alerjik reaksiyon, çok nadiren kalp-akciğer sorunları) anestezi uzmanı tarafından ayrıca anlatılır ve **ayrı bir anestezi onam formu** ile onayınız alınır."
+  - "**Kanama ve kan nakli:** Bu işlemlerde kan nakli ihtiyacı çok nadirdir. Ciddi bir kanamada kan veya kan ürünü verilmesi gerekebilir; bunun da kendine özgü (alerji, enfeksiyon gibi) çok nadir riskleri vardır."
+  - "**Enfeksiyon:** Ameliyat sonrası yara enfeksiyonu genellikle antibiyotikle tedavi edilir; nadiren drenaj (iltihabın boşaltılması) gerekebilir."
+  - "**Bacak toplardamarlarında pıhtı (DVT) ve akciğere pıhtı atması (pulmoner emboli):** Kısa süren baş-boyun ameliyatlarında çok nadirdir. Erken hareket etmek riski azaltır. Hormon ilacı kullanımı, sigara, obezite ve önceki pıhtı öyküsü riski artırır."
+  - "**İlaç alerjisi:** Kullanılan ilaçlara, antiseptiklere, banda veya dikiş materyaline karşı alerjik reaksiyon gelişebilir."
+  - "**Yara izi ve iyileşme sorunları:** Kişiden kişiye değişen iz oluşumu; çok nadiren kalın (hipertrofik) iz veya keloid gelişebilir."
+  - "**Hayati risk:** Günümüzde planlı baş-boyun cerrahisinde ölüm son derece nadirdir; ancak hiçbir cerrahi girişimin riski tamamen sıfır değildir. Ciddi bir komplikasyon hâlinde yoğun bakım tedavisi gerekebilir ve kalıcı sakatlık gelişebilir."
+
+general_risks_office:
+  - "**Bayılma hissi (vazovagal reaksiyon):** İğne veya kan alma sırasında baş dönmesi, terleme ve kısa süreli bayılma olabilir; uzanarak kısa sürede geçer."
+  - "**Enfeksiyon:** Cilt temizliği ve steril malzemeyle risk çok düşüktür; gelişirse genellikle antibiyotikle tedavi edilir."
+  - "**Alerjik reaksiyon:** Kullanılan ürüne, lokal anesteziğe veya antiseptiğe karşı hafif kızarıklıktan çok nadiren ciddi alerjik reaksiyona (anafilaksi) kadar değişebilir. Muayenehanemizde acil müdahale ekipmanı ve ilaçları bulunur."
+  - "**Uçuk (herpes) aktivasyonu:** Daha önce uçuk geçirdiyseniz işlem bölgesinde yeniden ortaya çıkabilir; lütfen bildiriniz."
+  - "**Beklentiyi karşılamayan sonuç:** Etki derecesi ve süresi kişiden kişiye değişir; ek seans veya düzeltme uygulaması gerekebilir."
+
+risk_outro:
+  - "Bu liste mümkün olan tüm komplikasyonları kapsamaz; tıpta öngörülemeyen, çok nadir başka durumlar da ortaya çıkabilir. Bir komplikasyon gelişirse, gerekli tedavi ve takip hekiminiz tarafından planlanır; bu durum ek tedavi, ilaç, girişim veya yeniden ameliyat gerektirebilir."
+
+emergency_call: "Bu durumlardan biri olursa bekletmeden hekiminizi arayınız: 0288 502 50 20 · WhatsApp 0555 333 21 20. Ulaşamazsanız en yakın acil servise başvurunuz veya 112'yi arayınız."
+
+lifestyle_common:
+  - "Size reçete edilen ilaçları (antibiyotik, ağrı kesici vb.) önerilen doz ve sürede kullanınız. Aspirin ve benzeri kanamayı artırabilecek ilaçları hekiminize danışmadan kullanmayınız."
+  - "Ameliyat sonrası 4 saatten uzun uçak veya kara yolculuğunda bol su için, sık sık hareket edin ve önerildiyse varis çorabı kullanın; bu, bacakta pıhtı riskini azaltır."
+  - "İyileşme sürecinde alkol almamanız, sigara ve nikotin ürünlerinden uzak durmanız önerilir."
+  - "Kontrol randevularınıza mutlaka geliniz. Yurt dışından geldiyseniz dönüşünüzden sonra kontroller online görüşme ve fotoğraf/video ile sürdürülebilir; yerel bir hekime başvurmanız gerekirse size ameliyat raporu ve önerilerimiz yazılı olarak verilir."
+
+intraop:
+  - "İşlem sırasında önceden öngörülemeyen bir durumla karşılaşılırsa, hekiminiz yalnızca bu formda onay verdiğiniz işlemin kapsamında kalır. **Hayati tehlike veya ciddi organ zararı riski** olmadıkça onay vermediğiniz ek bir işlem yapılmaz; böyle bir durumda işlem uygun noktada sonlandırılır ve size sonradan bilgi verilerek karar birlikte alınır. Hayati tehlike durumunda ise hayatınızı veya organınızı korumak için gerekli acil müdahale yapılır."
+  - "İşlem sırasında çıkarılan dokular, gerekli görüldüğünde tanının kesinleştirilmesi için **patolojik incelemeye** gönderilir. Bu inceleme sonucuna göre ek tedavi veya takip gerekebilir."
+  - "Kan nakli ihtiyacı bu işlemlerde çok nadirdir; yalnızca hayati gerekliliği olan durumlarda uygulanır. Kan veya kan ürünü almayı kabul etmiyorsanız (örneğin inanç nedeniyle) bunu işlemden önce mutlaka bildiriniz; bu kararın olası sonuçları sizinle ayrıca konuşulur ve “Size özel bilgiler” bölümüne yazılır."
+
+photo_intro:
+  - "Tedavinizin planlanması, takibi ve sonucun değerlendirilmesi amacıyla işlem öncesinde ve sonrasında **fotoğraf/video** çekilebilir. Bu kayıtlar sağlık dosyanızın parçasıdır ve gizli tutulur. Görüntüleriniz **hiçbir koşulda reklam, tanıtım veya sosyal medya amacıyla kullanılmaz.**"
+  - "Görüntülerinizin bunun dışındaki amaçlarla kullanılması **yalnızca sizin ayrı ve açık izninizle** mümkündür. İzin vermemeniz tedavinizi hiçbir şekilde etkilemez ve verdiğiniz izni dilediğiniz zaman geri alabilirsiniz:"
+
+photo_options:
+  - "Görüntülerimin yalnızca **tıbbi kayıt ve tedavi takibi** amacıyla kullanılmasını kabul ediyorum."
+  - "Görüntülerimin **kimliğim anlaşılmayacak şekilde** (yüz/göz bölgesi kapatılarak) bilimsel yayın ve hekim eğitimi amacıyla kullanılmasına izin veriyorum."
+  - "Görüntülerimin **kimliğim anlaşılabilecek şekilde** bilimsel yayın ve hekim eğitimi amacıyla kullanılmasına izin veriyorum."
+  - "Bilimsel/eğitim amaçlı kullanıma **izin vermiyorum.**"
+
+kvkk:
+  - "Kişisel ve sağlık verileriniz 6698 sayılı Kişisel Verilerin Korunması Kanunu ve ilgili sağlık mevzuatı kapsamında, tanı, tedavi ve yasal yükümlülükler amacıyla, sır saklama yükümlülüğü altındaki kişilerce işlenir. Ayrıntılı bilgi için KVKK Aydınlatma Metnimizi inceleyebilirsiniz."
+
+individual_hint: "Hastaya özgü ek riskler (eşlik eden hastalıklar, kullanılan ilaçlar, önceki ameliyatlar), planın ayrıntıları, hastanın beklentisi, sorduğu sorular ve verilen cevaplar. Boş kalacaksa “yoktur” yazılır."
+
+declarations:
+  - "Bu formu kendi dilimde okudum, anladım. Yeterli düşünme süresi tanındı; sorularımı sorma fırsatı buldum ve tatmin edici yanıtlar aldım."
+  - "Durumum, önerilen işlemin amacı, nasıl yapılacağı, kim tarafından ve nerede yapılacağı, tahmini süresi, beklenen faydaları, başarı şansı, alternatifleri ve işlem yapılmazsa olabilecekler bana sözlü ve yazılı olarak açıklandı."
+  - "Sık görülen ve ciddi olabilecek riskler ile bu komplikasyonların olası sonuçları (ek tedavi, yeniden işlem/ameliyat gerekebileceği dahil) bana anlatıldı. Tıpta hiçbir işlemin sonucunun **%100 garanti edilemeyeceğini** biliyorum."
+  - "Sağlık durumum, kullandığım ilaçlar, alerjilerim ve geçirdiğim hastalıklar hakkında doğru ve eksiksiz bilgi verdim. Eksik veya yanlış bilgi vermemin riskleri artırabileceğini biliyorum."
+  - "İşlem öncesi ve sonrasında verilecek talimatlara uymamın sonucun bir parçası olduğunu ve kontrol randevularına gelmenin önemini anladım."
+  - "Onayımı işlem başlamadan önce istediğim zaman geri alabileceğimi biliyorum. Bu formu imzalamamın, hekimin özen yükümlülüğünü ortadan kaldırmadığını biliyorum."
+  - "Bu kararı kimsenin baskısı olmadan, kendi özgür irademle veriyorum."
+
+declarations_aesthetic:
+  - "Bu işlemin **estetik amaçlı** olduğunu, tıbben zorunlu olmadığını ve yaptırmama seçeneğimin her zaman bulunduğunu biliyorum. Beklentilerimi hekimimle konuştum; ulaşılabilecek gerçekçi sonuç bana anlatıldı."
+  - "Kusursuz simetri veya bir fotoğraftaki görünümün aynısının garanti edilemeyeceğini, nihai sonucun dokularımın iyileşme özelliklerine bağlı olduğunu ve bazı durumlarda düzeltme işlemi gerekebileceğini anladım."
+
+decision_options:
+  - "Yukarıda açıklanan işlemin bana uygulanmasına **ONAY VERİYORUM.**"
+  - "Yukarıda açıklanan işlemi **KABUL ETMİYORUM.** Reddetmenin olası sonuçları bana anlatıldı."
+
+handwritten_hint: "Hasta tarafından kendi el yazısıyla yazılması önerilir: “Bu formu okudum, anladım, onay veriyorum.”"
+
+sign_rows:
+  - "Hasta"
+  - "Yasal temsilci (veli / vasi) — yakınlığı:"
+  - "Bilgilendiren ve işlemi yapacak hekim"
+  - "Tercüman (gerekirse) — dil:"
+  - "Tanık (gerekirse)"
+
+interpreter_text: "Tercüman beyanı: Bu formu ve hekimin sözlü açıklamalarını hastaya / yasal temsilciye eksiksiz ve doğru olarak, anladığı dilde tercüme ettim."
+
+minor_text:
+  - "18 yaşından küçük hastalarda onam, **veli veya vasi** tarafından verilir. Çocuk, yaşı ve olgunluğuyla uyumlu biçimde bilgilendirilir ve görüşü alınır. Kısıtlı hastalarda onamı yasal temsilci verir."
+
+minor_checks:
+  - "Velayeti birlikte kullanıyorsak, diğer ebeveynin de bu işlemden haberdar olduğunu ve onay verdiğini beyan ederim."
+  - "Velayet / vesayet konusunda bir mahkeme kararı veya anlaşmazlık bulunmadığını beyan ederim (varsa hekime belgesi gösterilmiştir)."
+
+copies:
+  - "Bu form iki nüsha olarak düzenlenmiştir: bir nüshası hasta dosyasında saklanır, bir nüshası hastaya / yasal temsilciye verilir."
+
+withdraw_text:
+  - "Yukarıda verdiğim onayı geri alıyorum. Vazgeçmemin olası sonuçları bana açıklandı."
+
+final_note: "Bu form, T.C. Hasta Hakları Yönetmeliği ve Türk Tabipleri Birliği Aydınlatılmış Onam ilkeleri esas alınarak hazırlanmıştır. Sözlü bilgilendirmenin yerini tutmaz, onu tamamlar."

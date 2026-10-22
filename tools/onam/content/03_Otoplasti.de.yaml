@@ -1,0 +1,113 @@
+code: "03"
+type: surgical
+aesthetic: true
+title: "Otoplastik"
+alt_name: "Operation zur Korrektur abstehender Ohren (Ohranlegeplastik)"
+
+specific_fields:
+  - label: "Seite:"
+    options: ["Rechts", "Links", "Beidseits"]
+    blank: false
+  - label: "Art der Betäubung:"
+    options: ["Vollnarkose", "Örtliche Betäubung", "Örtliche Betäubung + Sedierung"]
+    blank: false
+  - label: "Zu korrigierende Bereiche / Erwartungen der Patientin / des Patienten:"
+
+about:
+  - "Abstehende Ohren sind Ohren, die in einem größeren Winkel als üblich vom Kopf abstehen oder bei denen sich die natürliche Falte des Ohrknorpels (Anthelix) nicht ausgebildet hat. Die Veränderung ist meist angeboren, gesundheitlich unbedenklich und beeinträchtigt das Hören nicht. Vor allem im Kindes- und Jugendalter kann sie jedoch zu Hänseleien, Verlust des Selbstvertrauens und sozialen Ängsten führen."
+  - "Ziel der Otoplastik ist es, die Ohren näher an den Kopf zu bringen, sodass sie **natürlich** und auf beiden Seiten möglichst **ausgewogen** aussehen. Da die Ohrmuschel mit etwa 5–6 Jahren den größten Teil ihrer Erwachsenengröße erreicht, kann die Operation **ab einem Alter von 5–6 Jahren** durchgeführt werden; ein Eingriff vor dem Schulalter kann verhindern, dass das Kind sozial belastet wird. Soll Ihr Kind operiert werden, ist es wichtig, seine eigenen Wünsche und seine Bereitschaft zu berücksichtigen."
+
+procedure_intro:
+  - "Die Operation wird im Operationssaal durchgeführt. Bei Kindern wird meist eine Vollnarkose gewählt; bei Erwachsenen eine örtliche Betäubung (bei Bedarf mit Sedierung) oder eine Vollnarkose."
+procedure_steps:
+  - "**Planung und Anzeichnung:** Die Ohren werden fotografiert, ihr Abstand zum Kopf wird gemessen, und die Lage der neuen Falte wird angezeichnet."
+  - "**Schnitt:** Der Hautschnitt erfolgt an der **Rückseite des Ohres**, nahe der natürlichen Falte zwischen Ohr und Kopf. Da diese Narbe hinter dem Ohr liegt, ist sie in der Regel nicht sichtbar."
+  - "**Formung des Knorpels:** Mit dauerhaften Nähten wird im Ohrknorpel eine neue Falte (Anthelix) gebildet. Falls nötig, wird der Knorpel ausgedünnt oder leicht eingeritzt, um ihn geschmeidiger zu machen."
+  - "**Anlegen des Ohres:** Ist die tiefe Mulde der Ohrmuschel (Concha) groß, wird sie verkleinert oder mit Nähten am Gewebe hinter dem Ohr fixiert. Steht auch das Ohrläppchen ab, wird es korrigiert."
+  - "**Wundverschluss und Verband:** Die Haut wird mit Nähten verschlossen. Ein weicher, leicht komprimierender Kopfverband wird angelegt, um die neue Form der Ohren zu halten und einer Blutansammlung vorzubeugen."
+anesthesia: "Bei Kindern Vollnarkose; bei Erwachsenen örtliche Betäubung ± Sedierung oder Vollnarkose"
+duration: "Etwa 1–2 Stunden (beide Seiten)"
+stay: "In der Regel Entlassung am selben Tag"
+
+benefits:
+  - "Ohren, die näher am Kopf anliegen und natürlich aussehen"
+  - "Ein ausgewogeneres Erscheinungsbild beider Ohren"
+  - "Weniger soziale Ängste und Hänseleien wegen des Aussehens; ein Gewinn an Selbstvertrauen"
+success:
+  - "Die meisten Patientinnen und Patienten und ihre Familien sind mit dem Ergebnis zufrieden. Da Ohrknorpel ein elastisches Gewebe ist, wird in Fachveröffentlichungen berichtet, dass sich das Ohr bei etwa **5–10 von 100** Patientinnen und Patienten teilweise wieder nach vorne aufrichten kann und eine Korrektur notwendig werden kann. Unterschiede von wenigen Millimetern zwischen beiden Ohren gelten als normal."
+
+alternatives:
+  - "**Keine Operation:** Abstehende Ohren verursachen keine gesundheitlichen Probleme, daher ist eine Operation nicht zwingend erforderlich."
+  - "**Formung mit Schienen (Ohrformer) im Neugeborenenalter:** In den ersten Wochen nach der Geburt ist der Ohrknorpel sehr weich und kann mit speziellen Formern geformt werden; nach diesem Zeitraum ist dies nicht mehr wirksam."
+  - "**Kaschieren durch die Frisur:** Frisuren, die die Ohren bedecken, können ihr Aussehen verbergen."
+  - "**Schnittfreie Techniken / Fadentechniken:** Bei ausgewählten Patientinnen und Patienten mit weichem Knorpel kann die Korrektur über winzige Schnitte erfolgen; die Rückfallrate kann höher sein als bei der herkömmlichen Operation."
+
+no_treatment:
+  - "Wird die Operation nicht durchgeführt, bleibt die Form der Ohren unverändert; sie bessert sich mit der Zeit nicht von selbst. Abstehende Ohren stellen keine Gefahr für die Gesundheit dar; die Entscheidung für eine Operation hängt ausschließlich vom Aussehen und vom Wunsch der betroffenen Person ab (bei Kindern vom Wunsch des Kindes und der Familie)."
+
+before:
+  - "Vor der Operation werden die notwendigen Blutuntersuchungen durchgeführt; ist eine Vollnarkose geplant, werden Sie bzw. Ihr Kind vom Narkosearzt untersucht."
+  - "Bei Vollnarkose oder Sedierung darf **6–8 Stunden** vor der Operation nichts gegessen und nichts getrunken werden (bei kleinen Kindern gilt die vom Narkosearzt angegebene Zeit)."
+  - "Waschen Sie am Morgen der Operation die Haare mit Shampoo. Lange Haare können so zurückgebunden werden, dass sie vom Operationsgebiet ferngehalten werden."
+  - "Bei einer aktiven Hautinfektion, einem Ekzem oder einem nicht abgeheilten Piercing im Bereich des Ohres kann die Operation verschoben werden."
+
+recovery:
+  - when: "Erste 48 Stunden"
+    what: "Pochen, Spannungsgefühl und mäßige Schmerzen in den Ohren können auftreten und lassen sich mit Schmerzmitteln behandeln. Es wird empfohlen, mit erhöhtem Kopf zu schlafen. **Starke, immer weiter zunehmende Schmerzen auf einer Seite sind nicht normal** und müssen sofort gemeldet werden."
+  - when: "2.–7. Tag"
+    what: "Der Verband wird in der Regel bei einem Kontrolltermin zwischen dem **2. und 5. Tag** abgenommen, und die Ohren werden kontrolliert. Schwellungen, Blutergüsse und Berührungsempfindlichkeit der Ohren sind in dieser Phase häufig. Nach Abnahme des Verbands wird ein weiches **Stirnband (Ohrenband)** getragen. Kinder können in der Regel nach einer Woche wieder zur Schule gehen."
+  - when: "1.–2. Woche"
+    what: "Das Stirnband wird **in den ersten 1–2 Wochen Tag und Nacht** getragen, danach **4–6 Wochen lang nur nachts**. So wird verhindert, dass das Ohr im Schlaf nach vorne umknickt, und die Nähte werden geschützt. Nicht selbstauflösende Hautfäden werden, falls verwendet, am 7.–10. Tag entfernt."
+  - when: "3.–6. Woche"
+    what: "Der größte Teil der Schwellung bildet sich zurück. Kontaktsportarten, Schwimmen und Helme, die auf die Ohren drücken, sollten mindestens **4–6 Wochen** lang vermieden werden."
+  - when: "3.–6. Monat"
+    what: "Die Ohrfalten festigen sich, die Narbe verblasst, und das endgültige Aussehen wird sichtbar. Ein leichtes Taubheitsgefühl der Ohren bessert sich in diesem Zeitraum meist."
+
+risks:
+  expected:
+    - "Schmerzen, Pochen und Spannungsgefühl in den ersten Tagen"
+    - "Schwellung und Blutergüsse an den Ohren (1–2 Wochen)"
+    - "Vorübergehendes Taubheitsgefühl der Ohrhaut und Kälteempfindlichkeit (Wochen bis Monate)"
+    - "Eine feine Narbe hinter dem Ohr, die mit der Zeit verblasst"
+  common:
+    - name: "Tastbare oder durch die Haut tretende Fäden"
+      text: "Bei etwa **5–10 von 100** Patientinnen und Patienten können die dauerhaften Nähte, die den Knorpel formen, Monate oder Jahre später hinter dem Ohr tastbar werden, durch die Haut treten oder einen kleinen entzündlichen Knoten (Granulom) bilden. Dies wird in der Regel mit einem einfachen Eingriff zur Entfernung des Fadens behoben."
+    - name: "Teilweiser Rückfall (Ohr richtet sich wieder nach vorne auf)"
+      text: "Bei etwa **5–10 von 100** Patientinnen und Patienten kann sich das Ohr teilweise in Richtung seiner ursprünglichen Stellung zurückbewegen; bei Bedarf kann eine Korrektur durchgeführt werden."
+    - name: "Leichte Asymmetrie"
+      text: "Die beiden Ohren sind nie völlig gleich; Unterschiede von wenigen Millimetern nach der Operation sind normal. Besteht ein deutlicher Unterschied, kann er korrigiert werden."
+  uncommon:
+    - name: "Blutansammlung im Ohr (Hämatom)"
+      text: "Tritt bei etwa **1–3 von 100** Patientinnen und Patienten auf, meist innerhalb der ersten 48 Stunden. **Starke, immer weiter zunehmende Schmerzen auf einer Seite** sind das wichtigste Anzeichen. Es muss **dringend entlastet** werden, bevor es die Durchblutung des Knorpels gefährdet; bei verzögerter Behandlung können ein Knorpelschaden und eine bleibende Verformung („Blumenkohlohr“) entstehen."
+    - name: "Wundinfektion"
+      text: "Tritt bei etwa **1–5 von 100** Patientinnen und Patienten auf; sie heilt in der Regel mit Antibiotika ab."
+    - name: "Verdickte Narbe oder Keloid"
+      text: "Bei etwa **1–3 von 100** Patientinnen und Patienten, besonders bei dunklerer Haut oder Neigung zu Keloiden, kann sich hinter dem Ohr eine dicke, erhabene Narbe bilden. Sie kann eine Behandlung mit Kortisoninjektionen, Silikongel oder eine Operation erfordern und wiederkehren. Bitte teilen Sie uns mit, wenn Sie schon einmal ein Keloid hatten."
+    - name: "Überkorrektur oder unnatürliches Aussehen"
+      text: "Die Ohren können zu flach am Kopf anliegend wirken, die Falte kann zu scharf sein, oder der mittlere Teil des Ohres kann weiter hinten liegen als der obere und untere Teil („Telefonhörer-Deformität“); bei Bedarf kann eine Korrekturoperation durchgeführt werden."
+  rare:
+    - name: "Entzündung der Knorpelhaut (Perichondritis)"
+      text: "Tritt bei **weniger als 1 von 100** Patientinnen und Patienten auf. Sie äußert sich durch zunehmende Rötung, Schwellung, Überwärmung und starke Schmerzen am Ohr. Sie kann intravenöse Antibiotika (über die Vene) und bei Bedarf eine operative Reinigung erfordern; bei verzögerter Behandlung können Knorpelverlust und eine **bleibende Verformung** die Folge sein."
+    - name: "Durchblutungsstörung der Haut oder des Knorpels (Nekrose)"
+      text: "Sehr selten; meist im Zusammenhang mit einem zu straffen Verband, einem unbehandelten Hämatom oder einer Infektion. Eine Wundbehandlung und manchmal eine wiederherstellende Operation können notwendig sein."
+    - name: "Dauerhaft vermindertes Gefühl oder chronische Schmerzen"
+      text: "Ein Taubheitsgefühl der Ohrhaut oder Schmerzen bei Kälte können selten dauerhaft sein."
+    - name: "Verengung des Gehörgangs"
+      text: "Sehr selten kann sich nach Verkleinerung oder Fixierung der Concha der Eingang des Gehörgangs verengen; eine Korrektur kann notwendig werden."
+
+emergency:
+  - "**Starke Ohrenschmerzen auf einer Seite, die immer weiter zunehmen** (besonders in den ersten 48 Stunden) – dies kann ein Zeichen für eine Blutansammlung sein"
+  - "Zunehmendes Durchsickern von Blut durch den Verband oder ein mit Blut durchtränkter Verband"
+  - "**Fieber über 38,5 °C**, zunehmende Rötung, Schwellung, Überwärmung oder übel riechende Absonderung aus dem Ohr"
+  - "Ein Verband, der sich zu eng anfühlt, oder ein Ohr, das sich bläulich oder anders verfärbt"
+  - "Ein Schlag auf das Ohr oder eine plötzliche Veränderung seiner Form"
+
+lifestyle:
+  - "Lassen Sie den Verband nicht nass werden und nehmen Sie ihn nicht selbst ab, bevor er in der Praxis entfernt wird. Nach der Abnahme dürfen Sie ab dem von Ihrem Arzt empfohlenen Tag vorsichtig duschen."
+  - "Tragen Sie das Stirnband regelmäßig für den Ihnen genannten Zeitraum; dies ist wichtig für ein dauerhaftes Ergebnis."
+  - "Vermeiden Sie in den ersten Wochen, auf den Ohren zu liegen, die Ohren nach vorne zu knicken und Kleidung mit engem Halsausschnitt über die Ohren zu ziehen."
+  - "Schützen Sie die Ohren mindestens 3 Monate lang vor Sonne und starker Kälte; wegen des verminderten Gefühls können Sonnenbrand oder Erfrierungen unbemerkt bleiben."
+  - "Beaufsichtigen Sie Ihr Kind, damit es nicht am Verband oder am Stirnband zieht."
+
+declarations_extra:
+  - "Mir ist bewusst, dass das Tragen des Stirnbands für den empfohlenen Zeitraum nach der Operation zum Ergebnis beiträgt und dass die Nichtbefolgung dieser Anweisungen das Rückfallrisiko erhöhen kann."

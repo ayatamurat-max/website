@@ -1,0 +1,130 @@
+code: "10"
+type: surgical
+aesthetic: true
+title: "Blépharoplastie supérieure / inférieure"
+alt_name: "Chirurgie des paupières"
+
+specific_fields:
+  - label: "Zone prévue :"
+    options: ["Paupières supérieures", "Paupières inférieures", "Paupières supérieures + inférieures"]
+    blank: false
+  - label: "Technique pour la paupière inférieure :"
+    options: ["Transconjonctivale", "Sous-ciliaire (sous les cils)", "Sans objet"]
+  - label: "Gestes complémentaires :"
+    options: ["Repositionnement de la graisse", "Canthopexie / canthoplastie (soutien de la paupière)", "Aucun"]
+  - label: "Indication :"
+    options: ["Esthétique", "Fonctionnelle (rétrécissement du champ visuel)", "Les deux"]
+  - label: "Préoccupations et attentes du patient :"
+
+about:
+  - "Avec l'âge, la peau des paupières perd de son élasticité, le muscle qui entoure l'œil se relâche et la graisse de l'orbite peut faire saillie vers l'avant. Il en résulte un **excès de peau qui tombe** sur les paupières supérieures, ainsi que des **poches et des creux** sous les yeux. Une prédisposition génétique, l'exposition au soleil, le tabac et les variations de poids peuvent accélérer ce processus."
+  - "La blépharoplastie vise à donner à la région des yeux un aspect **plus frais, plus reposé et naturel**, en retirant l'excès de peau, de muscle et de graisse, ou en repositionnant la graisse. L'affaissement de la paupière supérieure peut parfois être suffisamment important pour rétrécir la partie supérieure du champ visuel ; l'intervention a alors aussi un but fonctionnel : **élargir le champ visuel**."
+  - "La blépharoplastie seule ne corrige pas un sourcil bas, une paupière tombante due à une faiblesse du muscle releveur de la paupière (ptosis), les rides fines (pattes-d'oie) ni les cernes foncés sous les yeux ; ces situations peuvent nécessiter d'autres traitements."
+
+procedure_intro:
+  - "Avant l'intervention, vos yeux sont examinés — la vision, la production de larmes et le fonctionnement des paupières sont évalués — et des photographies sont prises. Si nécessaire, l'avis d'un ophtalmologiste sera demandé."
+procedure_steps:
+  - "**Marquage :** La quantité de peau à retirer est soigneusement marquée alors que vous êtes en position assise, les yeux ouverts puis fermés."
+  - "**Paupière supérieure :** L'incision est placée dans le pli naturel de la paupière, de sorte qu'elle reste cachée dans ce pli lorsque vos yeux sont ouverts. L'excès de peau et, si nécessaire, une fine bande de muscle et la graisse en saillie sont retirés."
+  - "**Paupière inférieure – technique transconjonctivale :** L'incision est réalisée sur la face interne de la paupière, si bien qu'aucune cicatrice n'est visible à l'extérieur. La graisse à l'origine des poches est retirée ou repositionnée pour combler le creux sous l'œil."
+  - "**Paupière inférieure – technique sous-ciliaire :** S'il existe aussi un excès de peau, l'incision est réalisée juste sous les cils et l'excès de peau et de muscle est retiré. La cicatrice devient généralement peu visible avec le temps."
+  - "**Soutien de la paupière (canthopexie/canthoplastie) :** Si la paupière inférieure est relâchée, des points de soutien sont placés au coin externe de l'œil afin d'éviter que la paupière ne soit tirée vers le bas après l'intervention."
+  - "**Fermeture :** Les incisions sont refermées par des points très fins, qui sont généralement retirés **entre le 5e et le 7e jour**. Une pommade protectrice est appliquée sur l'œil."
+anesthesia: "Anesthésie locale (± sédation) ou anesthésie générale"
+duration: "Environ 1 à 3 heures"
+stay: "Généralement sortie le jour même ; une nuit peut être nécessaire après une anesthésie générale"
+
+benefits:
+  - "Une région des yeux d'aspect plus frais, plus reposé et plus jeune"
+  - "Moins de lourdeur des paupières supérieures ; une vision plus confortable si l'affaissement rétrécit le champ visuel"
+  - "Réduction des poches des paupières inférieures et une transition plus harmonieuse sous l'œil"
+success:
+  - "La plupart des patients sont satisfaits du résultat, et l'effet dure généralement de nombreuses années ; toutefois, le vieillissement se poursuivant, la peau peut à nouveau se relâcher avec le temps. Environ **2 à 5 patients sur 100** peuvent avoir besoin d'une petite retouche en raison d'une asymétrie, d'une correction insuffisante ou d'une cicatrice. Le résultat définitif apparaît généralement en **3 à 6 mois**."
+
+alternatives:
+  - "**Ne pas se faire opérer :** Comme il s'agit d'une intervention esthétique, vous avez toujours la possibilité de ne pas la faire."
+  - "**Comblement de la vallée des larmes :** Peut camoufler temporairement un léger creux sous l'œil ; il ne corrige pas les poches ni l'excès de peau et comporte ses propres risques spécifiques."
+  - "**Lifting du sourcil par toxine botulique :** Dans les cas légers, relever le sourcil de quelques millimètres peut ouvrir légèrement la paupière supérieure ; l'effet est temporaire."
+  - "**Lifting du sourcil (lifting temporal / lifting du front) :** Si le problème sous-jacent est un sourcil bas, cette intervention peut être plus adaptée, à la place de la blépharoplastie ou en complément de celle-ci."
+  - "**Traitements de resurfaçage cutané (laser, peeling chimique, radiofréquence) :** Peuvent améliorer les rides fines et la qualité de la peau ; ils ne suppriment pas un excès de peau important ni les poches."
+
+no_treatment:
+  - "Si l'intervention n'est pas réalisée, l'aspect actuel de vos paupières persistera et pourra lentement s'accentuer avec l'âge. Si l'affaissement de la paupière supérieure rétrécit votre champ visuel, cela peut s'aggraver avec le temps ; toutefois, cela ne représente généralement pas de danger urgent pour la santé de l'œil."
+
+before:
+  - "Des analyses de sang sont réalisées avant l'intervention ; si une anesthésie générale ou une sédation est prévue, vous serez examiné(e) par le médecin anesthésiste et devrez être à jeun au préalable."
+  - "Signalez-nous impérativement si vous souffrez de **sécheresse oculaire, de glaucome, d'une maladie de la thyroïde ou si vous avez déjà subi une chirurgie des yeux (par ex. correction de la vue au laser)**."
+  - "Si vous portez des lentilles de contact, ne les portez pas le jour de l'intervention ; vous devrez porter des lunettes après l'intervention."
+  - "Ne portez ni maquillage des yeux, ni extensions de cils, ni crème pour le visage le jour de l'intervention. Après une sédation ou une anesthésie générale, vous ne devez pas conduire ; veuillez rentrer chez vous accompagné(e)."
+
+recovery:
+  - when: "Premières 48 heures"
+    what: "Un gonflement, une sensation de tiraillement, un léger suintement et des ecchymoses (bleus) autour des yeux peuvent apparaître. La douleur est généralement légère. Dormir la tête surélevée et appliquer des **compresses froides** aident à réduire le gonflement. Un larmoiement, une sensibilité à la lumière et une vision trouble temporaire (due à la pommade) peuvent survenir."
+  - when: "1re semaine"
+    what: "Les points sont généralement retirés **entre le 5e et le 7e jour**. Les ecchymoses et le gonflement diminuent nettement. Les gouttes/pommades oculaires sont utilisées selon les consignes. La plupart des patients reprennent un travail de bureau et leur vie sociale en 7 à 10 jours ; les ecchymoses peuvent être masquées par du maquillage."
+  - when: "2e à 4e semaine"
+    what: "Le gonflement résiduel diminue. Les lentilles de contact peuvent généralement être portées après **2 semaines**. Le sport intense et les travaux nécessitant de se pencher doivent être reportés d'environ 2 à 3 semaines. Attendez l'accord de votre médecin avant de nager ou de porter du maquillage pour les yeux."
+  - when: "1er au 6e mois"
+    what: "La rougeur de la cicatrice s'estompe progressivement et la cicatrice devient difficile à voir dans le pli de la paupière. La forme définitive et la symétrie des paupières se stabilisent généralement en **3 à 6 mois**."
+
+risks:
+  expected:
+    - "Gonflement et tiraillement autour des yeux ; les ecchymoses, **si elles apparaissent**, disparaissent en 1 à 2 semaines"
+    - "Larmoiement, sensation de sécheresse ou de sable, picotements et sensibilité à la lumière (premiers jours)"
+    - "Légère difficulté à fermer complètement les yeux les premiers jours"
+    - "Rougeur, légère induration et engourdissement le long de l'incision"
+  common:
+    - name: "Sécheresse oculaire"
+      text: "Environ **10 à 25 patients sur 100** ressentent des picotements, une brûlure ou une sensation de sécheresse ; cela s'améliore généralement avec des gouttes oculaires en quelques semaines à quelques mois. Cela peut être plus marqué et durer plus longtemps chez les personnes souffrant déjà de sécheresse oculaire."
+    - name: "Gonflement du blanc de l'œil (chémosis)"
+      text: "Gonflement par du liquide de la membrane qui recouvre le blanc de l'œil, observé en particulier après une chirurgie de la paupière inférieure. Il disparaît généralement en quelques semaines avec des gouttes et des compresses."
+    - name: "Impossibilité de fermer complètement les yeux (lagophtalmie)"
+      text: "Une fermeture incomplète des yeux pendant le sommeil est fréquente au cours des premières semaines après une chirurgie de la paupière supérieure et disparaît généralement d'elle-même. Une pommade de nuit est recommandée pour protéger l'œil pendant cette période. Elle est rarement permanente (**moins de 1 patient sur 100**)."
+    - name: "Petits kystes (milia) et marques de points"
+      text: "De petits points blancs peuvent se former le long de l'incision ; ils disparaissent d'eux-mêmes ou sont retirés par un geste simple."
+  uncommon:
+    - name: "Paupière inférieure tirée vers le bas ou retournée vers l'extérieur (rétraction palpébrale, ectropion)"
+      text: "Après une chirurgie de la paupière inférieure, chez environ **1 à 5 patients sur 100** (plus souvent avec la technique sous-ciliaire), la paupière inférieure peut être tirée vers le bas, le blanc de l'œil peut être davantage visible sous l'iris, ou la paupière peut se retourner vers l'extérieur. La plupart des cas s'améliorent avec des massages et la pose de bandes adhésives ; si cela persiste, cela peut entraîner une sécheresse et un larmoiement de l'œil, et une **chirurgie correctrice** peut être nécessaire."
+    - name: "Asymétrie et correction insuffisante ou excessive"
+      text: "Des différences de hauteur ou de forme du pli peuvent persister entre les deux paupières ; si trop de peau est retirée, la fermeture des yeux peut être difficile, et si trop de graisse est retirée, un aspect creusé peut apparaître. Une retouche peut être nécessaire."
+    - name: "Modification de la forme du coin de l'œil"
+      text: "Lorsqu'un soutien de la paupière (canthopexie/canthoplastie) est réalisé, le coin externe de l'œil peut paraître tendu, relevé ou arrondi pendant un certain temps, ou différer d'un côté à l'autre. Dans la plupart des cas, cela s'atténue en quelques semaines à quelques mois, à mesure que le gonflement diminue ; parfois, une retouche est nécessaire."
+    - name: "Apparition d'une paupière tombante (ptosis)"
+      text: "Une faiblesse du muscle releveur de la paupière, auparavant masquée par l'excès de peau, peut devenir visible après l'intervention ; elle peut nécessiter une correction par une intervention distincte."
+    - name: "Cicatrice visible ou épaissie"
+      text: "La peau des paupières cicatrise généralement très bien ; rarement, la cicatrice peut rester visible, ou une fine bride peut se former au coin interne de l'œil (palmure)."
+    - name: "Saignement et accumulation de sang (hématome)"
+      text: "Une accumulation de sang sous la peau survient chez environ **1 patient sur 100** ; elle se résorbe généralement d'elle-même, mais si elle est importante, il peut être nécessaire de l'évacuer."
+    - name: "Infection"
+      text: "Les paupières étant très bien vascularisées, l'infection est rare (**moins de 1 patient sur 100**) ; si elle survient, elle est traitée par antibiotiques."
+  rare:
+    - name: "Saignement derrière l'œil et perte de la vue"
+      text: "Il s'agit de la complication la plus grave, mais très rare. Un saignement derrière l'œil survient chez environ **1 patient sur 2 000** et peut comprimer le nerf optique. S'il n'est pas reconnu rapidement et traité en urgence (ouverture des points, évacuation du sang, médicaments, chirurgie en urgence), il peut entraîner une **perte définitive de la vue**. Une perte définitive de la vue a été rapportée chez environ **1 patient sur 10 000 à 40 000** ou moins. C'est pourquoi les signes d'alerte au cours des 48 premières heures sont si importants."
+    - name: "Vision double"
+      text: "Due à l'atteinte, lors d'une chirurgie de la paupière inférieure, d'un petit muscle qui fait bouger l'œil (muscle oblique inférieur) ; elle est généralement temporaire, très rarement permanente, et peut nécessiter un traitement complémentaire ou une intervention."
+    - name: "Éraflure ou ulcère de la cornée"
+      text: "Une éraflure peut se produire à la surface transparente à l'avant de l'œil, provoquant douleur, sensation de sable et larmoiement ; elle guérit généralement en quelques jours avec des gouttes. Très rarement, un traitement oculaire de longue durée peut être nécessaire."
+    - name: "Problèmes d'écoulement des larmes"
+      text: "Un larmoiement dû à une atteinte du canal lacrymal est très rare."
+    - name: "Insatisfaction psychologique"
+      text: "Malgré un résultat techniquement réussi, une personne peut avoir du mal à s'adapter à sa nouvelle apparence. Discuter ouvertement des attentes avant l'intervention réduit ce risque."
+
+emergency:
+  - "**Douleur intense et croissante de l'œil**, surtout d'un seul côté"
+  - "**Œil qui fait saillie vers l'avant**, ou gonflement tendu et ecchymoses des paupières augmentant rapidement"
+  - "**Baisse de la vision**, assombrissement de la vision, vision double ou limitation des mouvements de l'œil"
+  - "Douleur de l'œil accompagnée de nausées ou de vomissements"
+  - "**Fièvre supérieure à 38,5 °C**, rougeur, écoulement ou douleur croissants au niveau de l'incision"
+  - "Sensibilité marquée à la lumière et sensation de sable qui ne disparaît pas"
+  - "**Si l'un de ces signes survient au cours des 48 premières heures, chaque minute compte : appelez immédiatement ou rendez-vous au service d'urgences le plus proche.**"
+
+lifestyle:
+  - "Appliquez des compresses froides à intervalles réguliers pendant les 48 premières heures ; dormez sur le dos, la tête surélevée."
+  - "Ne vous frottez pas les yeux. Les premiers jours, évitez de soulever des charges lourdes, de vous pencher, de forcer (efforts de poussée) et les activités qui augmentent le risque de saignement."
+  - "Utilisez les gouttes et pommades oculaires qui vous ont été remises aussi souvent que recommandé ; si vos yeux ne se ferment pas complètement, appliquez toujours la pommade de nuit."
+  - "En règle générale, ne portez pas de lentilles de contact pendant 2 semaines ni de maquillage pour les yeux pendant 1 à 2 semaines. Portez des lunettes de soleil à l'extérieur et faites des pauses fréquentes devant les écrans."
+  - "Si vous venez de l'étranger, prendre l'avion est généralement sans danger après le retrait des points (entre le 5e et le 7e jour)."
+
+declarations_extra:
+  - "Je comprends que la blépharoplastie seule ne corrige pas un sourcil bas, une paupière tombante due à une faiblesse du muscle releveur de la paupière, les rides fines ni la coloration foncée sous les yeux."
+  - "Je comprends que si je ressens une douleur intense de l'œil, un gonflement ou une baisse de la vision au cours des 48 premières heures suivant l'intervention, je dois consulter **immédiatement**."

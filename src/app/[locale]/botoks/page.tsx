@@ -16,6 +16,7 @@ const config: ProcedureConfig = {
     { key: 'meso', icon: 'meso', href: '/mezoterapi-prp' },
     { key: 'rejuvenation', icon: 'rejuvenation', href: '/ameliyatsiz-yuz-genclestirme' },
   ],
+  consent: ['botoks'],
 };
 
 export default function Page() {

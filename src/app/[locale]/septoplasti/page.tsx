@@ -16,6 +16,7 @@ const config: ProcedureConfig = {
     { key: 'otoplasty', icon: 'otoplasty', href: '/kepce-kulak' },
     { key: 'blepharoplasty', icon: 'eyelid', href: '/goz-kapagi-estetigi' },
   ],
+  consent: ['septoplasti'],
 };
 
 export default function Page() {

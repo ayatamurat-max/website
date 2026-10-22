@@ -1,0 +1,707 @@
+{
+ "forms": {
+  "rinoplasti": {
+   "code": "01",
+   "titles": {
+    "tr": "Rinoplasti",
+    "en": "Rhinoplasty",
+    "bg": "Ринопластика",
+    "ru": "Ринопластика",
+    "de": "Rhinoplastik",
+    "fr": "Rhinoplastie"
+   },
+   "pdf": {
+    "tr": {
+     "pages": 8,
+     "kb": 197
+    },
+    "en": {
+     "pages": 8,
+     "kb": 196
+    },
+    "bg": {
+     "pages": 9,
+     "kb": 236
+    },
+    "ru": {
+     "pages": 9,
+     "kb": 240
+    },
+    "de": {
+     "pages": 9,
+     "kb": 212
+    },
+    "fr": {
+     "pages": 9,
+     "kb": 210
+    }
+   },
+   "type": "surgical",
+   "aesthetic": true
+  },
+  "septoplasti": {
+   "code": "02",
+   "titles": {
+    "tr": "Septoplasti",
+    "en": "Septoplasty",
+    "bg": "Септопластика",
+    "ru": "Септопластика",
+    "de": "Septumplastik",
+    "fr": "Septoplastie"
+   },
+   "pdf": {
+    "tr": {
+     "pages": 7,
+     "kb": 185
+    },
+    "en": {
+     "pages": 8,
+     "kb": 193
+    },
+    "bg": {
+     "pages": 9,
+     "kb": 232
+    },
+    "ru": {
+     "pages": 9,
+     "kb": 236
+    },
+    "de": {
+     "pages": 9,
+     "kb": 208
+    },
+    "fr": {
+     "pages": 9,
+     "kb": 205
+    }
+   },
+   "type": "surgical",
+   "aesthetic": false
+  },
+  "otoplasti": {
+   "code": "03",
+   "titles": {
+    "tr": "Otoplasti",
+    "en": "Otoplasty",
+    "bg": "Отопластика",
+    "ru": "Отопластика",
+    "de": "Otoplastik",
+    "fr": "Otoplastie"
+   },
+   "pdf": {
+    "tr": {
+     "pages": 7,
+     "kb": 185
+    },
+    "en": {
+     "pages": 8,
+     "kb": 193
+    },
+    "bg": {
+     "pages": 8,
+     "kb": 223
+    },
+    "ru": {
+     "pages": 8,
+     "kb": 227
+    },
+    "de": {
+     "pages": 8,
+     "kb": 200
+    },
+    "fr": {
+     "pages": 8,
+     "kb": 197
+    }
+   },
+   "type": "surgical",
+   "aesthetic": true
+  },
+  "adenoidektomi": {
+   "code": "04",
+   "titles": {
+    "tr": "Adenoidektomi",
+    "en": "Adenoidectomy",
+    "bg": "Аденоидектомия",
+    "ru": "Аденоидэктомия",
+    "de": "Adenotomie",
+    "fr": "Adénoïdectomie"
+   },
+   "pdf": {
+    "tr": {
+     "pages": 7,
+     "kb": 185
+    },
+    "en": {
+     "pages": 8,
+     "kb": 194
+    },
+    "bg": {
+     "pages": 9,
+     "kb": 233
+    },
+    "ru": {
+     "pages": 9,
+     "kb": 237
+    },
+    "de": {
+     "pages": 9,
+     "kb": 209
+    },
+    "fr": {
+     "pages": 9,
+     "kb": 206
+    }
+   },
+   "type": "surgical",
+   "aesthetic": false
+  },
+  "tonsillektomi": {
+   "code": "05",
+   "titles": {
+    "tr": "Tonsillektomi",
+    "en": "Tonsillectomy",
+    "bg": "Тонзилектомия",
+    "ru": "Тонзиллэктомия",
+    "de": "Tonsillektomie",
+    "fr": "Amygdalectomie"
+   },
+   "pdf": {
+    "tr": {
+     "pages": 8,
+     "kb": 197
+    },
+    "en": {
+     "pages": 9,
+     "kb": 205
+    },
+    "bg": {
+     "pages": 9,
+     "kb": 236
+    },
+    "ru": {
+     "pages": 10,
+     "kb": 249
+    },
+    "de": {
+     "pages": 9,
+     "kb": 213
+    },
+    "fr": {
+     "pages": 9,
+     "kb": 210
+    }
+   },
+   "type": "surgical",
+   "aesthetic": false
+  },
+  "ventilasyon-tupu-miringotomi": {
+   "code": "06",
+   "titles": {
+    "tr": "Ventilasyon Tüpü Uygulaması / Miringotomi",
+    "en": "Ventilation Tube Insertion / Myringotomy",
+    "bg": "Поставяне на вентилационна тръбичка / Миринготомия",
+    "ru": "Установка вентиляционной трубки / миринготомия",
+    "de": "Paukenröhrchen-Einlage / Parazentese",
+    "fr": "Pose d'aérateurs transtympaniques / Myringotomie"
+   },
+   "pdf": {
+    "tr": {
+     "pages": 7,
+     "kb": 185
+    },
+    "en": {
+     "pages": 8,
+     "kb": 194
+    },
+    "bg": {
+     "pages": 9,
+     "kb": 234
+    },
+    "ru": {
+     "pages": 9,
+     "kb": 237
+    },
+    "de": {
+     "pages": 9,
+     "kb": 210
+    },
+    "fr": {
+     "pages": 9,
+     "kb": 207
+    }
+   },
+   "type": "surgical",
+   "aesthetic": false
+  },
+  "parotidektomi": {
+   "code": "07",
+   "titles": {
+    "tr": "Parotidektomi",
+    "en": "Parotidectomy",
+    "bg": "Паротидектомия",
+    "ru": "Паротидэктомия",
+    "de": "Parotidektomie",
+    "fr": "Parotidectomie"
+   },
+   "pdf": {
+    "tr": {
+     "pages": 8,
+     "kb": 197
+    },
+    "en": {
+     "pages": 8,
+     "kb": 196
+    },
+    "bg": {
+     "pages": 9,
+     "kb": 236
+    },
+    "ru": {
+     "pages": 9,
+     "kb": 240
+    },
+    "de": {
+     "pages": 9,
+     "kb": 213
+    },
+    "fr": {
+     "pages": 9,
+     "kb": 210
+    }
+   },
+   "type": "surgical",
+   "aesthetic": false
+  },
+  "submandibuler-gland-eksizyonu": {
+   "code": "08",
+   "titles": {
+    "tr": "Submandibuler Gland Eksizyonu",
+    "en": "Submandibular Gland Excision",
+    "bg": "Отстраняване на подчелюстната слюнчена жлеза",
+    "ru": "Удаление поднижнечелюстной слюнной железы",
+    "de": "Entfernung der Unterkieferspeicheldrüse",
+    "fr": "Exérèse de la glande sous-mandibulaire"
+   },
+   "pdf": {
+    "tr": {
+     "pages": 7,
+     "kb": 184
+    },
+    "en": {
+     "pages": 8,
+     "kb": 192
+    },
+    "bg": {
+     "pages": 9,
+     "kb": 232
+    },
+    "ru": {
+     "pages": 9,
+     "kb": 236
+    },
+    "de": {
+     "pages": 9,
+     "kb": 208
+    },
+    "fr": {
+     "pages": 8,
+     "kb": 196
+    }
+   },
+   "type": "surgical",
+   "aesthetic": false
+  },
+  "endolarengeal-mikrocerrahi": {
+   "code": "09",
+   "titles": {
+    "tr": "Endolarengeal Mikrocerrahi",
+    "en": "Endolaryngeal Microsurgery",
+    "bg": "Ендоларингеална микрохирургия",
+    "ru": "Эндоларингеальная микрохирургия",
+    "de": "Endolaryngeale Mikrochirurgie",
+    "fr": "Microchirurgie endolaryngée"
+   },
+   "pdf": {
+    "tr": {
+     "pages": 7,
+     "kb": 186
+    },
+    "en": {
+     "pages": 8,
+     "kb": 194
+    },
+    "bg": {
+     "pages": 9,
+     "kb": 233
+    },
+    "ru": {
+     "pages": 9,
+     "kb": 238
+    },
+    "de": {
+     "pages": 9,
+     "kb": 210
+    },
+    "fr": {
+     "pages": 9,
+     "kb": 207
+    }
+   },
+   "type": "surgical",
+   "aesthetic": false
+  },
+  "blefaroplasti": {
+   "code": "10",
+   "titles": {
+    "tr": "Üst / Alt Blefaroplasti",
+    "en": "Upper / Lower Blepharoplasty",
+    "bg": "Горна / долна блефаропластика",
+    "ru": "Верхняя / нижняя блефаропластика",
+    "de": "Ober- / Unterlidstraffung (Blepharoplastik)",
+    "fr": "Blépharoplastie supérieure / inférieure"
+   },
+   "pdf": {
+    "tr": {
+     "pages": 8,
+     "kb": 197
+    },
+    "en": {
+     "pages": 8,
+     "kb": 197
+    },
+    "bg": {
+     "pages": 9,
+     "kb": 236
+    },
+    "ru": {
+     "pages": 9,
+     "kb": 240
+    },
+    "de": {
+     "pages": 9,
+     "kb": 213
+    },
+    "fr": {
+     "pages": 9,
+     "kb": 210
+    }
+   },
+   "type": "surgical",
+   "aesthetic": true
+  },
+  "gidi-liposuction": {
+   "code": "11",
+   "titles": {
+    "tr": "Gıdı Liposuction",
+    "en": "Submental Liposuction",
+    "bg": "Липосукция на двойна брадичка",
+    "ru": "Субментальная липосакция",
+    "de": "Fettabsaugung am Kinn (submentale Liposuktion)",
+    "fr": "Liposuccion sous-mentonnière"
+   },
+   "pdf": {
+    "tr": {
+     "pages": 7,
+     "kb": 186
+    },
+    "en": {
+     "pages": 8,
+     "kb": 194
+    },
+    "bg": {
+     "pages": 9,
+     "kb": 234
+    },
+    "ru": {
+     "pages": 9,
+     "kb": 238
+    },
+    "de": {
+     "pages": 9,
+     "kb": 210
+    },
+    "fr": {
+     "pages": 9,
+     "kb": 207
+    }
+   },
+   "type": "surgical",
+   "aesthetic": true
+  },
+  "derin-boyun-germe": {
+   "code": "12",
+   "titles": {
+    "tr": "Derin Boyun Germe",
+    "en": "Deep Neck Lift",
+    "bg": "Дълбок лифтинг на шията",
+    "ru": "Глубокая подтяжка шеи",
+    "de": "Tiefes Halslifting",
+    "fr": "Lifting cervical profond"
+   },
+   "pdf": {
+    "tr": {
+     "pages": 8,
+     "kb": 198
+    },
+    "en": {
+     "pages": 9,
+     "kb": 206
+    },
+    "bg": {
+     "pages": 9,
+     "kb": 237
+    },
+    "ru": {
+     "pages": 10,
+     "kb": 250
+    },
+    "de": {
+     "pages": 9,
+     "kb": 213
+    },
+    "fr": {
+     "pages": 9,
+     "kb": 210
+    }
+   },
+   "type": "surgical",
+   "aesthetic": true
+  },
+  "temporal-lift": {
+   "code": "13",
+   "titles": {
+    "tr": "Temporal Lift",
+    "en": "Temporal Lift",
+    "bg": "Темпорален лифтинг",
+    "ru": "Темпоральный лифтинг",
+    "de": "Temporal Lift",
+    "fr": "Lifting temporal"
+   },
+   "pdf": {
+    "tr": {
+     "pages": 8,
+     "kb": 197
+    },
+    "en": {
+     "pages": 8,
+     "kb": 196
+    },
+    "bg": {
+     "pages": 9,
+     "kb": 236
+    },
+    "ru": {
+     "pages": 9,
+     "kb": 239
+    },
+    "de": {
+     "pages": 9,
+     "kb": 212
+    },
+    "fr": {
+     "pages": 9,
+     "kb": 210
+    }
+   },
+   "type": "surgical",
+   "aesthetic": true
+  },
+  "botoks": {
+   "code": "14",
+   "titles": {
+    "tr": "Botulinum Toksin (Botoks) Uygulaması",
+    "en": "Botulinum Toxin (Botox) Treatment",
+    "bg": "Лечение с ботулинов токсин (ботокс)",
+    "ru": "Лечение ботулинотоксином (ботокс)",
+    "de": "Behandlung mit Botulinumtoxin (Botox)",
+    "fr": "Traitement par toxine botulique (Botox)"
+   },
+   "pdf": {
+    "tr": {
+     "pages": 7,
+     "kb": 184
+    },
+    "en": {
+     "pages": 7,
+     "kb": 183
+    },
+    "bg": {
+     "pages": 8,
+     "kb": 224
+    },
+    "ru": {
+     "pages": 8,
+     "kb": 227
+    },
+    "de": {
+     "pages": 8,
+     "kb": 199
+    },
+    "fr": {
+     "pages": 8,
+     "kb": 196
+    }
+   },
+   "type": "office",
+   "aesthetic": true
+  },
+  "dolgu": {
+   "code": "15",
+   "titles": {
+    "tr": "Dolgu (Hyalüronik Asit) Uygulaması",
+    "en": "Dermal Filler (Hyaluronic Acid) Treatment",
+    "bg": "Лечение с филъри (хиалуронова киселина)",
+    "ru": "Контурная пластика филлерами (гиалуроновая кислота)",
+    "de": "Behandlung mit Hautfüllern (Hyaluronsäure)",
+    "fr": "Traitement par produit de comblement (acide hyaluronique)"
+   },
+   "pdf": {
+    "tr": {
+     "pages": 7,
+     "kb": 185
+    },
+    "en": {
+     "pages": 7,
+     "kb": 184
+    },
+    "bg": {
+     "pages": 8,
+     "kb": 224
+    },
+    "ru": {
+     "pages": 9,
+     "kb": 237
+    },
+    "de": {
+     "pages": 8,
+     "kb": 200
+    },
+    "fr": {
+     "pages": 8,
+     "kb": 197
+    }
+   },
+   "type": "office",
+   "aesthetic": true
+  },
+  "mezoterapi": {
+   "code": "16",
+   "titles": {
+    "tr": "Mezoterapi",
+    "en": "Mesotherapy",
+    "bg": "Мезотерапия",
+    "ru": "Мезотерапия",
+    "de": "Mesotherapie",
+    "fr": "Mésothérapie"
+   },
+   "pdf": {
+    "tr": {
+     "pages": 7,
+     "kb": 181
+    },
+    "en": {
+     "pages": 7,
+     "kb": 181
+    },
+    "bg": {
+     "pages": 8,
+     "kb": 220
+    },
+    "ru": {
+     "pages": 8,
+     "kb": 224
+    },
+    "de": {
+     "pages": 8,
+     "kb": 196
+    },
+    "fr": {
+     "pages": 8,
+     "kb": 193
+    }
+   },
+   "type": "office",
+   "aesthetic": true
+  },
+  "prp": {
+   "code": "17",
+   "titles": {
+    "tr": "PRP (Trombositten Zengin Plazma) Uygulaması",
+    "en": "PRP (Platelet-Rich Plasma) Treatment",
+    "bg": "PRP (плазма, богата на тромбоцити)",
+    "ru": "PRP-терапия (плазма, обогащённая тромбоцитами)",
+    "de": "PRP-Behandlung (plättchenreiches Plasma)",
+    "fr": "Traitement par PRP (plasma riche en plaquettes)"
+   },
+   "pdf": {
+    "tr": {
+     "pages": 7,
+     "kb": 183
+    },
+    "en": {
+     "pages": 7,
+     "kb": 182
+    },
+    "bg": {
+     "pages": 8,
+     "kb": 222
+    },
+    "ru": {
+     "pages": 8,
+     "kb": 225
+    },
+    "de": {
+     "pages": 8,
+     "kb": 197
+    },
+    "fr": {
+     "pages": 8,
+     "kb": 194
+    }
+   },
+   "type": "office",
+   "aesthetic": true
+  },
+  "timpanoplasti": {
+   "code": "18",
+   "titles": {
+    "tr": "Timpanoplasti",
+    "en": "Tympanoplasty",
+    "bg": "Тимпанопластика",
+    "ru": "Тимпанопластика",
+    "de": "Tympanoplastik",
+    "fr": "Tympanoplastie"
+   },
+   "pdf": {
+    "tr": {
+     "pages": 8,
+     "kb": 198
+    },
+    "en": {
+     "pages": 8,
+     "kb": 197
+    },
+    "bg": {
+     "pages": 9,
+     "kb": 237
+    },
+    "ru": {
+     "pages": 10,
+     "kb": 250
+    },
+    "de": {
+     "pages": 9,
+     "kb": 213
+    },
+    "fr": {
+     "pages": 9,
+     "kb": 211
+    }
+   },
+   "type": "surgical",
+   "aesthetic": false
+  }
+ },
+ "date": "22.10.2026"
+}

@@ -1,0 +1,148 @@
+{
+ "code": "16",
+ "type": "office",
+ "aesthetic": true,
+ "title": "Mesotherapy",
+ "alt_name": "Micro-injections of skin- or scalp-care products into the skin or scalp",
+ "about": [
+  "Mesotherapy involves injecting small amounts of products containing ingredients such as **hyaluronic acid, vitamins, minerals and amino acids** into the superficial layers of the skin or scalp using very fine needles. The aim is to improve the hydration and vitality of the skin, to reduce the appearance of fine lines, dullness and tired-looking under-eye areas, or to support scalp care in hair loss.",
+  "Skin and hair quality are affected by age, sun exposure, smoking, stress, hormones and genetics. Mesotherapy does not stop these processes; it is a **supportive** treatment. Which product and how many sessions are suitable for you will be decided together after your consultation."
+ ],
+ "procedure_intro": [
+  "The treatment is carried out in our clinic under sterile conditions. Only products that are **licensed/registered in Türkiye, sterile and opened from their original packaging** are used; the product name and LOT number are recorded in your file."
+ ],
+ "procedure_steps": [
+  "**Preparation:** The area is photographed, make-up is removed and the skin is cleaned with an antiseptic solution. If you wish, a numbing cream can be applied for 20–30 minutes.",
+  "**Treatment:** The product is injected into the superficial layer of the skin as many tiny droplets, by hand with a very fine needle, with a mesotherapy injector gun or with a microneedling device.",
+  "**Finishing:** The area is cleaned and, if needed, a cold compress is applied for a short time. You will be given aftercare advice."
+ ],
+ "procedure_notes": [
+  "The effect usually becomes noticeable not after a single session but after **a course of several sessions**. Most protocols recommend 3–6 sessions 2–4 weeks apart, followed by maintenance sessions every few months."
+ ],
+ "anesthesia": "Numbing cream (optional)",
+ "duration": "About 20–40 minutes",
+ "stay": "Same day; short observation after treatment",
+ "benefits": [
+  "Skin that looks more hydrated, radiant and fresh; fine lines that are less noticeable",
+  "A less tired appearance under the eyes",
+  "Support for scalp nourishment and hair quality in hair loss"
+ ],
+ "success": [
+  "Results vary considerably from person to person. The strength of the scientific evidence for mesotherapy depends on the product and the purpose: treatments with hyaluronic acid for skin quality have been studied more thoroughly, whereas the evidence for some product mixtures (“cocktails”) is limited. The effect is not permanent and regular repeat treatments are needed to maintain it. No specific result can be guaranteed."
+ ],
+ "alternatives": [
+  "**No treatment**, or continuing with regular skin care, sun protection and healthy-lifestyle measures only",
+  "**Topical products:** creams containing retinoids, vitamin C or moisturising ingredients; for hair loss, medicines such as minoxidil on medical advice",
+  "**Other treatments:** PRP, hyaluronic acid treatments designed for skin quality, chemical peels, laser or microneedling treatments",
+  "For hair loss, investigation and treatment of any underlying cause (iron or thyroid deficiency, hormonal causes)"
+ ],
+ "no_treatment": [
+  "If mesotherapy is not performed, your skin or hair will continue on its natural course. As this is a purely cosmetic/supportive treatment, choosing not to have it carries no risk to your health."
+ ],
+ "before": [
+  "If possible, stop products that can increase bruising — such as aspirin, painkillers (ibuprofen, etc.), omega-3 and vitamin E — for 1 week before treatment, after checking with your doctor.",
+  "If you have active acne, a cold sore, eczema or an infection in the treatment area, the treatment will be postponed.",
+  "Tell us if you have had fillers, botulinum toxin, laser or a peel in the same area within the last 2 weeks.",
+  "Mesotherapy is not performed during pregnancy or breastfeeding."
+ ],
+ "recovery": [
+  {
+   "when": "First few hours",
+   "what": "Small raised bumps (papules), redness and mild swelling appear at the injection points; these usually settle within a few hours. Tiny spots of blood may be visible at the needle points."
+  },
+  {
+   "when": "First 24 hours",
+   "what": "Do not wear make-up or rub the area. Avoid saunas, Turkish baths, sunbeds, strenuous exercise and direct sun. After scalp treatment you may wash your hair the next day."
+  },
+  {
+   "when": "Days 2–7",
+   "what": "If bruising **occurs**, it fades within 3–7 days. Mild bumps and tenderness settle completely. Keep using sun protection."
+  },
+  {
+   "when": "During the course",
+   "what": "Sessions are usually repeated every 2–4 weeks. The effect is most often noticed after the 2nd or 3rd session."
+  },
+  {
+   "when": "After the course",
+   "what": "The effect gradually wears off; maintenance sessions every few months can be planned to preserve it."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Mild pain or stinging from the needle",
+   "Small bumps, redness and mild swelling at the injection points (a few hours to 1 day)",
+   "Tiny spots of blood and tenderness at the needle points"
+  ],
+  "common": [
+   {
+    "name": "Bruising",
+    "text": "Common, especially in thin-skinned areas such as under the eyes; it fades on its own within 3–7 days and can be covered with make-up."
+   },
+   {
+    "name": "Prolonged swelling or redness",
+    "text": "Swelling under the eyes can last a few days. Cold compresses and sleeping with your head raised help."
+   },
+   {
+    "name": "Less effect than expected",
+    "text": "Some people may notice no clear change, or the effect may be short-lived."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Temporary increase in hair shedding",
+    "text": "After scalp treatment, a temporary increase in shedding may occur in the first few weeks; it usually settles on its own."
+   },
+   {
+    "name": "Allergic or inflammatory reaction",
+    "text": "Itching, redness, hives or prolonged swelling may develop in response to an ingredient of the product. This is usually treated with medication."
+   },
+   {
+    "name": "Skin darkening (hyperpigmentation)",
+    "text": "Darkening at the needle points may occur, particularly in darker skin and with sun exposure; it usually fades over months."
+   },
+   {
+    "name": "Small lumps (nodules)",
+    "text": "Small lumps that can be felt may form; most disappear within a few weeks."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Infection",
+    "text": "Bacterial infection is rare. **Atypical mycobacterial infection**, reported mainly in connection with non-sterile or unlicensed products, can appear weeks after treatment as painful, red, discharging lumps; it may require long-term antibiotic treatment and sometimes surgical drainage, and can leave scars. To reduce this risk, only licensed, sterile products are used."
+   },
+   {
+    "name": "Inflammation of the fatty tissue (panniculitis) or granuloma",
+    "text": "A rare reaction with painful hardening or redness in the deeper tissue, which can be long-lasting and require treatment."
+   },
+   {
+    "name": "Permanent scarring or colour change",
+    "text": "Very rarely, after an infection or severe reaction, a permanent scar, dent or difference in skin colour may remain."
+   },
+   {
+    "name": "Blocked blood vessel",
+    "text": "Particularly with products containing hyaluronic acid, the material entering or pressing on a blood vessel has **extremely rarely** been reported to impair the blood supply to the skin and leave a permanent scar. If you notice sudden severe pain, whitening of the skin or a purplish, net-like discolouration, tell us immediately; early treatment is very important."
+   },
+   {
+    "name": "Severe allergic reaction (anaphylaxis)",
+    "text": "Very rare; it causes shortness of breath, a widespread rash and a drop in blood pressure, and needs emergency treatment."
+   }
+  ]
+ },
+ "emergency": [
+  "**Increasing pain, redness, warmth, swelling or pus-like discharge** in the treated area",
+  "**Fever above 38 °C**",
+  "Painful, red or discharging lumps appearing **days or weeks after** treatment",
+  "Swelling of the face, lips or tongue, **shortness of breath**, or a widespread itchy rash",
+  "Whitening of the skin, a purplish, net-like discolouration, or severe pain"
+ ],
+ "lifestyle": [
+  "Do not wear make-up for the first 24 hours; avoid saunas, Turkish baths, sunbeds, intense exercise and swimming pools.",
+  "Use a high-factor sunscreen every day during the course.",
+  "Do not apply peels, retinol or acid-containing products to the area for the first 2–3 days.",
+  "If you later have another treatment in the same area (filler, laser, etc.), tell the treating doctor that you have had mesotherapy."
+ ],
+ "declarations_extra": [
+  "I have been told the name and contents of the product to be used; it has been explained to me that only licensed and sterile products will be used and that the product details will be recorded in my file.",
+  "I understand that the effect varies from person to person, that several sessions may be needed and that the result is not permanent."
+ ]
+}

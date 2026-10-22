@@ -1,0 +1,133 @@
+code: "13"
+type: surgical
+aesthetic: true
+title: "Temporal Lift"
+alt_name: "Anhebung der äußeren Augenbraue und des Augenwinkels über die Schläfen (laterales Brauenlifting)"
+
+specific_fields:
+  - label: "Seite:"
+    options: ["Rechts", "Links", "Beidseitig"]
+    blank: false
+  - label: "Schnittführung:"
+    options: ["Innerhalb der behaarten Kopfhaut (Schläfe)", "Am Haaransatz", "Wird während der Operation festgelegt"]
+  - label: "Fixierungsmethode:"
+    options: ["Dauerhafte Nähte", "Resorbierbares Fixierungssystem", "Sonstiges"]
+  - label: "Gleichzeitig durchzuführende Eingriffe:"
+    options: ["Oberlidstraffung (gesonderte Einwilligung)", "Eigenfettinjektion", "Keine"]
+  - label: "Beschwerden und Erwartungen des Patienten / der Patientin:"
+
+about:
+  - "Mit zunehmendem Alter erschlaffen die Gewebe von Stirn und Schläfen; insbesondere das **äußere Ende der Augenbraue** und der **äußere Augenwinkel** sinken nach unten. Dies kann zu einem müden, traurigen oder schweren Blick führen, einen Hautüberschuss am Oberlid vortäuschen und Fältchen am Augenwinkel verursachen. Bei manchen Menschen ist diese Form auch angeboren."
+  - "Das Temporal Lift ist eine Operation, bei der über kleine Schnitte in der behaarten Kopfhaut der Schläfen **der äußere Teil der Augenbraue und der Augenwinkel nach oben und hinten angehoben werden**. Ziel ist ein **frischerer, offenerer Blick**, der zu Ihrem Gesicht passt. Allein korrigiert der Eingriff weder den inneren Teil der Augenbraue noch die gesamte Stirn oder einen Hautüberschuss am Augenlid; bei Bedarf wird er mit anderen Eingriffen kombiniert."
+
+procedure_intro:
+  - "Die Operation erfolgt in der Regel in Vollnarkose oder in Sedierung mit örtlicher Betäubung im Operationssaal. Vorab wird die Position Ihrer Augenbrauen und Augenwinkel im Stehen und Sitzen beurteilt, es werden Fotos angefertigt und die Richtung der Anhebung wird gemeinsam mit Ihnen angezeichnet."
+procedure_steps:
+  - "**Schnitt:** Auf jeder Seite werden innerhalb der behaarten Kopfhaut der Schläfe oder am Haaransatz Schnitte von etwa 3–5 cm Länge gesetzt. Die Haare werden nicht rasiert oder es wird nur ein sehr schmaler Streifen entlang des Schnitts gekürzt."
+  - "**Lösen der Gewebe:** Der Chirurg arbeitet in der tiefen Schicht der Schläfenregion so, dass der zur Stirn ziehende Ast des Gesichtsnervs geschont wird. Das Bindegewebe um die äußere Augenbraue und den Augenwinkel wird behutsam gelöst, sodass es verschoben werden kann."
+  - "**Anheben und Fixieren:** Die gelösten Gewebe werden in der geplanten Richtung nach oben und hinten gezogen und mit **dauerhaften Nähten** oder **resorbierbaren Fixierungssystemen** an der festen Gewebeschicht der Schläfe befestigt. Das Gleichgewicht zwischen beiden Seiten wird überprüft."
+  - "**Wundverschluss:** Bei Bedarf wird ein kleiner Überschuss an Kopfhaut entfernt. Die Schnitte werden mit Klammern oder Nähten verschlossen, manchmal wird eine dünne Drainage eingelegt und ein leichter Kopfverband angelegt."
+procedure_notes:
+  - "Soll gleichzeitig eine Oberlidstraffung (Blepharoplastik) oder ein anderer Eingriff durchgeführt werden, wird dafür ein **gesonderter Aufklärungs- und Einwilligungsbogen** unterschrieben."
+anesthesia: "Vollnarkose oder Sedierung + örtliche Betäubung"
+duration: "Etwa 1–2 Stunden"
+stay: "In der Regel ambulant oder eine Nacht im Krankenhaus"
+
+benefits:
+  - "Ein frischerer, offenerer und jüngerer Blick durch die Anhebung der äußeren Augenbraue und des Augenwinkels"
+  - "Weniger Schwere und scheinbarer Hautüberschuss am äußeren Oberlid"
+  - "Keine sichtbare Narbe im Gesicht, da die Schnitte im Haar verborgen liegen"
+success:
+  - "Die meisten geeignet ausgewählten Patientinnen und Patienten sind mit dem Ergebnis zufrieden. In den ersten Wochen können die Augenbrauen etwas höher wirken als geplant; dies gleicht sich aus, während sich das Gewebe setzt. Das endgültige Ergebnis zeigt sich nach **3–6 Monaten**. Die angehobenen Gewebe können mit der Zeit durch Alterung und Schwerkraft wieder etwas absinken; wie lange die Wirkung anhält, ist individuell verschieden und beträgt in der Regel **mehrere Jahre**. Bei etwa **5–10 von 100** Patienten kann wegen einer Asymmetrie oder einer frühen Lockerung eine Korrektur erforderlich werden."
+
+alternatives:
+  - "**Verzicht auf die Operation:** Da es sich um einen ästhetischen Eingriff handelt, können Sie sich jederzeit auch dagegen entscheiden."
+  - "**Brauenanhebung mit Botulinumtoxin:** Kann die äußere Augenbraue um einige Millimeter anheben, vorübergehend (3–4 Monate)."
+  - "**Fadenlifting-Verfahren:** Werden mit weniger Schnitten durchgeführt, die Wirkung ist jedoch meist begrenzter und kürzer anhaltend."
+  - "**Unterstützung von Schläfe/Augenbraue mit Fillern:** Kann bei einem durch Volumenverlust bedingten Absinken eine vorübergehende Verbesserung bewirken; Filler haben eigene Risiken, z. B. den Verschluss eines Blutgefäßes."
+  - "**Andere Brauenlifting-Operationen:** Sind auch die gesamte Stirn und der innere Teil der Augenbraue abgesunken, können ein endoskopisches Stirnlifting oder Verfahren mit einem Schnitt oberhalb der Augenbraue oder am Haaransatz besser geeignet sein."
+  - "**Alleinige Oberlidstraffung:** Kann ausreichen, wenn das Hauptproblem ein Hautüberschuss am Lid ist; eine tief stehende Augenbraue wird dadurch nicht korrigiert."
+
+no_treatment:
+  - "Wird die Operation nicht durchgeführt, bleibt das derzeitige Erscheinungsbild Ihrer Augenbrauen und Augenwinkel bestehen und die natürliche Alterung schreitet fort. Eine Gefahr für Ihre Gesundheit besteht dadurch nicht."
+
+before:
+  - "Vor der Operation werden Blutuntersuchungen und bei Bedarf weitere Untersuchungen durchgeführt; ist eine Vollnarkose geplant, werden Sie von der Narkoseärztin bzw. dem Narkosearzt untersucht."
+  - "In den **6–8 Stunden** vor der Operation dürfen Sie nichts essen und nichts trinken (bitte halten Sie sich an die Anweisungen der Narkoseärztin bzw. des Narkosearztes)."
+  - "Waschen Sie Ihre Haare am Abend vor oder am Morgen der Operation; verwenden Sie am Operationstag kein Haarspray, kein Gel, kein Make-up und keine Kontaktlinsen. Ein Haarschnitt ist in der Regel nicht notwendig."
+  - "Teilen Sie Ihrem Arzt mit, wenn Sie in den letzten **3–4 Monaten** Botulinumtoxin im Stirn- oder Augenbrauenbereich erhalten haben; dies kann die Planung beeinflussen."
+  - "Es wird empfohlen, dass am ersten Tag nach der Operation eine Begleitperson bei Ihnen bleibt."
+
+recovery:
+  - when: "Erste 48 Stunden"
+    what: "Sie spüren ein Spannungsgefühl, leichte Kopfschmerzen und eine Schwellung an Schläfen und Stirn; die Schmerzen sind meist gering und lassen sich mit Schmerzmitteln gut behandeln. Die Schwellung kann sich in Richtung Augen verlagern; Blutergüsse treten, **falls sie auftreten**, an den Augenlidern auf. Schlafen mit erhöhtem Kopf und kühlende Umschläge helfen, die Schwellung zu verringern. Wurde eine Drainage eingelegt, wird sie in der Regel am nächsten Tag entfernt."
+  - when: "1. Woche"
+    what: "Ab dem **2.–3. Tag** können Sie Ihre Haare in der Regel vorsichtig mit einem milden Shampoo waschen. Augenbrauen und Augenwinkel können in dieser Phase höher und straffer wirken als geplant. Die meisten Patienten nehmen ihre Alltagsaktivitäten und Schreibtischarbeit innerhalb von 5–7 Tagen wieder auf."
+  - when: "Tag 7–14"
+    what: "Klammern oder Fäden werden entfernt. Taubheitsgefühl, Juckreiz und Empfindlichkeit entlang des Schnitts an den Schläfen können weiter bestehen."
+  - when: "Woche 2–6"
+    what: "Die Schwellung klingt weitgehend ab und der Blick wirkt natürlicher. Anstrengender Sport sowie enge Stirnbänder/Helme, die auf die Schläfen drücken, sollten mindestens **3–4 Wochen** lang vermieden werden, Haarefärben und ähnliche chemische Behandlungen mindestens **4–6 Wochen** lang; verwenden Sie den Föhn auf lauwarmer Stufe."
+  - when: "Monat 3–6"
+    what: "Das Gewebe setzt sich und das endgültige Erscheinungsbild zeigt sich. Veränderungen des Gefühls in der Kopfhaut bilden sich weitgehend zurück; die Narbe verblasst."
+
+risks:
+  expected:
+    - "Spannungsgefühl, Druckgefühl und leichte Kopfschmerzen an Schläfen und Stirn"
+    - "Schwellung an der Stirn und um die Augen; Blutergüsse klingen, **falls sie auftreten**, innerhalb von 1–2 Wochen ab"
+    - "In den ersten Wochen höher als geplant wirkende Augenbrauen oder ein erstaunter Gesichtsausdruck"
+    - "Taubheitsgefühl, Juckreiz oder Kribbeln an Schläfen und Kopfhaut"
+    - "Empfindlichkeit und Verhärtung entlang des Schnitts"
+  common:
+    - name: "Leichte Asymmetrie"
+      text: "Augenbrauen sind von Natur aus nicht vollkommen symmetrisch; nach der Operation können geringe Unterschiede zwischen beiden Seiten bestehen bleiben oder während der Heilung auftreten."
+    - name: "Ausdünnung der Haare entlang des Schnitts"
+      text: "Ein vorübergehender Haarausfall um den Schnitt (Schockhaarausfall) ist häufig; die Haare wachsen in der Regel innerhalb von **2–4 Monaten** nach. Der Schnitt bleibt als feine, von Haaren bedeckte Linie zurück."
+    - name: "Länger anhaltendes Taubheitsgefühl und Juckreiz"
+      text: "Ein verändertes Gefühl in der Kopfhaut kann mehrere Monate anhalten; Juckreiz während der Heilung ist normal."
+    - name: "Teilweise Lockerung"
+      text: "Ein gewisses Absinken der angehobenen Gewebe in den ersten Monaten ist zu erwarten; deshalb kann bei der Operation bewusst etwas stärker angehoben werden."
+  uncommon:
+    - name: "Vorübergehende Schwäche beim Anheben der Augenbraue (Stirnast des Gesichtsnervs)"
+      text: "Bei etwa **1–3 von 100** Patienten kann auf einer Seite eine vorübergehende Schwäche beim Anheben der Augenbraue oder beim Runzeln der Stirn auftreten. Ursache ist meist eine Dehnung des Nervs oder eine Schwellung; die Schwäche bildet sich innerhalb von **einigen Wochen bis einigen Monaten** von selbst zurück."
+    - name: "Dauerhafter Haarverlust oder breite Narbe"
+      text: "Entlang des Schnitts kann selten eine dauerhaft haarlose Stelle oder eine verbreiterte Narbe entstehen; insbesondere Narben am Haaransatz können auffälliger sein. Bei Bedarf kann dies durch eine Narbenkorrektur oder eine Haartransplantation verbessert werden."
+    - name: "Hämatom (Blutansammlung)"
+      text: "Bei etwa **1–2 von 100** Patienten kann sich Blut in der Schläfenregion ansammeln; es muss eventuell mit einer Nadel oder durch einen kleinen Eingriff entleert werden."
+    - name: "Infektion"
+      text: "Tritt bei **weniger als 1 von 100** Patienten auf. Sie heilt meist mit Antibiotika ab; selten ist eine Eiterentleerung oder die Entfernung einer Fixierungsnaht erforderlich."
+    - name: "Überkorrektur: „erstaunter“ oder zu stark schräg gestellter („Fox Eye“) Blick"
+      text: "Die äußere Augenbraue oder der Augenwinkel können stärker angehoben wirken als gewünscht. Dies gleicht sich meist in den ersten Wochen aus, während sich das Gewebe setzt; bleibt es bestehen, kann eine Korrektur erforderlich werden."
+    - name: "Frühes Absinken oder unzureichende Wirkung"
+      text: "Durch eine Lockerung der Fixierung oder aufgrund der Gewebebeschaffenheit kann die Augenbraue früher als erwartet absinken; eine erneute Anhebung kann erforderlich werden."
+    - name: "Probleme durch das Fixierungsmaterial"
+      text: "Eine dauerhafte Naht oder ein Fixierungssystem kann unter der Haut tastbar sein, druckempfindlich sein oder selten durch die Haut nach außen treten; in diesem Fall muss es eventuell entfernt werden."
+  rare:
+    - name: "Dauerhafte Nervenschädigung"
+      text: "Eine dauerhafte Schädigung des Nervenastes, der den Brauenhebermuskel versorgt, ist **sehr selten** (weit weniger als 1 von 100 Patienten). In diesem Fall hebt sich die Augenbraue auf dieser Seite nicht mehr und die Stirn lässt sich nicht mehr runzeln; zur Verringerung der Asymmetrie können Botulinumtoxin auf der Gegenseite oder eine weitere Operation erforderlich werden."
+    - name: "Dauerhaftes Taubheitsgefühl oder chronische Schmerzen"
+      text: "Sehr selten können ein dauerhafter Gefühlsverlust der Kopfhaut, länger anhaltende Schmerzen durch eine Nerveneinklemmung oder Kopfschmerzen auftreten; eine weitere Behandlung kann erforderlich werden."
+    - name: "Durchblutungsstörung der Haut"
+      text: "Insbesondere bei Rauchern können Wundheilungsstörungen an den Schnitträndern auftreten, die zu einer breiteren Narbe und zu Haarverlust führen."
+    - name: "Erschwerter Lidschluss und trockenes Auge"
+      text: "Wurde in derselben Sitzung eine Oberlidstraffung durchgeführt, können selten Schwierigkeiten beim vollständigen Schließen des Auges und Beschwerden eines trockenen Auges auftreten; diese sind meist vorübergehend."
+    - name: "Psychische Unzufriedenheit"
+      text: "Trotz eines technisch gelungenen Ergebnisses kann es schwerfallen, sich an das neue Aussehen zu gewöhnen. Ein offenes Gespräch über die Erwartungen vor der Operation verringert dieses Risiko."
+
+emergency:
+  - "**Rasch zunehmende, pralle und schmerzhafte Schwellung** an Schläfe oder Stirn"
+  - "**Nicht stillbare Blutung** aus den Schnitten"
+  - "**Fieber über 38,5 °C**, zunehmende Rötung, Schmerzen, Überwärmung oder Eiter an den Schnittstellen"
+  - "**Starke Kopfschmerzen**, die auf Schmerzmittel nicht ansprechen, Erbrechen oder Nackensteifigkeit"
+  - "**Verschwommenes Sehen oder Doppelbilder**, Augenschmerzen oder Unfähigkeit, das Auge zu schließen"
+  - "Dunkelfärbung, violett-schwarze Verfärbung der Haut oder Aufgehen der Wunde"
+
+lifestyle:
+  - "Schlafen Sie in den ersten 1–2 Wochen auf dem Rücken mit erhöhtem Kopf; vermeiden Sie es, auf dem Bauch oder auf den Schläfen zu liegen."
+  - "Reiben Sie in den ersten 3–4 Wochen nicht an Augenbrauen oder Stirn, massieren Sie nicht die Schläfen und vermeiden Sie Bewegungen, die das Gesicht nach unten ziehen."
+  - "Verschieben Sie chemische und wärmebasierte Behandlungen wie Haarefärben, Dauerwelle und Glätteisen um mindestens **4–6 Wochen**. Verwenden Sie den Föhn auf lauwarmer Stufe."
+  - "Vermeiden Sie in den ersten 3–4 Wochen anstrengenden Sport, Bücken, schweres Heben, Sauna und Hamam (türkisches Bad)."
+  - "Wenn Sie aus dem Ausland angereist sind, ist ein Flug in der Regel nach der ersten Kontrolluntersuchung, meist ab dem 3.–5. Tag, unbedenklich."
+
+declarations_extra:
+  - "Ich habe verstanden, dass ein Temporal Lift den äußeren Teil der Augenbraue und den Augenwinkel anhebt und allein weder die gesamte Stirn noch den inneren Teil der Augenbraue oder einen Hautüberschuss am Augenlid korrigiert."
+  - "Ich habe verstanden, dass die Augenbrauen in den ersten Wochen höher und straffer wirken können, dass die angehobenen Gewebe mit der Zeit wieder etwas absinken können und dass die Wirkung nicht dauerhaft ist."

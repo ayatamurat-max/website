@@ -1,0 +1,153 @@
+{
+ "code": "14",
+ "type": "office",
+ "aesthetic": true,
+ "title": "Traitement par toxine botulique (Botox)",
+ "alt_name": "Traitement par injection des rides d'expression, de l'hypertrophie du muscle de la mâchoire (masséter) ou de la transpiration excessive",
+ "about": [
+  "La toxine botulique est une protéine purifiée qui diminue temporairement la liaison entre le muscle injecté et son nerf, de sorte que le muscle se contracte moins fortement. À visée esthétique, elle est utilisée pour adoucir les **rides d'expression** du front, de l'espace entre les sourcils et du contour des yeux. Elle est également utilisée comme traitement médical du grincement des dents (bruxisme) et de l'hypertrophie du muscle de la mâchoire (masséter), des cordes du cou et de la **transpiration excessive** (hyperhidrose).",
+  "Les rides d'expression se forment au fil des années, à mesure que les mêmes muscles se contractent encore et encore et que la peau perd de son élasticité. L'effet est **temporaire** : le muscle retrouve progressivement sa fonction et, si le traitement n'est pas renouvelé, l'aspect revient lentement à son état antérieur. L'objectif est un aspect **naturel et reposé**, sans figer les expressions de votre visage."
+ ],
+ "procedure_intro": [
+  "Le traitement est réalisé au cabinet, après un bref entretien et un examen. Les mouvements de votre visage sont évalués, les points d'injection sont marqués et, si nécessaire, des photographies sont prises avant le traitement."
+ ],
+ "procedure_steps": [
+  "**Préparation :** le maquillage est retiré et la peau est nettoyée avec une solution antiseptique. Si vous êtes sensible à la douleur, de la glace ou une crème anesthésiante peuvent être appliquées.",
+  "**Injection :** une petite quantité de produit est injectée à l'aide d'une aiguille très fine dans les points marqués. Chaque injection dure quelques secondes ; vous ressentirez une légère piqûre ou une sensation de brûlure.",
+  "**Fin du soin :** une légère pression est exercée sur les points d'injection. Les petites papules disparaissent en quelques minutes.",
+  "**Traçabilité :** le nom du produit, le numéro de LOT, le nombre total d'unités et les zones traitées sont consignés dans votre dossier."
+ ],
+ "procedure_notes": [
+  "Certaines zones et indications de traitement peuvent ne pas figurer dans la notice d'utilisation approuvée du produit en Türkiye (**utilisation hors indication approuvée, ou « off-label »**) ; par exemple, le traitement du masséter (muscle de la mâchoire) et du bruxisme, du cou et de la transpiration des paumes ne fait pas partie des indications approuvées de nombreux produits. Bien que ce type d'utilisation soit répandu et reconnu dans la littérature médicale, votre médecin vous expliquera séparément si la zone prévue pour vous entre dans cette catégorie, et cela sera consigné dans le champ correspondant de ce formulaire."
+ ],
+ "anesthesia": "Généralement inutile ; glace ou crème anesthésiante sur demande",
+ "duration": "Environ 10–20 minutes",
+ "stay": "Le jour même ; 15–30 minutes de surveillance après le traitement",
+ "benefits": [
+  "Adoucissement des rides d'expression du front, de l'espace entre les sourcils et du contour des yeux, pour un aspect plus reposé",
+  "Avec le traitement du masséter, diminution des symptômes du bruxisme et affinement de l'ovale de la mâchoire",
+  "Avec le traitement de la transpiration, diminution nette de la transpiration",
+  "Un geste court, sans incision chirurgicale, après lequel vous pouvez reprendre immédiatement vos activités quotidiennes"
+ ],
+ "success": [
+  "L'effet commence généralement en **3–14 jours**, atteint son maximum vers 2 semaines et dure en moyenne **3–4 mois** dans les zones d'expression (il peut durer plus longtemps pour le traitement de la transpiration et du masséter). L'intensité et la durée de l'effet varient d'une personne à l'autre. Des rides très profondes et installées peuvent ne pas disparaître complètement. Si nécessaire, un contrôle est organisé vers 2 semaines et, lorsque votre médecin le juge approprié, une petite injection complémentaire (retouche) peut être réalisée."
+ ],
+ "alternatives": [
+  "**Absence de traitement :** s'agissant d'une intervention esthétique, vous avez toujours la possibilité de ne pas la réaliser.",
+  "**Produits de comblement (fillers) :** peuvent être plus adaptés aux rides dues à une perte de volume plutôt qu'au mouvement.",
+  "**Soins de la peau et techniques de rajeunissement cutané :** les crèmes aux rétinoïdes, les peelings chimiques, le laser ou la mésothérapie peuvent améliorer la qualité de la peau, mais ne diminuent pas le mouvement des muscles du visage.",
+  "**Chirurgie :** des interventions telles qu'un lifting des sourcils ou un lifting du visage peuvent offrir une solution plus durable en cas de relâchement.",
+  "**Pour les indications médicales :** une gouttière de nuit pour le bruxisme ; des antitranspirants et des médicaments pour la transpiration."
+ ],
+ "no_treatment": [
+  "Si le traitement n'est pas réalisé, votre aspect actuel ou vos symptômes suivront leur évolution naturelle. Les rides d'expression peuvent devenir progressivement plus visibles avec l'âge ; cela ne représente pas de danger pour votre santé."
+ ],
+ "before": [
+  "Le traitement **n'est pas réalisé, ou est reporté,** dans les situations suivantes : grossesse, allaitement, maladies neuromusculaires telles que la **myasthénie (myasthenia gravis)**, la SLA ou le syndrome de Lambert-Eaton, infection active dans la zone à traiter, allergie connue au produit ou, pour certains produits, allergie aux protéines de lait de vache. Veuillez nous signaler si l'une de ces situations vous concerne.",
+  "Les **antibiotiques de la famille des aminosides** (par ex. la gentamicine) et certains myorelaxants peuvent augmenter l'effet de la toxine botulique ; veuillez nous signaler si vous en prenez.",
+  "Si vous avez déjà reçu de la toxine botulique, indiquez-nous quand, avec quel produit et quel en a été le résultat.",
+  "Pour réduire le risque d'ecchymoses, si possible et après en avoir parlé avec votre médecin, interrompez l'aspirine et les médicaments similaires quelques jours avant le traitement."
+ ],
+ "recovery": [
+  {
+   "when": "4 premières heures",
+   "what": "Ne vous allongez pas et ne massez ni n'appuyez sur la zone traitée. Cela aide le produit à rester là où il a été injecté. Une légère rougeur et de petites papules peuvent être observées aux points d'injection."
+  },
+  {
+   "when": "Premier jour",
+   "what": "Évitez le sport intense, le sauna, le hammam, les cabines de bronzage (UV) et les environnements très chauds. Le maquillage peut être appliqué après quelques heures. De légers maux de tête peuvent survenir ; ils passent avec des antalgiques simples."
+  },
+  {
+   "when": "Jours 3–14",
+   "what": "L'effet s'installe progressivement. **Si** de petites ecchymoses apparaissent aux points d'injection, elles s'estompent en une semaine. Ne faites pas de soins du visage, de soins de la peau ni de massage du visage pendant cette période."
+  },
+  {
+   "when": "2e semaine",
+   "what": "L'effet atteint son maximum. Un contrôle est organisé si nécessaire ; en cas d'asymétrie ou d'effet insuffisant, une petite injection complémentaire peut être prévue après évaluation par le médecin."
+  },
+  {
+   "when": "3e–4e mois et au-delà",
+   "what": "L'effet diminue progressivement. Un intervalle d'au moins 3 mois entre deux traitements est généralement recommandé."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Légère douleur, rougeur et petites papules aux points d'injection (disparaissent en quelques minutes à quelques heures)",
+   "Petites ecchymoses ; **si** des ecchymoses apparaissent, elles s'estompent en quelques jours à une semaine",
+   "Légère sensation de lourdeur ou de tension du front (1–2 premières semaines)"
+  ],
+  "common": [
+   {
+    "name": "Maux de tête",
+    "text": "En particulier après un premier traitement, environ **1–10 patients sur 100** ont de légers maux de tête au cours des premiers jours ; ils disparaissent généralement en quelques jours."
+   },
+   {
+    "name": "Légère asymétrie ou effet insuffisant",
+    "text": "La force musculaire variant d'une personne à l'autre, de petites différences entre les deux côtés peuvent persister ou l'effet peut être moindre que prévu. Cela est évalué lors du contrôle à 2 semaines."
+   },
+   {
+    "name": "Queue du sourcil trop relevée (« sourcil de Spock »)",
+    "text": "Après un traitement du front, l'extrémité externe du sourcil peut se relever exagérément ; cela se corrige généralement par une petite injection complémentaire."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Chute de la paupière supérieure (ptosis)",
+    "text": "Après un traitement de l'espace entre les sourcils ou du front, environ **1–5 patients sur 100** peuvent présenter une légère chute d'une paupière supérieure. Elle est **temporaire** et disparaît généralement en 2–6 semaines. Pendant cette période, des gouttes oculaires qui relèvent temporairement la paupière et améliorent son aspect peuvent être prescrites."
+   },
+   {
+    "name": "Chute du sourcil et lourdeur du front",
+    "text": "Due à un relâchement excessif du muscle frontal ; s'améliore à mesure que l'effet s'estompe (quelques semaines à quelques mois)."
+   },
+   {
+    "name": "Sourire asymétrique, faiblesse des mouvements des lèvres, écoulement de salive",
+    "text": "Peuvent survenir lors du traitement du bas du visage et du masséter si le produit agit sur les muscles voisins ; temporaires, mais peuvent durer de plusieurs semaines à quelques mois."
+   },
+   {
+    "name": "Sécheresse oculaire, larmoiement ou vision double",
+    "text": "Peu fréquents lors du traitement du contour des yeux ; temporaires. Prévenez votre médecin si vous avez une vision double."
+   },
+   {
+    "name": "Difficulté à avaler, faiblesse du cou",
+    "text": "Peuvent survenir lors du traitement du cou ; généralement légères et temporaires."
+   },
+   {
+    "name": "Diminution de la force de mastication, joues d'aspect creusé",
+    "text": "Après un traitement du masséter, mastiquer des aliments durs peut être fatigant pendant un certain temps ; très rarement, la joue peut paraître légèrement creusée ou le sourire irrégulier."
+   },
+   {
+    "name": "Faiblesse de la main après traitement des paumes",
+    "text": "Après des injections dans les paumes pour la transpiration, la force de préhension des doigts peut être temporairement diminuée, et les injections elles-mêmes peuvent être assez douloureuses. La faiblesse disparaît généralement en quelques semaines."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Diffusion de l'effet à distance",
+    "text": "Très rarement, en particulier à fortes doses, l'effet du produit peut s'étendre au-delà de la zone traitée et provoquer une faiblesse musculaire générale, des troubles de la vision ou des **difficultés à parler, à avaler ou à respirer**. Cette situation nécessite un **traitement en urgence** ; une hospitalisation et une assistance respiratoire peuvent être nécessaires. Aux doses utilisées en esthétique, cela est extrêmement rare."
+   },
+   {
+    "name": "Réaction allergique grave",
+    "text": "Une réaction allergique sévère (anaphylaxie) avec urticaire, gonflement du visage et des lèvres ou essoufflement est extrêmement rare ; elle nécessite un traitement en urgence."
+   },
+   {
+    "name": "Perte d'efficacité (formation d'anticorps)",
+    "text": "Très rarement, l'organisme fabrique des anticorps contre le produit et les traitements ultérieurs peuvent ne plus agir. Des traitements fréquents et à fortes doses augmentent ce risque."
+   }
+  ]
+ },
+ "emergency": [
+  "**Difficulté à avaler, à parler ou à respirer**, ou faiblesse musculaire marquée",
+  "**Vision floue ou double**, ou impossibilité totale d'ouvrir une paupière",
+  "Gonflement d'apparition rapide du visage, des lèvres ou de la langue, urticaire ou essoufflement (réaction allergique)",
+  "Douleur, rougeur, chaleur croissantes ou écoulement de pus au niveau de la zone traitée"
+ ],
+ "lifestyle": [
+  "Ne vous allongez pas et ne massez pas la zone pendant les 4 premières heures ; évitez le sport intense, le sauna et le hammam le premier jour.",
+  "Tant que l'effet persiste, si vous devez recevoir de la toxine botulique, un massage du visage ou des soins de la peau chez un autre médecin, informez-le de ce traitement.",
+  "Si vous envisagez une grossesse pendant la période de traitement, parlez-en à votre médecin."
+ ],
+ "declarations_extra": [
+  "J'ai été interrogé(e) sur les situations qui contre-indiqueraient le traitement (grossesse, allaitement, maladies neuromusculaires, médicaments) et j'ai donné des informations exactes.",
+  "Je comprends que l'effet de la toxine botulique est temporaire et que le traitement doit être renouvelé à intervalles réguliers pour être maintenu. Il m'a été expliqué que certaines zones de traitement peuvent se situer en dehors des indications approuvées dans la notice d'utilisation du produit."
+ ]
+}

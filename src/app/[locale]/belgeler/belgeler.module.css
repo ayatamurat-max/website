@@ -1,0 +1,670 @@
+/* Belgeler ve Onam Formları: sitenin genel diliyle (lacivert, turkuaz, altın vurgu) */
+
+.hero {
+  padding: 4.5rem 0 3rem;
+  background: linear-gradient(180deg, #F2F8FA 0%, var(--color-background) 100%);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.hero h1 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  margin-bottom: 1rem;
+}
+
+.heroIntro {
+  max-width: 720px;
+  color: var(--color-text-light);
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+
+.back {
+  display: inline-block;
+  margin-bottom: 1.5rem;
+  color: var(--color-secondary);
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.back:hover {
+  color: var(--color-secondary-hover);
+}
+
+.body {
+  padding: 3.5rem 0 5rem;
+}
+
+/* --- Belgeler ana sayfası: kartlar --- */
+.hubGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.hubCard {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 2rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-top: 3px solid var(--color-secondary);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow var(--transition-normal), transform var(--transition-normal);
+}
+
+.hubCard:hover {
+  box-shadow: var(--shadow-hover);
+  transform: translateY(-3px);
+}
+
+.hubCard.muted {
+  border-top-color: var(--color-accent);
+}
+
+.hubIcon {
+  color: var(--color-secondary);
+}
+
+.hubCard h2 {
+  font-size: 1.35rem;
+}
+
+.hubCard p {
+  color: var(--color-text-light);
+  line-height: 1.65;
+  flex: 1;
+}
+
+.hubFoot {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}
+
+.hubFoot strong {
+  color: var(--color-secondary);
+  font-family: var(--font-heading);
+}
+
+/* --- Onam formları listesi --- */
+.group + .group {
+  margin-top: 3.5rem;
+}
+
+.groupTitle {
+  font-size: 1.4rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.formGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1rem;
+}
+
+.formCard {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1.4rem 1.5rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+}
+
+.formCardHead {
+  display: flex;
+  gap: 0.9rem;
+  align-items: flex-start;
+}
+
+.code {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.4rem;
+  height: 2.4rem;
+  border-radius: var(--radius-full);
+  background: #E6F7FB;
+  color: #0087A6;
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.formCardTitle {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: 1.08rem;
+  color: var(--color-primary);
+  line-height: 1.3;
+}
+
+.formCardTitle:hover {
+  color: var(--color-secondary);
+}
+
+.formCardMeta {
+  display: block;
+  margin-top: 0.2rem;
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+}
+
+.formCardLinks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.25rem;
+  margin-top: auto;
+  padding-top: 0.9rem;
+  border-top: 1px dashed var(--color-border);
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+.formCardLinks a {
+  color: var(--color-secondary);
+}
+
+.formCardLinks a:hover {
+  color: var(--color-secondary-hover);
+}
+
+/* --- Bilgi notu --- */
+.notice {
+  display: flex;
+  gap: 1rem;
+  padding: 1.25rem 1.5rem;
+  background: #FFF8EA;
+  border: 1px solid #F3DDAF;
+  border-left: 4px solid var(--color-accent);
+  border-radius: var(--radius-md);
+  margin-bottom: 2.5rem;
+}
+
+.notice svg {
+  flex-shrink: 0;
+  color: #B7801B;
+  margin-top: 0.15rem;
+}
+
+.notice strong {
+  display: block;
+  font-family: var(--font-heading);
+  color: var(--color-primary);
+  margin-bottom: 0.25rem;
+}
+
+.notice p {
+  color: var(--color-text-light);
+  line-height: 1.65;
+  font-size: 0.95rem;
+}
+
+/* --- İndir / yazdır düğmeleri --- */
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 1.75rem;
+}
+
+.actionsCompact {
+  margin-top: 0;
+}
+
+.actionBtn {
+  gap: 0.5rem;
+  padding: 11px 22px;
+  font-size: 0.95rem;
+}
+
+.btnGhost {
+  background: var(--color-surface);
+  color: var(--color-primary);
+  border: 1.5px solid #C9D6DC;
+}
+
+.btnGhost:hover {
+  border-color: var(--color-secondary);
+  color: var(--color-secondary);
+}
+
+.actionMeta {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+}
+
+/* --- Form sayfası --- */
+.altName {
+  color: var(--color-text-light);
+  font-size: 1.1rem;
+  margin-top: -0.25rem;
+  max-width: 760px;
+}
+
+.issued {
+  margin-top: 0.75rem;
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 3rem;
+}
+
+@media (min-width: 1100px) {
+  .layout {
+    grid-template-columns: 250px minmax(0, 780px);
+    justify-content: center;
+  }
+}
+
+.toc {
+  display: none;
+}
+
+@media (min-width: 1100px) {
+  .toc {
+    display: block;
+    position: sticky;
+    top: 112px;
+    align-self: start;
+    max-height: calc(100vh - 140px);
+    overflow-y: auto;
+  }
+}
+
+.tocTitle {
+  font-family: var(--font-heading);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-text-muted);
+  margin-bottom: 0.75rem;
+}
+
+.toc ol {
+  list-style: none;
+  padding: 0;
+  border-left: 2px solid var(--color-border);
+}
+
+.toc li a {
+  display: block;
+  padding: 0.35rem 0 0.35rem 1rem;
+  margin-left: -2px;
+  border-left: 2px solid transparent;
+  font-size: 0.88rem;
+  line-height: 1.35;
+  color: var(--color-text-light);
+}
+
+.toc li a:hover {
+  color: var(--color-secondary);
+  border-left-color: var(--color-secondary);
+}
+
+.doc {
+  min-width: 0;
+}
+
+.intro p {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--color-text);
+  margin-bottom: 1rem;
+}
+
+.block {
+  padding: 2.25rem 0 0;
+  scroll-margin-top: 110px;
+}
+
+.block h2 {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  font-size: 1.35rem;
+  margin-bottom: 1rem;
+}
+
+.num {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.9rem;
+  height: 1.9rem;
+  border-radius: var(--radius-full);
+  background: var(--color-primary);
+  color: white;
+  font-size: 0.85rem;
+  font-weight: 600;
+  transform: translateY(-2px);
+}
+
+.doc p,
+.doc li {
+  color: var(--color-text-light);
+  line-height: 1.75;
+}
+
+.doc p {
+  margin-bottom: 0.9rem;
+}
+
+.doc ul,
+.doc ol.steps {
+  padding-left: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.doc li {
+  margin-bottom: 0.45rem;
+}
+
+.doc strong {
+  color: var(--color-primary);
+}
+
+.doc ol.steps {
+  list-style: none;
+  padding-left: 0;
+  counter-reset: s;
+}
+
+.doc ol.steps li {
+  position: relative;
+  padding-left: 2.25rem;
+  counter-increment: s;
+}
+
+.doc ol.steps li::before {
+  content: counter(s);
+  position: absolute;
+  left: 0;
+  top: 0.15rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: var(--radius-full);
+  background: #E6F7FB;
+  color: #0087A6;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-align: center;
+  line-height: 1.5rem;
+}
+
+.facts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 0.75rem;
+  margin: 1.25rem 0 0.5rem;
+}
+
+.fact {
+  padding: 0.9rem 1.1rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+}
+
+.factLabel {
+  display: block;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-text-muted);
+  margin-bottom: 0.25rem;
+}
+
+.factValue {
+  font-family: var(--font-heading);
+  font-weight: 500;
+  color: var(--color-primary);
+  line-height: 1.35;
+}
+
+/* İyileşme takvimi */
+.recovery {
+  list-style: none;
+  padding: 0 !important;
+  border-left: 2px solid #CDEFF6;
+  margin-left: 0.4rem;
+}
+
+.recovery li {
+  position: relative;
+  padding: 0 0 1.1rem 1.4rem;
+  margin: 0 !important;
+}
+
+.recovery li::before {
+  content: '';
+  position: absolute;
+  left: -7px;
+  top: 0.45rem;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--color-surface);
+  border: 2px solid var(--color-secondary);
+}
+
+.recovery .when {
+  display: block;
+  font-family: var(--font-heading);
+  font-weight: 600;
+  color: var(--color-primary);
+}
+
+/* Risk grupları */
+.tier {
+  margin: 1.25rem 0;
+  padding: 1.1rem 1.25rem 0.4rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+  border-left-width: 4px;
+  background: var(--color-surface);
+}
+
+.tierTitle {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  color: var(--color-primary);
+  margin-bottom: 0.6rem;
+  line-height: 1.4;
+}
+
+.tier_expected { border-left-color: #8FD3C1; }
+.tier_common { border-left-color: var(--color-secondary); }
+.tier_uncommon { border-left-color: var(--color-accent); }
+.tier_rare { border-left-color: #D9776B; }
+.tier_general { border-left-color: #9AA7B1; }
+
+.riskName {
+  color: var(--color-primary);
+  font-weight: 600;
+}
+
+.legend {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  font-style: italic;
+}
+
+/* Acil durumlar */
+.redbox {
+  padding: 1.25rem 1.5rem 0.5rem;
+  background: #FDF1EF;
+  border: 1px solid #F2C9C2;
+  border-radius: var(--radius-md);
+}
+
+.redbox li::marker {
+  color: #C2493A;
+}
+
+.emcall {
+  font-weight: 600;
+  color: #8E2F23 !important;
+}
+
+/* Beyanlar */
+.declarations {
+  list-style: none;
+  padding-left: 0 !important;
+}
+
+.declarations li {
+  position: relative;
+  padding-left: 1.9rem;
+}
+
+.declarations li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.35rem;
+  width: 1.05rem;
+  height: 1.05rem;
+  border: 1.5px solid #9AA7B1;
+  border-radius: 3px;
+}
+
+.subhead {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  color: var(--color-primary);
+  margin: 1.25rem 0 0.6rem;
+}
+
+.finalNote {
+  margin-top: 2.5rem;
+  padding-top: 1.25rem;
+  border-top: 1.5px solid var(--color-accent);
+  font-size: 0.88rem;
+  color: var(--color-text-muted) !important;
+}
+
+.bottomBar {
+  margin-top: 3rem;
+  padding: 1.75rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+}
+
+.bottomBar h2 {
+  font-size: 1.15rem;
+  margin-bottom: 1rem;
+}
+
+.langs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1.5rem;
+  font-size: 0.9rem;
+}
+
+.langs span {
+  color: var(--color-text-muted);
+  margin-right: 0.25rem;
+}
+
+.langs a {
+  padding: 0.25rem 0.7rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-full);
+  color: var(--color-primary);
+  font-weight: 500;
+}
+
+.langs a:hover {
+  border-color: var(--color-secondary);
+  color: var(--color-secondary);
+}
+
+/* İşlem sayfalarındaki "onam formu" bandı */
+.procBand {
+  padding: 3rem 0;
+  background: #F2F8FA;
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.procBandInner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem 3rem;
+}
+
+.procBand h2 {
+  font-size: clamp(1.4rem, 2.5vw, 1.8rem);
+  margin-bottom: 0.5rem;
+}
+
+.procBand p {
+  color: var(--color-text-light);
+  max-width: 560px;
+  line-height: 1.65;
+}
+
+.procForms {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.procForm {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem 1rem;
+  padding: 0.9rem 1.1rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+}
+
+.procForm > a:first-child {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  color: var(--color-primary);
+  margin-right: auto;
+}
+
+.procForm > a:first-child:hover {
+  color: var(--color-secondary);
+}
+
+.procForm .smallLink {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--color-secondary);
+}
+
+@media print {
+  .toc,
+  .actions,
+  .bottomBar,
+  .back {
+    display: none !important;
+  }
+}

@@ -4,6 +4,7 @@ import JsonLd from './JsonLd';
 import { Link } from '@/i18n/navigation';
 import { CLINIC } from '@/lib/clinic';
 import ProcedureIcon, { type ProcedureIconName } from './ProcedureIcon';
+import ConsentBand from './ConsentBand';
 // Rinoplasti sayfasıyla aynı görsel dil
 import styles from '../[locale]/rinoplasti/rinoplasti.module.css';
 
@@ -15,6 +16,8 @@ export type ProcedureConfig = {
   icon: ProcedureIconName;
   /** İlgili diğer işlemler (alt kısımda gösterilir) */
   related: { key: string; icon: ProcedureIconName; href: string }[];
+  /** Bu işlemin onam formları (Belgeler > Onam Formları adresleri) */
+  consent?: string[];
 };
 
 /** "prefix1", "prefix2"... anahtarlarını sırayla, olduğu kadar toplar */
@@ -196,6 +199,8 @@ export default function ProcedurePage({ config }: { config: ProcedureConfig }) {
           </div>
         </section>
       )}
+
+      {config.consent && <ConsentBand slugs={config.consent} />}
 
       {/* Kapanış */}
       <section className={styles.finalCta}>

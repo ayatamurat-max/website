@@ -1,0 +1,121 @@
+code: "09"
+type: surgical
+aesthetic: false
+title: "Microchirurgie endolaryngée"
+alt_name: "Microchirurgie des cordes vocales / du larynx (microlaryngoscopie)"
+
+specific_fields:
+  - label: "Lésion / diagnostic préliminaire :"
+  - label: "Côté :"
+    options: ["Corde vocale droite", "Corde vocale gauche", "Des deux côtés", "Autre zone du larynx"]
+  - label: "Technique prévue :"
+    options: ["Instruments froids", "Laser CO2", "À décider par le chirurgien pendant l'intervention"]
+    blank: false
+  - label: "Biopsie / examen anatomopathologique :"
+    options: ["Prévu(e)", "Si jugé(e) nécessaire", "Non prévu(e)"]
+
+about:
+  - "Le larynx se situe à l'avant du cou. Il produit la voix, protège les voies respiratoires et ferme l'accès à la trachée lorsque vous avalez. Les cordes vocales sont deux fines structures situées à l'intérieur du larynx, qui vibrent pour produire le son."
+  - "Des lésions telles que des **nodules, polypes, kystes, un œdème de Reinke, des papillomes ou une leucoplasie (plaques blanches)**, ou une lésion faisant suspecter un cancer, peuvent se développer sur les cordes vocales ou ailleurs dans le larynx. Elles peuvent provoquer un enrouement, une fatigue vocale, une sensation de gêne dans la gorge et, rarement, des difficultés respiratoires. Parmi les causes figurent une utilisation incorrecte ou excessive de la voix, le tabac, le reflux, des infections (par ex. HPV) et parfois des facteurs inconnus."
+  - "Le but de l'intervention est d'enlever la lésion en préservant autant que possible le tissu sain des cordes vocales, **d'améliorer votre voix**, d'élargir les voies respiratoires si nécessaire et d'établir un **diagnostic définitif grâce à l'examen anatomopathologique** du tissu retiré."
+
+procedure_intro:
+  - "L'intervention est réalisée sous anesthésie générale, au bloc opératoire, par la bouche ; aucune incision n'est faite sur le cou."
+procedure_steps:
+  - "**Accès au larynx :** Une fois que vous êtes endormi(e), un tube métallique (laryngoscope) est introduit par la bouche jusqu'au larynx. Vos dents sont protégées par un protège-dents spécial."
+  - "**Examen au microscope :** Les cordes vocales sont grossies à l'aide d'un microscope opératoire ou d'un endoscope et examinées en détail. Des anomalies supplémentaires, non visibles lors de la consultation, peuvent être découvertes à ce stade."
+  - "**Ablation de la lésion :** La lésion est retirée à l'aide d'instruments de microchirurgie très fins ou d'un laser CO2, en préservant autant que possible la surface vibrante de la corde vocale. Si nécessaire, seul un petit fragment est prélevé pour le diagnostic (biopsie)."
+  - "**Gestes complémentaires :** Selon la situation, de petits cotons imbibés de médicament peuvent être utilisés pour arrêter le saignement, et un médicament peut être injecté dans la corde vocale pour limiter la formation de cicatrice."
+  - "**Fin de l'intervention :** Le laryngoscope est retiré et la bouche et les dents sont vérifiées. Il n'y a ni points de suture ni cicatrice visible sur le cou."
+procedure_notes:
+  - "Très rarement, en raison d'une ouverture de bouche limitée, de la forme des dents ou de l'anatomie de la mâchoire ou du cou, il peut être impossible d'accéder au larynx en toute sécurité. Dans ce cas, l'intervention peut être interrompue et d'autres méthodes vous seront expliquées."
+anesthesia: "Anesthésie générale"
+duration: "Environ 20 à 60 minutes"
+stay: "Généralement sortie le jour même ou une nuit à l'hôpital"
+
+benefits:
+  - "Moins d'enrouement et une voix plus claire, qui se fatigue moins vite"
+  - "Un **diagnostic définitif** grâce à l'examen anatomopathologique du tissu retiré, afin qu'une maladie découverte à un stade précoce puisse être traitée à temps"
+  - "Une respiration plus facile si la lésion rétrécit les voies respiratoires"
+success:
+  - "Pour les lésions bénignes telles que les nodules, polypes et kystes, la voix s'améliore nettement chez la plupart des patients. Toutefois, le résultat dépend du type et de la taille de la lésion, de l'état antérieur des cordes vocales, de facteurs tels que le tabac et le reflux, et du respect du **repos vocal et de la rééducation vocale** après l'intervention. Certaines affections, comme les papillomes, peuvent récidiver et nécessiter plus d'une intervention."
+
+alternatives:
+  - "**Rééducation vocale (avec un orthophoniste) :** Elle peut être le traitement de première intention, en particulier pour les nodules des cordes vocales, et permet souvent d'éviter l'intervention."
+  - "**Traitement médicamenteux :** Des médicaments réduisant l'acidité gastrique ou l'inflammation peuvent être utiles lorsque le reflux ou une inflammation en est la cause."
+  - "**Arrêt du tabac et bonne hygiène vocale :** Ils favorisent la régression de certaines lésions (par ex. œdème de Reinke)."
+  - "**Geste en cabinet sous anesthésie locale :** Pour certaines petites lésions ou biopsies soigneusement sélectionnées, un geste peut être réalisé alors que vous êtes éveillé(e), à l'aide d'un endoscope introduit par le nez ou la bouche ; cela ne convient pas à toutes les lésions."
+  - "**Surveillance rapprochée :** Les petites lésions sans suspicion de cancer peuvent être surveillées par des examens réguliers."
+
+no_treatment:
+  - "Si l'intervention n'est pas réalisée, votre enrouement peut persister ou s'aggraver. La nature exacte de la lésion n'étant pas connue, le diagnostic d'une maladie grave sous-jacente (par ex. un cancer à un stade précoce ou une lésion pouvant devenir cancéreuse) peut, bien que rarement, être retardé. Les lésions qui grossissent peuvent rarement provoquer des difficultés respiratoires."
+
+before:
+  - "Des analyses de sang seront réalisées avant l'intervention et vous serez examiné(e) par le médecin anesthésiste."
+  - "Vous ne devez ni manger ni boire pendant les **6 à 8 heures** précédant l'intervention (suivez les consignes du médecin anesthésiste)."
+  - "Signalez-nous impérativement toute **dent mobile, couronne, bridge, implant ou prothèse dentaire** ; les prothèses amovibles sont retirées avant l'intervention."
+  - "Si un traitement du reflux vous a été recommandé, il pourra vous être demandé de le commencer avant l'intervention."
+
+recovery:
+  - when: "Premières 24 à 48 heures"
+    what: "Vous pouvez avoir mal à la gorge ou ressentir une brûlure, une légère gêne en avalant, un enrouement et quelques crachats teintés de sang. Vous pouvez remarquer un engourdissement de la langue, une modification du goût ou une douleur de la mâchoire ; ces symptômes disparaissent généralement en quelques jours."
+  - when: "1re semaine"
+    what: "Votre médecin recommandera généralement **3 à 7 jours de repos vocal complet** (ne pas parler, ne pas chuchoter), suivis d'une reprise progressive de l'utilisation de la voix. La plupart des personnes peuvent reprendre un travail de bureau en 2 à 3 jours ; les professionnels de la voix (enseignants, chanteurs, personnel de centre d'appels) doivent attendre plus longtemps."
+  - when: "2e à 4e semaine"
+    what: "La voix s'améliore progressivement. Une rééducation vocale est commencée si nécessaire. Évitez de crier, de chanter et de parler longtemps. Le résultat anatomopathologique est généralement disponible pendant cette période et sera discuté avec vous."
+  - when: "1er au 3e mois"
+    what: "La cicatrisation des cordes vocales s'achève ; la voix définitive apparaît généralement en **6 à 12 semaines**. Lors de la consultation de contrôle, les cordes vocales sont examinées à l'endoscope."
+
+risks:
+  expected:
+    - "Mal de gorge et légère gêne en avalant (quelques jours)"
+    - "Enrouement temporaire ou modification de la hauteur de la voix après l'intervention"
+    - "Quelques crachats teintés de sang (1er et 2e jour)"
+    - "Sensibilité de la mâchoire, des lèvres ou des dents ; petites gerçures aux commissures des lèvres"
+  common:
+    - name: "Engourdissement de la langue et modification du goût"
+      text: "Dus à la pression du laryngoscope sur la langue ; surviennent chez environ **5 à 15 patients sur 100** et disparaissent généralement en quelques jours à quelques semaines, persistant très rarement plusieurs mois."
+    - name: "Douleur de l'articulation de la mâchoire"
+      text: "Due au maintien prolongé de la bouche ouverte ; disparaît généralement en quelques jours. Elle peut être plus fréquente et durer plus longtemps chez les personnes ayant déjà des problèmes de l'articulation de la mâchoire."
+    - name: "Voix moins améliorée que prévu"
+      text: "La voix ne redevient pas toujours complètement normale après l'intervention ; une rééducation vocale ou un traitement complémentaire peut être nécessaire."
+  uncommon:
+    - name: "Lésion dentaire"
+      text: "Malgré l'utilisation d'un protège-dents, environ **1 à 5 patients sur 100** peuvent avoir une dent ébréchée, fêlée ou déchaussée, ou une couronne/un bridge endommagé(e). Le risque est plus élevé en cas de dents mobiles, cariées ou artificielles ; des soins dentaires peuvent être nécessaires."
+    - name: "Aggravation de la voix ou modification permanente de la voix"
+      text: "Si du tissu cicatriciel se forme à la surface de la corde vocale, la voix peut devenir plus enrouée, plus faible ou se fatiguer plus vite qu'avant l'intervention. Cela peut nécessiter une rééducation vocale et parfois d'autres interventions ; rarement, cette modification peut être permanente."
+    - name: "Récidive de la lésion"
+      text: "La lésion peut réapparaître, en particulier si le mauvais usage de la voix ou le tabagisme se poursuivent, ou dans des affections comme les papillomes, et une nouvelle intervention peut être nécessaire."
+    - name: "Formation d'une palmure à l'avant des cordes vocales"
+      text: "Lorsque les deux cordes vocales sont traitées près de leur partie avant, elles peuvent se coller l'une à l'autre ; cela peut altérer la qualité de la voix et une seconde intervention peut être nécessaire pour les séparer."
+    - name: "Traitement complémentaire selon le résultat anatomopathologique"
+      text: "Le résultat anatomopathologique peut être différent de ce qui était attendu (par ex. une lésion susceptible de devenir cancéreuse, ou un cancer). Dans ce cas, une intervention complémentaire, une radiothérapie ou une surveillance rapprochée peuvent être nécessaires ; cela vous sera expliqué en détail."
+  rare:
+    - name: "Gonflement (œdème) du larynx et difficultés respiratoires"
+      text: "Un gonflement du larynx peut survenir après l'intervention. Il s'améliore généralement grâce aux médicaments ; très rarement, une surveillance en réanimation ou une ouverture temporaire dans le cou pour sécuriser les voies respiratoires (trachéotomie) peut être nécessaire."
+    - name: "Saignement"
+      text: "Un saignement important est rare. En raison du risque de passage de sang dans les voies respiratoires, un saignement grave peut nécessiter une intervention urgente et un retour au bloc opératoire."
+    - name: "Risques liés au laser"
+      text: "Lorsqu'un laser CO2 est utilisé, il existe un risque de brûlure des tissus voisins et, très rarement, d'inflammation de la sonde d'intubation (feu dans les voies respiratoires). Des mesures de sécurité spécifiques au laser (sonde spéciale, cotons humides, protection des yeux) sont appliquées. Si cela se produisait, cela pourrait provoquer de graves brûlures des voies respiratoires et nécessiter un traitement prolongé en réanimation ainsi qu'une trachéotomie."
+    - name: "Blessure de la bouche, de la langue, des lèvres ou de la gorge"
+      text: "Les petites blessures dues aux instruments cicatrisent généralement d'elles-mêmes ; très rarement, des points de suture peuvent être nécessaires. Exceptionnellement, une déchirure de la paroi de la gorge peut laisser de l'air s'échapper sous la peau du cou (sensation de crépitement) ou provoquer une infection du cou ; cela peut nécessiter une surveillance à l'hôpital, des antibiotiques par voie intraveineuse et, rarement, une intervention chirurgicale."
+    - name: "Problèmes cervicaux"
+      text: "La tête étant inclinée vers l'arrière, des douleurs du cou peuvent survenir — en particulier chez les personnes atteintes d'une maladie de la colonne cervicale — et, très rarement, des problèmes vertébraux plus graves. Veuillez nous signaler tout antécédent de hernie discale cervicale ou de chirurgie du cou."
+
+emergency:
+  - "**Essoufflement**, ou bruit sifflant ou rauque à l'inspiration (stridor)"
+  - "**Toux ou vomissements de sang**, ou crachats teintés de sang qui augmentent au lieu de diminuer"
+  - "**Impossibilité d'avaler**, ou douleur ou gonflement si importants que vous ne pouvez pas avaler votre salive"
+  - "**Fièvre supérieure à 38,5 °C** avec un mal de gorge qui ne cesse de s'aggraver"
+  - "Gonflement du cou ou du visage, ou sensation de crépitement sous la peau"
+
+lifestyle:
+  - "Respectez strictement le **repos vocal** recommandé ; chuchoter fatigue aussi les cordes vocales. Vous pouvez communiquer par écrit ou à l'aide d'applications sur votre téléphone."
+  - "Buvez beaucoup d'eau et maintenez l'air de votre pièce humide. Évitez autant que possible de vous racler la gorge et de tousser."
+  - "Tenez-vous à l'écart du tabac et de la fumée de cigarette ; le tabac nuit à la cicatrisation et augmente le risque de récidive de la lésion."
+  - "Si un médicament contre le reflux vous a été prescrit, prenez-le pendant la durée recommandée ; ne mangez pas dans les 2 à 3 heures précédant le coucher et limitez les aliments épicés et acides."
+  - "Les voyages en avion sont généralement sans danger dès le lendemain ; poursuivez le repos vocal pendant le trajet."
+
+declarations_extra:
+  - "Je comprends que, s'il s'avère pendant l'intervention que le larynx ne peut pas être atteint en toute sécurité, l'intervention peut être interrompue, et qu'un traitement complémentaire ou une surveillance pourront être nécessaires en fonction du résultat anatomopathologique du tissu retiré."
+  - "Je comprends que la voix définitive dépend aussi du respect, de ma part, du repos vocal, de la rééducation vocale, de l'arrêt du tabac et du traitement du reflux après l'intervention."

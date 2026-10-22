@@ -10,7 +10,9 @@
     "book": "Prendre Rendez-vous",
     "rhinoplasty": "Rhinoplastie",
     "international": "Patients internationaux",
-    "blog": "Blog"
+    "blog": "Blog",
+    "documents": "Documents",
+    "consentForms": "Formulaires de consentement"
   },
   "Footer": {
     "description": "Spécialiste en Oto-Rhino-Laryngologie et Chirurgie Cervico-Faciale. Solutions modernes et fondées sur des preuves pour l'esthétique et la santé.",
@@ -142,7 +144,13 @@
     "rejuvenationTitle": "Rajeunissement du visage sans chirurgie | Dr. Murat Ayata",
     "rejuvenationDesc": "Fils tenseurs, skin boosters et lipolyse laser pour une peau raffermie et ravivée.",
     "blogTitle": "Blog : rhinoplastie, respiration et esthétique du visage | Dr. Murat Ayata",
-    "blogDesc": "Les réponses du Dr Murat Ayata, chirurgien ORL, aux questions fréquentes sur la rhinoplastie, la septoplastie et l’esthétique du visage."
+    "blogDesc": "Les réponses du Dr Murat Ayata, chirurgien ORL, aux questions fréquentes sur la rhinoplastie, la septoplastie et l’esthétique du visage.",
+    "documentsTitle": "Documents patients | Op. Dr. Murat Ayata",
+    "documentsDesc": "Documents patients du cabinet du Op. Dr. Murat Ayata : formulaires de consentement éclairé et informations avant l’intervention. Lisez, téléchargez, imprimez.",
+    "consentTitle": "Formulaires de consentement éclairé | Op. Dr. Murat Ayata",
+    "consentDesc": "Formulaires de consentement éclairé pour rhinoplastie, septoplastie, otoplastie, blépharoplastie, botox, fillers et autres interventions. À lire avant l’intervention, à télécharger en PDF et à imprimer.",
+    "consentFormTitle": "{title} : formulaire de consentement | Op. Dr. Murat Ayata",
+    "consentFormDesc": "{title} : déroulement de l’intervention, bénéfices attendus, alternatives, convalescence et risques possibles. À lire avant l’intervention, à télécharger en PDF et à imprimer."
   },
   "Rhinoplasty": {
     "tag": "Rhinoplastie",
@@ -666,5 +674,40 @@
     "instagram": "Voir la vidéo sur Instagram →",
     "latest": "Derniers articles du blog",
     "all": "Tous les articles →"
+  },
+  "Documents": {
+    "hubTag": "Documents",
+    "hubTitle": "Documents patients",
+    "hubIntro": "Les informations à lire avant votre intervention. Chaque document peut être lu ici, téléchargé en PDF ou imprimé.",
+    "consentCardTitle": "Formulaires de consentement éclairé",
+    "consentCardDesc": "18 formulaires pour les interventions chirurgicales et les actes au cabinet : déroulement, convalescence, risques possibles et alternatives.",
+    "privacyCardTitle": "Politique de confidentialité",
+    "privacyCardDesc": "Comment vos données personnelles et de santé sont traitées, et quels sont vos droits.",
+    "open": "Ouvrir →",
+    "formsCount": "{count} formulaires",
+    "consentTag": "Consentement",
+    "consentTitle": "Formulaires de consentement éclairé",
+    "consentIntro": "Ce que vous devez savoir sur l’intervention qui vous est proposée, en termes simples. Prenez le temps de lire et posez vos questions lors de la consultation.",
+    "groupSurgical": "Interventions chirurgicales",
+    "groupOffice": "Actes au cabinet",
+    "read": "Lire",
+    "downloadPdf": "Télécharger le PDF",
+    "print": "Imprimer",
+    "pages": "{count} pages",
+    "noticeTitle": "Ce formulaire est destiné à une lecture préalable",
+    "noticeText": "Vous n’avez pas à le signer maintenant. Votre consentement est recueilli en personne avant l’intervention, au cabinet ou à l’hôpital, après un entretien avec votre médecin au cours duquel les risques propres à votre situation sont également abordés. Vous pouvez l’imprimer et y noter vos questions.",
+    "backToList": "← Tous les formulaires",
+    "onThisPage": "Dans ce formulaire",
+    "facts": "En bref",
+    "declarationsIntro": "En donnant votre consentement, vous confirmez les déclarations suivantes :",
+    "photoIntro": "Sur le formulaire, vous cochez l’une de ces options pour l’utilisation des photographies :",
+    "decisionIntro": "À la fin du formulaire, vous indiquez votre décision :",
+    "minorTitle": "Patients de moins de 18 ans",
+    "issued": "Publication : {date} · Rév. {rev}",
+    "otherLanguages": "Ce formulaire dans d’autres langues",
+    "procedureConsentTag": "Consentement",
+    "procedureConsentTitle": "À lire avant l’intervention",
+    "procedureConsentDesc": "Vous pouvez dès maintenant lire, télécharger ou imprimer le formulaire de consentement éclairé de cette intervention.",
+    "riskLegend": "Les fréquences sont approximatives ; votre risque personnel est évalué lors de la consultation."
   }
 }

@@ -1,0 +1,154 @@
+{
+ "code": "09",
+ "type": "surgical",
+ "aesthetic": false,
+ "title": "Endolarengeal Mikrocerrahi",
+ "alt_name": "Ses telleri / gırtlak mikrocerrahisi (mikrolarengoskopi)",
+ "about": [
+  "Gırtlak (larenks), boynun ön tarafında yer alan; sesi oluşturan, nefes yolunu koruyan ve yutma sırasında soluk borusunu kapatan bir organdır. Ses telleri gırtlağın içinde bulunan, titreşerek sesi oluşturan iki ince yapıdır.",
+  "Ses tellerinde veya gırtlağın başka bir bölümünde **nodül, polip, kist, Reinke ödemi, papillom, lökoplaki (beyaz plak)** gibi oluşumlar ya da kanser şüphesi taşıyan bir lezyon olabilir. Bu oluşumlar ses kısıklığı, seste yorulma, boğazda takılma hissi ve nadiren nefes darlığına neden olabilir. Nedenleri arasında sesin yanlış veya aşırı kullanımı, sigara, reflü, enfeksiyonlar (ör. HPV) ve bazen bilinmeyen etkenler sayılabilir.",
+  "Ameliyatın amacı lezyonu ses tellerinin sağlıklı dokusunu mümkün olduğunca koruyarak çıkarmak, **sesinizi iyileştirmek**, gerekiyorsa nefes yolunu genişletmek ve çıkarılan dokunun **patolojik incelemesiyle kesin tanıyı** koymaktır."
+ ],
+ "procedure_intro": [
+  "Ameliyat genel anestezi altında, ameliyathane koşullarında ağız yoluyla yapılır; boyunda kesi yapılmaz."
+ ],
+ "procedure_steps": [
+  "**Gırtlağa ulaşma:** Uyuduktan sonra ağzınızdan metal bir tüp (laringoskop) yerleştirilerek gırtlağa ulaşılır. Dişleriniz özel bir koruyucu ile korunur.",
+  "**Mikroskop ile inceleme:** Ses telleri ameliyat mikroskobu veya endoskop ile büyütülerek ayrıntılı incelenir. Muayenede görülmeyen ek bulgular burada ortaya çıkabilir.",
+  "**Lezyonun çıkarılması:** Lezyon, çok ince mikrocerrahi aletleri veya CO2 lazer ile, ses telinin titreşen yüzeyi mümkün olduğunca korunarak çıkarılır. Gerekirse yalnızca tanı amacıyla küçük bir parça (biyopsi) alınır.",
+  "**Ek uygulamalar:** Duruma göre kanamayı durdurmak için ilaçlı pamuklar, iz oluşumunu azaltmak için ses teline ilaç enjeksiyonu yapılabilir.",
+  "**Bitiş:** Laringoskop çıkarılır, ağız ve dişler kontrol edilir. Boyunda dikiş veya dışarıdan görünen bir iz olmaz."
+ ],
+ "procedure_notes": [
+  "Çok nadiren, ağız açıklığı, dişlerin yapısı, çene veya boyun anatomisi nedeniyle gırtlağa güvenli şekilde ulaşmak mümkün olmayabilir. Bu durumda işlem durdurulabilir ve size alternatif yöntemler anlatılır."
+ ],
+ "anesthesia": "Genel anestezi",
+ "duration": "Yaklaşık 20–60 dakika",
+ "stay": "Genellikle aynı gün veya 1 gece hastanede kalış",
+ "benefits": [
+  "Ses kısıklığının azalması ve sesin daha net, daha az yorulan hâle gelmesi",
+  "Çıkarılan dokunun patolojik incelemesiyle **kesin tanının** konulması; erken dönemde saptanan bir hastalığın zamanında tedavi edilebilmesi",
+  "Lezyon nefes yolunu daraltıyorsa nefes almanın rahatlaması"
+ ],
+ "success": [
+  "Nodül, polip ve kist gibi iyi huylu lezyonlarda hastaların büyük çoğunluğunda ses belirgin şekilde düzelir. Ancak sonuç; lezyonun türüne, büyüklüğüne, ses tellerinin önceki durumuna, sigara ve reflü gibi etkenlere ve ameliyat sonrası **ses istirahati ile ses terapisine** uyuma bağlıdır. Papillom gibi bazı hastalıklar tekrarlayabilir ve birden fazla ameliyat gerektirebilir."
+ ],
+ "alternatives": [
+  "**Ses terapisi (konuşma terapisti eşliğinde):** Özellikle ses teli nodüllerinde ilk seçenek olabilir ve çoğu zaman ameliyata gerek bırakmaz.",
+  "**İlaç tedavisi:** Reflü veya iltihaba bağlı durumlarda mide asidini azaltan ve iltihabı gideren ilaçlar fayda sağlayabilir.",
+  "**Sigarayı bırakma ve ses hijyeni:** Bazı lezyonlarda (ör. Reinke ödemi) gerilemeye katkı sağlar.",
+  "**Lokal anestezi ile ofiste işlem:** Uygun seçilmiş küçük lezyonlarda veya biyopside, burundan veya ağızdan endoskopla uyanıkken işlem yapılabilir; her lezyon için uygun değildir.",
+  "**Yakın takip:** Kanser şüphesi taşımayan küçük lezyonlarda belirli aralıklarla muayene ile izlenebilir."
+ ],
+ "no_treatment": [
+  "Ameliyat yapılmazsa ses kısıklığınız devam edebilir veya artabilir. Lezyonun türü kesin olarak bilinmediği için, nadir de olsa altta yatan ciddi bir hastalığın (ör. erken evre kanser veya kansere dönüşebilen lezyon) tanısı gecikebilir. Büyüyen lezyonlar nadiren nefes darlığına yol açabilir."
+ ],
+ "before": [
+  "Ameliyattan önce kan tahlilleri yapılır, anestezi uzmanı tarafından değerlendirilirsiniz.",
+  "Ameliyattan önceki **6–8 saat** boyunca hiçbir şey yememeniz ve içmemeniz gerekir (anestezi uzmanının talimatlarına uyunuz).",
+  "**Sallanan dişlerinizi, kronlarınızı, köprülerinizi, implantlarınızı ve takma dişlerinizi** mutlaka bildiriniz; takma dişler ameliyattan önce çıkarılır.",
+  "Reflü tedavisi önerildiyse ameliyattan önce başlamanız istenebilir."
+ ],
+ "recovery": [
+  {
+   "when": "İlk 24–48 saat",
+   "what": "Boğazda ağrı veya yanma, yutkunurken hafif rahatsızlık, ses kısıklığı ve az miktarda kanlı balgam olabilir. Dilinizde uyuşukluk, tat değişikliği veya çenede ağrı hissedebilirsiniz; bunlar genellikle birkaç gün içinde geçer."
+  },
+  {
+   "when": "1. hafta",
+   "what": "Hekiminizin önerisine göre genellikle **3–7 gün tam ses istirahati** (hiç konuşmamak, fısıldamamak) ve ardından kademeli ses kullanımı önerilir. Masa başı işe genellikle 2–3 gün içinde dönülebilir; sesle çalışanlar (öğretmen, şarkıcı, çağrı merkezi) daha uzun süre beklemelidir."
+  },
+  {
+   "when": "2–4. haftalar",
+   "what": "Ses yavaş yavaş düzelir. Gerekirse ses terapisi başlanır. Bağırmak, şarkı söylemek ve uzun süreli konuşmaktan kaçınılır. Patoloji sonucu genellikle bu dönemde çıkar ve sizinle paylaşılır."
+  },
+  {
+   "when": "1–3. aylar",
+   "what": "Ses tellerinin iyileşmesi tamamlanır; sesin son hâli genellikle **6–12 hafta** içinde ortaya çıkar. Kontrol muayenesinde ses telleri endoskopla değerlendirilir."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Boğaz ağrısı ve yutkunurken hafif rahatsızlık (birkaç gün)",
+   "Ameliyat sonrası geçici ses kısıklığı veya ses tonunda değişiklik",
+   "Az miktarda kanlı balgam (ilk 1–2 gün)",
+   "Çene, dudak veya dişlerde hassasiyet; ağız köşelerinde küçük çatlaklar"
+  ],
+  "common": [
+   {
+    "name": "Dilde uyuşukluk ve tat değişikliği",
+    "text": "Laringoskopun dile yaptığı basınca bağlıdır; yaklaşık 100 hastadan **5–15'inde** görülür, genellikle birkaç gün–birkaç hafta içinde düzelir, çok nadiren aylarca sürebilir."
+   },
+   {
+    "name": "Çene eklemi ağrısı",
+    "text": "Ağzın uzun süre açık tutulmasına bağlıdır; genellikle birkaç günde geçer. Önceden çene eklemi sorunu olanlarda daha sık ve uzun sürebilir."
+   },
+   {
+    "name": "Sesin beklenen kadar düzelmemesi",
+    "text": "Ses ameliyattan sonra her zaman tam olarak normale dönmeyebilir; ses terapisi veya ek tedavi gerekebilir."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Diş hasarı",
+    "text": "Koruyucu kullanılmasına rağmen yaklaşık 100 hastadan **1–5'inde** dişte kırılma, çatlama, sallanma veya kron/köprü hasarı olabilir. Önceden sallanan, çürük veya protez dişlerde risk daha yüksektir; diş tedavisi gerekebilir."
+   },
+   {
+    "name": "Sesin kötüleşmesi veya kalıcı ses değişikliği",
+    "text": "Ses teli yüzeyinde iz dokusu (skar) oluşursa ses ameliyattan öncekinden daha kısık, daha zayıf veya daha çabuk yorulan hâle gelebilir. Bu durum ses terapisi ve bazen ek ameliyatlar gerektirebilir; nadiren kalıcı olabilir."
+   },
+   {
+    "name": "Lezyonun tekrarlaması",
+    "text": "Özellikle ses kötüye kullanılmaya devam edilirse, sigara içilirse veya papillom gibi hastalıklarda lezyon yeniden oluşabilir ve tekrar ameliyat gerekebilir."
+   },
+   {
+    "name": "Ön bölgede yapışıklık (web)",
+    "text": "Her iki ses telinde ön bölgeye yakın işlem yapıldığında ses telleri birbirine yapışabilir; ses kalitesini bozabilir ve ikinci bir ameliyatla ayrılması gerekebilir."
+   },
+   {
+    "name": "Patoloji sonucuna göre ek tedavi",
+    "text": "Patoloji sonucu öngörülenden farklı çıkabilir (ör. kansere dönüşme eğilimi olan lezyon veya kanser). Bu durumda ek ameliyat, ışın tedavisi veya yakın takip gerekebilir; bu durum size ayrıntılı olarak anlatılır."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Gırtlakta şişlik (ödem) ve nefes darlığı",
+    "text": "Ameliyattan sonra gırtlakta şişlik gelişebilir. Genellikle ilaçla düzelir; çok nadiren gözlem için yoğun bakımda kalmak veya geçici olarak boyundan nefes yolu açılması (trakeotomi) gerekebilir."
+   },
+   {
+    "name": "Kanama",
+    "text": "Belirgin kanama nadirdir. Kanın nefes yoluna kaçması riski nedeniyle ciddi kanama hızlı müdahale ve yeniden ameliyathaneye alınmayı gerektirebilir."
+   },
+   {
+    "name": "Lazer ile ilgili riskler",
+    "text": "CO2 lazer kullanıldığında çevre dokuda yanık ve çok nadiren nefes tüpünün tutuşması (hava yolu yangını) riski vardır. Lazere özgü güvenlik önlemleri (özel tüp, ıslak pamuklar, göz koruması) uygulanır. Böyle bir olay gerçekleşirse nefes yolunda ciddi yanık, uzun süreli yoğun bakım tedavisi ve trakeotomi gerekebilir."
+   },
+   {
+    "name": "Ağız, dil, dudak veya yutak yaralanması",
+    "text": "Aletlere bağlı küçük yaralanmalar genellikle kendiliğinden iyileşir; çok nadiren dikiş gerekebilir. Son derece nadiren yutak duvarında yırtılma olursa boyunda cilt altına hava kaçması (ciltte çıtırtı) veya boyun enfeksiyonu gelişebilir; hastanede gözlem, damar yoluyla antibiyotik ve nadiren ameliyat gerekebilir."
+   },
+   {
+    "name": "Boyun omurlarına bağlı sorunlar",
+    "text": "Başın arkaya doğru konumlandırılmasına bağlı olarak, özellikle boyun omurlarında hastalığı olanlarda boyun ağrısı ve çok nadiren daha ciddi omurga sorunları görülebilir. Boyun fıtığı veya boyun ameliyatı öykünüzü bildiriniz."
+   }
+  ]
+ },
+ "emergency": [
+  "**Nefes darlığı**, nefes alırken ıslık veya hırıltı sesi (stridor)",
+  "**Kan tükürme veya kan kusma**, kanlı balgamın azalmak yerine artması",
+  "**Yutamama**, ağzınızdaki tükürüğü yutamayacak kadar ağrı veya şişlik",
+  "**38,5 °C üzerinde ateş** ve giderek artan boğaz ağrısı",
+  "Boyunda veya yüzde şişlik ya da ciltte çıtırtı hissi"
+ ],
+ "lifestyle": [
+  "Önerilen **ses istirahatine** kesinlikle uyunuz; fısıldamak da ses tellerini yorar. İhtiyaçlarınızı yazarak veya telefon uygulamalarıyla iletebilirsiniz.",
+  "Bol su içiniz; ortam havasını nemli tutunuz. Boğaz temizleme ve öksürmeden mümkün olduğunca kaçınınız.",
+  "Sigara ve sigara dumanından uzak durunuz; sigara hem iyileşmeyi bozar hem de lezyonun tekrarlama riskini artırır.",
+  "Reflü ilacı verildiyse önerilen süre boyunca kullanınız; yatmadan önceki 2–3 saat içinde yemek yemeyiniz, baharatlı ve asitli yiyecekleri sınırlayınız.",
+  "Uçak yolculuğu genellikle ertesi gün güvenlidir; yolculuk sırasında ses istirahatine devam ediniz."
+ ],
+ "declarations_extra": [
+  "Ameliyat sırasında gırtlağa ulaşmanın güvenli olmadığı anlaşılırsa işlemin durdurulabileceğini; çıkarılan dokunun patoloji sonucuna göre ek tedavi veya takip gerekebileceğini anladım.",
+  "Sesin son hâlinin ameliyat sonrası ses istirahati, ses terapisi, sigarayı bırakma ve reflü tedavisine uymama da bağlı olduğunu biliyorum."
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "code": "05",
+ "type": "surgical",
+ "aesthetic": false,
+ "title": "Tonsillektomie",
+ "alt_name": "Entfernung der Gaumenmandeln (vollständig oder teilweise)",
+ "about": [
+  "Die Gaumenmandeln (Tonsillen) sind lymphatisches Gewebe und Teil des körpereigenen Abwehrsystems; sie liegen auf beiden Seiten des Rachens oberhalb des Zungengrunds. Nach Entfernung der Gaumenmandeln arbeitet das Abwehrsystem über die übrigen lymphatischen Gewebe in Mund und Rachen weiter; dass die Operation die Immunabwehr schwächt, wurde nicht nachgewiesen.",
+  "Eine Tonsillektomie wird am häufigsten empfohlen bei: **Mandelentzündungen**, die mehrmals im Jahr auftreten und zu Fehlzeiten in Schule oder Beruf führen; vergrößerten Mandeln, die **Schnarchen und Atemaussetzer im Schlaf** verursachen; einem **Abszess um die Mandel (Peritonsillarabszess)**; oder einer einseitigen Vergrößerung einer Mandel bzw. einer verdächtigen Gewebeveränderung. Bei manchen Patientinnen und Patienten können auch Mundgeruch und Mandelsteine Gründe sein.",
+  "Ziel der Operation ist es, diese Beschwerden zu beseitigen oder zu verringern. Ihr Arzt wird Ihnen gesondert erklären, warum die Operation für Sie oder Ihr Kind empfohlen wurde."
+ ],
+ "procedure_intro": [
+  "Die Operation wird in Vollnarkose im Operationssaal durch den Mund durchgeführt; **es gibt keine Schnitte oder Narben von außen.**"
+ ],
+ "procedure_steps": [
+  "**Vorbereitung:** Nach Einleitung der Narkose wird ein spezielles Instrument eingesetzt, das den Mund offen hält und die Zunge schützt.",
+  "**Entfernung der Gaumenmandeln:** Jede Mandel wird zusammen mit ihrer umgebenden Kapsel von der darunterliegenden Muskelschicht gelöst und entfernt. Je nach geplanter Technik geschieht dies mit Schere und Präparierinstrumenten (Kalttechnik), mit Elektrokauter oder mit Radiofrequenz-/Coblation-Geräten.",
+  "**Teilentfernung (Tonsillotomie):** Bei geeigneten Patientinnen und Patienten, vor allem bei kleinen Kindern mit Atemproblemen im Schlaf, kann nur der vergrößerte Teil der Mandel entfernt und eine dünne Schicht belassen werden. Diese Methode kann weniger Schmerzen und ein geringeres Blutungsrisiko mit sich bringen; das verbleibende Gewebe kann jedoch nachwachsen oder sich entzünden.",
+  "**Blutstillung:** Blutungen in den Mandelbetten werden sorgfältig mit Nähten, Unterbindungen oder Kauterisation gestillt. Die Mandelbetten werden in der Regel offen gelassen und heilen von selbst ab.",
+  "**Zusätzliche Eingriffe:** Falls geplant, werden in derselben Narkose die Rachenmandel entfernt (Adenotomie) oder Paukenröhrchen eingesetzt; für diese Eingriffe werden gesonderte Aufklärungsbögen ausgefüllt.",
+  "**Aufwachen und Überwachung:** Nach der Operation wird die Patientin / der Patient im Aufwachraum und anschließend auf der Station hinsichtlich Blutung, Atmung und Flüssigkeitsaufnahme überwacht."
+ ],
+ "procedure_notes": [
+  "Hält der Arzt es für notwendig, werden die entfernten Mandeln zur feingeweblichen (pathologischen) Untersuchung eingesandt."
+ ],
+ "anesthesia": "Vollnarkose",
+ "duration": "Etwa 30–45 Minuten (ohne Narkosezeit)",
+ "stay": "In der Regel eine Nacht zur Beobachtung im Krankenhaus",
+ "benefits": [
+  "Eine deutliche Verringerung wiederkehrender Mandelentzündungen und der damit verbundenen Fieberschübe, Halsschmerzen, Antibiotikaeinnahmen und Fehlzeiten in Schule oder Beruf",
+  "Weniger Schnarchen und weniger Atemaussetzer im Schlaf; besserer Schlaf sowie verbesserte Aufmerksamkeit und besseres Verhalten am Tag",
+  "Vorbeugung gegen wiederkehrende Peritonsillarabszesse",
+  "Falls erforderlich, eine gesicherte Diagnose durch die feingewebliche Untersuchung des Gewebes"
+ ],
+ "success": [
+  "Bei sorgfältig ausgewählten Patientinnen und Patienten bessern sich wiederkehrende Halsinfektionen und schlafbezogene Atmungsstörungen weitgehend. Gelegentliche Rachenentzündungen (Pharyngitis) können auch nach der Operation noch auftreten, sind aber meist seltener und milder. Hat die Schlafapnoe zusätzlich andere Ursachen – etwa Übergewicht, die Gesichtsform oder eine behinderte Nasenatmung –, verschwinden die Beschwerden möglicherweise nicht vollständig, und eine weitere Behandlung kann notwendig sein."
+ ],
+ "alternatives": [
+  "**Abwartendes Beobachten:** Erfüllt die Häufigkeit der Entzündungen nicht die Kriterien für eine Operation oder sind die Beschwerden gering, kann ein Abwarten mit regelmäßigen Kontrollen angemessen sein. Bei Kindern können Mandelentzündungen mit zunehmendem Alter seltener werden.",
+  "**Antibiotika und unterstützende Behandlung:** Jede Infektionsepisode wird weiterhin mit Medikamenten behandelt; dies verhindert jedoch keine weiteren Episoden.",
+  "**Teilentfernung (Tonsillotomie):** Kann bei geeigneten Patientinnen und Patienten anstelle der vollständigen Entfernung erwogen werden (siehe oben).",
+  "**Andere Möglichkeiten bei Schlafapnoe:** Gewichtsabnahme, Behandlung einer behinderten Nasenatmung, kortisonhaltige Nasensprays oder ein Überdruckbeatmungsgerät (CPAP) im Schlaf."
+ ],
+ "no_treatment": [
+  "Ohne Operation können wiederkehrende Mandelentzündungen, Fieber, Antibiotikaeinnahmen und Fehlzeiten in Schule oder Beruf fortbestehen. Selten kann sich ein Abszess um die Mandel bilden oder eine Infektion auf das Gewebe des Halses übergreifen. Bleibt eine durch vergrößerte Mandeln verursachte Schlafapnoe unbehandelt, kann sie – vor allem bei Kindern – zu verzögertem Wachstum und verzögerter Entwicklung, Aufmerksamkeits- und Verhaltensproblemen, Einnässen und langfristig zu einer Belastung von Herz und Lunge führen. In verdächtigen Situationen wie einer einseitigen Vergrößerung kann der Verzicht auf die Operation eine gesicherte Diagnose verzögern."
+ ],
+ "before": [
+  "Vor der Operation werden Blutuntersuchungen (insbesondere Blutungs- und Gerinnungstests) und gegebenenfalls weitere notwendige Untersuchungen durchgeführt, und Sie werden vom Narkosearzt untersucht.",
+  "Bitte teilen Sie uns mit, wenn bei Ihnen oder in Ihrer Familie eine Neigung zu Blutungen, häufiges Nasenbluten, starke oder verlängerte Monatsblutungen, eine nicht stillbare Blutung nach einer Zahnentfernung oder eine bekannte Blutgerinnungsstörung vorliegt.",
+  "**6 Stunden** vor der Operation dürfen keine feste Nahrung und keine Milch zu sich genommen werden; für klare Flüssigkeiten gilt die vom Narkosearzt angegebene Zeit.",
+  "Bitte teilen Sie uns eine akute Mandelentzündung, eine fieberhafte Erkrankung oder eine Grippe in den 2–3 Wochen vor der Operation mit; die Operation muss dann möglicherweise verschoben werden.",
+  "Informieren Sie Ihren Arzt über lockere Zähne oder Zahnprothesen.",
+  "Wenn Sie aus dem Ausland anreisen, empfehlen wir, nach der Operation **mindestens 10–14 Tage** in erreichbarer Nähe Ihres Arztes und des Krankenhauses zu bleiben (wegen des Risikos einer Nachblutung)."
+ ],
+ "recovery": [
+  {
+   "when": "Operationstag",
+   "what": "Beim Aufwachen haben Sie Halsschmerzen; diese werden mit Schmerzmitteln behandelt. Sobald eine eventuelle Übelkeit abgeklungen ist, wird Wasser gegeben, danach kühle oder lauwarme Getränke und weiche Speisen. Sie bleiben über Nacht im Krankenhaus und werden hinsichtlich Blutung, Atmung und Flüssigkeitsaufnahme überwacht."
+  },
+  {
+   "when": "1.–4. Tag",
+   "what": "Halsschmerzen und in die Ohren ausstrahlende Schmerzen sind deutlich spürbar. Auf den Mandelbetten bildet sich ein **weißlich-gelblicher Belag**; dies ist ein normaler Teil der Heilung und keine Infektion. Mundgeruch und leicht erhöhte Temperatur können auftreten. **Die regelmäßige Einnahme der Schmerzmittel und reichliches Trinken** sind das Wichtigste."
+  },
+  {
+   "when": "5.–10. Tag",
+   "what": "Der weiße Belag beginnt sich zu lösen. Die Schmerzen können in dieser Zeit manchmal wieder zunehmen. **In dieser Phase ist das Risiko einer Nachblutung am höchsten**; vermeiden Sie anstrengende körperliche Betätigung, heiße Bäder/Sauna und harte Speisen, und suchen Sie bei jedem Anzeichen einer Blutung sofort ärztliche Hilfe."
+  },
+  {
+   "when": "10.–14. Tag",
+   "what": "Die Schmerzen lassen deutlich nach, und die normale Ernährung wird wieder aufgenommen. Die meisten Kinder gehen innerhalb von 10–14 Tagen wieder zur Schule, Erwachsene wieder zur Arbeit. Sport und schwere körperliche Tätigkeit sind in der Regel nach etwa 2–3 Wochen erlaubt."
+  },
+  {
+   "when": "3.–6. Woche",
+   "what": "Die Mandelbetten heilen vollständig ab. Es erfolgt eine Kontrolluntersuchung; wurde eine feingewebliche Untersuchung durchgeführt, wird das Ergebnis besprochen."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Halsschmerzen (dauern meist 7–14 Tage; bei Erwachsenen stärker ausgeprägt als bei Kindern)",
+   "In die Ohren ausstrahlende Schmerzen (fortgeleiteter Schmerz; sie bedeuten nicht, dass ein Problem im Ohr vorliegt)",
+   "Schluckbeschwerden und Appetitlosigkeit; etwas Gewichtsverlust in den ersten Tagen",
+   "Weißlich-gelber Wundbelag auf den Mandelbetten und Mundgeruch",
+   "Leicht erhöhte Temperatur (in den ersten Tagen), Übelkeit und Erbrechen durch die Narkose",
+   "Vorübergehende Schwellung der Zunge und des Zäpfchens"
+  ],
+  "common": [
+   {
+    "name": "Blutung nach der Operation (Nachblutung)",
+    "text": "Tritt bei etwa **2–5 von 100** Patientinnen und Patienten auf, am häufigsten **5–10 Tage nach der Operation**, wenn sich der Wundbelag löst. Bei Erwachsenen ist sie etwas häufiger als bei Kindern. Die meisten Nachblutungen sind gering und kommen durch Beobachtung, Eis, eine Behandlung im Mund oder einen einfachen Eingriff zum Stillstand."
+   },
+   {
+    "name": "Erneute Operation wegen Blutung",
+    "text": "Bei etwa **1–3 von 100** Patientinnen und Patienten kann **eine erneute Operation in Vollnarkose** zur Blutstillung notwendig werden. Der Krankenhausaufenthalt kann sich verlängern."
+   },
+   {
+    "name": "Zu geringe Flüssigkeitsaufnahme und Austrocknung (Dehydratation)",
+    "text": "Wird wegen der Schmerzen nicht genug getrunken, können besonders bei kleinen Kindern Schwäche und verminderte Urinausscheidung auftreten; manchmal ist eine Krankenhausaufnahme zur Flüssigkeitsgabe über die Vene (Infusion) notwendig."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Bluttransfusion",
+    "text": "Geht bei einer Blutung viel Blut verloren, kann eine Bluttransfusion notwendig werden; dies kommt bei **weit weniger als 1 von 100** Patientinnen und Patienten vor."
+   },
+   {
+    "name": "Geschmacksstörung und Taubheitsgefühl der Zunge",
+    "text": "Da die Zunge während der Operation durch das Instrument unter Druck gehalten wird, können eine Geschmacksveränderung oder ein Taubheitsgefühl der Zunge auftreten; dies bessert sich meist innerhalb weniger Wochen, kann aber selten Monate anhalten oder dauerhaft sein."
+   },
+   {
+    "name": "Verletzung von Zähnen, Lippen und Zunge",
+    "text": "Durch den Druck des Instruments, das den Mund offen hält, kann ein Zahn abbrechen (besonders ein lockerer oder kariöser Zahn), oder es können eine kleine Verbrennung, eine Wunde oder eine Schwellung an Lippen oder Zunge entstehen."
+   },
+   {
+    "name": "Infektion",
+    "text": "In den Mandelbetten oder am Hals kann sich eine Infektion entwickeln; sie wird in der Regel mit Antibiotika behandelt."
+   },
+   {
+    "name": "Vorübergehend näselnde Sprache",
+    "text": "Da die Beweglichkeit des Gaumens durch die Schmerzen eingeschränkt ist, kann beim Sprechen vorübergehend Luft durch die Nase entweichen; dies bildet sich meist innerhalb weniger Wochen zurück."
+   },
+   {
+    "name": "Nachwachsen nach Tonsillotomie",
+    "text": "Wurde eine Teilentfernung durchgeführt, kann das verbliebene Mandelgewebe nachwachsen oder sich entzünden (bei etwa **1–6 von 100**); selten kann dann eine vollständige Tonsillektomie notwendig werden."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Schwere Blutung und ihre Folgen",
+    "text": "Selten kann eine Blutung stark und rasch verlaufen. In diesem Fall können **eine Notoperation, eine Bluttransfusion** und sehr selten zusätzliche Eingriffe an den Blutgefäßen des Halses notwendig werden. Ein starker Blutverlust oder Blut, das in die Atemwege gelangt, kann zu schwerwiegenden Folgen wie **Atemversagen, der Notwendigkeit einer Behandlung auf der Intensivstation** und daraus resultierenden bleibenden Schäden führen."
+   },
+   {
+    "name": "Lebensbedrohliche Komplikationen und Tod",
+    "text": "Todesfälle im Zusammenhang mit einer Tonsillektomie sind äußerst selten; in der medizinischen Fachliteratur werden sie mit etwa **1 auf 15.000–35.000 Operationen** angegeben. Die häufigsten Ursachen sind schwere Blutungen und Atemprobleme. Kleine Kinder mit schwerer Schlafapnoe haben nach der Operation ein höheres Risiko für Atemprobleme; diese Patientinnen und Patienten werden daher engmaschiger überwacht."
+   },
+   {
+    "name": "Dauerhaft näselnde Sprache / Rückfluss von Flüssigkeiten durch die Nase (velopharyngeale Insuffizienz)",
+    "text": "Sehr selten; vor allem bei Menschen mit einer verdeckten Gaumenspalte. Eine logopädische Behandlung (Sprachtherapie) oder selten eine Korrekturoperation kann notwendig sein."
+   },
+   {
+    "name": "Verschiebung der Halswirbel (Grisel-Syndrom), Ausbreitung einer Infektion in Hals oder Brustraum",
+    "text": "Sehr seltene Erkrankungen, die bei frühzeitiger Erkennung behandelbar sind. Sie können sich durch stetig zunehmende Nackenschmerzen, die Unfähigkeit, den Kopf zu drehen, hohes Fieber und Unfähigkeit zu schlucken äußern. Treten sie auf, sind eine Krankenhausaufnahme, intravenöse Antibiotika (über die Vene) und bei Bedarf eine operative Entlastung (Drainage) erforderlich; bei verzögerter Behandlung können bleibende Probleme am Hals entstehen, oder eine sich ausbreitende Infektion kann lebensbedrohlich werden."
+   },
+   {
+    "name": "Vernarbung und Verengung von Rachen und Gaumen",
+    "text": "Sehr selten kann sich während der Heilung übermäßiges Narbengewebe bilden, das Rachen oder Gaumen verengt und zu Schluck- oder Sprechstörungen führt."
+   },
+   {
+    "name": "Schmerzen oder Ausrenkung im Kiefergelenk",
+    "text": "Tritt sehr selten infolge des langen Offenhaltens des Mundes auf."
+   }
+  ]
+ },
+ "emergency": [
+  "**Frisches, hellrotes Blut** aus dem Mund, Ausspucken oder Erbrechen von Blut – **auch nur wenige Tropfen** –: Suchen Sie unverzüglich ärztliche Hilfe auf. Bei einer Blutung beugen Sie den Kopf nach vorne und spucken Sie das Blut aus, statt es zu schlucken; Sie können mit kaltem Wasser gurgeln.",
+  "Bei Kindern: **häufiges Schlucken**, Blässe, Schwäche, lässt sich nur schwer aufwecken (kann ein Zeichen für verschlucktes Blut sein)",
+  "**Atembeschwerden**, deutliche Atemaussetzer im Schlaf, geräuschvolle Atmung",
+  "**Fieber über 38,5 °C** oder Schmerzen, die trotz Schmerzmitteln nicht nachlassen oder immer stärker werden",
+  "Trinkt gar nichts mehr, seit 8 Stunden kein Urin, ungewöhnliche Schläfrigkeit (Zeichen von Flüssigkeitsmangel)",
+  "Stetig zunehmende Nackenschmerzen, Unfähigkeit, den Kopf zu drehen, Schwellung am Hals"
+ ],
+ "lifestyle": [
+  "Verwenden Sie gegen Schmerzen nur **die von Ihrem Arzt empfohlenen Schmerzmittel** in der empfohlenen Dosierung und in den empfohlenen Abständen und **nehmen Sie sie regelmäßig ein**. Aspirin und andere nicht von Ihrem Arzt empfohlene Schmerzmittel können das Blutungsrisiko erhöhen; nehmen Sie keine Medikamente eigenmächtig zusätzlich ein.",
+  "**Reichlich zu trinken** ist die wichtigste Regel. Geeignet sind kühles oder lauwarmes Wasser, Ayran (Joghurtgetränk), Kompott, Speiseeis, Milchpudding, Joghurt und Pürees. Meiden Sie sehr heiße, saure, scharf gewürzte und harte/knusprige Speisen (Chips, Cracker, Toast) für etwa **2 Wochen**.",
+  "Vermeiden Sie in den ersten 2 Wochen anstrengende körperliche Betätigung, heiße Bäder, Sauna und längere Aufenthalte in der Sonne.",
+  "Sie können weiterhin Ihre Zähne putzen; vermeiden Sie jeden harten Kontakt mit dem Rachen.",
+  "Wir empfehlen, Ihren Rückflug ins Ausland zu verschieben, bis das Risiko einer Nachblutung vorüber ist (in der Regel **10–14 Tage nach der Operation**). Müssen Sie früher fliegen, besprechen Sie die Risiken mit Ihrem Arzt."
+ ],
+ "declarations_extra": [
+  "Mir wurde verständlich erklärt, dass **eine Nachblutung auftreten kann**, und zwar innerhalb der ersten 2 Wochen nach der Operation, besonders am 5.–10. Tag; dass ich mich in diesem Fall unverzüglich an den Arzt wenden oder die nächste Notaufnahme aufsuchen muss; und dass eine Blutung eine erneute Operation, eine Bluttransfusion und selten eine Behandlung auf der Intensivstation erforderlich machen kann."
+ ]
+}

@@ -1,0 +1,135 @@
+code: "18"
+type: surgical
+aesthetic: false
+title: "Tympanoplastie"
+alt_name: "Réparation du tympan (associée si nécessaire à une réparation des osselets de l'oreille moyenne et à une mastoïdectomie)"
+
+specific_fields:
+  - label: "Côté :"
+    options: ["Droit", "Gauche"]
+    blank: false
+  - label: "Visualisation :"
+    options: ["Microscopique", "Endoscopique", "À déterminer pendant l'intervention"]
+  - label: "Voie d'abord :"
+    options: ["Transcanalaire", "Rétro-auriculaire", "Endaurale"]
+  - label: "Origine de la greffe :"
+    options: ["Aponévrose musculaire (fascia temporal)", "Cartilage / périchondre", "Autre"]
+  - label: "Réparation des osselets (ossiculoplastie) :"
+    options: ["Non prévue", "Prévue", "Si nécessaire"]
+  - label: "Mastoïdectomie :"
+    options: ["Non prévue", "Prévue", "Si nécessaire"]
+  - label: "Date et résumé du test auditif préopératoire (audiogramme) :"
+
+about:
+  - "Le tympan est une fine membrane qui sépare le conduit auditif de l'oreille moyenne et transmet les vibrations sonores aux minuscules os (osselets) de l'oreille moyenne. Lorsque le tympan présente un **trou (perforation)**, l'audition diminue et l'eau ou les germes qui pénètrent dans l'oreille provoquent des **écoulements d'oreille à répétition**."
+  - "Les perforations du tympan sont le plus souvent dues à une **infection chronique de l'oreille moyenne**, et parfois à un traumatisme (une gifle, un coton-tige, une variation brutale de pression). Les petites perforations récentes peuvent se refermer d'elles-mêmes ; en revanche, les perforations anciennes ne se referment généralement pas. Chez certains patients, l'infection peut également avoir usé les osselets de l'oreille moyenne ou s'être étendue aux cellules aériennes de l'os situé derrière l'oreille (mastoïde). En présence d'un **cholestéatome** dans l'oreille moyenne (un sac de cellules cutanées qui grossit et érode l'os), son traitement est particulièrement important."
+  - "L'objectif de la tympanoplastie est de refermer le tympan, de débarrasser l'oreille moyenne de l'infection afin d'obtenir une **oreille sèche et sûre** et, dans la mesure du possible, de **préserver ou d'améliorer l'audition**."
+
+procedure_intro:
+  - "L'intervention est réalisée sous anesthésie générale, au bloc opératoire, à l'aide d'un microscope et/ou d'un endoscope."
+procedure_steps:
+  - "**Voie d'abord :** si la perforation est petite et bien située, l'intervention peut être réalisée entièrement par le conduit auditif, sans laisser de cicatrice visible. Pour les perforations plus grandes ou lorsqu'une vision plus large est nécessaire, une petite incision est faite derrière l'oreille (dans le pli situé derrière le pavillon) ou devant l'oreille."
+  - "**Prélèvement de la greffe :** les propres tissus du patient sont utilisés pour réparer le tympan : généralement l'enveloppe du muscle situé au-dessus de l'oreille (fascia temporal) ou le cartilage du pavillon de l'oreille et sa membrane de revêtement. Ces tissus sont prélevés par la même incision ou par une petite incision supplémentaire."
+  - "**Nettoyage de l'oreille moyenne :** les bords de la perforation sont avivés, le tympan est soulevé et l'oreille moyenne est examinée ; les éventuels tissus infectés et adhérences sont retirés. Les osselets sont vérifiés."
+  - "**Réparation des osselets (si nécessaire) :** si la chaîne des osselets est érodée ou interrompue, elle peut être reconstruite à l'aide d'un os/cartilage du patient ou d'une prothèse bien tolérée par les tissus, en titane par exemple."
+  - "**Mastoïdectomie (si nécessaire) :** si l'infection ou le cholestéatome s'est étendu aux cellules aériennes de l'os situé derrière l'oreille, ces cellules sont ouvertes et nettoyées à l'aide d'une fraise spéciale."
+  - "**Mise en place de la greffe et fermeture :** la greffe est placée sous ou sur la perforation. L'oreille moyenne et le conduit auditif sont soutenus par des éponges résorbables. Une éventuelle incision est refermée par des points de suture et un pansement compressif est appliqué sur l'oreille."
+procedure_notes:
+  - "Si un cholestéatome est découvert, une **seconde intervention de contrôle (« second look ») 6–12 mois plus tard** peut être prévue chez certains patients afin de s'assurer que la maladie a été complètement retirée. Cela vous sera expliqué séparément."
+anesthesia: "Anesthésie générale"
+duration: "Environ 1,5–3 heures (plus longtemps en cas de mastoïdectomie)"
+stay: "Généralement sortie le jour même ou 1 nuit"
+
+benefits:
+  - "Fermeture de la perforation du tympan"
+  - "Diminution ou disparition des épisodes d'écoulement et d'infection de l'oreille ; une oreille sèche et sûre"
+  - "Moins de précautions nécessaires pour protéger l'oreille lors du bain, de la douche et de la baignade"
+  - "Préservation ou amélioration de l'audition chez les patients pour lesquels cela est possible"
+  - "En cas de cholestéatome, retrait de la maladie et prévention de ses éventuelles complications graves"
+success:
+  - "Une fermeture définitive du tympan est obtenue chez environ **85–95 %** des patients. L'amélioration de l'audition dépend de l'état des osselets, de l'étendue de l'infection et de l'état de l'oreille interne ; l'audition peut s'améliorer nettement, rester inchangée ou, rarement, se dégrader. Si la greffe ne prend pas ou si une nouvelle perforation se forme, l'intervention peut être renouvelée."
+
+alternatives:
+  - "**Surveillance et maintien de l'oreille au sec :** pour les petites perforations sèches, des contrôles réguliers et la protection de l'oreille contre l'eau peuvent être une option. La perforation reste ouverte et le risque d'infection persiste."
+  - "**Traitement médical :** les gouttes auriculaires antibiotiques contrôlent temporairement l'infection lors des épisodes d'écoulement ; elles ne referment pas la perforation."
+  - "**Appareil auditif :** peut compenser la perte auditive ; il peut toutefois être difficile à utiliser sur une oreille qui coule et il ne referme pas la perforation."
+  - "**Simple obturation des petites perforations :** pour les très petites perforations, une fermeture par un patch en papier ou par de la graisse (myringoplastie) peut être envisagée."
+
+no_treatment:
+  - "Sans intervention, la perforation du tympan reste généralement ouverte. Les écoulements peuvent récidiver lorsque de l'eau pénètre dans l'oreille ou lors de rhumes, et la perte auditive peut s'aggraver avec le temps. En présence d'un cholestéatome non traité, celui-ci continue de grossir et peut entraîner des complications graves telles qu'une **perte auditive définitive, des vertiges, une paralysie faciale, une méningite ou un abcès cérébral**."
+
+before:
+  - "Un test auditif (audiogramme) est réalisé avant l'intervention et, si nécessaire, un scanner. Vous serez évalué(e) par le médecin anesthésiste."
+  - "Vous ne devez rien manger ni boire pendant les **6–8 heures** précédant l'intervention (veuillez suivre les consignes du médecin anesthésiste)."
+  - "Si l'oreille coule activement, il pourra vous être demandé d'utiliser des gouttes avant l'intervention afin d'assécher l'oreille."
+  - "Le jour de l'intervention, quelques cheveux derrière l'oreille peuvent être coupés. En cas de grippe ou d'infection respiratoire, l'intervention peut être reportée."
+
+recovery:
+  - when: "Premières 24–48 heures"
+    what: "Vous ressentirez une sensation de plénitude, une légère douleur et une impression d'oreille bouchée ; la douleur est soulagée par les antalgiques. De brefs vertiges légers et des nausées peuvent survenir. Le pansement compressif est généralement retiré le 1er jour. Évitez de vous coucher sur l'oreille opérée."
+  - when: "Semaines 1–2"
+    what: "En raison des éponges présentes dans le conduit auditif, l'audition vous semblera **diminuée** pendant cette période ; c'est normal. Un léger écoulement teinté de sang peut sortir de l'oreille. Les points de suture sont généralement retirés entre le **7e et le 10e jour**. La plupart des personnes reprennent un travail de bureau en 1 semaine."
+  - when: "Semaines 3–6"
+    what: "Les éponges du conduit auditif sont retirées lors des contrôles ou se résorbent d'elles-mêmes. L'eau ne doit pas pénétrer dans l'oreille. Le sport intense, le port de charges lourdes et les efforts de poussée doivent être reportés pendant environ **4–6 semaines**. Le voyage en avion est généralement possible **après 2–4 semaines**, avec l'accord de votre médecin."
+  - when: "Mois 2–3"
+    what: "La prise de la greffe est évaluée lors des contrôles. Un test auditif réalisé à ce stade montre l'effet de l'intervention sur l'audition. La natation et le contact de l'oreille avec l'eau sont généralement autorisés après accord de votre médecin."
+  - when: "Mois 6–12"
+    what: "Le tympan et l'oreille moyenne achèvent leur cicatrisation. Après une chirurgie de cholestéatome, des contrôles réguliers et, si nécessaire, une imagerie ou une seconde intervention de contrôle sont prévus."
+
+risks:
+  expected:
+    - "Sensation de plénitude et d'oreille bouchée, et impression d'audition diminuée au cours des premières semaines (due aux éponges dans le conduit auditif)"
+    - "Légère douleur d'oreille, craquements, bruits de liquide ou bourdonnements"
+    - "Léger écoulement teinté de sang par l'oreille (premiers jours)"
+    - "Engourdissement temporaire du pavillon de l'oreille et autour de l'incision ; oreille légèrement décollée (après une voie d'abord rétro-auriculaire ; cela se corrige en quelques semaines)"
+  common:
+    - name: "Modification du goût"
+      text: "Le nerf du goût (corde du tympan) passe juste derrière le tympan et peut être étiré pendant l'intervention ou, rarement, devoir être sectionné. Environ **5–20 patients sur 100** remarquent, de ce côté de la langue, un goût métallique ou une diminution du goût, ou une sensation de bouche sèche ; cela **s'améliore ou devient imperceptible en quelques semaines à quelques mois** dans la plupart des cas. Rarement, cela peut être définitif."
+    - name: "Acouphènes (sifflements dans l'oreille)"
+      text: "Des sifflements dans l'oreille peuvent apparaître après l'intervention, ou des sifflements préexistants peuvent augmenter pendant un certain temps ; ils sont généralement temporaires."
+    - name: "Vertiges temporaires"
+      text: "Une légère instabilité ou des vertiges peuvent survenir au cours des premiers jours ; ils disparaissent généralement en quelques jours."
+  uncommon:
+    - name: "Échec de la greffe ou nouvelle perforation"
+      text: "Chez environ **5–15 patients sur 100**, le tympan peut ne pas se refermer complètement ou une perforation peut se reformer ultérieurement. Dans ce cas, les écoulements peuvent persister et **l'intervention peut devoir être renouvelée**."
+    - name: "Absence d'amélioration de l'audition"
+      text: "Même si le tympan se referme, l'audition peut ne pas s'améliorer comme prévu en raison de l'état des osselets, de la ventilation de l'oreille moyenne ou de l'oreille interne. Après une réparation des osselets, la prothèse peut se déplacer ou être expulsée à travers le tympan ; une nouvelle intervention peut être nécessaire."
+    - name: "Infection et écoulement de l'oreille"
+      text: "Un écoulement de l'oreille ou une infection de la plaie peuvent survenir après l'intervention ; ils guérissent généralement avec des gouttes ou des antibiotiques. L'infection du cartilage du pavillon (périchondrite) est rare mais peut laisser une déformation du cartilage."
+    - name: "Rétrécissement du conduit auditif ou latéralisation du tympan"
+      text: "Du tissu cicatriciel peut rétrécir le conduit auditif, ou le nouveau tympan peut s'éloigner de sa position normale ; cela peut affecter l'audition et nécessiter une intervention correctrice."
+    - name: "Récidive ou cholestéatome résiduel"
+      text: "Après une chirurgie de cholestéatome, la maladie peut récidiver ou un petit résidu peut grossir chez certains patients ; un suivi à long terme et, si nécessaire, une **nouvelle intervention** sont donc indispensables."
+    - name: "Problèmes de plaie et de cicatrice"
+      text: "Une cicatrice épaissie ou chéloïde au niveau de l'incision rétro-auriculaire et, rarement, une collection de liquide derrière l'oreille peuvent survenir."
+  rare:
+    - name: "Perte auditive définitive due à une atteinte de l'oreille interne"
+      text: "Chez **moins de 1 patient sur 100**, une **surdité de perception définitive** peut survenir en raison d'une atteinte de l'oreille interne ; très rarement, l'audition de l'oreille opérée peut être totalement perdue (cophose, ou « oreille morte »). Cela peut nécessiter un appareil auditif ou une réhabilitation auditive plus poussée. Le risque est plus élevé en cas de cholestéatome et de maladie proche de l'oreille interne."
+    - name: "Vertiges et troubles de l'équilibre prolongés"
+      text: "Rarement, l'oreille interne peut être atteinte, provoquant des vertiges qui durent plusieurs semaines ; des exercices d'équilibre et un traitement médicamenteux peuvent être nécessaires."
+    - name: "Paralysie du nerf facial"
+      text: "Le nerf facial passant par l'oreille moyenne, très rarement (**bien moins de 1 patient sur 100**) une faiblesse temporaire ou définitive peut apparaître de ce côté du visage. Le risque est plus élevé en cas de cholestéatome, de réinterventions et de nerfs ayant un trajet inhabituel de naissance. Si elle survient, un traitement médicamenteux, une protection de l'œil et, si nécessaire, une chirurgie (décompression ou réparation du nerf) peuvent être nécessaires. Si elle est définitive, une asymétrie du visage et une fermeture incomplète de l'œil peuvent persister, nécessitant une protection oculaire à long terme et éventuellement une chirurgie de réanimation faciale."
+    - name: "Complications touchant les méninges"
+      text: "En particulier lors d'une mastoïdectomie et d'une chirurgie de cholestéatome, lorsque l'os de la base du crâne s'est aminci, une fuite de liquide céphalo-rachidien (LCR), une méningite ou une lésion des méninges peuvent très rarement survenir. Cela peut nécessiter un traitement complémentaire à l'hôpital (parfois en réanimation) et une intervention chirurgicale ; une méningite peut rarement laisser des séquelles durables."
+    - name: "Modification définitive de la forme de l'oreille"
+      text: "En raison de la voie d'abord rétro-auriculaire ou du prélèvement d'une greffe de cartilage, une légère modification de la position ou de la forme du pavillon de l'oreille peut rarement être définitive."
+
+emergency:
+  - "**Perte auditive brutale et marquée** (une aggravation soudaine, différente de la sensation d'oreille bouchée due aux éponges)"
+  - "**Vertiges intenses**, vomissements et impossibilité de tenir debout"
+  - "**Faiblesse du visage** : affaissement du coin de la bouche, impossibilité de fermer l'œil"
+  - "**Fièvre supérieure à 38,5 °C**, douleur d'oreille croissante, rougeur et gonflement du pavillon, ou écoulement purulent malodorant"
+  - "**Écoulement clair et aqueux** par l'oreille, maux de tête violents ou raideur de la nuque"
+  - "**Saignement qui ne s'arrête pas** au niveau du pansement ou de l'oreille"
+
+lifestyle:
+  - "Tant que votre médecin ne l'a pas autorisé, **ne laissez pas d'eau pénétrer dans votre oreille** : sous la douche, bouchez l'oreille avec du coton enduit de vaseline ; n'allez ni à la piscine ni à la mer."
+  - "**Ne vous mouchez pas** pendant les **4–6 premières semaines** ; si vous devez éternuer, éternuez la bouche ouverte. Ne vous pincez pas le nez pour pousser (ne faites pas de manœuvre de Valsalva)."
+  - "Évitez de porter des charges lourdes, les efforts de poussée, de vous pencher et le sport intense au cours des premières semaines. Informez votre médecin si vous êtes constipé(e)."
+  - "Demandez toujours l'accord de votre médecin pour les voyages en avion, la plongée et les activités impliquant des variations de pression ; la **plongée** nécessite généralement un délai plus long."
+  - "N'introduisez pas de coton-tige ni aucun autre objet dans le conduit auditif ; utilisez les gouttes auriculaires qui vous ont été prescrites comme indiqué."
+  - "Si vous venez de l'étranger, planifiez votre voyage de retour avec votre médecin ; les contrôles et les tests auditifs après votre retour peuvent être poursuivis auprès d'un médecin ORL de votre pays."
+
+declarations_extra:
+  - "Je comprends que l'objectif principal de l'intervention est de refermer le tympan et d'obtenir une oreille sèche et sûre ; que l'amélioration de l'audition ne peut pas être garantie et que, rarement, l'audition peut se dégrader."
+  - "Il m'a été expliqué que, selon ce qui sera constaté pendant l'intervention, une réparation des osselets ou une mastoïdectomie peuvent être nécessaires, et je consens à ce que ces gestes soient réalisés comme indiqué ci-dessus."

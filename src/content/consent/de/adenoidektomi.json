@@ -1,0 +1,156 @@
+{
+ "code": "04",
+ "type": "surgical",
+ "aesthetic": false,
+ "title": "Adenotomie",
+ "alt_name": "Entfernung der Rachenmandel (Polypen)",
+ "about": [
+  "Die Rachenmandel (Adenoide, umgangssprachlich „Polypen“) ist lymphatisches Gewebe und Teil des körpereigenen Abwehrsystems; sie liegt hinter der Nase oberhalb des Gaumens. Besonders bei Kindern zwischen 2 und 7 Jahren kann sie sich vergrößern; ab dem Jugendalter bildet sie sich meist zurück.",
+  "Eine vergrößerte Rachenmandel kann den hinteren Nasenraum verlegen und so zu **Mundatmung, Schnarchen, Atemaussetzern im Schlaf, laufender Nase, näselnder Sprache und häufigen Infekten** führen. Da sie auch die Öffnung der Ohrtrompete (Tube) verlegen kann, die das Ohr mit dem hinteren Nasenraum verbindet, kann sie **Flüssigkeit im Mittelohr (Paukenerguss), Schwerhörigkeit und wiederholte Mittelohrentzündungen** verursachen. Eine lange bestehende Mundatmung kann außerdem die Entwicklung von Gesicht und Zähnen beeinflussen.",
+  "Ziel der Adenotomie ist es, das vergrößerte Rachenmandelgewebe zu entfernen, um die Nasenatmung zu erleichtern und Beschwerden an Ohren, Nasennebenhöhlen und Atemwegen zu verringern. Ihr Arzt wird Ihnen gesondert erklären, warum diese Operation für Sie oder Ihr Kind empfohlen wurde."
+ ],
+ "procedure_intro": [
+  "Die Operation wird in Vollnarkose im Operationssaal durchgeführt. Sie erfolgt durch den Mund; **es gibt keine Schnitte oder Narben von außen.**"
+ ],
+ "procedure_steps": [
+  "**Vorbereitung:** Nach Einleitung der Narkose wird ein spezielles Instrument eingesetzt, das den Mund offen hält, und das Gaumensegel wird behutsam angehoben, damit der hintere Nasenraum sichtbar wird.",
+  "**Entfernung der Rachenmandel:** Die Rachenmandel wird mit einer Kürette (einem speziellen Schabinstrument), einem endoskopisch geführten Shaver (Mikrodebrider), mit Coblation oder mit Elektrokoagulation aus dem hinteren Nasenraum entfernt. Da die Rachenmandel ein Gewebe und kein abgegrenztes Organ ist, kann sie nicht „mit der Wurzel“ entfernt werden; Ziel ist es, den Anteil, der die Verlegung verursacht, sicher zu entfernen.",
+  "**Blutstillung:** Auf das Wundgebiet wird für kurze Zeit mit einem Tupfer Druck ausgeübt, und bei Bedarf wird die Blutung mit Elektrokoagulation gestillt. Am Ende der Operation wird keine Tamponade im hinteren Nasenraum belassen.",
+  "**Zusätzliche Eingriffe:** Falls geplant, werden in derselben Narkose die Gaumenmandeln entfernt (Tonsillektomie) oder Paukenröhrchen in die Trommelfelle eingesetzt. Für diese Eingriffe werden gesonderte Aufklärungsbögen ausgefüllt.",
+  "**Aufwachen:** Nach der Operation wird die Patientin / der Patient im Aufwachraum engmaschig überwacht, bis sie bzw. er vollständig wach ist."
+ ],
+ "procedure_notes": [
+  "Hält der Arzt es für notwendig, wird das entfernte Gewebe zur feingeweblichen (pathologischen) Untersuchung eingesandt."
+ ],
+ "anesthesia": "Vollnarkose",
+ "duration": "Etwa 20–30 Minuten (ohne Narkosezeit)",
+ "stay": "Meist Entlassung am selben Tag; bei Bedarf eine Nacht zur Beobachtung",
+ "benefits": [
+  "Freiere Nasenatmung, weniger Schnarchen und weniger Atemaussetzer im Schlaf",
+  "Besserer Schlaf und dadurch verbesserte Aufmerksamkeit, besseres Verhalten und bessere Schulleistungen am Tag",
+  "Weniger Paukenergüsse und Mittelohrentzündungen, was zur Verbesserung des Hörens beiträgt",
+  "Weniger Nasenausfluss sowie weniger Nasennebenhöhlenentzündungen und Infekte der oberen Atemwege"
+ ],
+ "success": [
+  "Bei sorgfältig ausgewählten Patientinnen und Patienten bessern sich Nasenatmungsbehinderung und Schnarchen in der großen Mehrzahl der Fälle deutlich. Hat die Behinderung jedoch zusätzlich andere Ursachen – etwa eine Allergie, vergrößerte Nasenmuscheln oder eine verkrümmte Nasenscheidewand –, verschwinden die Beschwerden möglicherweise nicht vollständig. Der Erfolg bei Ohrproblemen hängt auch von der Entwicklung der Ohrtrompete ab; manche Kinder benötigen eine weitere Behandlung oder Paukenröhrchen."
+ ],
+ "alternatives": [
+  "**Abwartendes Beobachten:** Sind die Beschwerden gering, kann mit regelmäßigen Kontrollen abgewartet werden, da sich die Rachenmandel mit zunehmendem Alter zurückbildet.",
+  "**Medikamente:** Kortisonhaltige Nasensprays können bei manchen Kindern die Schwellung der Rachenmandel und die Verlegung vorübergehend verringern; besteht eine Allergie, wird diese behandelt. Die Wirkung hält in der Regel nur so lange an, wie das Medikament angewendet wird.",
+  "**Bei Ohrproblemen nur Paukenröhrchen:** In manchen Fällen kann erwogen werden, Röhrchen in die Trommelfelle einzusetzen, ohne die Rachenmandel zu entfernen.",
+  "**Andere Möglichkeiten bei Schlafapnoe:** In sehr seltenen Fällen, in denen eine Operation nicht geeignet ist, kann im Schlaf ein Überdruckbeatmungsgerät (CPAP) verwendet werden."
+ ],
+ "no_treatment": [
+  "Wird die Operation nicht durchgeführt, kann sich die Rachenmandel im Jugendalter von selbst zurückbilden. Bis dahin können jedoch Mundatmung, Schnarchen, schlechter Schlaf, wiederkehrende Infekte und Schwerhörigkeit durch Flüssigkeit im Ohr fortbestehen. Lang andauernde und schwere schlafbezogene Atmungsstörungen können bei Kindern zu verzögertem Wachstum und verzögerter Entwicklung, Aufmerksamkeits- und Verhaltensproblemen und selten zu einer Belastung von Herz und Lunge führen. Ein lange bestehender Paukenerguss kann die Sprachentwicklung beeinträchtigen und bleibende Veränderungen am Trommelfell verursachen."
+ ],
+ "before": [
+  "Vor der Operation werden Blutuntersuchungen (insbesondere Blutungs- und Gerinnungstests) und gegebenenfalls weitere notwendige Untersuchungen durchgeführt, und Sie werden vom Narkosearzt untersucht.",
+  "Bitte teilen Sie uns mit, wenn in der Familie eine Neigung zu Blutungen oder blauen Flecken oder eine Blutgerinnungsstörung bekannt ist.",
+  "**6 Stunden** vor der Operation dürfen keine feste Nahrung und keine Milch gegeben werden; für klare Flüssigkeiten gilt die vom Narkosearzt angegebene Zeit.",
+  "Bitte teilen Sie uns mit, wenn in den 2–3 Wochen vor der Operation Fieber, Durchfall, Husten oder eine Grippe aufgetreten sind; die Operation muss dann möglicherweise verschoben werden.",
+  "Wenn ein Milchzahn wackelt, sagen Sie es bitte Ihrem Arzt, da er während der Narkose herausfallen könnte.",
+  "Wir empfehlen, Ihr Kind mit altersgerechten Worten, die ihm keine Angst machen, auf die Operation vorzubereiten."
+ ],
+ "recovery": [
+  {
+   "when": "Operationstag",
+   "what": "Nach dem Aufwachen können leichte Halsschmerzen, blutig tingierter Schleim aus der Nase und Mundatmung auftreten. Erbrechen oder leicht erhöhte Temperatur sind möglich. Sobald eine eventuelle Übelkeit abgeklungen ist, wird zuerst Wasser gegeben, danach lauwarme, weiche Speisen. Die meisten Patientinnen und Patienten gehen am selben Tag nach Hause."
+  },
+  {
+   "when": "Erste 3–5 Tage",
+   "what": "Behinderte Nasenatmung und Schnarchen können wegen der Schwellung noch bestehen; Mundgeruch, leicht erhöhte Temperatur, Ohren- und Nackenschmerzen sind möglich. Die Schmerzen sind meist gering und lassen sich mit den von Ihrem Arzt empfohlenen Schmerzmitteln behandeln. Es ist wichtig, reichlich zu trinken."
+  },
+  {
+   "when": "1. Woche",
+   "what": "Die meisten Kinder können innerhalb von 3–7 Tagen wieder in die Schule oder den Kindergarten gehen, Erwachsene wieder arbeiten. Meiden Sie in der ersten Woche Menschenansammlungen und Personen mit Infekten."
+  },
+  {
+   "when": "2.–4. Woche",
+   "what": "Mit dem Abklingen der Schwellung wird die Nasenatmung deutlich freier. Eine eventuelle vorübergehende näselnde Sprache bildet sich meist in diesem Zeitraum zurück. Schwimmen und anstrengender Sport sind in der Regel nach 2 Wochen erlaubt."
+  },
+  {
+   "when": "1.–3. Monat",
+   "what": "Es erfolgt eine Kontrolluntersuchung; wurde die Operation wegen Ohrproblemen durchgeführt, werden die Ohren mit einem Hörtest und einer Tympanometrie überprüft."
+  }
+ ],
+ "risks": {
+  "expected": [
+   "Leichte Halsschmerzen und Beschwerden beim Schlucken",
+   "Einige Tage lang blutig tingierter Schleim aus der Nase und behinderte Nasenatmung",
+   "Mundgeruch (durch die heilende Wundfläche; klingt innerhalb von 1–2 Wochen ab)",
+   "Ohrenschmerzen (ausstrahlende Schmerzen über gemeinsame Nerven; sie bedeuten nicht, dass ein Problem im Ohr vorliegt)",
+   "Leicht erhöhte Temperatur (in den ersten 1–2 Tagen), Übelkeit und Erbrechen durch die Narkose"
+  ],
+  "common": [
+   {
+    "name": "Vorübergehend näselnde Sprache",
+    "text": "Nach Entfernung der Rachenmandel braucht der Gaumen Zeit, um sich anzupassen; beim Sprechen kann für einige Tage bis einige Wochen Luft durch die Nase entweichen, und gelegentlich können Flüssigkeiten durch die Nase zurückfließen. Dies bildet sich meist innerhalb von 1–2 Monaten von selbst zurück."
+   },
+   {
+    "name": "Nackenschmerzen und Steifigkeit",
+    "text": "Wegen der Lagerung während der Operation und der Wundheilung im hinteren Nasenraum können Bewegungen des Halses in den ersten Tagen schmerzhaft sein; dies klingt meist innerhalb weniger Tage ab."
+   },
+   {
+    "name": "Beschwerden bessern sich nicht vollständig",
+    "text": "Bestehen zusätzliche Ursachen wie Allergie, vergrößerte Nasenmuscheln oder eine verkrümmte Nasenscheidewand, kann die Nasenatmungsbehinderung teilweise fortbestehen; eine weitere Behandlung kann notwendig sein."
+   }
+  ],
+  "uncommon": [
+   {
+    "name": "Blutung",
+    "text": "Eine deutliche Nachblutung tritt bei **weniger als 1 von 100 Patientinnen und Patienten (etwa 0,5–1 von 100)** auf. Sie tritt meist in den ersten 24 Stunden auf. Lässt sich die Blutung nicht stillen, kann **eine erneute Operation in Vollnarkose zur Blutstillung** notwendig werden. Eine Bluttransfusion ist nur sehr selten erforderlich."
+   },
+   {
+    "name": "Zahnschäden",
+    "text": "Durch den Druck des Instruments, das den Mund offen hält, kann ein Zahn abbrechen oder sich lockern bzw. herausfallen, besonders ein bereits wackelnder oder kariöser Zahn."
+   },
+   {
+    "name": "Verletzung oder Schwellung von Lippen, Zunge oder Gaumen",
+    "text": "Durch den Kontakt mit den Instrumenten können kleine Wunden oder vorübergehende Schwellungen entstehen; sie heilen innerhalb weniger Tage ab."
+   },
+   {
+    "name": "Infektion",
+    "text": "Kann sich durch steigende Temperatur, zunehmenden Mundgeruch und zunehmende Schmerzen bemerkbar machen; sie bessert sich in der Regel mit Antibiotika."
+   },
+   {
+    "name": "Nachwachsen der Rachenmandel",
+    "text": "Rachenmandelgewebe kann nachwachsen (bei etwa **1–5 von 100** Patientinnen und Patienten), besonders bei Kindern, die sehr früh operiert wurden, und bei Menschen mit Allergien. Kehren die Beschwerden zurück, kann selten eine erneute Operation notwendig sein."
+   }
+  ],
+  "rare": [
+   {
+    "name": "Dauerhaft näselnde Sprache / Rückfluss von Flüssigkeiten durch die Nase (velopharyngeale Insuffizienz)",
+    "text": "Tritt bei etwa **1 von 1.500–3.000** Patientinnen und Patienten auf; das Risiko ist höher bei Kindern mit einer verdeckten Gaumenspalte (submuköse Gaumenspalte). Sie bessert sich meist durch logopädische Behandlung (Sprachtherapie); selten kann eine Korrekturoperation notwendig sein. Deshalb wird der Gaumen vor der Operation sorgfältig untersucht."
+   },
+   {
+    "name": "Verschiebung der Halswirbel (Grisel-Syndrom)",
+    "text": "Eine **sehr seltene** Erkrankung, bei der eine Entzündung im hinteren Nasenraum die Bänder der oberen Halswirbel in Mitleidenschaft zieht. Sie äußert sich durch Nackenschmerzen, die in den Tagen nach der Operation beginnen und stetig zunehmen, die Unfähigkeit, den Kopf zu drehen, und eine Schiefhaltung des Kopfes zu einer Seite. Wird sie früh erkannt, wird sie mit Medikamenten und einer Halskrause behandelt; bei verzögerter Diagnose können eine längere Behandlung oder selten eine Operation notwendig werden, und eine dauerhafte Einschränkung der Halsbeweglichkeit kann zurückbleiben. Stetig zunehmende Nackenschmerzen müssen daher immer gemeldet werden."
+   },
+   {
+    "name": "Vernarbung oder Verengung im hinteren Nasenraum",
+    "text": "Sehr selten, besonders wenn zusammen mit einer Tonsillektomie ausgedehnt Gewebe entfernt wird, kann sich während der Heilung eine Verengung im hinteren Nasenraum bilden; diese kann die Nasenatmung behindern und eine weitere Behandlung erfordern."
+   },
+   {
+    "name": "Schwere Blutung und ihre Folgen",
+    "text": "Äußerst selten kann bei einem ungewöhnlich verlaufenden Blutgefäß oder einer unerkannten Gerinnungsstörung eine schwere Blutung auftreten. In diesem Fall können eine Notoperation, eine Bluttransfusion und eine Behandlung auf der **Intensivstation** notwendig werden; Blut, das in die Atemwege gelangt, kann Atemprobleme verursachen."
+   }
+  ]
+ },
+ "emergency": [
+  "**Frisches, hellrotes Blut** aus Mund oder Nase, Ausspucken oder Erbrechen von Blut (jede Blutung, die über ein paar Tropfen hinausgeht, sollte gemeldet werden)",
+  "Häufiges Schlucken (bei Kindern ein wichtiges Zeichen dafür, dass Blut verschluckt wird), Blässe, Schwäche",
+  "**Fieber über 38,5 °C** oder Fieber, das trotz Schmerzmitteln nicht zurückgeht",
+  "Gar kein Trinken, seit 6–8 Stunden kein Urin, ungewöhnliche Schläfrigkeit (Zeichen von Flüssigkeitsmangel)",
+  "Stetig zunehmende **Nackenschmerzen**, Unfähigkeit, den Kopf zu drehen, oder Schiefhaltung des Kopfes zu einer Seite",
+  "Atembeschwerden oder deutliche Atemaussetzer im Schlaf"
+ ],
+ "lifestyle": [
+  "Verwenden Sie gegen Schmerzen nur **die von Ihrem Arzt empfohlenen Schmerzmittel**; Aspirin und aspirinhaltige Medikamente dürfen nicht eingenommen werden, da sie Blutungen verstärken können.",
+  "In den ersten Tagen werden lauwarme oder kühle, weiche Speisen und **reichlich Flüssigkeit** empfohlen; meiden Sie sehr heiße, harte und scharf gewürzte Speisen.",
+  "Schnäuzen Sie in der ersten Woche nicht kräftig.",
+  "Ist in der ersten Woche nach der Operation ein Rückflug ins Ausland geplant, besprechen Sie mit Ihrem Arzt, ab wann ein Flug frühestens unbedenklich ist; wegen des Blutungsrisikos empfiehlt es sich, in den ersten Tagen in erreichbarer Nähe Ihres Arztes zu bleiben."
+ ],
+ "declarations_extra": [
+  "Mir wurde erklärt, dass ich in den ersten Tagen nach der Operation, insbesondere bei meinem Kind, auf Anzeichen einer Blutung (häufiges Schlucken, Ausspucken oder Erbrechen von Blut) achten und mich an den Arzt wenden muss."
+ ]
+}

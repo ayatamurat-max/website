@@ -1,0 +1,120 @@
+code: "08"
+type: surgical
+aesthetic: false
+title: "Submandibuler Gland Eksizyonu"
+alt_name: "Çene altı tükürük bezinin çıkarılması"
+
+specific_fields:
+  - label: "Taraf:"
+    options: ["Sağ", "Sol"]
+    blank: false
+  - label: "Ameliyat nedeni:"
+    options: ["Tükürük bezi taşı / tekrarlayan iltihap", "Bez içinde kitle", "Diğer"]
+  - label: "Sinir monitörizasyonu:"
+    options: ["Kullanılacak", "Kullanılmayacak"]
+    blank: false
+  - label: "Görüntüleme / biyopsi sonucu:"
+
+about:
+  - "Submandibuler bez, alt çenenin hemen altında, her iki tarafta bulunan ve ağız içine tükürük salgılayan bir tükürük bezidir. Ağızdaki tükürüğün önemli bir kısmını üretir; ancak diğer tarafta aynı bez ile kulak önündeki ve dil altındaki tükürük bezleri çalışmaya devam ettiği için **tek bezin çıkarılması çoğu hastada ağız kuruluğuna yol açmaz**."
+  - "Bu ameliyat en sık **tükürük bezi taşları** ve bunlara bağlı **tekrarlayan şişlik ve iltihaplar** nedeniyle yapılır. Taş, tükürüğün ağza akmasını engeller; yemek yerken çene altında ağrılı şişlik ve tekrarlayan enfeksiyonlar olur. Daha az sıklıkla bez içinde gelişen **kitleler (tümörler)** ameliyatı gerektirir. Submandibuler bez kitlelerinde kötü huylu tümör oranı parotis bezine göre daha yüksektir; bu nedenle kesin tanı için bezin çıkarılması ve patolojik inceleme önemlidir."
+  - "Bezin çevresinden alt dudağı hareket ettiren sinir dalı, dile his veren sinir ve dili hareket ettiren sinir geçer. Ameliyatın amacı, bu sinirleri koruyarak bezi tamamen çıkarmaktır."
+
+procedure_intro:
+  - "Ameliyat genel anestezi altında, ameliyathane koşullarında yapılır."
+procedure_steps:
+  - "**Kesi:** Alt çene kemiğinin yaklaşık 2–3 cm altında, boyundaki doğal bir cilt çizgisine paralel, genellikle 4–6 cm uzunluğunda bir kesi yapılır. Kesinin çeneden yeterince aşağıda yapılması, alt dudağı hareket ettiren sinir dalını korumaya yardımcı olur."
+  - "**Sinirlerin korunması:** Cilt altındaki ince kas tabakası (platisma) geçilir. Alt dudağı hareket ettiren sinir dalı (marjinal mandibuler sinir) görülerek veya güvenli bir katmanda kalınarak korunur."
+  - "**Bezin çıkarılması:** Bez çevre dokulardan ayrılır; bezi besleyen damarlar bağlanır. Bezin tükürük kanalı, dile his veren sinirden (lingual sinir) dikkatle ayrılarak bağlanır ve kesilir. Dili hareket ettiren sinir (hipoglossal sinir) korunur. Kanalda taş varsa mümkün olduğunca kanalın uzak kısmı da çıkarılır."
+  - "**Patolojik inceleme:** Çıkarılan bez patolojiye gönderilir; sonuç genellikle 1–2 hafta içinde çıkar."
+  - "**Kapatma:** Kanama kontrolü yapılır, genellikle ince bir **dren** yerleştirilir ve cilt estetik dikişlerle kapatılır."
+procedure_notes:
+  - "Ağız içinde, kanalın ağza açıldığı yere yakın bir taş varsa bu taş bazen ayrıca ağız içinden de çıkarılabilir. Bu durum ameliyat öncesinde sizinle konuşulur."
+anesthesia: "Genel anestezi"
+duration: "Yaklaşık 1–2 saat"
+stay: "Genellikle 1 gece; dren çıkınca taburculuk"
+
+benefits:
+  - "Taşa bağlı tekrarlayan ağrılı şişliklerin ve iltihapların sona ermesi"
+  - "Tekrarlayan antibiyotik kullanımı ihtiyacının ortadan kalkması"
+  - "Bezdeki kitlenin çıkarılması ve kesin tanının konulması"
+success:
+  - "Taş ve kronik iltihap nedeniyle yapılan ameliyatlardan sonra hastaların **%90'ından fazlasında** şikâyetler tamamen geçer. Kanalın ağız içinde kalan kısmında taş kalırsa veya yeni taş oluşursa nadiren ağız tabanında şişlik devam edebilir. İyi huylu kitlelerde ameliyat genellikle kalıcı tedavidir; kötü huylu tümörlerde ek tedavi gerekebilir."
+
+alternatives:
+  - "**İlaç ve destek tedavisi:** Bol sıvı, ekşi tatlarla tükürük artırma, masaj, sıcak uygulama ve iltihap dönemlerinde antibiyotik. Şikâyetleri hafifletebilir ancak taşı ortadan kaldırmaz."
+  - "**Ağız içinden taş çıkarılması:** Kanalın ağza yakın kısmındaki ve elle hissedilen taşlar ağız içinden küçük bir kesi ile çıkarılabilir; bez korunur."
+  - "**Tükürük kanalı endoskopisi (siyalendoskopi):** Uygun boyut ve konumdaki taşlar ince bir endoskopla kanal içinden çıkarılabilir; her merkezde ve her taş için uygun değildir."
+  - "**Takip:** Küçük ve iyi huylu olduğu düşünülen kitlelerde nadiren izlem konuşulabilir; ancak bu bezde kesin tanı için cerrahi genellikle önerilir."
+
+no_treatment:
+  - "Ameliyat yapılmazsa taşa bağlı şişlik ve iltihaplar tekrarlamaya devam edebilir; nadiren bez çevresinde apse (iltihap birikimi) gelişebilir ve acil tedavi gerekebilir. Bezde kitle varsa kesin tanı konamaz; kötü huylu bir tümör tedavi edilmezse ilerleyebilir."
+
+before:
+  - "Ameliyattan önce kan tahlilleri ve görüntüleme (ultrason, gerekirse BT/MR) yapılır; anestezi uzmanı tarafından değerlendirilirsiniz."
+  - "Ameliyattan önceki **6–8 saat** boyunca hiçbir şey yememeniz ve içmemeniz gerekir (anestezi uzmanının talimatlarına uyunuz)."
+  - "Bezde aktif iltihap varsa ameliyat genellikle iltihap tedavi edildikten sonra planlanır."
+  - "Erkek hastalarda kesi bölgesindeki sakal ameliyat günü kısaltılabilir."
+
+recovery:
+  - when: "İlk 24–48 saat"
+    what: "Çene altında hafif–orta ağrı, gerginlik ve şişlik olur; ağrı kesicilerle kontrol edilir. Yutkunurken hafif rahatsızlık olabilir. Dren genellikle 1. gün çekilir. Başınızı yüksekte tutarak yatmanız önerilir. Yumuşak gıdalarla beslenmeye hemen başlanabilir."
+  - when: "1. hafta"
+    what: "Günlük işlerinize dönebilirsiniz. Dikişler genellikle **5–7. günlerde** alınır. Kesinin üstünde, çene kenarında ve kesi çevresinde uyuşukluk normaldir. Patoloji sonucu bu dönemde veya kısa süre sonra sizinle paylaşılır."
+  - when: "2–4. haftalar"
+    what: "Masa başı işe genellikle 1 hafta içinde dönülür. Ağır egzersiz ve ağır kaldırma yaklaşık **2 hafta** ertelenmelidir. Kesi yerindeki sertlik ve hafif şişlik giderek azalır."
+  - when: "2–6. aylar"
+    what: "İz giderek solar ve çoğu zaman boyun çizgisinde belirsizleşir. Geçici sinir güçsüzlüğü veya his azalması olduysa büyük çoğunlukla bu dönemde düzelir."
+
+risks:
+  expected:
+    - "Çene altında ağrı, gerginlik ve şişlik; yutkunurken hafif rahatsızlık"
+    - "Kesi çevresinde ve altında cilt uyuşukluğu"
+    - "Boyunda kesi izi (zamanla solar)"
+  common:
+    - name: "Alt dudakta geçici güçsüzlük"
+      text: "Alt dudağı aşağı çeken sinir dalının (marjinal mandibuler sinir) ameliyat sırasında gerilmesine bağlı olarak, yaklaşık 100 hastadan **10–20'sinde** gülümserken veya konuşurken alt dudağın o tarafında hafif asimetri olur. Görünüşe yönelik bir sorundur, yeme-içmeyi genellikle etkilemez ve çoğunlukla **haftalar–birkaç ay içinde** düzelir."
+    - name: "Kesi bölgesinde sertlik ve uyuşukluk"
+      text: "İlk haftalarda kesi altında sertlik ve his azalması sıktır; aylar içinde azalır."
+  uncommon:
+    - name: "Kanama ve hematom"
+      text: "Yaklaşık 100 hastadan **1–3'ünde** cilt altında kan birikebilir. Büyükse ameliyathanede boşaltılması ve kanamanın durdurulması gerekebilir."
+    - name: "Yara enfeksiyonu"
+      text: "Özellikle iltihaplı bezlerde 100 hastada **1–3** oranında görülebilir; genellikle antibiyotikle düzelir, nadiren iltihabın boşaltılması gerekir."
+    - name: "Dil yarısında his azalması"
+      text: "Dile his veren sinirin (lingual sinir) etkilenmesine bağlı olarak dilin o tarafında uyuşukluk veya karıncalanma, 100 hastada yaklaşık **1–3** oranında görülür. Çoğunlukla geçicidir; nadiren kalıcı olabilir ve tat almayı da etkileyebilir."
+    - name: "Sıvı birikimi (serom)"
+      text: "Kesi altında sıvı birikmesi; genellikle iğne ile boşaltma ve baskılı pansumanla düzelir."
+    - name: "Kanalda kalan taş"
+      text: "Tükürük kanalının ağız içinde kalan kısmında taş kalabilir veya yeniden oluşabilir; ağız tabanında şişlik veya iltihap yapabilir. Gerekirse ağız içinden küçük bir işlemle çıkarılır."
+    - name: "Belirgin veya kalın iz"
+      text: "Kişisel yatkınlığa bağlı olarak iz kalınlaşabilir veya belirgin kalabilir; iz tedavileri uygulanabilir."
+    - name: "Çene altında çöküklük"
+      text: "Bezin yerinde hafif çukurluk ve iki taraf arasında fark oluşabilir; genellikle belirgin değildir."
+  rare:
+    - name: "Alt dudakta kalıcı güçsüzlük"
+      text: "100 hastadan **yaklaşık 1–3'ünde** veya daha azında alt dudağın o tarafında kalıcı hareket kısıtlılığı ve gülümsemede asimetri kalabilir. Belirgin olursa botulinum toksini ile karşı tarafın dengelenmesi gibi tedaviler uygulanabilir."
+    - name: "Dil hareketlerinde güçsüzlük"
+      text: "Dili hareket ettiren sinirin (hipoglossal sinir) etkilenmesi **çok nadirdir**. Gelişirse dilin o tarafında güçsüzlük, konuşma ve yutmada zorluk olabilir; kalıcı hasar durumunda konuşma-yutma terapisi gerekebilir."
+    - name: "Boyunda büyük hematom ve nefes yolunun etkilenmesi"
+      text: "Çok nadiren hızla büyüyen kan birikimi boyunda baskı yaparak yutma veya **nefes alma güçlüğüne** yol açabilir. Bu bir acil durumdur; hemen ameliyathanede boşaltılması, nadiren nefes yolunun güvenceye alınması (entübasyon veya trakeotomi) gerekebilir."
+    - name: "Patoloji sonucunun ön tanıdan farklı çıkması"
+      text: "Taş veya iltihap düşünülen bir bezde bile kesin patoloji beklenmedik bir tümör gösterebilir. Kötü huylu bir tümör saptanırsa boyun lenf bezlerinin çıkarılması, radyoterapi gibi ek tedaviler gerekebilir."
+    - name: "Ağız kuruluğu"
+      text: "Tek bezin çıkarılması çoğu hastada fark edilmez; ancak daha önce radyoterapi almış, belirli romatizmal hastalıkları olan veya ağız kuruluğu yapan ilaçlar kullanan hastalarda ağız kuruluğu belirginleşebilir."
+
+emergency:
+  - "**Boyunda hızla artan şişlik**, özellikle **nefes alma veya yutma güçlüğü** ile birlikteyse (acil durum — hemen 112'yi arayınız)"
+  - "Dren veya yara yerinden **durmayan kanama**"
+  - "**38,5 °C üzerinde ateş**, yarada artan kızarıklık, ağrı, ısı artışı veya iltihaplı akıntı"
+  - "Dilde veya ağız tabanında belirgin şişlik"
+  - "Konuşmada veya yutmada **yeni ortaya çıkan belirgin zorluk**"
+
+lifestyle:
+  - "Yara bölgesini ilk 48 saat ıslatmayınız; sonrasında size anlatıldığı şekilde kısa duş alabilirsiniz."
+  - "İlk günlerde yumuşak ve ılık gıdalar tercih ediniz; ağız hijyeninize dikkat ediniz ve bol sıvı alınız."
+  - "İzi en az 6 ay güneşten koruyunuz (yüksek faktörlü güneş kremi)."
+  - "Patoloji sonucunu ve takip planını mutlaka hekiminizle görüşünüz."
+
+declarations_extra:
+  - "Kesin tanının ameliyat sonrası patoloji ile konacağını ve sonuca göre ek tedavi gerekebileceğini anladım."
