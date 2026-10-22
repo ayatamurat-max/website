@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react';
 import { useTranslations } from 'next-intl';
 import { CONSENT_KEY } from './MetaPixel';
+import { CONSENT_EVENT } from './GoogleAnalytics';
 import { Link } from '@/i18n/navigation';
 import styles from './CookieConsent.module.css';
 
@@ -27,6 +28,7 @@ export default function CookieConsent() {
       /* depolama kapalıysa yalnızca bu oturum için geçerli */
     }
     if (value === 'granted') window.fbq?.('consent', 'grant');
+    window.dispatchEvent(new Event(CONSENT_EVENT));
     setVisible(false);
   };
 

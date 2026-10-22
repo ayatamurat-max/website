@@ -57,6 +57,7 @@ function Turkish() {
       <ul>
         <li>Ameliyatların yapıldığı Lüleburgaz Özel Medikent Hastanesi,</li>
         <li>Meta Platforms (WhatsApp üzerinden iletişim; onay vermeniz hâlinde Meta Pixel),</li>
+        <li>Google LLC (onay vermeniz hâlinde Google Analytics),</li>
         <li>Vercel Inc. (internet sitesinin barındırılması), Google (harita hizmeti), Doktor Takvimi (online randevu),</li>
         <li>Talep edilmesi hâlinde yetkili kamu kurum ve kuruluşları.</li>
       </ul>
@@ -93,6 +94,7 @@ function Turkish() {
       <ul>
         <li><strong>Zorunlu:</strong> Dil tercihinizi ve çerez tercihinizi hatırlamak için. Bunlar sitenin çalışması için gereklidir.</li>
         <li><strong>Reklam ve ölçüm (Meta Pixel):</strong> Reklamlarımızın kaç kişiye ulaştığını ve kaç kişinin bizimle iletişime geçtiğini ölçmek için. Yalnızca çerez bandında “Kabul et” seçeneğini işaretlemeniz hâlinde çalışır.</li>
+        <li><strong>Site istatistikleri (Google Analytics):</strong> Sitemizi kaç kişinin ziyaret ettiğini ve hangi sayfaların okunduğunu anonim olarak ölçmek için. IP adresiniz kısaltılarak işlenir. Yalnızca çerez bandında “Kabul et” seçeneğini işaretlemeniz hâlinde çalışır.</li>
       </ul>
       <p>Tercihinizi istediğiniz zaman değiştirebilirsiniz:</p>
       <ConsentReset label="Çerez tercihlerimi değiştir" />
@@ -143,6 +145,7 @@ function English() {
       <ul>
         <li>Lüleburgaz Özel Medikent Hospital, where surgeries are performed,</li>
         <li>Meta Platforms (communication via WhatsApp; Meta Pixel only if you consent),</li>
+        <li>Google LLC (Google Analytics only if you consent),</li>
         <li>Vercel Inc. (website hosting), Google (maps), Doktor Takvimi (online booking in Türkiye),</li>
         <li>Competent public authorities, where legally required.</li>
       </ul>
@@ -171,6 +174,7 @@ function English() {
       <ul>
         <li><strong>Necessary:</strong> to remember your language and cookie preferences. These are required for the website to work.</li>
         <li><strong>Advertising and measurement (Meta Pixel):</strong> to measure how many people our ads reach and how many contact us. Used only if you select “Accept” in the cookie banner.</li>
+        <li><strong>Site statistics (Google Analytics):</strong> to measure anonymously how many people visit our website and which pages are read. Your IP address is shortened before processing. Used only if you select “Accept” in the cookie banner.</li>
       </ul>
       <p>You can change your choice at any time:</p>
       <ConsentReset label="Change my cookie preferences" />
