@@ -53,12 +53,66 @@
     "certificateTitle": "Uluslararası Sağlık Turizmi Yetki Belgesi"
   },
   "AboutMe": {
-    "tag": "Özgeçmiş",
-    "title": "Hakkımda",
-    "bio1": "1984 yılında Trabzon’da doğdu. İlköğrenimini Akçaabat Merkez İlkokulu ve Ardeşen Cumhuriyet İlkokulu’nda, ortaöğrenimini Rize Pazar Ahmet Tahtakılıç Anadolu Lisesi’nde tamamladı.",
-    "bio2": "Ege Üniversitesi Tıp Fakültesi’nden mezun olduktan sonra Kulak Burun Boğaz Hastalıkları uzmanlık eğitimini Ankara Eğitim ve Araştırma Hastanesi’nde tamamladı.",
-    "bio3": "2014–2018 yılları arasında Kırklareli Devlet Hastanesi’nde, 2018–2023 yılları arasında Kırklareli Özel Doğuş Tıp Merkezi ve Lüleburgaz Özel Medikent Hastanesi’nde görev yaptı. 2023’ten bu yana Kırklareli’deki kendi muayenehanesinde hastalarını kabul etmektedir.",
-    "bio4": "Evli ve Ada ile Nil adında iki kız çocuğu babasıdır."
+    "tag": "Hakkımda",
+    "title": "Op. Dr. Murat Ayata kimdir?",
+    "lead": "Kulak burun boğaz hastalıkları ve yüz estetiği cerrahisinde, nefes alma fonksiyonu ile doğal görünümü birlikte ele alan, kişiye özel bir yaklaşım.",
+    "specialty": "Kulak Burun Boğaz Baş ve Boyun Cerrahisi Uzmanı",
+    "ctaBook": "Randevu Al",
+    "ctaWhatsapp": "WhatsApp ile Yazın",
+    "timelineTitle": "Eğitim ve Kariyer",
+    "tl": {
+      "born": {
+        "when": "1984",
+        "what": "Trabzon doğumlu"
+      },
+      "school": {
+        "when": "Ortaöğretim",
+        "what": "Rize Pazar Ahmet Tahtakılıç Anadolu Lisesi"
+      },
+      "medicine": {
+        "when": "Tıp Eğitimi",
+        "what": "Ege Üniversitesi Tıp Fakültesi"
+      },
+      "residency": {
+        "when": "Uzmanlık",
+        "what": "Ankara Eğitim ve Araştırma Hastanesi · KBB"
+      },
+      "state": {
+        "when": "2014 – 2018",
+        "what": "Kırklareli Devlet Hastanesi"
+      },
+      "private": {
+        "when": "2018 – 2023",
+        "what": "Kırklareli Özel Doğuş Tıp Merkezi · Lüleburgaz Özel Medikent Hastanesi"
+      },
+      "clinic": {
+        "when": "2023 – Bugün",
+        "what": "Op. Dr. Murat Ayata Muayenehanesi · Kırklareli"
+      }
+    },
+    "storyTag": "Özgeçmiş",
+    "storyTitle": "Karadeniz’den Trakya’ya",
+    "bio1": "1984 yılında Trabzon’da doğdu. İlköğrenimini Akçaabat Merkez İlkokulu ve Ardeşen Cumhuriyet İlkokulu’nda, ortaöğrenimini Rize Pazar Ahmet Tahtakılıç Anadolu Lisesi’nde tamamladı. Ege Üniversitesi Tıp Fakültesi’nden mezun olduktan sonra Kulak Burun Boğaz Hastalıkları uzmanlık eğitimini Ankara Eğitim ve Araştırma Hastanesi’nde aldı.",
+    "bio2": "Uzmanlığının ardından 2014 yılında Kırklareli Devlet Hastanesi’nde göreve başladı ve dört yıl boyunca bölgenin kulak burun boğaz hastalarına hizmet verdi. 2018–2023 yılları arasında Kırklareli Özel Doğuş Tıp Merkezi ve Lüleburgaz Özel Medikent Hastanesi’nde çalışarak burun estetiği, fonksiyonel burun cerrahisi ve yüz estetiği alanlarındaki deneyimini derinleştirdi.",
+    "bio3": "2023’ten bu yana Kırklareli’deki kendi muayenehanesinde hastalarını kabul etmektedir. Ameliyatlarını Lüleburgaz Özel Medikent Hastanesi’nde gerçekleştirmekte; botoks, dolgu, mezoterapi ve PRP gibi medikal uygulamaları ise muayenehanesinde yapmaktadır.",
+    "bio4": "Burun estetiğinde çoğunlukla açık teknik ve piezo cerrahi ile çalışır; uygun vakalarda kapalı tekniği tercih eder. Rinoplasti ve septoplastinin yanı sıra kepçe kulak, göz kapağı ve boyun estetiği ile genel kulak burun boğaz cerrahisi alanlarında da hizmet vermektedir.",
+    "quote1": "Her yüz farklıdır; her planlama da öyle olmalıdır. Amaç yeni bir yüz yaratmak değil, kişinin kendi yüzünün en iyi halini ortaya çıkarmaktır.",
+    "quote2": "İyi bir burun yalnızca güzel görünen burun değildir: rahat nefes alan, yüzle uyumlu ve doğal duran burundur.",
+    "bio5": "Yurt dışından gelen hastalar için ön değerlendirmeyi görüntülü görüşmeyle yapmakta, ameliyat öncesinden kontrollere kadar tüm süreci bizzat yürütmektedir. Türkçenin yanı sıra İngilizce iletişim kurmaktadır.",
+    "membershipsTitle": "Üyelikler",
+    "memberships": {
+      "m1": "Türk Kulak Burun Boğaz ve Baş Boyun Cerrahisi Derneği",
+      "m2": "Rinoloji Derneği",
+      "m3": "Uyku Derneği",
+      "m4": "Yüz Plastik Cerrahisi Derneği"
+    },
+    "family": "Evli ve Ada ile Nil adında iki kız çocuğu babasıdır.",
+    "certTag": "Resmî Yetki Belgesi",
+    "certTitle": "T.C. Sağlık Bakanlığı Uluslararası Sağlık Turizmi Yetki Belgesi",
+    "certDesc": "Op. Dr. Murat Ayata Muayenehanesi, Uluslararası Sağlık Turizmi ve Turistin Sağlığı Hakkında Yönetmelik kapsamında T.C. Sağlık Bakanlığı tarafından uluslararası hasta kabulü için yetkilendirilmiştir.",
+    "certCta": "Yurt Dışından Gelen Hastalar",
+    "closingTitle": "Randevu için doğrudan ulaşın",
+    "closingDesc": "Sorularınız ve tedavi süreci hakkında bilgi almak için muayenehanemizi arayabilir ya da WhatsApp üzerinden yazabilirsiniz."
   },
   "Medical": {
     "tag": "Ameliyatsız Çözümler",

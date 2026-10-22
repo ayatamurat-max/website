@@ -53,12 +53,66 @@
     "certificateTitle": "International Health Tourism Authorization Certificate"
   },
   "AboutMe": {
-    "tag": "Biography",
-    "title": "About Me",
-    "bio1": "Born in 1984 in Trabzon, Türkiye, he completed his primary education at Akçaabat Central Primary School and Ardeşen Cumhuriyet Primary School, and his secondary education at Rize Pazar Ahmet Tahtakılıç Anatolian High School.",
-    "bio2": "After graduating from Ege University Faculty of Medicine, he completed his residency in Otorhinolaryngology at Ankara Training and Research Hospital.",
-    "bio3": "He worked at Kırklareli State Hospital between 2014-2018, and at Kırklareli Private Doğuş Medical Center and Lüleburgaz Private Medikent Hospital between 2018-2023. Since 2023, he has been working in his private practice in Kırklareli.",
-    "bio4": "He is married and the father of two daughters, Ada and Nil."
+    "tag": "About Me",
+    "title": "Who is Dr. Murat Ayata?",
+    "lead": "A personalised approach to ENT and facial aesthetic surgery — one that treats breathing function and a natural appearance as inseparable.",
+    "specialty": "Otolaryngology Head and Neck Surgery Specialist",
+    "ctaBook": "Book an Appointment",
+    "ctaWhatsapp": "Message on WhatsApp",
+    "timelineTitle": "Education & Career",
+    "tl": {
+      "born": {
+        "when": "1984",
+        "what": "Born in Trabzon, Türkiye"
+      },
+      "school": {
+        "when": "High School",
+        "what": "Rize Pazar Ahmet Tahtakılıç Anatolian High School"
+      },
+      "medicine": {
+        "when": "Medical School",
+        "what": "Ege University Faculty of Medicine"
+      },
+      "residency": {
+        "when": "Residency",
+        "what": "Ankara Training and Research Hospital · ENT"
+      },
+      "state": {
+        "when": "2014 – 2018",
+        "what": "Kırklareli State Hospital"
+      },
+      "private": {
+        "when": "2018 – 2023",
+        "what": "Kırklareli Private Doğuş Medical Center · Lüleburgaz Private Medikent Hospital"
+      },
+      "clinic": {
+        "when": "2023 – Present",
+        "what": "Op. Dr. Murat Ayata Private Clinic · Kırklareli"
+      }
+    },
+    "storyTag": "Biography",
+    "storyTitle": "From the Black Sea to Thrace",
+    "bio1": "Born in Trabzon in 1984, he completed his primary education at Akçaabat Central Primary School and Ardeşen Cumhuriyet Primary School, and his secondary education at Rize Pazar Ahmet Tahtakılıç Anatolian High School. After graduating from Ege University Faculty of Medicine, he completed his residency in Otorhinolaryngology at Ankara Training and Research Hospital.",
+    "bio2": "After specialising, he joined Kırklareli State Hospital in 2014 and cared for the region’s ENT patients for four years. Between 2018 and 2023 he worked at Kırklareli Private Doğuş Medical Center and Lüleburgaz Private Medikent Hospital, deepening his experience in rhinoplasty, functional nasal surgery and facial aesthetics.",
+    "bio3": "Since 2023 he has been seeing patients at his own private clinic in Kırklareli. Surgeries are performed at Lüleburgaz Private Medikent Hospital, while medical aesthetic treatments such as botox, fillers, mesotherapy and PRP are carried out at the clinic.",
+    "bio4": "In rhinoplasty he mostly works with the open technique and piezo surgery, choosing the closed technique in selected cases. Alongside rhinoplasty and septoplasty, he also performs otoplasty, eyelid and neck aesthetic surgery, and general ENT surgery.",
+    "quote1": "Every face is unique, and every treatment plan should be too. The goal is not to create a new face, but to bring out the best version of your own.",
+    "quote2": "A good nose is not simply one that looks beautiful: it breathes freely, suits the face and looks natural.",
+    "bio5": "For international patients, the initial assessment is done by video call, and he personally manages the whole journey from pre-operative planning to follow-up. He communicates in Turkish and English.",
+    "membershipsTitle": "Memberships",
+    "memberships": {
+      "m1": "Turkish Society of Otorhinolaryngology and Head & Neck Surgery",
+      "m2": "Turkish Rhinology Society",
+      "m3": "Turkish Sleep Society",
+      "m4": "Turkish Society of Facial Plastic Surgery"
+    },
+    "family": "He is married and the father of two daughters, Ada and Nil.",
+    "certTag": "Official Authorisation",
+    "certTitle": "Republic of Türkiye Ministry of Health — International Health Tourism Authorisation Certificate",
+    "certDesc": "Op. Dr. Murat Ayata Private Clinic is officially authorised by the Turkish Ministry of Health to accept international patients under the Regulation on International Health Tourism and Tourist Health.",
+    "certCta": "International Patients",
+    "closingTitle": "Get in touch directly",
+    "closingDesc": "For questions about your treatment or to arrange a consultation, call the clinic or send us a message on WhatsApp."
   },
   "Medical": {
     "tag": "Non-Surgical Solutions",

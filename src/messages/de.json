@@ -53,12 +53,66 @@
     "certificateTitle": "Internationales Gesundheitstourismus-Autorisierungszertifikat"
   },
   "AboutMe": {
-    "tag": "Lebenslauf",
-    "title": "Über mich",
-    "bio1": "Geboren 1984 in Trabzon. Er absolvierte seine Grundschulausbildung an der zentralen Grundschule Akçaabat und der Republikgrundschule Ardeşen, sowie seine Mittel- und Oberschulausbildung am anatolischen Gymnasium Rize Pazar Ahmet Tahtakılıç.",
-    "bio2": "Nach Abschluss seines Universitätsstudiums an der medizinischen Fakultät der Ege-Universität absolvierte er seine Facharztausbildung in der Hals-Nasen-Ohren-Heilkunde am Ausbildungs- und Forschungskrankenhaus in Ankara.",
-    "bio3": "Von 2014 bis 2018 arbeitete er im staatlichen Krankenhaus von Kırklareli und von 2018 bis 2023 im privaten medizinischen Zentrum Doğuş in Kırklareli sowie im privaten Medikent-Krankenhaus in Lüleburgaz. Seit 2023 ist er in seiner eigenen Praxis in Kırklareli tätig.",
-    "bio4": "Er ist verheiratet und Vater von zwei Töchtern, Ada und Nil."
+    "tag": "Über mich",
+    "title": "Wer ist Dr. Murat Ayata?",
+    "lead": "Ein individueller Ansatz in der HNO- und Gesichtsästhetik-Chirurgie, der Atemfunktion und natürliches Aussehen als Einheit betrachtet.",
+    "specialty": "Facharzt für Hals-Nasen-Ohren-Heilkunde, Kopf- und Halschirurgie",
+    "ctaBook": "Termin vereinbaren",
+    "ctaWhatsapp": "Per WhatsApp schreiben",
+    "timelineTitle": "Ausbildung & Werdegang",
+    "tl": {
+      "born": {
+        "when": "1984",
+        "what": "Geboren in Trabzon, Türkei"
+      },
+      "school": {
+        "when": "Gymnasium",
+        "what": "Anatolisches Gymnasium Ahmet Tahtakılıç, Pazar/Rize"
+      },
+      "medicine": {
+        "when": "Medizinstudium",
+        "what": "Medizinische Fakultät der Ege-Universität"
+      },
+      "residency": {
+        "when": "Facharztausbildung",
+        "what": "Ankara Ausbildungs- und Forschungskrankenhaus · HNO"
+      },
+      "state": {
+        "when": "2014 – 2018",
+        "what": "Staatliches Krankenhaus Kırklareli"
+      },
+      "private": {
+        "when": "2018 – 2023",
+        "what": "Privates Medizinzentrum Doğuş Kırklareli · Privatklinik Medikent Lüleburgaz"
+      },
+      "clinic": {
+        "when": "2023 – heute",
+        "what": "Eigene Praxis Op. Dr. Murat Ayata · Kırklareli"
+      }
+    },
+    "storyTag": "Lebenslauf",
+    "storyTitle": "Vom Schwarzen Meer nach Thrakien",
+    "bio1": "Er wurde 1984 in Trabzon geboren, besuchte die Grundschulen Akçaabat Merkez und Ardeşen Cumhuriyet und machte seinen Abschluss am Anatolischen Gymnasium Ahmet Tahtakılıç in Pazar/Rize. Nach dem Studium an der Medizinischen Fakultät der Ege-Universität absolvierte er seine HNO-Facharztausbildung am Ausbildungs- und Forschungskrankenhaus Ankara.",
+    "bio2": "Nach der Facharztprüfung trat er 2014 seinen Dienst am Staatlichen Krankenhaus Kırklareli an und betreute dort vier Jahre lang HNO-Patienten der Region. Von 2018 bis 2023 war er am Privaten Medizinzentrum Doğuş in Kırklareli und an der Privatklinik Medikent in Lüleburgaz tätig und vertiefte seine Erfahrung in Nasenkorrektur, funktioneller Nasenchirurgie und Gesichtsästhetik.",
+    "bio3": "Seit 2023 empfängt er Patienten in seiner eigenen Praxis in Kırklareli. Operationen führt er an der Privatklinik Medikent in Lüleburgaz durch; medizinisch-ästhetische Behandlungen wie Botox, Filler, Mesotherapie und PRP erfolgen in der Praxis.",
+    "bio4": "Bei der Rhinoplastik arbeitet er überwiegend mit offener Technik und Piezo-Chirurgie, in geeigneten Fällen mit geschlossener Technik. Neben Rhinoplastik und Septumplastik bietet er Ohrkorrekturen, Lid- und Halsästhetik sowie allgemeine HNO-Chirurgie an.",
+    "quote1": "Jedes Gesicht ist einzigartig – und jede Behandlungsplanung sollte es auch sein. Ziel ist nicht ein neues Gesicht, sondern die beste Version Ihres eigenen.",
+    "quote2": "Eine gute Nase sieht nicht nur schön aus: Sie lässt frei atmen, passt zum Gesicht und wirkt natürlich.",
+    "bio5": "Für Patienten aus dem Ausland erfolgt die Erstbeurteilung per Videogespräch; den gesamten Ablauf von der Planung bis zur Nachkontrolle betreut er persönlich. Er kommuniziert auf Türkisch und Englisch.",
+    "membershipsTitle": "Mitgliedschaften",
+    "memberships": {
+      "m1": "Türkische Gesellschaft für HNO-Heilkunde, Kopf- und Halschirurgie",
+      "m2": "Türkische Gesellschaft für Rhinologie",
+      "m3": "Türkische Gesellschaft für Schlafmedizin",
+      "m4": "Türkische Gesellschaft für Plastische Gesichtschirurgie"
+    },
+    "family": "Er ist verheiratet und Vater zweier Töchter, Ada und Nil.",
+    "certTag": "Offizielle Zulassung",
+    "certTitle": "Zulassung des türkischen Gesundheitsministeriums für internationalen Gesundheitstourismus",
+    "certDesc": "Die Praxis Op. Dr. Murat Ayata ist vom türkischen Gesundheitsministerium gemäß der Verordnung über internationalen Gesundheitstourismus und Touristengesundheit offiziell zur Behandlung internationaler Patienten zugelassen.",
+    "certCta": "Internationale Patienten",
+    "closingTitle": "Kontaktieren Sie uns direkt",
+    "closingDesc": "Für Fragen zur Behandlung oder zur Terminvereinbarung rufen Sie die Praxis an oder schreiben Sie uns per WhatsApp."
   },
   "Medical": {
     "tag": "Nicht-chirurgische Lösungen",
