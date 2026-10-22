@@ -1,4 +1,8 @@
 import type { Post } from '../types';
+import ru from '../i18n/earwax/ru';
+import de from '../i18n/earwax/de';
+import fr from '../i18n/earwax/fr';
+import bg from '../i18n/earwax/bg';
 
 // Kaynak: Scriptler/2.hafta/buşon reels.pages
 const post: Post = {
@@ -7,6 +11,10 @@ const post: Post = {
   cover: '/blog/earwax.svg',
   shareImage: '/blog/earwax.jpg',
   translations: {
+    ru,
+    de,
+    fr,
+    bg,
     tr: {
       title: 'Kulak kiri temizlenmeli mi? Pamuklu çubuk hakkında bilmeniz gerekenler',
       description:

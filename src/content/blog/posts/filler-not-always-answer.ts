@@ -1,4 +1,8 @@
 import type { Post } from '../types';
+import ru from '../i18n/filler-not-always-answer/ru';
+import de from '../i18n/filler-not-always-answer/de';
+import fr from '../i18n/filler-not-always-answer/fr';
+import bg from '../i18n/filler-not-always-answer/bg';
 
 // Kaynak: Scriptler/22 EKim Perşembe/22 ekim medikal est.pages (4 senaryo: daha fazla dolgu, çene hattı dolgusu mu masseter botoksu mu, dudak dolgusu, bazen cevap dolgusuzluk)
 const post: Post = {
@@ -8,6 +12,10 @@ const post: Post = {
   shareImage: '/blog/filler-not-always-answer.jpg',
   procedure: { href: '/dermal-dolgu', icon: 'filler' },
   translations: {
+    ru,
+    de,
+    fr,
+    bg,
     tr: {
       title: 'Daha fazla dolgu her zaman çözüm değil: Tedavi soruna göre seçilir',
       description:

@@ -1,4 +1,8 @@
 import type { Post } from '../types';
+import ru from '../i18n/sudden-hearing-loss/ru';
+import de from '../i18n/sudden-hearing-loss/de';
+import fr from '../i18n/sudden-hearing-loss/fr';
+import bg from '../i18n/sudden-hearing-loss/bg';
 
 // Kaynak: Scriptler/3. hafta/1. gurup reels scriptleri.pages (3. Ani işitme kaybı)
 const post: Post = {
@@ -7,6 +11,10 @@ const post: Post = {
   cover: '/blog/sudden-hearing-loss.svg',
   shareImage: '/blog/sudden-hearing-loss.jpg',
   translations: {
+    ru,
+    de,
+    fr,
+    bg,
     tr: {
       title: 'Ani işitme kaybı: Kulağınız pamukla tıkanmış gibiyse beklemeyin',
       description:

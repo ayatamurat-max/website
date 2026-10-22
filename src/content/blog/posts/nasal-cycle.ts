@@ -1,4 +1,8 @@
 import type { Post } from '../types';
+import ru from '../i18n/nasal-cycle/ru';
+import de from '../i18n/nasal-cycle/de';
+import fr from '../i18n/nasal-cycle/fr';
+import bg from '../i18n/nasal-cycle/bg';
 
 // Kaynak: Scriptler/3. hafta/1. gurup reels scriptleri.pages (4. Burnum neden sırayla tıkanıyor?)
 const post: Post = {
@@ -8,6 +12,10 @@ const post: Post = {
   shareImage: '/blog/nasal-cycle.jpg',
   procedure: { href: '/septoplasti', icon: 'septoplasty' },
   translations: {
+    ru,
+    de,
+    fr,
+    bg,
     tr: {
       title: 'Burnum neden sırayla tıkanıyor? Nazal siklus',
       description:

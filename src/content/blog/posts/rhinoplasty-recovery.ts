@@ -1,4 +1,8 @@
 import type { Post } from '../types';
+import ru from '../i18n/rhinoplasty-recovery/ru';
+import de from '../i18n/rhinoplasty-recovery/de';
+import fr from '../i18n/rhinoplasty-recovery/fr';
+import bg from '../i18n/rhinoplasty-recovery/bg';
 
 const post: Post = {
   slug: 'rhinoplasty-recovery-timeline',
@@ -7,6 +11,10 @@ const post: Post = {
   shareImage: '/blog/rhinoplasty-recovery.jpg',
   procedure: { href: '/rinoplasti', icon: 'rhinoplasty' },
   translations: {
+    ru,
+    de,
+    fr,
+    bg,
     en: {
       title: 'Rhinoplasty recovery timeline: what to expect, week by week',
       description:

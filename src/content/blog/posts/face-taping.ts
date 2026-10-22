@@ -1,4 +1,8 @@
 import type { Post } from '../types';
+import ru from '../i18n/face-taping/ru';
+import de from '../i18n/face-taping/de';
+import fr from '../i18n/face-taping/fr';
+import bg from '../i18n/face-taping/bg';
 
 // Kaynak: Scriptler/3. hafta/2. gurup.pages (4. Face taping — Gua sha — Face yoga)
 const post: Post = {
@@ -8,6 +12,10 @@ const post: Post = {
   shareImage: '/blog/face-taping.jpg',
   procedure: { href: '/ameliyatsiz-yuz-genclestirme', icon: 'rejuvenation' },
   translations: {
+    ru,
+    de,
+    fr,
+    bg,
     tr: {
       title: 'Yüz bantlama, gua sha, yüz yogası: Aynadaki değişiklik kalıcı mı?',
       description:

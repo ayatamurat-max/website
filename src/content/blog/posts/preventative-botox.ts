@@ -1,4 +1,8 @@
 import type { Post } from '../types';
+import ru from '../i18n/preventative-botox/ru';
+import de from '../i18n/preventative-botox/de';
+import fr from '../i18n/preventative-botox/fr';
+import bg from '../i18n/preventative-botox/bg';
 
 // Kaynak: Scriptler/3. hafta/2. gurup.pages (3. Preventative Botox)
 const post: Post = {
@@ -8,6 +12,10 @@ const post: Post = {
   shareImage: '/blog/preventative-botox.jpg',
   procedure: { href: '/botoks', icon: 'medical' },
   translations: {
+    ru,
+    de,
+    fr,
+    bg,
     tr: {
       title: 'Botoksa kaç yaşında başlanmalı? "Önleyici botoks" hakkında',
       description:

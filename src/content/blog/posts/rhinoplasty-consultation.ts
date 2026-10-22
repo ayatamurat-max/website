@@ -1,4 +1,8 @@
 import type { Post } from '../types';
+import ru from '../i18n/rhinoplasty-consultation/ru';
+import de from '../i18n/rhinoplasty-consultation/de';
+import fr from '../i18n/rhinoplasty-consultation/fr';
+import bg from '../i18n/rhinoplasty-consultation/bg';
 
 // Kaynak: Scriptler/22 EKim Perşembe/22 ekim ingilizce.pages (2. referans burun, 3. doğal burun, 4. önce nefes, 5. tek görüşmede karar vermek zorunda değilsiniz)
 const post: Post = {
@@ -8,6 +12,10 @@ const post: Post = {
   shareImage: '/blog/rhinoplasty-consultation.jpg',
   procedure: { href: '/rinoplasti', icon: 'rhinoplasty' },
   translations: {
+    ru,
+    de,
+    fr,
+    bg,
     tr: {
       title: 'Rinoplasti konsültasyonu: Referans fotoğraf, nefes ve acele etmemek',
       description:

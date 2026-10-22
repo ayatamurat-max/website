@@ -1,4 +1,8 @@
 import type { Post } from '../types';
+import ru from '../i18n/history-of-rhinoplasty/ru';
+import de from '../i18n/history-of-rhinoplasty/de';
+import fr from '../i18n/history-of-rhinoplasty/fr';
+import bg from '../i18n/history-of-rhinoplasty/bg';
 
 // Kaynak: Scriptler/ceza rinoplastiyi nasıl doğurdu youtube.pages
 const post: Post = {
@@ -8,6 +12,10 @@ const post: Post = {
   shareImage: '/blog/history-of-rhinoplasty.jpg',
   procedure: { href: '/rinoplasti', icon: 'rhinoplasty' },
   translations: {
+    ru,
+    de,
+    fr,
+    bg,
     tr: {
       title: 'Bir ceza, modern rinoplastiyi nasıl doğurdu? Burun estetiğinin 3000 yıllık hikâyesi',
       description:

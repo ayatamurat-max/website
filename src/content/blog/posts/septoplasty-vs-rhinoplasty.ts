@@ -1,4 +1,8 @@
 import type { Post } from '../types';
+import ru from '../i18n/septoplasty-vs-rhinoplasty/ru';
+import de from '../i18n/septoplasty-vs-rhinoplasty/de';
+import fr from '../i18n/septoplasty-vs-rhinoplasty/fr';
+import bg from '../i18n/septoplasty-vs-rhinoplasty/bg';
 
 const post: Post = {
   slug: 'septoplasty-vs-rhinoplasty',
@@ -7,6 +11,10 @@ const post: Post = {
   shareImage: '/blog/septoplasty-vs-rhinoplasty.jpg',
   procedure: { href: '/septoplasti', icon: 'septoplasty' },
   translations: {
+    ru,
+    de,
+    fr,
+    bg,
     en: {
       title: 'Septoplasty or rhinoplasty? Understanding the difference',
       description:

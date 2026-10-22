@@ -1,4 +1,8 @@
 import type { Post } from '../types';
+import ru from '../i18n/nasal-rinse-water/ru';
+import de from '../i18n/nasal-rinse-water/de';
+import fr from '../i18n/nasal-rinse-water/fr';
+import bg from '../i18n/nasal-rinse-water/bg';
 
 // Kaynak: Scriptler/3. hafta/1. gurup reels scriptleri.pages (2. Burun yıkarken hangi suyu kullanmalıyız?)
 const post: Post = {
@@ -7,6 +11,10 @@ const post: Post = {
   cover: '/blog/nasal-rinse-water.svg',
   shareImage: '/blog/nasal-rinse-water.jpg',
   translations: {
+    ru,
+    de,
+    fr,
+    bg,
     tr: {
       title: 'Burun yıkarken hangi suyu kullanmalıyız?',
       description:

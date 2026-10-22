@@ -1,4 +1,8 @@
 import type { Post } from '../types';
+import ru from '../i18n/botox-facts/ru';
+import de from '../i18n/botox-facts/de';
+import fr from '../i18n/botox-facts/fr';
+import bg from '../i18n/botox-facts/bg';
 
 // Kaynak: Scriptler/çekimi bitenler/Botoks insta.pages + Scriptler/2.hafta/botoks çinko reels.pages
 const post: Post = {
@@ -8,6 +12,10 @@ const post: Post = {
   shareImage: '/blog/botox-facts.jpg',
   procedure: { href: '/botoks', icon: 'medical' },
   translations: {
+    ru,
+    de,
+    fr,
+    bg,
     tr: {
       title: 'Botoks hakkında doğru bilinen yanlışlar: dolgu mu, çinko, magnezyum',
       description:

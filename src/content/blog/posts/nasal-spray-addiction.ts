@@ -1,4 +1,8 @@
 import type { Post } from '../types';
+import ru from '../i18n/nasal-spray-addiction/ru';
+import de from '../i18n/nasal-spray-addiction/de';
+import fr from '../i18n/nasal-spray-addiction/fr';
+import bg from '../i18n/nasal-spray-addiction/bg';
 
 // Kaynak: Scriptler/çekimi bitenler/rinitis medikamentoza script.pages (+ insta)
 const post: Post = {
@@ -8,6 +12,10 @@ const post: Post = {
   shareImage: '/blog/nasal-spray-addiction.jpg',
   procedure: { href: '/septoplasti', icon: 'septoplasty' },
   translations: {
+    ru,
+    de,
+    fr,
+    bg,
     tr: {
       title: 'Burun spreyi bağımlılığı: “Hocam, bunu bırakamıyorum”',
       description:
