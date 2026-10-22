@@ -197,6 +197,7 @@
 @media (min-width: 1440px) {
   .headerContainer {
     max-width: 1480px;
+    height: 88px;
   }
 
   .nav {
@@ -213,7 +214,7 @@
   }
 
   .logo img {
-    width: 180px !important;
+    width: 182px !important;
     height: auto !important;
   }
 }

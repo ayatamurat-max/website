@@ -19,7 +19,7 @@ export default function Header() {
     <header className={styles.header}>
       <div className={`container ${styles.headerContainer}`}>
         <Link href="/" className={styles.logo} onClick={closeMenu}>
-          <Image src="/logo-dark.png" alt={`${t('title')} Logo`} width={200} height={44} priority style={{ objectFit: 'contain' }} />
+          <Image src="/logo.svg" alt={`${t('title')} Logo`} width={150} height={69} priority unoptimized style={{ objectFit: 'contain' }} />
         </Link>
 
         <div className={styles.headerRight}>

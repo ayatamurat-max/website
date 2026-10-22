@@ -18,7 +18,7 @@ export default function Footer() {
     <footer className={styles.footer}>
       <div className={`container ${styles.footerContainer}`}>
         <div className={styles.brand}>
-          <Image src="/logo-white.webp" alt={`${tNav('title')} Logo`} width={250} height={55} style={{ objectFit: 'contain', marginBottom: '1rem' }} />
+          <Image src="/logo-light.svg" alt={`${tNav('title')} Logo`} width={220} height={100} unoptimized style={{ objectFit: 'contain', marginBottom: '1rem' }} />
           <p className={styles.description}>
             {t('description')}
           </p>
