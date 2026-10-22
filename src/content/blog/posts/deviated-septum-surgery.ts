@@ -1,4 +1,8 @@
 import type { Post } from '../types';
+import ru from '../i18n/deviated-septum-surgery/ru';
+import de from '../i18n/deviated-septum-surgery/de';
+import fr from '../i18n/deviated-septum-surgery/fr';
+import bg from '../i18n/deviated-septum-surgery/bg';
 
 // Kaynak: Scriptler/çekimi bitenler/Septum dev insta.pages
 const post: Post = {
@@ -8,6 +12,10 @@ const post: Post = {
   shareImage: '/blog/deviated-septum.jpg',
   procedure: { href: '/septoplasti', icon: 'septoplasty' },
   translations: {
+    ru,
+    de,
+    fr,
+    bg,
     tr: {
       title: 'Burnumda eğrilik var: Ameliyat olmam gerekir mi?',
       description:

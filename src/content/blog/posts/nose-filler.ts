@@ -1,4 +1,8 @@
 import type { Post } from '../types';
+import ru from '../i18n/nose-filler/ru';
+import de from '../i18n/nose-filler/de';
+import fr from '../i18n/nose-filler/fr';
+import bg from '../i18n/nose-filler/bg';
 
 // Kaynak: Scriptler/22 EKim Perşembe/Boş 2.pages ("Burun Dolgusunu Neden Önermiyorum?")
 const post: Post = {
@@ -8,6 +12,10 @@ const post: Post = {
   shareImage: '/blog/nose-filler.jpg',
   procedure: { href: '/rinoplasti', icon: 'rhinoplasty' },
   translations: {
+    ru,
+    de,
+    fr,
+    bg,
     tr: {
       title: 'Burun dolgusunu neden önermiyorum?',
       description:

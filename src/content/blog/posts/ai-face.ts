@@ -1,4 +1,8 @@
 import type { Post } from '../types';
+import ru from '../i18n/ai-face/ru';
+import de from '../i18n/ai-face/de';
+import fr from '../i18n/ai-face/fr';
+import bg from '../i18n/ai-face/bg';
 
 // Kaynak: Scriptler/3. hafta/2. gurup.pages (1. AI face)
 const post: Post = {
@@ -8,6 +12,10 @@ const post: Post = {
   shareImage: '/blog/ai-face.jpg',
   procedure: { href: '/rinoplasti', icon: 'rhinoplasty' },
   translations: {
+    ru,
+    de,
+    fr,
+    bg,
     tr: {
       title: 'Yapay zekâ ile hazırlanan "ideal yüz": Hedef mi, cerrahi plan mı?',
       description:

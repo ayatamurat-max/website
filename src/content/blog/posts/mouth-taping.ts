@@ -1,4 +1,8 @@
 import type { Post } from '../types';
+import ru from '../i18n/mouth-taping/ru';
+import de from '../i18n/mouth-taping/de';
+import fr from '../i18n/mouth-taping/fr';
+import bg from '../i18n/mouth-taping/bg';
 
 // Kaynak: Scriptler/3. hafta/1. gurup reels scriptleri.pages (1. Gece ağzı bantlamak)
 const post: Post = {
@@ -8,6 +12,10 @@ const post: Post = {
   shareImage: '/blog/mouth-taping.jpg',
   procedure: { href: '/septoplasti', icon: 'septoplasty' },
   translations: {
+    ru,
+    de,
+    fr,
+    bg,
     tr: {
       title: 'Gece ağzı bantlamak: Burundan nefes almanın kısa yolu mu?',
       description:

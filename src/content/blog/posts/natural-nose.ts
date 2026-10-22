@@ -1,4 +1,8 @@
 import type { Post } from '../types';
+import ru from '../i18n/natural-nose/ru';
+import de from '../i18n/natural-nose/de';
+import fr from '../i18n/natural-nose/fr';
+import bg from '../i18n/natural-nose/bg';
 
 // Kaynak: Scriptler/3. hafta/2. gurup.pages (2. "Natural nose" dönemi)
 const post: Post = {
@@ -8,6 +12,10 @@ const post: Post = {
   shareImage: '/blog/natural-nose.jpg',
   procedure: { href: '/rinoplasti', icon: 'rhinoplasty' },
   translations: {
+    ru,
+    de,
+    fr,
+    bg,
     tr: {
       title: '"Doğal burun" dönemi: Kime göre doğal?',
       description:

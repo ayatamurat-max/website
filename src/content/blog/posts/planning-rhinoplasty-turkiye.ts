@@ -1,4 +1,8 @@
 import type { Post } from '../types';
+import ru from '../i18n/planning-rhinoplasty-turkiye/ru';
+import de from '../i18n/planning-rhinoplasty-turkiye/de';
+import fr from '../i18n/planning-rhinoplasty-turkiye/fr';
+import bg from '../i18n/planning-rhinoplasty-turkiye/bg';
 
 const post: Post = {
   slug: 'planning-rhinoplasty-in-turkiye',
@@ -7,6 +11,10 @@ const post: Post = {
   shareImage: '/blog/planning-rhinoplasty-turkiye.jpg',
   procedure: { href: '/international-patients', icon: 'rhinoplasty' },
   translations: {
+    ru,
+    de,
+    fr,
+    bg,
     en: {
       title: 'Planning rhinoplasty in Türkiye: a step-by-step guide',
       description:

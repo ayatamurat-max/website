@@ -1,4 +1,8 @@
 import type { Post } from '../types';
+import ru from '../i18n/rhinoplasty-abroad-aftercare/ru';
+import de from '../i18n/rhinoplasty-abroad-aftercare/de';
+import fr from '../i18n/rhinoplasty-abroad-aftercare/fr';
+import bg from '../i18n/rhinoplasty-abroad-aftercare/bg';
 
 // Kaynak: Scriptler/22 EKim Perşembe/22 ekim ingilizce.pages (1. eve döndükten sonra, 6. ne kadar kalmalı, 7. tek başına gelmek, 8. Bulgaristan sınırına yakınlık)
 const post: Post = {
@@ -8,6 +12,10 @@ const post: Post = {
   shareImage: '/blog/rhinoplasty-abroad-aftercare.jpg',
   procedure: { href: '/international-patients', icon: 'rhinoplasty' },
   translations: {
+    ru,
+    de,
+    fr,
+    bg,
     tr: {
       title: 'Yurt dışından rinoplasti: Ne kadar kalmalı, yalnız gelinir mi, eve dönünce ne olur?',
       description:

@@ -1,4 +1,8 @@
 import type { Post } from '../types';
+import ru from '../i18n/cold-weather-illness/ru';
+import de from '../i18n/cold-weather-illness/de';
+import fr from '../i18n/cold-weather-illness/fr';
+import bg from '../i18n/cold-weather-illness/bg';
 
 // Kaynak: Scriptler/2.hafta/Soğuk hasta edermi reels.pages
 const post: Post = {
@@ -7,6 +11,10 @@ const post: Post = {
   cover: '/blog/cold-weather.svg',
   shareImage: '/blog/cold-weather.jpg',
   translations: {
+    ru,
+    de,
+    fr,
+    bg,
     tr: {
       title: 'Soğuk hava insanı hasta eder mi? Burnunuzun savunması',
       description:
