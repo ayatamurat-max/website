@@ -20,9 +20,11 @@ import noseFiller from './posts/nose-filler';
 import fillerNotAlwaysAnswer from './posts/filler-not-always-answer';
 import rhinoplastyConsultation from './posts/rhinoplasty-consultation';
 import rhinoplastyAbroadAftercare from './posts/rhinoplasty-abroad-aftercare';
+import cyclamenSinusitis from './posts/cyclamen-sinusitis';
 
 // Yeni yazıyı buraya ekleyin.
 const ALL: Post[] = [
+  cyclamenSinusitis,
   noseFiller,
   fillerNotAlwaysAnswer,
   rhinoplastyConsultation,
