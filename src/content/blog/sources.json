@@ -97,7 +97,17 @@
         "rhinoplasty-consultation-reference-photos-breathing",
         "rhinoplasty-abroad-stay-travel-follow-up"
       ],
-      "mtimeMs": 1792588625560
+      "mtimeMs": 1792670798467
+    },
+    "yeniden çekilenler.pages": {
+      "status": "skip",
+      "reason": "Daha önce yayımlanan 10 konunun (septum, botoks-çinko, soğuk hava, kulak kiri, nazal siklus, ani işitme kaybı, AI yüz, doğal burun, önleyici botoks, yüz bantlama) yeniden çekim metni; yeni bilgi yok",
+      "mtimeMs": 1792673583387
+    },
+    "Siklamen_Sinuzit_Bilimsel_Degerlendirme.pdf": {
+      "status": "published",
+      "slug": "cyclamen-nasal-spray-sinusitis",
+      "mtimeMs": 1793000214406
     }
   }
 }

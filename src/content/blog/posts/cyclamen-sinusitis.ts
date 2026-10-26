@@ -1,0 +1,135 @@
+import type { Post } from '../types';
+import ru from '../i18n/cyclamen-sinusitis/ru';
+import de from '../i18n/cyclamen-sinusitis/de';
+import fr from '../i18n/cyclamen-sinusitis/fr';
+import bg from '../i18n/cyclamen-sinusitis/bg';
+
+// Kaynak: Scriptler/Siklamen_Sinuzit_Bilimsel_Degerlendirme.pdf (hazır, kaynakçalı bilgilendirme metni; rakamlar ve kaynaklar aynen korundu)
+const post: Post = {
+  slug: 'cyclamen-nasal-spray-sinusitis',
+  date: '2026-10-26',
+  cover: '/blog/cyclamen-sinusitis.svg',
+  shareImage: '/blog/cyclamen-sinusitis.jpg',
+  translations: {
+    ru,
+    de,
+    fr,
+    bg,
+    tr: {
+      title: 'Siklamen sinüzite iyi gelir mi? Bilimsel çalışmalar ne söylüyor?',
+      description:
+        'Siklamen özütlü burun spreyleri sinüslerdeki salgıyı boşalttığı ve antibiyotik ihtiyacını azalttığı iddiasıyla öneriliyor. Klinik çalışmalar, Cochrane derlemesi ve EPOS 2020 bu konuda ne diyor?',
+      readMinutes: 5,
+      body: [
+        { type: 'p', text: 'Sinüzit tedavisinde bitkisel ürünler zaman zaman gündeme geliyor. Bunlardan biri de siklamen bitkisinden elde edilen ve burun spreyi şeklinde kullanılan özütler. Bu ürünlerin sinüslerde biriken salgıları boşaltmaya yardımcı olduğu, burun tıkanıklığını azalttığı ve antibiyotik ihtiyacını düşürebileceği ileri sürülüyor.' },
+        { type: 'p', text: 'Ancak burundan daha fazla salgı gelmesi, sinüzitin daha hızlı iyileştiği anlamına gelmez. Bir maddenin burun mukozasında oluşturduğu fizyolojik etki ile hastalığın seyrini değiştirmesi farklı şeylerdir.' },
+        { type: 'h2', text: 'Siklamen nedir, burunda nasıl etki gösterir?' },
+        { type: 'p', text: 'Siklamen, çuhaçiçeğigiller familyasından bir bitki cinsidir. Sinüzit araştırmalarında kullanılan preparatlar ağırlıklı olarak Cyclamen europaeum adıyla tanımlanan bitkinin yumrusundan elde edilen özütleri içerir.' },
+        { type: 'p', text: 'Özütteki saponinlerin burun mukozasını uyararak refleks bir salgı artışına yol açtığı düşünülüyor. Bunun sonucunda burunda sulanma, hapşırma ve yoğun sekresyon oluşabiliyor. Teorik olarak bu durum mukusun uzaklaştırılmasına yardımcı olabilir.' },
+        { type: 'p', text: 'Fakat akut rinosinüzitte sorun yalnızca salgı birikimi değildir. Mukozadaki inflamasyon, ödem ve sinüslerin drenaj yollarındaki daralma da hastalığın önemli parçalarıdır. Salgı artışının ağrıyı azalttığı, iyileşmeyi hızlandırdığı ya da komplikasyonları önlediği ayrıca kanıtlanmalıdır.' },
+        { type: 'h2', text: 'Klinik araştırmalar ne gösteriyor?' },
+        { type: 'p', text: 'Siklamenle ilgili randomize kontrollü çalışmaların sayısı sınırlı. 2012 yılında yayımlanan iki küçük çalışma, akut rinosinüzitte siklamen özütünü plaseboyla karşılaştırdı:' },
+        {
+          type: 'steps',
+          items: [
+            { title: '99 hastalık çalışma', text: 'Pfaar ve arkadaşlarının araştırmasında orta ve şiddetli akut rinosinüziti olan 99 yetişkin, 15 gün boyunca siklamen spreyi ya da plasebo kullandı. Her iki gruba da ilk sekiz gün amoksisilin verildi. Yedinci günde toplam semptom skorunda gruplar arasında istatistiksel olarak anlamlı fark bulunmadı. Yüz ağrısı ve endoskopide görülen mukozal tıkanıklık gibi bazı ikincil ölçümlerde siklamen lehine bulgular bildirildi; ancak genel semptomlarda belirgin bir üstünlük gösterilemedi. Her iki grubun da antibiyotik kullanması, bu çalışmadan siklamenin antibiyotik ihtiyacını azalttığı sonucunu çıkarmayı da engelliyor.' },
+            { title: '29 hastalık çalışma', text: 'Ponikau ve arkadaşlarının küçük çalışmasında 29 hasta değerlendirildi. Siklamen grubunda bilgisayarlı tomografide sinüslerdeki opasifikasyon (dolgunluk) plaseboya göre daha fazla azaldı; buna karşılık toplam semptom skorlarındaki iyileşmede anlamlı fark saptanmadı.' },
+          ],
+        },
+        { type: 'p', text: 'Görüntülemedeki düzelme önemli bir araştırma bulgusudur, ama hastanın kendini daha iyi hissetmesiyle aynı şey değildir. Tedavinin asıl amacı ağrıyı, tıkanıklığı, akıntıyı ve hastalığın günlük yaşam üzerindeki yükünü azaltmaktır.' },
+        { type: 'h2', text: 'Cochrane derlemesi ne diyor?' },
+        { type: 'p', text: '2018 tarihli Cochrane sistematik derlemesi, toplam 147 yetişkini kapsayan bu iki randomize kontrollü çalışmayı değerlendirdi. Derlemenin sonucu, mevcut kanıtların siklamenin akut sinüzitte etkili olup olmadığını belirlemek için yetersiz olduğuydu.' },
+        { type: 'p', text: 'Çalışmaların küçük olması, metodolojik sınırlılıklar ve hasta açısından önemli sonuçların yeterince ölçülmemesi belirsizliği artırıyor. Çalışmaların endüstri desteğiyle yürütülmüş olması da bağımsız doğrulama ihtiyacını güçlendiriyor; bu tek başına sonuçları geçersiz kılmıyor.' },
+        { type: 'h2', text: 'Siklamen spreyi zararsız mı?' },
+        { type: 'p', text: 'Bitkisel köken, kendiliğinden güvenli anlamına gelmez. Çalışmalarda burunda yanma, irritasyon, hapşırma, boğazda rahatsızlık ve hafif burun kanaması gibi yan etkiler bildirildi.' },
+        { type: 'p', text: 'Cochrane derlemesinde herhangi bir yan etki bildirme oranı siklamen grubunda yaklaşık %50, plasebo grubunda yaklaşık %24 idi (risk oranı 2,11; %95 güven aralığı 1,35–3,29). Çalışmalarda ciddi yan etki bildirilmemesi olumlu; ancak örneklem, nadir görülen riskleri dışlamak için küçük.' },
+        { type: 'p', text: 'Araştırmalarda kullanılan standartlaştırılmış preparatlarla evde hazırlanan bitki özütleri aynı şey değildir. Siklamen bitkisinin doğrudan buruna uygulanmasını ya da ev yapımı karışımların kullanılmasını önermiyorum.' },
+        { type: 'h2', text: 'Siklamen antibiyotik kullanımını azaltabilir mi?' },
+        { type: 'p', text: 'Akut rinosinüzit olgularının önemli bir bölümü viral enfeksiyonlarla ilişkilidir; bu nedenle her hastada antibiyotik gerekmez. Gereksiz antibiyotik kullanımını azaltmak doğru bir hedef. Ancak bu hedef, herhangi bir bitkisel ürünün antibiyotiğin yerine geçecek kadar etkili olduğunu kanıtlamaz.' },
+        { type: 'p', text: 'Bunu söyleyebilmek için antibiyotik kullanım oranlarının, iyileşme sürelerinin, semptomların ve komplikasyonların yeterli büyüklükteki çalışmalarla karşılaştırılması gerekir. Mevcut siklamen çalışmaları, antibiyotik ihtiyacını azalttığı iddiasını doğrulamak için yeterli değil.' },
+        { type: 'h2', text: 'Güncel tedavide yeri var mı?' },
+        { type: 'p', text: 'Akut rinosinüzit tedavisinde hastalığın viral, postviral ya da bakteriyel olma olasılığı; belirtilerin süresi, şiddeti ve seyri birlikte değerlendirilir. Hastaya göre ağrı kontrolü, uygun tuzlu su uygulamaları ve burun içine uygulanan kortikosteroidler gibi seçenekler düşünülebilir. Antibiyotik ise klinik olarak gerekli olduğu durumlarda kullanılır.' },
+        { type: 'p', text: 'Avrupa rinosinüzit kılavuzu EPOS 2020, siklamen çalışmalarını bitkisel tedaviler kapsamında ele alır. Bazı ikincil sonuçlarda olumlu bulgular olsa da genel semptom skorlarında tutarlı bir üstünlük gösterilememesi, siklamenin güçlü kanıtlara dayanan standart bir tedavi olarak önerilmesini desteklemez.' },
+        { type: 'p', text: 'Bu kanıtlar esas olarak akut rinosinüzite ilişkindir. Kronik rinosinüzit, nazal polipler ya da tekrarlayan ataklarda etkinlik aynı verilerle kanıtlanmış sayılamaz.' },
+        { type: 'h2', text: 'Sonuç' },
+        { type: 'p', text: 'Siklamen burun mukozasında salgı artışı oluşturabilir ve teorik olarak drenajı kolaylaştırabilir. Küçük çalışmalarda bazı olumlu ikincil sonuçlar bildirilse de genel semptomlarda, iyileşme süresinde ya da antibiyotik ihtiyacında güvenilir bir yarar henüz gösterilemedi. İrritasyon gibi yan etkiler ise plaseboya göre daha sık görülüyor.' },
+        { type: 'callout', text: 'Siklameni kesin olarak etkisiz ilan etmek de, sinüzitte kanıtlanmış bir tedavi gibi sunmak da mevcut verilerin ötesine geçer. Önemli olan burundan ne kadar salgı geldiği değil, hastanın gerçekten daha hızlı ve daha güvenli iyileşip iyileşmediğidir.' },
+        { type: 'h2', text: 'Sık sorulan sorular' },
+        { type: 'p', text: 'Siklamen spreyi kullandıktan sonra burnumdan çok akıntı geliyor; bu sinüzitin iyileştiğini mi gösterir? Hayır. Bu akıntı, özütün burun mukozasını uyarmasıyla oluşan refleks bir salgı artışıdır. Daha fazla salgı gelmesi, hastalığın daha hızlı iyileştiği anlamına gelmez.' },
+        { type: 'p', text: 'Siklamen spreyi antibiyotiğin yerine geçer mi? Mevcut çalışmalar bunu göstermiyor. 99 hastalık çalışmada her iki grup da antibiyotik kullandı ve siklamenin antibiyotik ihtiyacını azalttığı doğrulanamadı.' },
+        { type: 'p', text: 'Evde siklamen bitkisinden damla hazırlayabilir miyim? Önermiyorum. Çalışmalarda kullanılan standartlaştırılmış preparatlarla ev yapımı özütler aynı değildir ve bitkisel köken, kendiliğinden güvenli anlamına gelmez.' },
+        { type: 'p', text: 'Kronik sinüzit ya da burun polibinde işe yarar mı? Mevcut kanıtlar esas olarak akut rinosinüzitle ilgili. Kronik rinosinüzit, nazal polipler ve tekrarlayan ataklar için aynı verilerle bir etkinlik kanıtlanmış sayılamaz.' },
+        { type: 'h2', text: 'Bilimsel kaynaklar' },
+        {
+          type: 'ul',
+          items: [
+            'Zalmanovici Trestioreanu A, Barua A, Pertzov B. Cyclamen europaeum extract for acute sinusitis. Cochrane Database Syst Rev. 2018. DOI: 10.1002/14651858.CD011341.pub2.',
+            'Pfaar O, Mullol J, Anders C, Hörmann K, Klimek L. Cyclamen europaeum nasal spray for acute rhinosinusitis: randomized double-blind placebo-controlled trial. Rhinology. 2012;50(1):37–44.',
+            'Ponikau ve ark. An exploratory trial of Cyclamen europaeum extract for acute rhinosinusitis. 2012. PubMed: 22674586.',
+            'Fokkens WJ ve ark. European Position Paper on Rhinosinusitis and Nasal Polyps 2020. Rhinology Supplement. 2020.',
+          ],
+        },
+        { type: 'p', text: 'Bu yazı genel bilgilendirme amaçlıdır; bireysel tanı ya da tedavi önerisinin yerine geçmez. Temel klinik kanıtlar 2012 çalışmaları, 2018 Cochrane derlemesi ve EPOS 2020 üzerinden değerlendirilmiştir.' },
+      ],
+    },
+    en: {
+      title: 'Is cyclamen good for sinusitis? What does the research say?',
+      description:
+        'Cyclamen extract nasal sprays are promoted as draining the sinuses and reducing the need for antibiotics. What do the clinical trials, the Cochrane review and EPOS 2020 actually say?',
+      readMinutes: 5,
+      body: [
+        { type: 'p', text: 'Herbal products come up from time to time in the treatment of sinusitis. One of them is an extract of the cyclamen plant, used as a nasal spray. These products are claimed to help drain the secretions that build up in the sinuses, to relieve nasal congestion and to reduce the need for antibiotics.' },
+        { type: 'p', text: 'But more discharge coming from the nose does not mean the sinusitis is healing faster. The physiological effect a substance has on the nasal lining and its ability to change the course of the disease are two different things.' },
+        { type: 'h2', text: 'What is cyclamen, and how does it act in the nose?' },
+        { type: 'p', text: 'Cyclamen is a genus of plants in the primrose family. The preparations used in sinusitis research mainly contain extracts from the tuber of the plant known as Cyclamen europaeum.' },
+        { type: 'p', text: 'The saponins in the extract are thought to stimulate the nasal lining and trigger a reflex increase in secretions. This can cause a runny nose, sneezing and heavy discharge. In theory, this may help clear mucus.' },
+        { type: 'p', text: 'In acute rhinosinusitis, however, the problem is not only the build-up of secretions. Inflammation and swelling of the lining and narrowing of the sinus drainage pathways are also important parts of the disease. Whether more secretion reduces pain, speeds up recovery or prevents complications has to be proven separately.' },
+        { type: 'h2', text: 'What do the clinical trials show?' },
+        { type: 'p', text: 'The number of randomised controlled trials on cyclamen is limited. Two small studies published in 2012 compared cyclamen extract with placebo in acute rhinosinusitis:' },
+        {
+          type: 'steps',
+          items: [
+            { title: 'The 99-patient study', text: 'In the study by Pfaar and colleagues, 99 adults with moderate to severe acute rhinosinusitis used either cyclamen spray or placebo for 15 days. Both groups were also given amoxicillin for the first eight days. On day seven there was no statistically significant difference between the groups in the total symptom score. Some secondary measures, such as facial pain and mucosal obstruction seen on endoscopy, were reported to favour cyclamen, but no clear advantage in overall symptoms was shown. Because both groups took antibiotics, this study also cannot support the conclusion that cyclamen reduces the need for antibiotics.' },
+            { title: 'The 29-patient study', text: 'The small study by Ponikau and colleagues evaluated 29 patients. On CT scans, sinus opacification (filling) decreased more in the cyclamen group than with placebo; however, there was no significant difference in the improvement of total symptom scores.' },
+          ],
+        },
+        { type: 'p', text: 'Improvement on imaging is an important research finding, but it is not the same as the patient feeling better. The real aim of treatment is to reduce pain, congestion, discharge and the burden the illness places on daily life.' },
+        { type: 'h2', text: 'What does the Cochrane review say?' },
+        { type: 'p', text: 'A 2018 Cochrane systematic review assessed these two randomised controlled trials, which included 147 adults in total. Its conclusion was that the available evidence is insufficient to determine whether cyclamen is effective in acute sinusitis.' },
+        { type: 'p', text: 'The small size of the studies, methodological limitations and the fact that outcomes important to patients were not adequately measured all add to the uncertainty. The studies were also industry-supported, which strengthens the need for independent confirmation; on its own, this does not invalidate the results.' },
+        { type: 'h2', text: 'Is cyclamen spray harmless?' },
+        { type: 'p', text: 'A herbal origin does not automatically mean safe. The studies reported side effects such as burning in the nose, irritation, sneezing, throat discomfort and mild nosebleeds.' },
+        { type: 'p', text: 'In the Cochrane review, the rate of reporting any side effect was about 50% in the cyclamen group and about 24% in the placebo group (risk ratio 2.11; 95% confidence interval 1.35–3.29). It is reassuring that no serious side effects were reported, but the sample is too small to rule out rare risks.' },
+        { type: 'p', text: 'The standardised preparations used in research are not the same as plant extracts made at home. I do not recommend applying the cyclamen plant directly to the nose or using home-made mixtures.' },
+        { type: 'h2', text: 'Can cyclamen reduce antibiotic use?' },
+        { type: 'p', text: 'A large proportion of acute rhinosinusitis cases are linked to viral infections, so not every patient needs antibiotics. Reducing unnecessary antibiotic use is the right goal. But that goal does not prove that any herbal product works well enough to replace antibiotics.' },
+        { type: 'p', text: 'To say that, antibiotic use, recovery times, symptoms and complications would have to be compared in adequately sized studies. The existing cyclamen studies are not enough to confirm the claim that it reduces the need for antibiotics.' },
+        { type: 'h2', text: 'Does it have a place in current treatment?' },
+        { type: 'p', text: 'In treating acute rhinosinusitis, the likelihood that the illness is viral, post-viral or bacterial is assessed together with the duration, severity and course of the symptoms. Depending on the patient, options such as pain control, appropriate saline rinses and intranasal corticosteroids may be considered. Antibiotics are used when they are clinically necessary.' },
+        { type: 'p', text: 'The European rhinosinusitis guideline EPOS 2020 discusses the cyclamen studies under herbal treatments. Although some secondary outcomes were positive, the lack of a consistent advantage in overall symptom scores does not support recommending cyclamen as a standard, evidence-based treatment.' },
+        { type: 'p', text: 'This evidence relates mainly to acute rhinosinusitis. Effectiveness in chronic rhinosinusitis, nasal polyps or recurrent attacks cannot be considered proven by the same data.' },
+        { type: 'h2', text: 'Conclusion' },
+        { type: 'p', text: 'Cyclamen can increase secretions from the nasal lining and may, in theory, make drainage easier. Although small studies have reported some positive secondary outcomes, no reliable benefit has yet been shown for overall symptoms, recovery time or the need for antibiotics. Side effects such as irritation, meanwhile, are more common than with placebo.' },
+        { type: 'callout', text: 'Declaring cyclamen definitely ineffective and presenting it as a proven treatment for sinusitis both go beyond the current data. What matters is not how much discharge comes from the nose, but whether the patient actually recovers faster and more safely.' },
+        { type: 'h2', text: 'Frequently asked questions' },
+        { type: 'p', text: 'My nose runs a lot after using cyclamen spray – does that mean my sinusitis is getting better? No. This discharge is a reflex increase in secretions caused by the extract stimulating the nasal lining. More discharge does not mean the illness is healing faster.' },
+        { type: 'p', text: 'Can cyclamen spray replace antibiotics? The existing studies do not show this. In the 99-patient study both groups took antibiotics, and it could not be confirmed that cyclamen reduces the need for them.' },
+        { type: 'p', text: 'Can I make cyclamen drops at home? I do not recommend it. Home-made extracts are not the same as the standardised preparations used in the studies, and a herbal origin does not automatically mean safe.' },
+        { type: 'p', text: 'Does it work for chronic sinusitis or nasal polyps? The existing evidence relates mainly to acute rhinosinusitis. For chronic rhinosinusitis, nasal polyps and recurrent attacks, effectiveness cannot be considered proven by the same data.' },
+        { type: 'h2', text: 'Scientific references' },
+        {
+          type: 'ul',
+          items: [
+            'Zalmanovici Trestioreanu A, Barua A, Pertzov B. Cyclamen europaeum extract for acute sinusitis. Cochrane Database Syst Rev. 2018. DOI: 10.1002/14651858.CD011341.pub2.',
+            'Pfaar O, Mullol J, Anders C, Hörmann K, Klimek L. Cyclamen europaeum nasal spray for acute rhinosinusitis: randomized double-blind placebo-controlled trial. Rhinology. 2012;50(1):37–44.',
+            'Ponikau et al. An exploratory trial of Cyclamen europaeum extract for acute rhinosinusitis. 2012. PubMed: 22674586.',
+            'Fokkens WJ et al. European Position Paper on Rhinosinusitis and Nasal Polyps 2020. Rhinology Supplement. 2020.',
+          ],
+        },
+        { type: 'p', text: 'This article is for general information and does not replace an individual diagnosis or treatment recommendation. The key clinical evidence was assessed on the basis of the 2012 studies, the 2018 Cochrane review and EPOS 2020.' },
+      ],
+    },
+  },
+};
+
+export default post;
