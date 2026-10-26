@@ -21,9 +21,13 @@ import fillerNotAlwaysAnswer from './posts/filler-not-always-answer';
 import rhinoplastyConsultation from './posts/rhinoplasty-consultation';
 import rhinoplastyAbroadAftercare from './posts/rhinoplasty-abroad-aftercare';
 import cyclamenSinusitis from './posts/cyclamen-sinusitis';
+import magnesiumBotox from './posts/magnesium-botox';
+import mesotherapyEvidence from './posts/mesotherapy-evidence';
 
 // Yeni yazıyı buraya ekleyin.
 const ALL: Post[] = [
+  mesotherapyEvidence,
+  magnesiumBotox,
   cyclamenSinusitis,
   noseFiller,
   fillerNotAlwaysAnswer,
