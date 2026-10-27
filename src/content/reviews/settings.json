@@ -1,0 +1,9 @@
+{
+  "_note": "hidden: sitede gösterilmeyecek yorum id'leri (ör. kişisel bilgi içerenler). featuredMinRating: ana sayfa ve işlem sayfalarında öne çıkan kartların en düşük yıldızı. Tam liste (/reviews) tüm yorumları gösterir.",
+  "hidden": [],
+  "featuredMinRating": 5,
+  "links": {
+    "google": "",
+    "doktortakvimi": "https://www.doktortakvimi.com/murat-ayata/kulak-burun-bogaz/kirklareli"
+  }
+}

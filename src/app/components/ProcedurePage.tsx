@@ -5,6 +5,7 @@ import { Link } from '@/i18n/navigation';
 import { CLINIC } from '@/lib/clinic';
 import ProcedureIcon, { type ProcedureIconName } from './ProcedureIcon';
 import ConsentBand from './ConsentBand';
+import ReviewsSection from './reviews/ReviewsSection';
 // Rinoplasti sayfasıyla aynı görsel dil
 import styles from '../[locale]/rinoplasti/rinoplasti.module.css';
 
@@ -175,6 +176,9 @@ export default function ProcedurePage({ config }: { config: ProcedureConfig }) {
           </div>
         </div>
       </section>
+
+      {/* Hasta yorumları — yalnızca yabancı dillerde, önce bu işlemle ilgili olanlar */}
+      <ReviewsSection tag={config.key} />
 
       {/* İlgili işlemler */}
       {config.related.length > 0 && (

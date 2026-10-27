@@ -12,7 +12,8 @@
     "international": "Internationale Patienten",
     "blog": "Blog",
     "documents": "Dokumente",
-    "consentForms": "Aufklärungsbögen"
+    "consentForms": "Aufklärungsbögen",
+    "reviews": "Patientenbewertungen"
   },
   "Footer": {
     "description": "Facharzt für Hals-Nasen-Ohrenheilkunde und Kopf-Hals-Chirurgie. Moderne, evidenzbasierte Lösungen für Ästhetik und Gesundheit.",
@@ -763,5 +764,52 @@
     "procedureConsentTitle": "Vor dem Eingriff lesen",
     "procedureConsentDesc": "Den Aufklärungsbogen zu diesem Eingriff können Sie schon jetzt lesen, herunterladen oder ausdrucken.",
     "riskLegend": "Die Angaben sind Näherungswerte; Ihr persönliches Risiko wird im Beratungsgespräch beurteilt."
+  },
+  "Reviews": {
+    "tag": "Patientenbewertungen",
+    "title": "Was unsere Patienten sagen",
+    "subtitle": "Unbearbeitete Bewertungen von Google und Doktor Takvimi, der größten Arztbuchungsplattform der Türkei.",
+    "stripReviews": "{count} Patientenbewertungen",
+    "seeAll": "Alle Bewertungen ansehen",
+    "readMore": "Weiterlesen",
+    "readLess": "Weniger anzeigen",
+    "translatedFrom": "Aus dem {lang} übersetzt",
+    "showOriginal": "Original anzeigen",
+    "hideOriginal": "Übersetzung anzeigen",
+    "reviewOn": "Bewertung auf {source}",
+    "readOn": "Auf {source} lesen",
+    "stars": "{rating} von 5 Sternen",
+    "pageTitle": "Patientenbewertungen",
+    "pageIntro": "Jede Bewertung auf dieser Seite wurde von einem Patienten auf Google oder Doktor Takvimi verfasst und erscheint hier automatisch, auch neue, sobald sie eingehen. Die meisten Patienten schreiben auf Türkisch; ihre Worte werden für Sie übersetzt, und das Original ist immer nur einen Klick entfernt.",
+    "filterAll": "Alle",
+    "filterSource": "Quelle",
+    "filterProcedure": "Behandlung",
+    "empty": "Für diesen Filter gibt es noch keine Bewertungen.",
+    "disclaimer": "Bewertungen geben individuelle Erfahrungen wieder; Ergebnisse sind von Patient zu Patient verschieden. Übersetzungen erfolgen automatisch und bleiben dem Originalwortlaut treu.",
+    "updated": "Zuletzt aktualisiert am {date}",
+    "lang": {
+      "tr": "Türkischen",
+      "en": "Englischen",
+      "ru": "Russischen",
+      "de": "Deutschen",
+      "fr": "Französischen",
+      "bg": "Bulgarischen"
+    },
+    "tags": {
+      "rhinoplasty": "Nasenkorrektur",
+      "septoplasty": "Septumplastik",
+      "otoplasty": "Ohrkorrektur",
+      "blepharoplasty": "Lidstraffung",
+      "neck": "Hals & Kinnlinie",
+      "botox": "Botox",
+      "filler": "Filler",
+      "meso": "Mesotherapie & PRP",
+      "rejuvenation": "Nicht-operative Verjüngung",
+      "ent": "HNO-Behandlung"
+    },
+    "metaTitle": "Patientenbewertungen | Dr. med. Murat Ayata",
+    "metaDesc": "Echte Bewertungen von Patienten von Dr. Murat Ayata auf Google und Doktor Takvimi: Nasenkorrektur, Septumplastik und Gesichtsästhetik in Kırklareli, Türkei.",
+    "prev": "Vorherige Bewertungen",
+    "next": "Weitere Bewertungen"
   }
 }

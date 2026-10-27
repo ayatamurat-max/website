@@ -5,6 +5,7 @@ import { breadcrumbJsonLd, faqJsonLd } from '@/lib/schema';
 import JsonLd from '../../components/JsonLd';
 import ProcedureIcon from '../../components/ProcedureIcon';
 import ConsentBand from '../../components/ConsentBand';
+import ReviewsSection from '../../components/reviews/ReviewsSection';
 import styles from './rinoplasti.module.css';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
@@ -171,6 +172,9 @@ export default function Rinoplasti() {
           </div>
         </div>
       </section>
+
+      {/* Hasta yorumları — yalnızca yabancı dillerde */}
+      <ReviewsSection tag="rhinoplasty" soft />
 
       {/* Final CTA */}
       <ConsentBand slugs={['rinoplasti']} />

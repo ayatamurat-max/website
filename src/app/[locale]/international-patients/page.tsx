@@ -7,6 +7,8 @@ import ProcedureIcon, { type ProcedureIconName } from '../../components/Procedur
 // Rinoplasti sayfasıyla aynı görsel dil
 import styles from '../rinoplasti/rinoplasti.module.css';
 import own from './international.module.css';
+import ReviewsBadge from '../../components/reviews/ReviewsBadge';
+import ReviewsSection from '../../components/reviews/ReviewsSection';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
@@ -46,6 +48,8 @@ export default function InternationalPatients() {
                 {t('ctaSecondary')}
               </a>
             </div>
+            {/* Hasta yorumları puanı — yalnızca yabancı dillerde */}
+            <ReviewsBadge variant="hero" />
           </div>
           <div className={styles.heroArt} aria-hidden="true">
             <div className={styles.heroRing}>
@@ -157,6 +161,9 @@ export default function InternationalPatients() {
           </div>
         </div>
       </section>
+
+      {/* Hasta yorumları — yalnızca yabancı dillerde */}
+      <ReviewsSection />
 
       {/* FAQ */}
       <section className={styles.section}>

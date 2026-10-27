@@ -1,0 +1,6 @@
+{
+  "_note": "Doktor Takvimi'nin herkese açık bir API'si yok. Yeni yorumları buraya ekleyin (Türkçe, olduğu gibi); günlük iş çevirip siteye yansıtır. id benzersiz olmalı (ör. dt-2026-10-27-1).",
+  "rating": null,
+  "count": null,
+  "reviews": []
+}

@@ -1,6 +1,7 @@
 import { Metadata } from 'next';
 import { buildMetadata } from '@/i18n/metadata';
 import DoktorTakvimiWidget from '../../components/DoktorTakvimiWidget';
+import ReviewsBadge from '../../components/reviews/ReviewsBadge';
 import { MAPS_EMBED_URL, MAPS_LINK_URL } from '@/lib/clinic';
 import { useLocale, useTranslations } from 'next-intl';
 
@@ -22,6 +23,8 @@ export default function Iletisim() {
           <p style={{ color: 'var(--color-text-light)', marginTop: '1rem' }}>
             {t('desc')}
           </p>
+          {/* Puan rozeti — yalnızca yabancı dillerde */}
+          <div style={{ marginTop: '1.5rem' }}><ReviewsBadge /></div>
         </div>
         
         <div style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>

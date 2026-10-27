@@ -48,6 +48,8 @@ export default function Footer() {
             <li><Link href="/medikal-islemler">{tNav('medical')}</Link></li>
             <li><Link href="/cerrahi-islemler">{tNav('surgical')}</Link></li>
             <li><Link href="/blog">{tNav('blog')}</Link></li>
+            {/* Hasta yorumları sayfası Türkçede yok (tanıtım mevzuatı) */}
+            {locale !== 'tr' && <li><Link href="/reviews">{tNav('reviews')}</Link></li>}
             <li><Link href="/belgeler">{tNav('documents')}</Link></li>
             <li><Link href="/iletisim">{tNav('contact')}</Link></li>
           </ul>

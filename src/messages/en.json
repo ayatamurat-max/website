@@ -12,7 +12,8 @@
     "international": "International Patients",
     "blog": "Blog",
     "documents": "Documents",
-    "consentForms": "Consent Forms"
+    "consentForms": "Consent Forms",
+    "reviews": "Patient reviews"
   },
   "Footer": {
     "description": "Otolaryngology & Head and Neck Surgeon. Modern, evidence-based solutions for aesthetics and health.",
@@ -763,5 +764,52 @@
     "procedureConsentTitle": "Read before your procedure",
     "procedureConsentDesc": "You can already read, download or print the informed consent form for this procedure.",
     "riskLegend": "Rates are approximate; your personal risk is assessed at your consultation."
+  },
+  "Reviews": {
+    "tag": "Patient reviews",
+    "title": "What our patients say",
+    "subtitle": "Unedited reviews from Google and Doktor Takvimi, Türkiye's largest doctor booking platform.",
+    "stripReviews": "{count} patient reviews",
+    "seeAll": "See all reviews",
+    "readMore": "Read more",
+    "readLess": "Show less",
+    "translatedFrom": "Translated from {lang}",
+    "showOriginal": "Show original",
+    "hideOriginal": "Hide translation",
+    "reviewOn": "Review on {source}",
+    "readOn": "Read on {source}",
+    "stars": "{rating} out of 5 stars",
+    "pageTitle": "Patient reviews",
+    "pageIntro": "Every review below was written by a patient on Google or Doktor Takvimi and appears here automatically, including new ones as they arrive. Most patients write in Turkish; their words are translated for you, and the original is always one tap away.",
+    "filterAll": "All",
+    "filterSource": "Source",
+    "filterProcedure": "Treatment",
+    "empty": "No reviews match this filter yet.",
+    "disclaimer": "Reviews reflect individual experiences; results vary from patient to patient. Translations are automatic and stay faithful to the original wording.",
+    "updated": "Last updated {date}",
+    "lang": {
+      "tr": "Turkish",
+      "en": "English",
+      "ru": "Russian",
+      "de": "German",
+      "fr": "French",
+      "bg": "Bulgarian"
+    },
+    "tags": {
+      "rhinoplasty": "Rhinoplasty",
+      "septoplasty": "Septoplasty",
+      "otoplasty": "Ear surgery",
+      "blepharoplasty": "Eyelid surgery",
+      "neck": "Neck & jawline",
+      "botox": "Botox",
+      "filler": "Fillers",
+      "meso": "Mesotherapy & PRP",
+      "rejuvenation": "Non-surgical rejuvenation",
+      "ent": "ENT care"
+    },
+    "metaTitle": "Patient Reviews | Murat Ayata, MD",
+    "metaDesc": "Real reviews from patients of Murat Ayata, MD on Google and Doktor Takvimi: rhinoplasty, septoplasty and facial aesthetics in Kırklareli, Türkiye.",
+    "prev": "Previous reviews",
+    "next": "Next reviews"
   }
 }
