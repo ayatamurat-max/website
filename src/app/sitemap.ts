@@ -3,6 +3,7 @@ import { routing } from '@/i18n/routing';
 import { SITE_URL } from '@/i18n/metadata';
 import { posts, availableLocales } from '@/content/blog';
 import { CONSENT_SLUGS, consentLocales } from '@/content/consent';
+import { reviewsAllowed } from '@/content/reviews';
 
 // Google'a sitedeki tüm sayfaları bildirir: /sitemap.xml
 const PAGES = [
@@ -40,6 +41,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     const languages = Object.fromEntries(locales.map((l) => [l, url(l, path)]));
     for (const locale of locales) {
       entries.push({ url: url(locale, path), alternates: { languages } });
+    }
+  }
+
+  // Hasta yorumları sayfası yalnızca yabancı dillerde vardır (Türkçe sürüm yok)
+  {
+    const locales = routing.locales.filter((l) => reviewsAllowed(l));
+    const languages = Object.fromEntries(locales.map((l) => [l, url(l, '/reviews')]));
+    for (const locale of locales) {
+      entries.push({ url: url(locale, '/reviews'), alternates: { languages } });
     }
   }
 

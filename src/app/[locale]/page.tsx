@@ -6,6 +6,8 @@ import type { Metadata } from "next";
 import { buildMetadata } from "@/i18n/metadata";
 import styles from "./page.module.css";
 import ProcedureIcon from "../components/ProcedureIcon";
+import ReviewsBadge from "../components/reviews/ReviewsBadge";
+import ReviewsSection from "../components/reviews/ReviewsSection";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
@@ -52,6 +54,8 @@ export default function Home() {
                 {t('medicalProcedures')}
               </Link>
             </div>
+            {/* Hasta yorumları puanı — yalnızca yabancı dillerde */}
+            <ReviewsBadge variant="hero" />
           </div>
         </div>
       </section>
@@ -132,6 +136,9 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* Hasta yorumları — yalnızca yabancı dillerde */}
+      <ReviewsSection soft />
 
       {/* Latest blog posts */}
       <section className={styles.servicesSection}>

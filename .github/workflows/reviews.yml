@@ -1,0 +1,54 @@
+# Hasta yorumlarını her gün günceller (Google + Doktor Takvimi), yeni yorumları
+# yabancı dillere çevirir ve değişiklik varsa main'e işler. Vercel main'deki
+# her değişiklikte siteyi yeniden yayınlar.
+name: Yorumları güncelle
+
+on:
+  schedule:
+    - cron: '17 3 * * *' # her gün 06:17 (Türkiye saati)
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - 'src/content/reviews/doktortakvimi.json'
+      - 'src/content/reviews/settings.json'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: reviews
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Yorumları çek ve çevir
+        run: node tools/reviews/update-reviews.mjs
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GBP_CLIENT_ID: ${{ secrets.GBP_CLIENT_ID }}
+          GBP_CLIENT_SECRET: ${{ secrets.GBP_CLIENT_SECRET }}
+          GBP_REFRESH_TOKEN: ${{ secrets.GBP_REFRESH_TOKEN }}
+          GBP_ACCOUNT_ID: ${{ secrets.GBP_ACCOUNT_ID }}
+          GBP_LOCATION_ID: ${{ secrets.GBP_LOCATION_ID }}
+
+      - name: Değişiklik varsa kaydet
+        run: |
+          if git diff --quiet -- src/content/reviews/reviews.json; then
+            echo "Yeni yorum yok."
+            exit 0
+          fi
+          git config user.name "yorum-guncelleyici"
+          git config user.email "actions@users.noreply.github.com"
+          git add src/content/reviews/reviews.json
+          git commit -m "Hasta yorumları güncellendi"
+          git pull --rebase origin main
+          git push origin HEAD:main

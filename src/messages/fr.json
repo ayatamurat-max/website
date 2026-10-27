@@ -12,7 +12,8 @@
     "international": "Patients internationaux",
     "blog": "Blog",
     "documents": "Documents",
-    "consentForms": "Formulaires de consentement"
+    "consentForms": "Formulaires de consentement",
+    "reviews": "Avis des patients"
   },
   "Footer": {
     "description": "Spécialiste en Oto-Rhino-Laryngologie et Chirurgie Cervico-Faciale. Solutions modernes et fondées sur des preuves pour l'esthétique et la santé.",
@@ -763,5 +764,52 @@
     "procedureConsentTitle": "À lire avant l’intervention",
     "procedureConsentDesc": "Vous pouvez dès maintenant lire, télécharger ou imprimer le formulaire de consentement éclairé de cette intervention.",
     "riskLegend": "Les fréquences sont approximatives ; votre risque personnel est évalué lors de la consultation."
+  },
+  "Reviews": {
+    "tag": "Avis des patients",
+    "title": "Ce que disent nos patients",
+    "subtitle": "Des avis non modifiés issus de Google et de Doktor Takvimi, la plus grande plateforme de prise de rendez-vous médicaux en Turquie.",
+    "stripReviews": "{count} avis de patients",
+    "seeAll": "Voir tous les avis",
+    "readMore": "Lire la suite",
+    "readLess": "Réduire",
+    "translatedFrom": "Traduit · original en {lang}",
+    "showOriginal": "Voir l'original",
+    "hideOriginal": "Voir la traduction",
+    "reviewOn": "Avis sur {source}",
+    "readOn": "Lire sur {source}",
+    "stars": "{rating} sur 5 étoiles",
+    "pageTitle": "Avis des patients",
+    "pageIntro": "Chaque avis de cette page a été rédigé par un patient sur Google ou Doktor Takvimi et s'affiche ici automatiquement, y compris les nouveaux. La plupart des patients écrivent en turc ; leurs mots sont traduits pour vous, et l'original reste toujours à portée de clic.",
+    "filterAll": "Tous",
+    "filterSource": "Source",
+    "filterProcedure": "Traitement",
+    "empty": "Aucun avis ne correspond encore à ce filtre.",
+    "disclaimer": "Les avis reflètent des expériences individuelles ; les résultats varient d'un patient à l'autre. Les traductions sont automatiques et fidèles au texte original.",
+    "updated": "Dernière mise à jour : {date}",
+    "lang": {
+      "tr": "turc",
+      "en": "anglais",
+      "ru": "russe",
+      "de": "allemand",
+      "fr": "français",
+      "bg": "bulgare"
+    },
+    "tags": {
+      "rhinoplasty": "Rhinoplastie",
+      "septoplasty": "Septoplastie",
+      "otoplasty": "Otoplastie",
+      "blepharoplasty": "Blépharoplastie",
+      "neck": "Cou et ovale du visage",
+      "botox": "Botox",
+      "filler": "Injections de comblement",
+      "meso": "Mésothérapie et PRP",
+      "rejuvenation": "Rajeunissement sans chirurgie",
+      "ent": "Soins ORL"
+    },
+    "metaTitle": "Avis des patients | Dr Murat Ayata",
+    "metaDesc": "Avis réels des patients du Dr Murat Ayata sur Google et Doktor Takvimi : rhinoplastie, septoplastie et esthétique du visage à Kırklareli, Turquie.",
+    "prev": "Avis précédents",
+    "next": "Avis suivants"
   }
 }

@@ -1,0 +1,396 @@
+/* Hasta yorumları — yalnızca yabancı dil sayfalarında görünür */
+
+/* ---------- Yıldızlar ---------- */
+.stars {
+  display: inline-flex;
+  gap: 2px;
+  color: var(--color-accent);
+  line-height: 0;
+}
+
+.starEmpty {
+  color: rgba(229, 169, 60, 0.28);
+}
+
+/* Açık zeminde (iletişim sayfası) kompakt rozet */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.55rem 0.95rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-full);
+  background: var(--color-surface);
+  color: var(--color-text-light);
+  font-size: 0.88rem;
+}
+
+.badge strong {
+  font-family: var(--font-heading);
+  color: var(--color-primary);
+  font-size: 1rem;
+}
+
+.badge:hover {
+  border-color: var(--color-accent);
+}
+
+/* Hero görseli üzerinde, butonların altında */
+.heroRating {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.65rem;
+  margin-top: 1.75rem;
+  color: rgba(255, 255, 255, 0.82);
+  font-size: 0.92rem;
+}
+
+.heroRating strong {
+  font-family: var(--font-heading);
+  font-size: 1.1rem;
+  color: white;
+}
+
+.heroRating span:last-child {
+  border-bottom: 1px solid rgba(229, 169, 60, 0.6);
+  padding-bottom: 1px;
+}
+
+.heroRating:hover span:last-child {
+  border-bottom-color: var(--color-accent);
+  color: white;
+}
+
+/* ---------- Bölüm ---------- */
+.section {
+  padding: 5.5rem 0;
+  background: var(--color-background);
+}
+
+.sectionSoft {
+  background: var(--color-surface);
+}
+
+.head {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 1.5rem;
+  margin-bottom: 2.25rem;
+}
+
+.head h2 {
+  font-size: clamp(1.7rem, 3vw, 2.3rem);
+}
+
+.headSub {
+  margin-top: 0.6rem;
+  max-width: 560px;
+  color: var(--color-text-light);
+  line-height: 1.65;
+}
+
+.headSummary {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-top: 1rem;
+  color: var(--color-text-light);
+  font-size: 0.92rem;
+}
+
+.headSummary strong {
+  font-family: var(--font-heading);
+  font-size: 1.25rem;
+  color: var(--color-primary);
+}
+
+.nav {
+  display: flex;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+
+.navBtn {
+  width: 44px;
+  height: 44px;
+  border-radius: var(--radius-full);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-primary);
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+  transition: border-color var(--transition-fast), color var(--transition-fast);
+}
+
+.navBtn:hover:not(:disabled) {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+}
+
+.navBtn:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+.track {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(290px, calc((100% - 3rem) / 3));
+  gap: 1.5rem;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-padding-inline: 2px;
+  padding: 2px 2px 1rem;
+  scrollbar-width: none;
+}
+
+.track::-webkit-scrollbar {
+  display: none;
+}
+
+.track > * {
+  scroll-snap-align: start;
+}
+
+.foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.disclaimer {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  max-width: 640px;
+  line-height: 1.55;
+}
+
+/* ---------- Kart ---------- */
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: 1.6rem 1.6rem 1.35rem;
+  min-height: 100%;
+}
+
+.sectionSoft .card {
+  background: var(--color-background);
+}
+
+.cardTop {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+
+.sourceTag {
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-text-muted);
+}
+
+.quote {
+  color: var(--color-text);
+  line-height: 1.7;
+  font-size: 0.97rem;
+  white-space: pre-line;
+  overflow-wrap: anywhere;
+}
+
+.clamped {
+  display: -webkit-box;
+  -webkit-line-clamp: 6;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.textBtn {
+  align-self: flex-start;
+  background: none;
+  border: 0;
+  padding: 0;
+  font: inherit;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--color-secondary-hover);
+  cursor: pointer;
+}
+
+.textBtn:hover {
+  color: var(--color-primary);
+}
+
+.cardFoot {
+  margin-top: auto;
+  padding-top: 1rem;
+  border-top: 1px solid var(--color-border);
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.35rem 1rem;
+}
+
+.author {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  color: var(--color-primary);
+}
+
+.meta {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+
+.translation {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.25rem 0.6rem;
+  font-size: 0.78rem;
+  color: var(--color-text-muted);
+}
+
+/* ---------- Tüm yorumlar sayfası ---------- */
+.pageHero {
+  background: var(--color-primary);
+  color: rgba(255, 255, 255, 0.78);
+  padding: 9rem 0 4rem;
+}
+
+.pageHero h1 {
+  color: white;
+  font-size: clamp(2.2rem, 4.5vw, 3.4rem);
+  margin: 0.75rem 0 1rem;
+}
+
+.pageIntro {
+  max-width: 720px;
+  line-height: 1.75;
+}
+
+.pageScores {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 2.25rem;
+}
+
+.scoreCard {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 1.1rem 1.4rem;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: var(--radius-lg);
+  min-width: 190px;
+}
+
+.scoreCard .scoreValue {
+  font-family: var(--font-heading);
+  font-size: 2rem;
+  font-weight: 600;
+  color: white;
+  line-height: 1.1;
+}
+
+.scoreCard .scoreLabel {
+  font-size: 0.85rem;
+}
+
+.scoreCard a {
+  font-size: 0.82rem;
+  color: var(--color-accent);
+  font-weight: 600;
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem 2rem;
+  margin-bottom: 2rem;
+}
+
+.filterGroup {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.filterLabel {
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-text-muted);
+  margin-right: 0.25rem;
+}
+
+.chip {
+  padding: 0.45rem 0.95rem;
+  border-radius: var(--radius-full);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text-light);
+  font: inherit;
+  font-size: 0.86rem;
+  cursor: pointer;
+}
+
+.chip:hover {
+  border-color: var(--color-accent);
+}
+
+.chipActive {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+  color: white;
+}
+
+.grid {
+  columns: 3 300px;
+  column-gap: 1.5rem;
+}
+
+.grid > * {
+  break-inside: avoid;
+  margin-bottom: 1.5rem;
+}
+
+.empty {
+  color: var(--color-text-muted);
+  padding: 2rem 0;
+}
+
+@media (max-width: 768px) {
+  .section {
+    padding: 4rem 0;
+  }
+
+  .nav {
+    display: none;
+  }
+
+  .track {
+    grid-auto-columns: 86%;
+    gap: 1rem;
+  }
+
+  .pageHero {
+    padding: 7.5rem 0 3rem;
+  }
+}
