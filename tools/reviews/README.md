@@ -24,8 +24,16 @@ Kural tek yerde: `src/content/reviews/index.ts` → `reviewsAllowed()`.
 Çevirisi henüz hazır olmayan yorum o dilde gösterilmez (yabancı sayfada Türkçe metin çıkmaz).
 İş, GitHub'da Actions → "Yorumları güncelle" → Run workflow ile elle de çalıştırılabilir.
 
+## Çeviri (ücretsiz yol — kullanılan yöntem)
+API anahtarı kullanılmıyor. Çeviriyi Claude yapar (abonelik kapsamında):
+- **Doktor Takvimi:** yorumlar sohbette Claude'a verilir; Claude `doktortakvimi.json`'a ekler,
+  `update-reviews.mjs` ile kaydeder, çevirip `translations.mjs apply` ile işler.
+- **Google:** günlük iş yeni yorumları çevirisiz kaydeder; Claude'daki haftalık zamanlanmış görev
+  `node tools/reviews/translations.mjs pending` ile eksikleri bulur, çevirir ve `apply` ile işleyip main'e gönderir.
+Çevirisi olmayan yorum yabancı sayfalarda görünmez; yani çeviri gelene kadar yalnızca bekler.
+
 ## Gerekli GitHub Secrets (Settings → Secrets and variables → Actions)
-- `ANTHROPIC_API_KEY` — çeviri için (console.anthropic.com).
+- `ANTHROPIC_API_KEY` — isteğe bağlı. Eklenirse günlük iş çeviriyi kendisi yapar, haftalık göreve gerek kalmaz.
 - `GBP_CLIENT_ID`, `GBP_CLIENT_SECRET`, `GBP_REFRESH_TOKEN` — Google Cloud'da OAuth istemcisi,
   profil sahibi hesapla `https://www.googleapis.com/auth/business.manage` kapsamında alınmış yenileme jetonu.
 - `GBP_ACCOUNT_ID`, `GBP_LOCATION_ID` — Business Profile hesap ve konum numaraları.
