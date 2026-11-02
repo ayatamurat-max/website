@@ -60,6 +60,9 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Hasta yorumları, hero'nun hemen altında yatay kaydırmalı — yalnızca yabancı dillerde */}
+      <ReviewsSection showcase />
+
       {/* Services Overview */}
       <section className={`bg-light ${styles.servicesSection}`}>
         <div className={`container ${styles.servicesContainer}`}>
@@ -136,9 +139,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-
-      {/* Hasta yorumları — yalnızca yabancı dillerde */}
-      <ReviewsSection soft />
 
       {/* Latest blog posts */}
       <section className={styles.servicesSection}>

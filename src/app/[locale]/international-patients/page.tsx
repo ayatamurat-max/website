@@ -67,6 +67,9 @@ export default function InternationalPatients() {
         </div>
       </section>
 
+      {/* Hasta yorumları, hero'nun hemen altında yatay kaydırmalı — yalnızca yabancı dillerde */}
+      <ReviewsSection showcase />
+
       {/* Why */}
       <section className={styles.section}>
         <div className="container">
@@ -161,9 +164,6 @@ export default function InternationalPatients() {
           </div>
         </div>
       </section>
-
-      {/* Hasta yorumları — yalnızca yabancı dillerde */}
-      <ReviewsSection />
 
       {/* FAQ */}
       <section className={styles.section}>

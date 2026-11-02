@@ -12,7 +12,7 @@ import styles from './Reviews.module.css';
  * tag verilirse önce o işlemle ilgili yorumlar gösterilir.
  * Türkçe sayfalarda hiçbir şey çizmez (sağlık tanıtım mevzuatı).
  */
-export default async function ReviewsSection({ tag, soft = false }: { tag?: string; soft?: boolean }) {
+export default async function ReviewsSection({ tag, soft = false, showcase = false }: { tag?: string; soft?: boolean; showcase?: boolean }) {
   const locale = await getLocale();
   if (!reviewsAllowed(locale)) return null;
   const reviews = getFeatured(locale, tag);
@@ -21,6 +21,39 @@ export default async function ReviewsSection({ tag, soft = false }: { tag?: stri
   const labels = cardLabels(t);
   const summary = getSummary(locale);
   const score = summary ? new Intl.NumberFormat(locale, { minimumFractionDigits: 1, maximumFractionDigits: 1 }).format(summary.rating) : '';
+
+  const cards = reviews.map((r) => (
+    <ReviewCard key={r.id} review={r} labels={labels} dateLabel={formatMonth(r.date, locale)} locale={locale} />
+  ));
+
+  // Vitrin: hero'nun hemen altında, ortalı puan başlığı + tam genişlik kaydırmalı şerit
+  if (showcase) {
+    return (
+      <section className={`${styles.section} ${styles.showcase}`} aria-labelledby="reviews-showcase">
+        <div className={`container ${styles.showHead}`}>
+          <span className="section-tag" id="reviews-showcase">{t('tag')}</span>
+          {summary && (
+            <div className={styles.showScore}>
+              <strong>{score}</strong>
+              <div>
+                <Stars rating={summary.rating} size={18} label={t('stars', { rating: score })} />
+                <span>{t('stripReviews', { count: summary.count })} · Google · Doktor Takvimi</span>
+              </div>
+            </div>
+          )}
+          <Link href="/reviews" className={styles.showLink}>
+            {t('seeAll')} <span aria-hidden="true">→</span>
+          </Link>
+        </div>
+        <ReviewsTrack overlay prevLabel={t('prev')} nextLabel={t('next')}>
+          {cards}
+        </ReviewsTrack>
+        <div className="container">
+          <p className={`${styles.disclaimer} ${styles.showNote}`}>{t('disclaimer')}</p>
+        </div>
+      </section>
+    );
+  }
 
   return (
     <section className={`${styles.section} ${soft ? styles.sectionSoft : ''}`} aria-labelledby={`reviews-${tag ?? 'all'}`}>
@@ -44,9 +77,7 @@ export default async function ReviewsSection({ tag, soft = false }: { tag?: stri
             </>
           }
         >
-          {reviews.map((r) => (
-            <ReviewCard key={r.id} review={r} labels={labels} dateLabel={formatMonth(r.date, locale)} locale={locale} />
-          ))}
+          {cards}
         </ReviewsTrack>
         <div className={styles.foot}>
           <p className={styles.disclaimer}>{t('disclaimer')}</p>
