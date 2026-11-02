@@ -1,6 +1,77 @@
 {
   "_note": "Doktor Takvimi'nin herkese açık bir API'si yok. Yeni yorumları buraya ekleyin (Türkçe, olduğu gibi); günlük iş çevirip siteye yansıtır. id benzersiz olmalı (ör. dt-2026-10-27-1).",
-  "rating": null,
-  "count": null,
-  "reviews": []
+  "rating": 5,
+  "count": 30,
+  "reviews": [
+    {
+      "id": "dt-2026-06-23-1",
+      "author": "ay...",
+      "rating": 5,
+      "date": "2026-06-23",
+      "text": "Merhabalar, Travma geçirmiştim ve burnum kırık haldeydi. Travma sürecinin en başından beri elinden geleni yaptı Murat bey. Sabırla ameliyat gününü bekledim ve geçen hafta ameliyat oldum. Bugün 1 haftam doldu. Kırık bir burun (travmalı bir burun) olmasına rağmen süreç gayet güzel geçti. Şişlik ve morluklarım neredeyse yok . Ayrıca burun şeklimi de doktor beye bırakmıştım. Kendisi sizin yüzünüze yakışacak şekli zaten yapıyor. Murat beyin söylediklerini uygularsanız süreci inşallah sıkıntısız atlatırsınız. Ayrıca ameliyatla ilgili de beni detaylı olarak bilgilendirdi. Kendisini tercih ettiğim için çok mutluyum. Sağlıklı günler"
+    },
+    {
+      "id": "dt-2026-06-22-1",
+      "author": "g....",
+      "rating": 5,
+      "date": "2026-06-22",
+      "text": "Ameliyat öncesi ve sonrası gerekli bilgilendirme, ilgi ve alakası... Rinoplasti ameliyatı oldum ve cok memnunum. Ameliyat ve iyileşme süreci, korktugumun aksine agrısız gecti. Sordugum her soruya özenle cevap vermesi, ulaşılabilir olması, bilgi ve tecrübesi.. Kesinlikle tavsiye ederim."
+    },
+    {
+      "id": "dt-2026-04-15-1",
+      "author": "n....ç",
+      "rating": 5,
+      "date": "2026-04-15",
+      "text": "Çok ilgili bir hekim ve sorduğum tüm sorulara detaylı bilgi aldım"
+    },
+    {
+      "id": "dt-2026-04-14-1",
+      "author": "r.....",
+      "rating": 5,
+      "date": "2026-04-14",
+      "text": "Burun ameliyatı için başvurduk çok ilgili ve alakalı detaylar hakkında bilgilendirme vs çok memnun kaldık"
+    },
+    {
+      "id": "dt-2026-04-13-1",
+      "author": "c....g",
+      "rating": 5,
+      "date": "2026-04-13",
+      "text": "Kendisi iletişimi yüksek biri. Ameliyat sürecinden de çok memnun kaldık. Tavsiye ederiz"
+    },
+    {
+      "id": "dt-2026-02-07-1",
+      "author": "el...f",
+      "rating": 5,
+      "date": "2026-02-07",
+      "text": "Çok ayrıntılı bilgi aldım ilaçlarında nasıl kullanılacağı hakkında da bilgi aldım"
+    },
+    {
+      "id": "dt-2025-10-10-1",
+      "author": "g.....",
+      "rating": 5,
+      "date": "2025-10-10",
+      "text": "Tedaviye yönelik ciddiyet ve bütün detayların ve olasılıkların üzerinde durması. İletişim rahatlığı ve konuya yönelik kolay anlaşılabilir bir dille izah edici olması çok güzel. Tavsiye üzerine kendisiyle görüştüm ve kesinlikle tavsiye ediyorum."
+    },
+    {
+      "id": "dt-2025-09-03-1",
+      "author": "t.....",
+      "rating": 5,
+      "date": "2025-09-03",
+      "text": "Yakın tarihe randevu verildi, süreç boyunca Murat bey çok ilgiliydi ve sonuçtan çok memnun kaldım. Ameliyat sonrası morluklar ve şişlikler beklediğimden çok daha azdı."
+    },
+    {
+      "id": "dt-2025-08-26-1",
+      "author": "ay...",
+      "rating": 5,
+      "date": "2025-08-26",
+      "text": "Çok ilgili bir hekim\nOğlum burun ameliyatı oldu\nÇok memnunuz"
+    },
+    {
+      "id": "dt-2025-08-23-1",
+      "author": "n.....",
+      "rating": 5,
+      "date": "2025-08-23",
+      "text": "Güleryüzlü, ilgili ve çok deneyimli bir hekim. Etkin tedavisi sayesinde kısa süre içinde çocuklarım sağlığına kavuştu"
+    }
+  ]
 }

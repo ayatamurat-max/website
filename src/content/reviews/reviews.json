@@ -1,8 +1,205 @@
 {
-  "updatedAt": null,
+  "updatedAt": "2026-11-02",
   "sources": {
-    "google": { "rating": null, "count": null },
-    "doktortakvimi": { "rating": null, "count": null }
+    "google": {
+      "rating": null,
+      "count": null
+    },
+    "doktortakvimi": {
+      "rating": 5,
+      "count": 30
+    }
   },
-  "reviews": []
+  "reviews": [
+    {
+      "id": "dt-2026-06-23-1",
+      "source": "doktortakvimi",
+      "author": "ay...",
+      "rating": 5,
+      "date": "2026-06-23",
+      "lang": "tr",
+      "tags": [
+        "rhinoplasty"
+      ],
+      "hash": "4a1a9008297bd338",
+      "text": {
+        "en": "Hello, I had suffered a trauma and my nose was broken. Dr. Murat did everything he could from the very beginning of the trauma process. I patiently waited for the day of surgery and had the operation last week. Today marks one week. Even though it was a broken nose (a traumatized nose), the process went really well. I have almost no swelling or bruising. I had also left the shape of my nose to the doctor. He already creates the shape that will suit your face. If you follow what Dr. Murat tells you, hopefully you will get through the process without any trouble. He also informed me in detail about the surgery. I am very happy that I chose him. Wishing you healthy days",
+        "ru": "Здравствуйте! У меня была травма, и нос был сломан. С самого начала, сразу после травмы, Мурат-бей делал всё, что было в его силах. Я терпеливо дождалась дня операции и на прошлой неделе прооперировалась. Сегодня исполнилась ровно неделя. Несмотря на то что нос был сломан (нос после травмы), всё прошло очень хорошо. Отёков и синяков почти нет. Форму носа я тоже доверила доктору. Он и так делает ту форму, которая подойдёт именно вашему лицу. Если будете выполнять всё, что говорит Мурат-бей, даст Бог, всё пройдёт без проблем. Кроме того, он подробно рассказал мне об операции. Я очень рада, что выбрала именно его. Крепкого здоровья",
+        "de": "Hallo, ich hatte einen Unfall und meine Nase war gebrochen. Herr Murat hat von Anfang an, schon direkt nach der Verletzung, alles getan, was er konnte. Ich habe geduldig auf den OP-Tag gewartet und wurde letzte Woche operiert. Heute ist genau eine Woche um. Obwohl es eine gebrochene Nase (eine Nase nach einem Trauma) war, verlief alles sehr gut. Schwellungen und Blutergüsse habe ich fast keine. Die Form meiner Nase hatte ich ebenfalls dem Arzt überlassen. Er macht ohnehin die Form, die zu Ihrem Gesicht passt. Wenn Sie sich an das halten, was Herr Murat sagt, überstehen Sie die Zeit hoffentlich ohne Probleme. Außerdem hat er mich ausführlich über die Operation informiert. Ich bin sehr froh, dass ich mich für ihn entschieden habe. Bleiben Sie gesund",
+        "fr": "Bonjour, j'avais eu un traumatisme et mon nez était cassé. Dès le tout début, juste après le traumatisme, le Dr Murat a fait tout ce qu'il pouvait. J'ai attendu patiemment le jour de l'opération et j'ai été opéré(e) la semaine dernière. Cela fait une semaine aujourd'hui. Bien qu'il s'agisse d'un nez cassé (un nez traumatisé), tout s'est très bien passé. Je n'ai presque pas de gonflement ni d'ecchymoses. J'avais aussi laissé le choix de la forme de mon nez au docteur. De toute façon, il réalise la forme qui ira bien à votre visage. Si vous suivez ce que dit le Dr Murat, vous traverserez cette période sans difficulté, si Dieu le veut. Il m'a aussi informé(e) en détail sur l'opération. Je suis très heureux(se) de l'avoir choisi. Je vous souhaite une bonne santé",
+        "bg": "Здравейте! Претърпях травма и носът ми беше счупен. От самото начало, веднага след травмата, д-р Мурат направи всичко възможно. Търпеливо изчаках деня на операцията и миналата седмица се оперирах. Днес се навършва една седмица. Въпреки че носът беше счупен (травмиран нос), всичко мина много добре. Почти нямам отоци и синини. Формата на носа си също бях оставил(а) на доктора. Той и без това прави формата, която ще отива на лицето ви. Ако спазвате това, което казва д-р Мурат, дай Боже, ще преминете през процеса без проблеми. Освен това ме информира подробно за операцията. Много се радвам, че избрах него. Бъдете здрави",
+        "tr": "Merhabalar, Travma geçirmiştim ve burnum kırık haldeydi. Travma sürecinin en başından beri elinden geleni yaptı Murat bey. Sabırla ameliyat gününü bekledim ve geçen hafta ameliyat oldum. Bugün 1 haftam doldu. Kırık bir burun (travmalı bir burun) olmasına rağmen süreç gayet güzel geçti. Şişlik ve morluklarım neredeyse yok . Ayrıca burun şeklimi de doktor beye bırakmıştım. Kendisi sizin yüzünüze yakışacak şekli zaten yapıyor. Murat beyin söylediklerini uygularsanız süreci inşallah sıkıntısız atlatırsınız. Ayrıca ameliyatla ilgili de beni detaylı olarak bilgilendirdi. Kendisini tercih ettiğim için çok mutluyum. Sağlıklı günler"
+      }
+    },
+    {
+      "id": "dt-2026-06-22-1",
+      "source": "doktortakvimi",
+      "author": "g....",
+      "rating": 5,
+      "date": "2026-06-22",
+      "lang": "tr",
+      "tags": [
+        "rhinoplasty"
+      ],
+      "hash": "2ebf1015785b9696",
+      "text": {
+        "en": "The information he gives before and after surgery, his care and attention... I had rhinoplasty and I am very satisfied. Contrary to what I feared, the surgery and recovery were painless. The care with which he answers every question I asked, his availability, his knowledge and experience.. I definitely recommend him.",
+        "ru": "Необходимая информация до и после операции, внимание и забота... Я сделала ринопластику и очень довольна. Вопреки моим опасениям, операция и восстановление прошли безболезненно. Он внимательно отвечал на каждый мой вопрос, всегда был на связи, его знания и опыт.. Однозначно рекомендую.",
+        "de": "Die nötige Aufklärung vor und nach der Operation, seine Fürsorge und Aufmerksamkeit... Ich hatte eine Rhinoplastik und bin sehr zufrieden. Anders als ich befürchtet hatte, verliefen Operation und Heilung schmerzfrei. Dass er jede meiner Fragen sorgfältig beantwortet, dass er erreichbar ist, sein Wissen und seine Erfahrung.. Ich empfehle ihn auf jeden Fall.",
+        "fr": "Les informations nécessaires avant et après l'opération, son attention et sa bienveillance... J'ai fait une rhinoplastie et je suis très satisfait(e). Contrairement à ce que je craignais, l'opération et la convalescence se sont déroulées sans douleur. Le soin qu'il met à répondre à chacune de mes questions, sa disponibilité, ses connaissances et son expérience.. Je le recommande vivement.",
+        "bg": "Необходимата информация преди и след операцията, вниманието и грижата му... Направих си ринопластика и съм много доволна. Противно на страховете ми, операцията и възстановяването минаха без болка. Това, че отговаря внимателно на всеки мой въпрос, че е на разположение, знанията и опитът му.. Определено го препоръчвам.",
+        "tr": "Ameliyat öncesi ve sonrası gerekli bilgilendirme, ilgi ve alakası... Rinoplasti ameliyatı oldum ve cok memnunum. Ameliyat ve iyileşme süreci, korktugumun aksine agrısız gecti. Sordugum her soruya özenle cevap vermesi, ulaşılabilir olması, bilgi ve tecrübesi.. Kesinlikle tavsiye ederim."
+      }
+    },
+    {
+      "id": "dt-2026-04-15-1",
+      "source": "doktortakvimi",
+      "author": "n....ç",
+      "rating": 5,
+      "date": "2026-04-15",
+      "lang": "tr",
+      "tags": [],
+      "hash": "0c1ab732d4c53734",
+      "text": {
+        "en": "A very attentive doctor, and I got detailed information on all the questions I asked",
+        "ru": "Очень внимательный врач, я получила подробные ответы на все свои вопросы",
+        "de": "Ein sehr engagierter Arzt, und ich habe auf alle meine Fragen ausführliche Auskunft bekommen",
+        "fr": "Un médecin très attentionné, et j'ai obtenu des informations détaillées sur toutes les questions que j'ai posées",
+        "bg": "Много внимателен лекар, получих подробна информация по всички въпроси, които зададох",
+        "tr": "Çok ilgili bir hekim ve sorduğum tüm sorulara detaylı bilgi aldım"
+      }
+    },
+    {
+      "id": "dt-2026-04-14-1",
+      "source": "doktortakvimi",
+      "author": "r.....",
+      "rating": 5,
+      "date": "2026-04-14",
+      "lang": "tr",
+      "tags": [
+        "rhinoplasty"
+      ],
+      "hash": "82e9215ff5ec16d5",
+      "text": {
+        "en": "We came to him for nose surgery. Very attentive and caring, he informed us about the details etc. We were very satisfied",
+        "ru": "Мы обратились по поводу операции на носу. Очень внимательный и заботливый, всё подробно объяснил и т. д. Мы очень довольны",
+        "de": "Wir kamen wegen einer Nasenoperation. Sehr engagiert und zugewandt, hat uns über die Details usw. informiert. Wir waren sehr zufrieden",
+        "fr": "Nous l'avons consulté pour une opération du nez. Très attentionné et disponible, il nous a informés sur les détails, etc. Nous sommes très satisfaits",
+        "bg": "Обърнахме се към него за операция на носа. Много внимателен и грижовен, информира ни за подробностите и т.н. Останахме много доволни",
+        "tr": "Burun ameliyatı için başvurduk çok ilgili ve alakalı detaylar hakkında bilgilendirme vs çok memnun kaldık"
+      }
+    },
+    {
+      "id": "dt-2026-04-13-1",
+      "source": "doktortakvimi",
+      "author": "c....g",
+      "rating": 5,
+      "date": "2026-04-13",
+      "lang": "tr",
+      "tags": [],
+      "hash": "8e14b03c3d6cdc79",
+      "text": {
+        "en": "He is a great communicator. We were also very satisfied with the surgery process. We recommend him",
+        "ru": "Он очень контактный человек, с ним легко общаться. Ходом операции мы тоже остались очень довольны. Рекомендуем",
+        "de": "Er ist sehr kommunikativ. Auch mit dem Ablauf der Operation waren wir sehr zufrieden. Wir empfehlen ihn",
+        "fr": "C'est quelqu'un qui communique très bien. Nous avons aussi été très satisfaits du déroulement de l'opération. Nous le recommandons",
+        "bg": "Той е много комуникативен човек. Останахме много доволни и от процеса на операцията. Препоръчваме го",
+        "tr": "Kendisi iletişimi yüksek biri. Ameliyat sürecinden de çok memnun kaldık. Tavsiye ederiz"
+      }
+    },
+    {
+      "id": "dt-2026-02-07-1",
+      "source": "doktortakvimi",
+      "author": "el...f",
+      "rating": 5,
+      "date": "2026-02-07",
+      "lang": "tr",
+      "tags": [],
+      "hash": "e9f82fb368e201d4",
+      "text": {
+        "en": "I received very detailed information, including how to use my medications",
+        "ru": "Я получила очень подробную информацию, в том числе о том, как принимать лекарства",
+        "de": "Ich habe sehr ausführliche Informationen bekommen, auch darüber, wie ich meine Medikamente anwenden soll",
+        "fr": "J'ai reçu des informations très détaillées, y compris sur la façon de prendre mes médicaments",
+        "bg": "Получих много подробна информация, включително как да приемам лекарствата си",
+        "tr": "Çok ayrıntılı bilgi aldım ilaçlarında nasıl kullanılacağı hakkında da bilgi aldım"
+      }
+    },
+    {
+      "id": "dt-2025-10-10-1",
+      "source": "doktortakvimi",
+      "author": "g.....",
+      "rating": 5,
+      "date": "2025-10-10",
+      "lang": "tr",
+      "tags": [],
+      "hash": "759df9b413d02928",
+      "text": {
+        "en": "His seriousness about the treatment and the way he goes over every detail and possibility. The ease of communication and the way he explains the subject in plain, easy-to-understand language are wonderful. I saw him on a recommendation and I definitely recommend him.",
+        "ru": "Серьёзный подход к лечению, внимание ко всем деталям и возможным вариантам. С ним легко общаться, и он объясняет всё простым и понятным языком — это очень ценно. Я обратилась к нему по рекомендации и однозначно рекомендую его.",
+        "de": "Seine Ernsthaftigkeit bei der Behandlung und dass er auf alle Details und Möglichkeiten eingeht. Die unkomplizierte Kommunikation und dass er alles in leicht verständlicher Sprache erklärt, sind sehr schön. Ich war auf Empfehlung bei ihm und empfehle ihn auf jeden Fall weiter.",
+        "fr": "Son sérieux dans le traitement et le fait qu'il s'attarde sur tous les détails et toutes les possibilités. La facilité de communication et sa façon d'expliquer le sujet dans un langage simple et compréhensible sont très appréciables. Je l'ai consulté sur recommandation et je le recommande vivement.",
+        "bg": "Сериозното му отношение към лечението и това, че обсъжда всички подробности и възможности. Лесната комуникация и начинът, по който обяснява темата на прост и разбираем език, са много хубави. Отидох при него по препоръка и определено го препоръчвам.",
+        "tr": "Tedaviye yönelik ciddiyet ve bütün detayların ve olasılıkların üzerinde durması. İletişim rahatlığı ve konuya yönelik kolay anlaşılabilir bir dille izah edici olması çok güzel. Tavsiye üzerine kendisiyle görüştüm ve kesinlikle tavsiye ediyorum."
+      }
+    },
+    {
+      "id": "dt-2025-09-03-1",
+      "source": "doktortakvimi",
+      "author": "t.....",
+      "rating": 5,
+      "date": "2025-09-03",
+      "lang": "tr",
+      "tags": [],
+      "hash": "f3944fcad90d5177",
+      "text": {
+        "en": "I was given an appointment at a near date, Dr. Murat was very attentive throughout the process and I was very happy with the result. The bruising and swelling after surgery were much less than I expected.",
+        "ru": "Меня записали на ближайшую дату, Мурат-бей был очень внимателен на протяжении всего процесса, и я очень довольна результатом. Синяков и отёков после операции было гораздо меньше, чем я ожидала.",
+        "de": "Ich bekam einen zeitnahen Termin, Herr Murat war während des ganzen Ablaufs sehr engagiert, und ich bin mit dem Ergebnis sehr zufrieden. Blutergüsse und Schwellungen nach der Operation waren viel geringer als erwartet.",
+        "fr": "J'ai obtenu un rendez-vous rapidement, le Dr Murat a été très attentionné tout au long du processus et je suis très satisfait(e) du résultat. Les ecchymoses et le gonflement après l'opération ont été bien moindres que ce à quoi je m'attendais.",
+        "bg": "Дадоха ми час за близка дата, д-р Мурат беше много внимателен през целия процес и съм много доволна от резултата. Синините и отоците след операцията бяха много по-малко, отколкото очаквах.",
+        "tr": "Yakın tarihe randevu verildi, süreç boyunca Murat bey çok ilgiliydi ve sonuçtan çok memnun kaldım. Ameliyat sonrası morluklar ve şişlikler beklediğimden çok daha azdı."
+      }
+    },
+    {
+      "id": "dt-2025-08-26-1",
+      "source": "doktortakvimi",
+      "author": "ay...",
+      "rating": 5,
+      "date": "2025-08-26",
+      "lang": "tr",
+      "tags": [
+        "rhinoplasty"
+      ],
+      "hash": "ec6132bd5ec05468",
+      "text": {
+        "en": "A very attentive doctor\nMy son had nose surgery\nWe are very satisfied",
+        "ru": "Очень внимательный врач\nМоему сыну сделали операцию на носу\nМы очень довольны",
+        "de": "Ein sehr engagierter Arzt\nMein Sohn hatte eine Nasenoperation\nWir sind sehr zufrieden",
+        "fr": "Un médecin très attentionné\nMon fils a été opéré du nez\nNous sommes très satisfaits",
+        "bg": "Много внимателен лекар\nСинът ми си направи операция на носа\nМного сме доволни",
+        "tr": "Çok ilgili bir hekim\nOğlum burun ameliyatı oldu\nÇok memnunuz"
+      }
+    },
+    {
+      "id": "dt-2025-08-23-1",
+      "source": "doktortakvimi",
+      "author": "n.....",
+      "rating": 5,
+      "date": "2025-08-23",
+      "lang": "tr",
+      "tags": [
+        "ent"
+      ],
+      "hash": "f8573fcca714c117",
+      "text": {
+        "en": "A cheerful, attentive and very experienced doctor. Thanks to his effective treatment, my children recovered their health in a short time",
+        "ru": "Приветливый, внимательный и очень опытный врач. Благодаря его эффективному лечению мои дети в короткий срок поправились",
+        "de": "Ein freundlicher, engagierter und sehr erfahrener Arzt. Dank seiner wirksamen Behandlung sind meine Kinder in kurzer Zeit wieder gesund geworden",
+        "fr": "Un médecin souriant, attentionné et très expérimenté. Grâce à son traitement efficace, mes enfants ont retrouvé la santé en peu de temps",
+        "bg": "Усмихнат, внимателен и много опитен лекар. Благодарение на ефективното му лечение децата ми оздравяха за кратко време",
+        "tr": "Güleryüzlü, ilgili ve çok deneyimli bir hekim. Etkin tedavisi sayesinde kısa süre içinde çocuklarım sağlığına kavuştu"
+      }
+    }
+  ]
 }
