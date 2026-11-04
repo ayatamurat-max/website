@@ -23,9 +23,11 @@ import rhinoplastyAbroadAftercare from './posts/rhinoplasty-abroad-aftercare';
 import cyclamenSinusitis from './posts/cyclamen-sinusitis';
 import magnesiumBotox from './posts/magnesium-botox';
 import mesotherapyEvidence from './posts/mesotherapy-evidence';
+import salmonDna from './posts/salmon-dna';
 
 // Yeni yazıyı buraya ekleyin.
 const ALL: Post[] = [
+  salmonDna,
   mesotherapyEvidence,
   magnesiumBotox,
   cyclamenSinusitis,
