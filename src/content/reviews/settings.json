@@ -1,7 +1,8 @@
 {
   "_note": "hidden: sitede gösterilmeyecek yorum id'leri (ör. kişisel bilgi içerenler). featuredMinRating: ana sayfa ve işlem sayfalarında öne çıkan kartların en düşük yıldızı. Tam liste (/reviews) tüm yorumları gösterir.",
   "hidden": [
-    "dt-2012-07-10-1"
+    "dt-2012-07-10-1",
+    "g-AbFvOqmpprwEry92EuaMn5KHNlmFofPDeYfl7MT_tDyvvUzLHVD6uAdfvir7GWV2spHWNrFHeRNEsw"
   ],
   "featuredMinRating": 5,
   "links": {
