@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-04",
   "sources": {
     "google": {
-      "rating": null,
-      "count": null
+      "rating": 5,
+      "count": 25
     },
     "doktortakvimi": {
       "rating": 5,
@@ -11,6 +11,32 @@
     }
   },
   "reviews": [
+    {
+      "id": "g-AbFvOqmQIbtxURGCTuLSmZ4lVFNUCpime7AULM5AYt5ccqsk7W-DamBMWWaJtvya-8YL2UaKp7EKrg",
+      "source": "google",
+      "author": "Eyüp M.",
+      "rating": 5,
+      "date": "2026-10-26",
+      "lang": "tr",
+      "tags": [],
+      "hash": null,
+      "text": {
+        "tr": "Op.Dr .Murat Ayata beye çok teşekkür ederim eşim muayene oldu çok memnun kaldık tedavi oldu çok iyi doktor herkeze tavsiye ederim"
+      }
+    },
+    {
+      "id": "g-AbFvOqku5GtHL21_vQpQqsgmIgnQygFsq04VU5awV146tWxHTFq0TRzUBv1CWHCoci0ftppigyBH6w",
+      "source": "google",
+      "author": "Ayse O.",
+      "rating": 5,
+      "date": "2026-06-23",
+      "lang": "tr",
+      "tags": [],
+      "hash": null,
+      "text": {
+        "tr": "Merhabalar, Murat beye ne kadar teşekkür etsem az. Travma geçirmiştim ve burnum kırık haldeydi. Travma sürecinin en başından beri elinden geleni yaptı doktor bey. Sabırla ameliyat gününü bekledim ve geçen hafta ameliyat oldum. Bugün 1 haftam doldu. Kırık bir burun (travmalı bir burun) olmasına rağmen süreç gayet güzel geçti. Şişlik ve morluklarım neredeyse yok . Ayrıca burun şeklimi de doktor beye bırakmıştım. Kendisi sizin yüzünüze yakışacak şekli zaten yapıyor. Gerçekten çok teşekkür ediyorum. Murat beyin söylediklerini uygularsanız süreci inşallah sıkıntısız atlatırsınız. Ayrıca ameliyatla ilgili de beni detaylı olarak bilgilendirdi. Kendisini tercih ettiğim için çok mutluyum. Teşekkür ederim. Sağlıklı günler"
+      }
+    },
     {
       "id": "dt-2026-06-23-1",
       "source": "doktortakvimi",
@@ -49,6 +75,32 @@
         "fr": "Les informations nécessaires avant et après l'opération, son attention et sa bienveillance... J'ai fait une rhinoplastie et je suis très satisfait(e). Contrairement à ce que je craignais, l'opération et la convalescence se sont déroulées sans douleur. Le soin qu'il met à répondre à chacune de mes questions, sa disponibilité, ses connaissances et son expérience.. Je le recommande vivement.",
         "bg": "Необходимата информация преди и след операцията, вниманието и грижата му... Направих си ринопластика и съм много доволна. Противно на страховете ми, операцията и възстановяването минаха без болка. Това, че отговаря внимателно на всеки мой въпрос, че е на разположение, знанията и опитът му.. Определено го препоръчвам.",
         "tr": "Ameliyat öncesi ve sonrası gerekli bilgilendirme, ilgi ve alakası... Rinoplasti ameliyatı oldum ve cok memnunum. Ameliyat ve iyileşme süreci, korktugumun aksine agrısız gecti. Sordugum her soruya özenle cevap vermesi, ulaşılabilir olması, bilgi ve tecrübesi.. Kesinlikle tavsiye ederim."
+      }
+    },
+    {
+      "id": "g-AbFvOqmOXJs0uOGKyOYWmQp6P5PAr7jxvvm5oMwbqgj1d6fvghkkczkrFfWZBRBobqMR7s0xlpNoIg",
+      "source": "google",
+      "author": "Emrah D.",
+      "rating": 5,
+      "date": "2026-06-18",
+      "lang": "tr",
+      "tags": [],
+      "hash": null,
+      "text": {
+        "tr": "Bilgisi ve deneyiminin yanı sıra hastalarıyla olan iletişimi de harika olan doktorumuz. Gözümüz kapalı tüm ailemizi emanet ettiğimiz bir yakınımız gibi. Hakkını ödeyemeyiz."
+      }
+    },
+    {
+      "id": "g-AbFvOqlHC6FOsERVUMefJCvw2DT30W16M4aqFD90mFeb9tMkrPtf5qohgVkuvfv1n8a5lc42g53_",
+      "source": "google",
+      "author": "sezen U.",
+      "rating": 5,
+      "date": "2026-05-23",
+      "lang": "tr",
+      "tags": [],
+      "hash": null,
+      "text": {
+        "tr": "Murat hoca çok nazik ve güler yüzlü bir doktor.  Burun ameliyatımı oldum çok memnun kaldım. Artık botoks ve dolgu işlemlerim içinde gidiyorum ve çok memnunum."
       }
     },
     {
@@ -126,6 +178,32 @@
       }
     },
     {
+      "id": "g-AbFvOqkNFbxluDN0Ny04RnqDFGd1jfYkwBNymFGsrN-eWm38q5wpj9D6FJkr0p0NXfDeS9cV5vjwvw",
+      "source": "google",
+      "author": "Sirin S.",
+      "rating": 5,
+      "date": "2025-10-25",
+      "lang": "tr",
+      "tags": [],
+      "hash": null,
+      "text": {
+        "tr": "Doktorumuz murat ayataya ne kadar tesekkúr etsek azdir çok naif, ilgili ve bi okadar da bilgi aktarimini gúzel aktaran bir  doktor oglumun geniz eti ve kulak  túpú ameliyati sorunsuz geçti iyiki Allah onu bizim karsimiza çikarmis"
+      }
+    },
+    {
+      "id": "g-AbFvOqkqQKZGJkriw36wjwqR-XKAo0JUJcwtxvjinBPX5VOJDniVp_0tlj0IgXXM5iXzQKiboYU9pw",
+      "source": "google",
+      "author": "Selda Ç.",
+      "rating": 5,
+      "date": "2025-10-15",
+      "lang": "tr",
+      "tags": [],
+      "hash": null,
+      "text": {
+        "tr": "Kesinlikle Murat Hoca profesyonel ve eli çok hafif ben sürekli massater botoksu için gidiyorum bu 4.seansımdı nerdeyse bu diş sıkma alışkanlığım tamamen bitti🙏🏻gönülden tavsiye ediyorum teşekkürler ☺️"
+      }
+    },
+    {
       "id": "dt-2025-10-10-1",
       "source": "doktortakvimi",
       "author": "g.....",
@@ -141,6 +219,19 @@
         "fr": "Son sérieux dans le traitement et le fait qu'il s'attarde sur tous les détails et toutes les possibilités. La facilité de communication et sa façon d'expliquer le sujet dans un langage simple et compréhensible sont très appréciables. Je l'ai consulté sur recommandation et je le recommande vivement.",
         "bg": "Сериозното му отношение към лечението и това, че обсъжда всички подробности и възможности. Лесната комуникация и начинът, по който обяснява темата на прост и разбираем език, са много хубави. Отидох при него по препоръка и определено го препоръчвам.",
         "tr": "Tedaviye yönelik ciddiyet ve bütün detayların ve olasılıkların üzerinde durması. İletişim rahatlığı ve konuya yönelik kolay anlaşılabilir bir dille izah edici olması çok güzel. Tavsiye üzerine kendisiyle görüştüm ve kesinlikle tavsiye ediyorum."
+      }
+    },
+    {
+      "id": "g-AbFvOqmpprwEry92EuaMn5KHNlmFofPDeYfl7MT_tDyvvUzLHVD6uAdfvir7GWV2spHWNrFHeRNEsw",
+      "source": "google",
+      "author": "Dr O.",
+      "rating": 5,
+      "date": "2025-09-18",
+      "lang": "tr",
+      "tags": [],
+      "hash": null,
+      "text": {
+        "tr": "Hayırlı olsun. Kutluyor, başarılarının devamını diliyorum."
       }
     },
     {
@@ -223,6 +314,19 @@
       }
     },
     {
+      "id": "g-AbFvOqlUqiNLdo3Mt6OtZDa5n_7eyJrFjC39ha0MDRlkFxFOSefiQcR2_oE5c5g_Qg0C6GOp8T83kg",
+      "source": "google",
+      "author": "Memo M.",
+      "rating": 5,
+      "date": "2025-06-18",
+      "lang": "tr",
+      "tags": [],
+      "hash": null,
+      "text": {
+        "tr": "Çok nazik, Çok iyi ve işinde çok yetenekli bir doktor. Kulak tüpü operasyonu çok iyi geçti."
+      }
+    },
+    {
       "id": "dt-2025-06-16-1",
       "source": "doktortakvimi",
       "author": "su...n",
@@ -264,6 +368,19 @@
       }
     },
     {
+      "id": "g-AbFvOqkZ_lw2ojjJl3kGlVe2yhw3dLpeLTM34ROFWYSA_eKwgaN6JN8soLTAdl6sYKiuPhOyWXqomA",
+      "source": "google",
+      "author": "Canan G.",
+      "rating": 5,
+      "date": "2025-02-17",
+      "lang": "tr",
+      "tags": [],
+      "hash": null,
+      "text": {
+        "tr": "Murat beyin işlem öncesi her sorumuza detaylı bilgi vermesi çok güzeldi\nİşlem sırasındada çok özenli ve titiz davrandı\nKliniğide çok temiz ve ferah"
+      }
+    },
+    {
       "id": "dt-2024-10-18-1",
       "source": "doktortakvimi",
       "author": "se...n",
@@ -281,6 +398,97 @@
         "fr": "Il y a quelques années, j'ai consulté le Dr Murat pour un diagnostic de vertige, et après le traitement et les contrôles qu'il a assurés, ma maladie n'est jamais revenue. Je suis retourné(e) le voir pour un problème à l'oreille et, encore une fois, grâce à son traitement et à ses contrôles, j'ai retrouvé la santé. Je lui en suis reconnaissant(e).",
         "bg": "Преди години отидох при д-р Мурат за диагноза вертиго и след лечението и контролните прегледи, които проведе, болестта ми досега не се е връщала. Отново се обърнах към него за проблем с ухото и пак благодарение на лечението и прегледите му оздравях. Благодарен(на) съм му.",
         "tr": "Daha öistiyor yılında, vertigo teşhisi için gittiğim Murat Bey e uyguladığı tedavi ve kontroller sonrası bugüne kadar hastalığım hiç nüksetmedi, yine kulağımdaki sorun için tekrar başvurdum kendisine, ve yine uyguladığı tedavi ve kontroller sayesinde sağlığıma kavuştum kendisine minnettarım."
+      }
+    },
+    {
+      "id": "g-AbFvOqk4WPJ4wtFTaZ8meOmzT2F6skwmQHfdwoDujK-zEgXXzVaFRF8jwT7MxIw88qql8Rs6hbCxEg",
+      "source": "google",
+      "author": "Gözde G.",
+      "rating": 5,
+      "date": "2024-09-26",
+      "lang": "tr",
+      "tags": [],
+      "hash": null,
+      "text": {
+        "tr": "Düzenli olarak botox,mezoterapi ve dudak dolgusu yaptırıyorum.Şu ana kadar yaptığı her işlemden çok memnun kaldım🙏🏼Benim istediklerimin dışında yüzümün neye ihtiyacı olup olmadığını çok doğru bir şekilde analiz ediyor olması beni çok rahatlatıyor.Kliniği de tertemiz ve konforlu☺️Kırklareli için büyük bir şans kendileri🥰🙏🏼"
+      }
+    },
+    {
+      "id": "g-AbFvOqmWd1kz5xPu2CPnCBjXz25LrJcrthcgCdOk4lTtYhzKH43nqt2XF7__NQOgzYeW5vh3YHQk",
+      "source": "google",
+      "author": "Meral K.",
+      "rating": 5,
+      "date": "2024-09-23",
+      "lang": "tr",
+      "tags": [],
+      "hash": null,
+      "text": {
+        "tr": "Ufak dokunuşlarıyla büyük değişimler yapan murat beye sonsuz teşekkür ediyorum. Güler yüzü ve sevecen tavırları insana huzur veriyor. İyiki varsınız doktor bey🙏🌸"
+      }
+    },
+    {
+      "id": "g-AbFvOqmCi1hupCmon_o6icOid8heck032a_4V99_uQmzGzs7eG5EURsUpBU36gDCRMQgy3zcZeuTaA",
+      "source": "google",
+      "author": "Ayşen A.",
+      "rating": 5,
+      "date": "2024-09-18",
+      "lang": "tr",
+      "tags": [],
+      "hash": null,
+      "text": {
+        "tr": "Kibar,naif .Yıllarca ameliyatlarında birlikte çalıştığım ,hastaya yaklaşımıyla, el becerisiyle çok güvendiğim doktorum elinize emeğinize sağlık ."
+      }
+    },
+    {
+      "id": "g-AbFvOqnrhnFAVzY0jhmKKPiBktUrehINFqlmeG4b3PZm8yxB-jaGntEGDuBHeINtEXX5N9cTi3WLOA",
+      "source": "google",
+      "author": "Cisem U.",
+      "rating": 5,
+      "date": "2024-09-18",
+      "lang": "tr",
+      "tags": [],
+      "hash": null,
+      "text": {
+        "tr": "Daha önce gecırdıgım burun estetıgı amelıyatımda sorunlarım vardı doktorumuz Murat Ayata ya müracaat ettıgımde tekrar ameliyat olmam gerektıgını söyledi;amelıyat oncesınde,amelıyat esnasında ve amelıyat sonrasında yakından ılgılenerek amelıyatımı gerceklestırdı.suankı durumumdan çok memnunum hocama teşekkür ederım.✨"
+      }
+    },
+    {
+      "id": "g-AbFvOqmeHsG3pR1xbjG6QiK5R22xPOi7-MLZG95TPbj-uzqqjmwOPq3fImgITY5C4a_5DNSXxBeIkQ",
+      "source": "google",
+      "author": "Semra İ.",
+      "rating": 5,
+      "date": "2024-09-17",
+      "lang": "tr",
+      "tags": [],
+      "hash": null,
+      "text": {
+        "tr": "Çok ilgili ve güvenilir bir doktor biz çok memnunuz kendisinden"
+      }
+    },
+    {
+      "id": "g-AbFvOqnv1aYxH7f6ZyUM3E2w-9W61KM7EEDmzz2da7vnKkyRhiT-GBHP9F1jf9SUq82COBV4TJS3Zw",
+      "source": "google",
+      "author": "Dilek S.",
+      "rating": 5,
+      "date": "2024-09-17",
+      "lang": "tr",
+      "tags": [],
+      "hash": null,
+      "text": {
+        "tr": "Deviasyon ve burun estetiği oldum çok memnunum. Murat hoca işinde çok başarılı,emin ellerde olduğumu daha ilk muayenesinde anladım. Herşey için teşekkürler ❤️"
+      }
+    },
+    {
+      "id": "g-AbFvOqn4diY0ZQd0smVMewDQICSxV6IItrfCDX6-XRkpydqOsiegmPW3IcRhU4hk7FmSNyIQz9InmQ",
+      "source": "google",
+      "author": "Duygu G.",
+      "rating": 5,
+      "date": "2024-09-16",
+      "lang": "tr",
+      "tags": [],
+      "hash": null,
+      "text": {
+        "tr": "Biz kızımla çok memnun kaldık çocukla iletişimi çok güzel eğlenceli anlatımı ile kulaklarımızı hiç korkmadan temizlettik 😊☺teşekkürler. Murat bey"
       }
     },
     {
