@@ -3,7 +3,7 @@ import Image from 'next/image';
 import { getTranslations } from 'next-intl/server';
 import { buildMetadata } from '@/i18n/metadata';
 import { Link } from '@/i18n/navigation';
-import { posts, getTranslation } from '@/content/blog';
+import { postsFor, getTranslation } from '@/content/blog';
 import styles from './blog.module.css';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
@@ -28,7 +28,7 @@ export default async function BlogIndex({ params }: { params: Promise<{ locale: 
 
       <section className={styles.listSection}>
         <div className={`container ${styles.grid}`}>
-          {posts.map((post) => {
+          {postsFor(locale).map((post) => {
             const { t: tr, lang } = getTranslation(post, locale);
             return (
               <Link key={post.slug} href={`/blog/${post.slug}`} className={styles.card}>

@@ -6,7 +6,7 @@ import { Link } from '@/i18n/navigation';
 import { routing } from '@/i18n/routing';
 import { SITE_URL } from '@/i18n/metadata';
 import { CLINIC } from '@/lib/clinic';
-import { getPost, getTranslation, availableLocales, type Block } from '@/content/blog';
+import { getPost, getTranslation, availableLocales, isVisibleIn, type Block } from '@/content/blog';
 import ProcedureIcon from '../../../components/ProcedureIcon';
 import styles from '../blog.module.css';
 
@@ -18,7 +18,7 @@ const path = (locale: string, slug: string) =>
 export async function generateMetadata({ params }: Params): Promise<Metadata> {
   const { locale, slug } = await params;
   const post = getPost(slug);
-  if (!post) return {};
+  if (!post || !isVisibleIn(post, locale)) return {};
   const { t, lang, isFallback } = getTranslation(post, locale);
 
   // Yalnızca gerçekten çevrilmiş dilleri Google'a bildir; çevirisi olmayan dillerde İngilizce sürüm asıl kaynak
@@ -78,7 +78,7 @@ function renderBlock(block: Block, i: number) {
 export default async function BlogPost({ params }: Params) {
   const { locale, slug } = await params;
   const post = getPost(slug);
-  if (!post) notFound();
+  if (!post || !isVisibleIn(post, locale)) notFound();
 
   const t = await getTranslations({ locale, namespace: 'Blog' });
   const tHeader = await getTranslations({ locale, namespace: 'Header' });

@@ -24,9 +24,11 @@ import cyclamenSinusitis from './posts/cyclamen-sinusitis';
 import magnesiumBotox from './posts/magnesium-botox';
 import mesotherapyEvidence from './posts/mesotherapy-evidence';
 import salmonDna from './posts/salmon-dna';
+import rhinoplastyCostTurkey from './posts/rhinoplasty-cost-turkey';
 
 // Yeni yazıyı buraya ekleyin.
 const ALL: Post[] = [
+  rhinoplastyCostTurkey,
   salmonDna,
   mesotherapyEvidence,
   magnesiumBotox,
@@ -57,6 +59,16 @@ const ALL: Post[] = [
 /** Yeniden eskiye sıralı */
 export const posts: Post[] = [...ALL].sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0));
 
+/** Yazı bu dilde gösterilebilir mi? (excludeLocales) */
+export function isVisibleIn(post: Post, locale: string): boolean {
+  return !(post.excludeLocales as string[] | undefined)?.includes(locale);
+}
+
+/** Belirli bir dilde listelenecek yazılar */
+export function postsFor(locale: string): Post[] {
+  return posts.filter((p) => isVisibleIn(p, locale));
+}
+
 export function getPost(slug: string): Post | undefined {
   return posts.find((p) => p.slug === slug);
 }
@@ -69,7 +81,7 @@ export function getTranslation(post: Post, locale: string): { t: PostTranslation
 }
 
 export function availableLocales(post: Post): string[] {
-  return Object.keys(post.translations);
+  return Object.keys(post.translations).filter((l) => isVisibleIn(post, l));
 }
 
 export type { Post, PostTranslation, Block } from './types';

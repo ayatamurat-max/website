@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { Link } from "@/i18n/navigation";
 import { useLocale, useTranslations } from "next-intl";
-import { posts, getTranslation } from "@/content/blog";
+import { postsFor, getTranslation } from "@/content/blog";
 import type { Metadata } from "next";
 import { buildMetadata } from "@/i18n/metadata";
 import styles from "./page.module.css";
@@ -148,7 +148,7 @@ export default function Home() {
             <h2>{tBlog('latest')}</h2>
           </div>
           <div className={styles.servicesGrid}>
-            {posts.slice(0, 3).map((post) => {
+            {postsFor(locale).slice(0, 3).map((post) => {
               const { t: tr, lang } = getTranslation(post, locale);
               return (
                 <Link key={post.slug} href={`/blog/${post.slug}`} className={styles.serviceCard}>
