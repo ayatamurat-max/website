@@ -18,7 +18,7 @@ const t: PostTranslation = {
     { type: 'h2', text: '2. Sie erhalten einen persönlichen Plan und einen Preis' },
     {
       type: 'p',
-      text: 'Nach der Sprechstunde erhalten Sie einen Behandlungsplan und Ihren Paketpreis. Der Preis hängt von Ihrem persönlichen Plan ab, deshalb wird er nach der Sprechstunde mitgeteilt und nicht vorher. Bevor Sie Reisevorbereitungen treffen, sollten Sie genau wissen, was im Preis enthalten ist.',
+      text: 'Nach der Sprechstunde erhalten Sie einen schriftlichen Behandlungsplan und Ihren endgültigen Preis. Mein Honorar für eine standardmäßige primäre Rhinoplastik beträgt 2.300 € inklusive Voruntersuchungen; bei Revisionen oder zusätzlichen Eingriffen kann sich der Preis ändern, deshalb wird der endgültige Preis bestätigt, sobald Ihr persönlicher Plan feststeht. Bevor Sie Reisevorbereitungen treffen, sollten Sie genau wissen, was im Preis enthalten ist.',
     },
     { type: 'h2', text: '3. Planen Sie etwa 7 Tage in der Türkei ein' },
     {

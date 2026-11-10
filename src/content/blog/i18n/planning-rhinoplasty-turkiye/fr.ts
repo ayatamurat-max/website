@@ -18,7 +18,7 @@ const t: PostTranslation = {
     { type: 'h2', text: '2. Recevez un plan et un prix personnalisés' },
     {
       type: 'p',
-      text: 'Après la consultation, vous recevez un plan de traitement et le prix de votre forfait. Le prix dépend de votre plan personnel, c’est pourquoi il vous est communiqué après la consultation et non avant. Vous devez savoir précisément ce qui est inclus avant d’organiser votre voyage.',
+      text: 'Après la consultation, vous recevez un plan de traitement écrit et votre prix définitif. Mon tarif pour une rhinoplastie primaire standard est de 2 300 €, bilan préopératoire compris ; une révision ou des gestes supplémentaires peuvent modifier le prix, c’est pourquoi le prix définitif est confirmé une fois votre plan personnel établi. Vous devez savoir précisément ce qui est inclus avant d’organiser votre voyage.',
     },
     { type: 'h2', text: '3. Prévoyez environ 7 jours en Turquie' },
     {

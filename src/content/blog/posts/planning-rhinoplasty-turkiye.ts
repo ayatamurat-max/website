@@ -33,7 +33,7 @@ const post: Post = {
         { type: 'h2', text: '2. Receive a personal plan and price' },
         {
           type: 'p',
-          text: 'After the consultation, you receive a treatment plan and your package price. The price depends on your personal plan, which is why it is shared after the consultation rather than before. You should understand what is included before you make any travel arrangements.',
+          text: 'After the consultation, you receive a written treatment plan and your final price. My fee for standard primary rhinoplasty is €2,300, including pre-operative tests; revision surgery or additional procedures can change the price, so your final price is confirmed once your personal plan is clear. You should understand what is included before you make any travel arrangements.',
         },
         { type: 'h2', text: '3. Plan about 7 days in Türkiye' },
         {
