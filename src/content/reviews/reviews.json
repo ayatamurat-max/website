@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-17",
   "sources": {
     "google": {
       "rating": 5,
-      "count": 25
+      "count": 26
     },
     "doktortakvimi": {
       "rating": 5,
@@ -11,6 +11,19 @@
     }
   },
   "reviews": [
+    {
+      "id": "g-AbFvOqlBkvJzzIFNwErPDMVlydBypzocA1rPbvUc7p_bcgrxwn47h-bVU3K8T8E3pkpAagZqUiPy8g",
+      "source": "google",
+      "author": "Ensar K.",
+      "rating": 5,
+      "date": "2026-11-17",
+      "lang": "tr",
+      "tags": [],
+      "hash": null,
+      "text": {
+        "tr": "Ameliyatım öncesinde, ameliyat sırasında ve iyileşme sürecimde gösterdiği ilgi, alaka ve destek için hocama çok teşekkür ederim. Her aşamada yanımda olduğunu hissettirdi. Hem hekimliği hem de hastasına yaklaşımı gerçekten takdire değer. Gönül rahatlığıyla tavsiye ederim."
+      }
+    },
     {
       "id": "g-AbFvOqmQIbtxURGCTuLSmZ4lVFNUCpime7AULM5AYt5ccqsk7W-DamBMWWaJtvya-8YL2UaKp7EKrg",
       "source": "google",
