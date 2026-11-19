@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-19",
   "sources": {
     "google": {
       "rating": 5,
-      "count": 26
+      "count": 27
     },
     "doktortakvimi": {
       "rating": 5,
@@ -11,6 +11,19 @@
     }
   },
   "reviews": [
+    {
+      "id": "g-AbFvOqmCx8vpebwpUEc7TmnsATKp-cUr_xMJllX_nmQ9FSVMRuSkprqzEpXp9F3K-LYd-E-0ISGG",
+      "source": "google",
+      "author": "Dr.gizem K.",
+      "rating": 5,
+      "date": "2026-11-18",
+      "lang": "tr",
+      "tags": [],
+      "hash": null,
+      "text": {
+        "tr": "Göstermiş olduğunuz ilgi,profesyonel yaklaşımınızdan duyduğum memnuniyeti dile getirmek istedim. Sağlığıma kavuşma yolunda attığım adımlarda desteğinizi hissetmek benim için çok kıymetliydi.\nGösterdiğiniz özen ve güven verici tavrınız,bilginiz sayesinde bu süreci çok daha rahat ve komforlu geçirdim.Sonucu beklediğimden de harika oldu.\nDeğerli vaktinizi ayırıp bana gösterdiğiniz sabır için tekrar teşekkür ederim. Çalışmalarınızda başarılarınızın devamını dilerim.\nSaygılarımla."
+      }
+    },
     {
       "id": "g-AbFvOqlBkvJzzIFNwErPDMVlydBypzocA1rPbvUc7p_bcgrxwn47h-bVU3K8T8E3pkpAagZqUiPy8g",
       "source": "google",
